@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T17:09",
+ "gerado_em": "2026-07-04T17:32",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 46,
-   "r": 82,
-   "pl": 62.33,
+   "r": 83,
+   "pl": 60.35,
    "roi": 18.9,
-   "wr": 35.9,
+   "wr": 35.7,
    "st": "ap"
   },
   {
@@ -169,17 +169,6 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 54,
-   "r": 30,
-   "pl": 22.34,
-   "roi": 9.9,
-   "wr": 64.3,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -221,6 +210,17 @@
    "pl": 17.7,
    "roi": 6.7,
    "wr": 43.8,
+   "st": "val"
+  },
+  {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 54,
+   "r": 31,
+   "pl": 17.34,
+   "roi": 9.9,
+   "wr": 63.5,
    "st": "val"
   },
   {
@@ -556,6 +556,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 20:24:58.000000",
+   "tm": "20:24",
+   "match": "Almirante Brown vs Los Andes",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-04 20:24:54.000000",
+   "tm": "20:24",
+   "match": "Almirante Brown vs Los Andes",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
    "data": "2026-07-04 19:45:00.000000",
    "tm": "19:45",
    "match": "Criciúma vs Sport Recife",
@@ -774,43 +794,23 @@
    "odd": 1.5,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 14:34:52.000000",
-   "tm": "14:34",
-   "match": "Panevėžys vs Hegelmann Litauen",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 14:25:27.230000",
-   "tm": "14:25",
-   "match": "ÍA Akranes x Breidablik Kópavogur",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 19.5,
-   "status": "green",
-   "pl": 1.19
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 49,
+   "ent": 51,
    "g": 35,
-   "r": 14,
-   "pl": 22.93,
-   "wr": 71,
+   "r": 16,
+   "pl": 15.95,
+   "wr": 69,
    "label": "04/07"
   },
   "mes": {
-   "ent": 145,
+   "ent": 147,
    "g": 107,
-   "r": 38,
-   "pl": 114.12,
-   "wr": 74,
+   "r": 40,
+   "pl": 107.14,
+   "wr": 73,
    "label": "mês"
   }
  }
