@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T15:59",
+ "gerado_em": "2026-07-04T16:53",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 291,
+   "g": 292,
    "r": 83,
-   "pl": 17.38,
+   "pl": 18.29,
    "roi": 2.0,
-   "wr": 77.8,
+   "wr": 77.9,
    "st": "ap"
   },
   {
@@ -63,10 +63,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 114,
-   "r": 81,
-   "pl": 8.29,
+   "r": 82,
+   "pl": 6.29,
    "roi": -0.0,
-   "wr": 58.5,
+   "wr": 58.2,
    "st": "ap"
   },
   {
@@ -556,6 +556,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 19:45:00.000000",
+   "tm": "19:45",
+   "match": "Criciúma vs Sport Recife",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 18:15:18.853000",
+   "tm": "18:15",
+   "match": "Canada x Morocco",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.91
+  },
+  {
    "data": "2026-07-04 18:05:10.000000",
    "tm": "18:05",
    "match": "Canada vs Morocco",
@@ -774,42 +794,22 @@
    "odd": 19.5,
    "status": "green",
    "pl": 1.19
-  },
-  {
-   "data": "2026-07-04 14:09:39.000000",
-   "tm": "14:09",
-   "match": "Tianjin Jinmen Tiger vs Shenzhen Peng City",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-07-04 14:06:35.948000",
-   "tm": "14:06",
-   "match": "FF Jaro x Ilves",
-   "bot": "SENTINEL 0.2",
-   "mkt": "Lay Placar 0x2",
-   "odd": 13.0,
-   "status": "green",
-   "pl": 2.5
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
-   "g": 34,
-   "r": 13,
-   "pl": 24.02,
-   "wr": 72,
+   "ent": 49,
+   "g": 35,
+   "r": 14,
+   "pl": 22.93,
+   "wr": 71,
    "label": "04/07"
   },
   "mes": {
-   "ent": 143,
-   "g": 106,
-   "r": 37,
-   "pl": 115.21,
+   "ent": 145,
+   "g": 107,
+   "r": 38,
+   "pl": 114.12,
    "wr": 74,
    "label": "mês"
   }
