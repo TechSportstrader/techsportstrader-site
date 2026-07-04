@@ -273,40 +273,24 @@
     <h2 class="sec">Planos — compra única</h2>
     <p class="lead">Sem mensalidade. Você paga uma vez e leva a configuração + a gestão de banca. Garantia de 7 dias. A assinatura do BotBet é um custo separado, contratado direto com o BotBet. <b class="gold">Preços iniciais de lançamento.</b></p>
     <div class="plans">
-      <div class="plan">
-        <div class="tag"></div>
-        <h3>Unitário</h3>
+      <div class="plan feat">
+        <div class="tag">MAIS FLEXÍVEL</div>
+        <h3>Unitário — à sua escolha</h3>
         <div class="price">R$ 97</div>
         <div class="from">de R$ 127</div>
-        <ul><li>Disponível agora: <b>STRIKER</b> (Over 1.5 FT)</li><li>Gestão de banca</li><li>Guia campo a campo</li></ul>
-        <button class="btn btn-p" onclick="buy('unitario')">Comprar agora</button>
-      </div>
-      <div class="plan">
-        <div class="tag"></div>
-        <h3>Dupla</h3>
-        <div class="price">R$ 197</div>
-        <div class="from">de R$ 247</div>
-        <ul><li>2 bots: FORTRESS LAY + APEX SHIELD</li><li>Segura goleada casa e visitante</li><li>Gestão de banca</li></ul>
-        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
-      </div>
-      <div class="plan feat">
-        <div class="tag">MAIS ESCOLHIDO</div>
-        <h3>Esquadrão</h3>
-        <div class="price">R$ 397</div>
-        <div class="from">de R$ 497</div>
-        <ul><li>5 bots aprovados à sua escolha</li><li>Gestão de banca completa</li><li>Comunidade + suporte</li></ul>
-        <button class="btn btn-p" onclick="waitlist()">Entrar na comunidade</button>
+        <ul><li><b>1 e-book à sua escolha</b> entre os aprovados</li><li>Gestão de banca inclusa</li><li>Guia campo a campo + comunidade</li></ul>
+        <button class="btn btn-p" onclick="abrirEscolha()">Escolher meu e-book</button>
       </div>
       <div class="plan">
         <div class="tag">MELHOR CUSTO</div>
-        <h3>Arsenal</h3>
-        <div class="price">R$ 597</div>
-        <div class="from">de R$ 797</div>
-        <ul><li>Todos os bots aprovados do catálogo</li><li>Os bots aprovados de hoje — a lista cresce conforme novos passam de 100 entradas</li><li>Comunidade + prioridade nos drops</li></ul>
-        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
+        <h3>Arsenal — todos</h3>
+        <div class="price">R$ 397</div>
+        <div class="from">de R$ 485</div>
+        <ul><li><b>Todos os e-books aprovados</b> do catálogo</li><li>Economia frente à compra avulsa</li><li>Estratégias de BotBet e Bolsa — precisa de conta nas duas</li></ul>
+        <button class="btn btn-s" onclick="buy('combo')">Levar todos</button>
       </div>
     </div>
-    <p class="lead" style="margin-top:20px">📦 O Arsenal cobre os <b class="white">7 bots aprovados</b> deste lançamento. Pacotes maiores (8 a 10 bots), conforme novos bots forem aprovados, terão <b class="white">preço mais alto</b> — bot validado é ativo, não entra em promoção de pacote.</p>
+    <p class="lead" style="margin-top:20px">📦 O <b class="white">Arsenal</b> reúne todos os e-books aprovados de hoje com desconto frente ao avulso. Novos e-books entram no catálogo conforme as estratégias passam do critério — quem tem o Arsenal fica por dentro dos drops.</p>
     <div class="disc">
       ⚠️ <b class="white">+18. Conteúdo informativo, não é promessa de lucro.</b> Trading esportivo envolve risco real de perda da banca. Resultados passados, conferidos no relatório da plataforma, não garantem resultados futuros. Jogue com responsabilidade.
     </div>
@@ -354,12 +338,24 @@
   </div>
 </footer>
 
+<!-- Modal de escolha do e-book (plano Unitário) -->
+<div id="botpicker" onclick="if(event.target===this)fecharEscolha()" style="display:none;position:fixed;inset:0;background:rgba(4,8,18,.82);z-index:999;align-items:center;justify-content:center;padding:20px">
+  <div style="background:#0d1c33;border:1px solid #2a3e60;border-radius:18px;max-width:520px;width:100%;padding:24px;max-height:85vh;overflow:auto">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+      <h3 style="margin:0;color:#f4ecd6">Escolha seu e-book</h3>
+      <button onclick="fecharEscolha()" style="background:none;border:none;color:#93a1b5;font-size:26px;cursor:pointer;line-height:1">&times;</button>
+    </div>
+    <p style="color:#93a1b5;font-size:14px;margin:0 0 16px">R$ 97 · compra única · garantia de 7 dias. Você recebe o e-book na área de membros.</p>
+    <div id="pickerlist"></div>
+  </div>
+</div>
+
 <script>
 /* ===== Config de lançamento ===== */
 var TST_CONFIG = {
   preLaunch: true,                                   // pré-lançamento: botões -> lista de espera
   waitlistUrl: 'https://discord.gg/WtbGC6rFqJ', // convite da conta da marca (Tech Sports Trade)
-  checkout: { unitario:'https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b', dupla:'', esquadrao:'', arsenal:'' }, // cole os links do checkout quando aprovar e ponha preLaunch:false
+  checkout: { unitario:'https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b', combo:'', dupla:'', esquadrao:'', arsenal:'' }, // combo = Arsenal (todos). Cole o link quando criar o produto na Kirvano.
   checkoutBot: {                                      // link de checkout POR bot (cole conforme cadastrar na Kirvano)
     "STRIKER":"https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b",
     "FORTRESS LAY":"https://pay.kirvano.com/9632acbb-0e75-401f-a602-275d09addb94", "APEX SHIELD":"https://pay.kirvano.com/be67f059-ad14-43ac-962a-eaf1c4e6b5f3", "CITADEL":"", "OVERLORD":""
@@ -367,6 +363,27 @@ var TST_CONFIG = {
 };
 function waitlist(){ window.open(TST_CONFIG.waitlistUrl,'_blank'); }
 function buy(plan){ var u=TST_CONFIG.checkout&&TST_CONFIG.checkout[plan]; if(u){window.open(u,'_blank');} else {waitlist();} }
+var FLAGSHIP=[
+ {n:"STRIKER",s:"Back Over 1.5 FT",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
+ {n:"FORTRESS LAY",s:"Lay Goleada Casa",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
+ {n:"APEX SHIELD",s:"Lay Goleada Visitante",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
+ {n:"CITADEL",s:"Lay Placar 0-3",plat:"Bolsa",req:"Rodar é grátis na Bolsa de Aposta"},
+ {n:"OVERLORD",s:"Lay Over 0.5 FT",plat:"Bolsa",req:"Rodar é grátis na Bolsa de Aposta"}
+];
+function abrirEscolha(){
+  var m=TST_CONFIG.checkoutBot||{}, h='';
+  FLAGSHIP.forEach(function(b){
+    var link=m[b.n];
+    h+='<div style="display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid #2a3e60;border-radius:12px;padding:12px 14px;margin-bottom:10px">'
+      +'<div><div style="color:#f4ecd6;font-weight:600">'+b.n+'</div><div style="color:#93a1b5;font-size:13px">'+b.s+' · '+b.plat+'</div><div style="color:#7d8ba3;font-size:12px">'+b.req+'</div></div>'
+      +(link?'<button class="btn btn-p" style="width:auto;padding:9px 16px;margin:0" onclick="window.open(\''+link+'\',\'_blank\')">Comprar · R$ 97</button>'
+            :'<span style="color:#93a1b5;font-size:13px;border:1px solid #2a3e60;border-radius:20px;padding:8px 14px">Em breve</span>')
+      +'</div>';
+  });
+  document.getElementById('pickerlist').innerHTML=h;
+  document.getElementById('botpicker').style.display='flex';
+}
+function fecharEscolha(){ document.getElementById('botpicker').style.display='none'; }
 function go(t){
   document.querySelectorAll('section').forEach(s=>s.classList.toggle('show',s.id===t));
   document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.t===t));
@@ -412,6 +429,7 @@ function renderBots(filter="todos"){
       <div class="bot">
         <div class="top"><h3>${b.n}</h3>${seal}${aviso}</div>
         <div class="strat">${b.s}</div>
+        ${b.plat?`<div style="font-size:12px;color:#7d8ba3;margin:-2px 0 4px">${b.plat==='BotBet'?'⚙️ Requer BotBet Premium (à parte)':'✅ Rodar é grátis na Bolsa de Aposta'}</div>`:''}
         <div class="stats">
           <div class="st"><b class="${b.pl>=0?'green':'red'}">${money(b.pl)}</b><span>P/L</span></div>
           <div class="st"><b>${b.wr}%</b><span>WR</span></div>
