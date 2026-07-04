@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T17:37",
+ "gerado_em": "2026-07-04T17:42",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -191,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 55,
+   "r": 31,
+   "pl": 19.67,
+   "roi": 9.9,
+   "wr": 64.0,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -210,17 +221,6 @@
    "pl": 17.7,
    "roi": 6.7,
    "wr": 43.8,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 54,
-   "r": 31,
-   "pl": 17.34,
-   "roi": 9.9,
-   "wr": 63.5,
    "st": "val"
   },
   {
@@ -521,6 +521,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 4,
+   "pl": 2.1,
+   "roi": -0.3,
+   "wr": 85.7,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -529,17 +540,6 @@
    "pl": 1.05,
    "roi": -0.2,
    "wr": 58.3,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 4,
-   "pl": 0.43,
-   "roi": -0.3,
-   "wr": 85.2,
    "st": "val"
   },
   {
@@ -555,6 +555,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-04 20:39:45.000000",
+   "tm": "20:39",
+   "match": "Almagro vs Atlético Rafaela",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-04 20:35:06.000000",
+   "tm": "20:35",
+   "match": "Deportivo Armenio vs Brown de Adrogué",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 2.33
+  },
   {
    "data": "2026-07-04 20:35:03.000000",
    "tm": "20:35",
@@ -774,42 +794,22 @@
    "odd": 17.5,
    "status": "green",
    "pl": 1.33
-  },
-  {
-   "data": "2026-07-04 14:54:59.000000",
-   "tm": "14:54",
-   "match": "SJK vs TPS",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 14:49:48.000000",
-   "tm": "14:49",
-   "match": "SJK vs TPS",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 52,
-   "g": 36,
+   "ent": 54,
+   "g": 38,
    "r": 16,
-   "pl": 19.65,
-   "wr": 69,
+   "pl": 23.65,
+   "wr": 70,
    "label": "04/07"
   },
   "mes": {
-   "ent": 148,
-   "g": 108,
+   "ent": 150,
+   "g": 110,
    "r": 40,
-   "pl": 110.84,
+   "pl": 114.84,
    "wr": 73,
    "label": "mês"
   }
