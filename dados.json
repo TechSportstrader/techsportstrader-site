@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T14:59",
+ "gerado_em": "2026-07-04T15:08",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -62,11 +62,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 113,
+   "g": 114,
    "r": 81,
-   "pl": 6.77,
+   "pl": 8.29,
    "roi": -0.0,
-   "wr": 58.2,
+   "wr": 58.5,
    "st": "ap"
   },
   {
@@ -545,6 +545,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 18:05:03.000000",
+   "tm": "18:05",
+   "match": "Canada vs Morocco",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
    "data": "2026-07-04 17:24:52.000000",
    "tm": "17:24",
    "match": "ÍBV vs Valur",
@@ -773,32 +783,22 @@
    "odd": 1.3,
    "status": "green",
    "pl": 5.88
-  },
-  {
-   "data": "2026-07-04 12:59:55.000000",
-   "tm": "12:59",
-   "match": "Shenzhen Juniors FC vs Nantong Zhiyun",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 39,
-   "g": 27,
+   "ent": 40,
+   "g": 28,
    "r": 12,
-   "pl": 17.46,
-   "wr": 69,
+   "pl": 18.98,
+   "wr": 70,
    "label": "04/07"
   },
   "mes": {
-   "ent": 131,
-   "g": 98,
+   "ent": 132,
+   "g": 99,
    "r": 33,
-   "pl": 113.17,
+   "pl": 114.69,
    "wr": 75,
    "label": "mês"
   }
