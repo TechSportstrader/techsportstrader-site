@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T17:59",
+ "gerado_em": "2026-07-04T18:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
    "g": 310,
-   "r": 17,
-   "pl": 146.88,
+   "r": 18,
+   "pl": 116.1,
    "roi": 1.0,
-   "wr": 94.8,
+   "wr": 94.5,
    "st": "ap"
   },
   {
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 47,
-   "r": 83,
-   "pl": 64.05,
+   "r": 86,
+   "pl": 58.96,
    "roi": 18.9,
-   "wr": 36.2,
+   "wr": 35.3,
    "st": "ap"
   },
   {
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 292,
-   "r": 83,
-   "pl": 18.29,
+   "r": 84,
+   "pl": 16.29,
    "roi": 2.0,
-   "wr": 77.9,
+   "wr": 77.7,
    "st": "ap"
   },
   {
@@ -73,9 +73,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 93,
+   "g": 94,
    "r": 3,
-   "pl": 147.26,
+   "pl": 151.61,
    "roi": 3.0,
    "wr": 96.9,
    "st": "val"
@@ -191,17 +191,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 15,
-   "r": 18,
-   "pl": 20.2,
-   "roi": 6.7,
-   "wr": 45.5,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x0",
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -221,6 +210,17 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 15,
+   "r": 20,
+   "pl": 16.2,
+   "roi": 6.7,
+   "wr": 42.9,
    "st": "val"
   },
   {
@@ -334,6 +334,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 0,
+   "pl": 6.5,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -396,17 +407,6 @@
    "r": 0,
    "pl": 5.17,
    "roi": 9.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 0,
-   "pl": 5.12,
-   "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -556,6 +556,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 21:54:54.000000",
+   "tm": "21:54",
+   "match": "Indy Eleven vs Charleston Battery",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.84
+  },
+  {
+   "data": "2026-07-04 21:54:52.000000",
+   "tm": "21:54",
+   "match": "Betim vs CSA",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.27
+  },
+  {
+   "data": "2026-07-04 21:49:29.000000",
+   "tm": "21:49",
+   "match": "Betim vs CSA",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 21:34:52.000000",
+   "tm": "21:34",
+   "match": "Maranhão vs Inter de Limeira",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-07-04 21:29:28.000000",
+   "tm": "21:29",
+   "match": "Maranhão vs Inter de Limeira",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-04 20:39:45.000000",
    "tm": "20:39",
    "match": "Almagro vs Atlético Rafaela",
@@ -616,6 +666,16 @@
    "pl": -1.98
   },
   {
+   "data": "2026-07-04 20:16:19.126000",
+   "tm": "20:16",
+   "match": "Criciúma x Sport Recife",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-04 19:45:00.000000",
    "tm": "19:45",
    "match": "Criciúma vs Sport Recife",
@@ -624,6 +684,36 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 19:28:05.495000",
+   "tm": "19:28",
+   "match": "Londrina x Clube De Regatas Brasil",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 20.0,
+   "status": "red",
+   "pl": -30.78
+  },
+  {
+   "data": "2026-07-04 19:22:06.764000",
+   "tm": "19:22",
+   "match": "Libertad x Leones del Norte",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.38
+  },
+  {
+   "data": "2026-07-04 19:11:17.831000",
+   "tm": "19:11",
+   "match": "Criciúma x Sport Recife",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 12.5,
+   "status": "green",
+   "pl": 4.35
   },
   {
    "data": "2026-07-04 18:15:18.853000",
@@ -704,113 +794,23 @@
    "odd": 1.4,
    "status": "red",
    "pl": -1.89
-  },
-  {
-   "data": "2026-07-04 16:22:36.014000",
-   "tm": "16:22",
-   "match": "ÍBV Vestmannaeyjar x Valur Reykjavík",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 1.38
-  },
-  {
-   "data": "2026-07-04 16:09:28.000000",
-   "tm": "16:09",
-   "match": "KuPS Ak. vs Tampere United",
-   "bot": "BLINDADO 2-2",
-   "mkt": "Lay Placar 2x2",
-   "odd": 4.4,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-07-04 15:59:57.000000",
-   "tm": "15:59",
-   "match": "SJK vs TPS",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 14.0,
-   "status": "green",
-   "pl": 1.15
-  },
-  {
-   "data": "2026-07-04 15:34:52.000000",
-   "tm": "15:34",
-   "match": "SJK vs TPS",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.5,
-   "status": "red",
-   "pl": -2.76
-  },
-  {
-   "data": "2026-07-04 15:28:26.723000",
-   "tm": "15:28",
-   "match": "ÍA Akranes x Breidablik Kópavogur",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.15
-  },
-  {
-   "data": "2026-07-04 15:16:26.914000",
-   "tm": "15:16",
-   "match": "ÍA Akranes x Breidablik Kópavogur",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.45
-  },
-  {
-   "data": "2026-07-04 15:00:05.000000",
-   "tm": "15:00",
-   "match": "Grindavík vs Vestri",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-04 15:00:05.000000",
-   "tm": "15:00",
-   "match": "Grindavík vs Vestri",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-04 15:00:00.000000",
-   "tm": "15:00",
-   "match": "Panevėžys vs Hegelmann Litauen",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.6,
-   "status": "green",
-   "pl": 1.79
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 55,
-   "g": 39,
-   "r": 16,
-   "pl": 26.15,
-   "wr": 71,
+   "ent": 64,
+   "g": 41,
+   "r": 23,
+   "pl": -9.99,
+   "wr": 64,
    "label": "04/07"
   },
   "mes": {
-   "ent": 151,
-   "g": 111,
-   "r": 40,
-   "pl": 117.34,
-   "wr": 74,
+   "ent": 160,
+   "g": 113,
+   "r": 47,
+   "pl": 81.2,
+   "wr": 71,
    "label": "mês"
   }
  }
