@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T15:08",
+ "gerado_em": "2026-07-04T15:57",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -400,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 4,
+   "r": 0,
+   "pl": 5.12,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -433,6 +444,17 @@
    "st": "val"
   },
   {
+   "n": "FÚRIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 39,
+   "r": 1,
+   "pl": 4.32,
+   "roi": 0.2,
+   "wr": 97.5,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -451,28 +473,6 @@
    "r": 0,
    "pl": 4.15,
    "roi": 0.4,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "FÚRIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 38,
-   "r": 1,
-   "pl": 3.82,
-   "roi": 0.2,
-   "wr": 97.4,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 3,
-   "r": 0,
-   "pl": 3.74,
-   "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -521,6 +521,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 21,
+   "r": 15,
+   "pl": 1.05,
+   "roi": -0.2,
+   "wr": 58.3,
+   "st": "val"
+  },
+  {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -545,10 +556,30 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 18:05:10.000000",
+   "tm": "18:05",
+   "match": "Canada vs Morocco",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.5
+  },
+  {
    "data": "2026-07-04 18:05:03.000000",
    "tm": "18:05",
    "match": "Canada vs Morocco",
    "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
+   "data": "2026-07-04 18:00:10.000000",
+   "tm": "18:00",
+   "match": "Canada vs Morocco",
+   "bot": "VIGIA HT-A",
    "mkt": "Under 0.5 HT",
    "odd": 1.8,
    "status": "green",
@@ -593,6 +624,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -1.89
+  },
+  {
+   "data": "2026-07-04 16:22:36.014000",
+   "tm": "16:22",
+   "match": "ÍBV Vestmannaeyjar x Valur Reykjavík",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.38
   },
   {
    "data": "2026-07-04 16:09:28.000000",
@@ -648,6 +689,16 @@
    "data": "2026-07-04 15:00:05.000000",
    "tm": "15:00",
    "match": "Grindavík vs Vestri",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-04 15:00:05.000000",
+   "tm": "15:00",
+   "match": "Grindavík vs Vestri",
    "bot": "VIGIA HT-C",
    "mkt": "Under 0.5 HT",
    "odd": 1.8,
@@ -681,6 +732,16 @@
    "bot": "GUARDIÃO HT",
    "mkt": "Under 0.5 HT",
    "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 14:49:48.000000",
+   "tm": "14:49",
+   "match": "SJK vs TPS",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
    "status": "red",
    "pl": -2.0
   },
@@ -733,73 +794,23 @@
    "odd": 13.0,
    "status": "green",
    "pl": 2.5
-  },
-  {
-   "data": "2026-07-04 13:55:01.000000",
-   "tm": "13:55",
-   "match": "Panevėžys vs Hegelmann Litauen",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-07-04 13:55:00.000000",
-   "tm": "13:55",
-   "match": "Degerfors vs Malmö FF",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.44
-  },
-  {
-   "data": "2026-07-04 13:24:52.000000",
-   "tm": "13:24",
-   "match": "Lahti vs Gnistan",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.5
-  },
-  {
-   "data": "2026-07-04 13:05:16.000000",
-   "tm": "13:05",
-   "match": "Shenzhen Juniors FC vs Nantong Zhiyun",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 2.5
-  },
-  {
-   "data": "2026-07-04 13:05:09.000000",
-   "tm": "13:05",
-   "match": "Shenzhen Juniors FC vs Nantong Zhiyun",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 5.88
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 40,
-   "g": 28,
-   "r": 12,
-   "pl": 18.98,
-   "wr": 70,
+   "ent": 47,
+   "g": 34,
+   "r": 13,
+   "pl": 24.02,
+   "wr": 72,
    "label": "04/07"
   },
   "mes": {
-   "ent": 132,
-   "g": 99,
-   "r": 33,
-   "pl": 114.69,
-   "wr": 75,
+   "ent": 143,
+   "g": 106,
+   "r": 37,
+   "pl": 115.21,
+   "wr": 74,
    "label": "mês"
   }
  }
