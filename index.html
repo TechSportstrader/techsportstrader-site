@@ -278,8 +278,8 @@
         <h3>Unitário</h3>
         <div class="price">R$ 97</div>
         <div class="from">de R$ 127</div>
-        <ul><li>1 bot aprovado à sua escolha</li><li>Gestão de banca</li><li>Guia campo a campo</li></ul>
-        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
+        <ul><li>Disponível agora: <b>STRIKER</b> (Over 1.5 FT)</li><li>Gestão de banca</li><li>Guia campo a campo</li></ul>
+        <button class="btn btn-p" onclick="buy('unitario')">Comprar agora</button>
       </div>
       <div class="plan">
         <div class="tag"></div>
@@ -359,9 +359,10 @@
 var TST_CONFIG = {
   preLaunch: true,                                   // pré-lançamento: botões -> lista de espera
   waitlistUrl: 'https://discord.gg/d6PFax56p', // TROQUE pelo seu IG ou WhatsApp (ex.: https://wa.me/5554XXXXXXXXX)
-  checkout: { unitario:'', dupla:'', esquadrao:'', arsenal:'' } // cole os links do checkout quando aprovar e ponha preLaunch:false
+  checkout: { unitario:'https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b', dupla:'', esquadrao:'', arsenal:'' } // cole os links do checkout quando aprovar e ponha preLaunch:false
 };
 function waitlist(){ window.open(TST_CONFIG.waitlistUrl,'_blank'); }
+function buy(plan){ var u=TST_CONFIG.checkout&&TST_CONFIG.checkout[plan]; if(u){window.open(u,'_blank');} else {waitlist();} }
 function go(t){
   document.querySelectorAll('section').forEach(s=>s.classList.toggle('show',s.id===t));
   document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.t===t));
