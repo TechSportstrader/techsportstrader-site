@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T17:32",
+ "gerado_em": "2026-07-04T17:37",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 46,
+   "g": 47,
    "r": 83,
-   "pl": 60.35,
+   "pl": 64.05,
    "roi": 18.9,
-   "wr": 35.7,
+   "wr": 36.2,
    "st": "ap"
   },
   {
@@ -556,6 +556,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-04 20:35:03.000000",
+   "tm": "20:35",
+   "match": "Deportivo Armenio vs Brown de Adrogué",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.7
+  },
+  {
    "data": "2026-07-04 20:24:58.000000",
    "tm": "20:24",
    "match": "Almirante Brown vs Los Andes",
@@ -784,32 +794,22 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 14:49:39.000000",
-   "tm": "14:49",
-   "match": "Panevėžys vs Hegelmann Litauen",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 51,
-   "g": 35,
+   "ent": 52,
+   "g": 36,
    "r": 16,
-   "pl": 15.95,
+   "pl": 19.65,
    "wr": 69,
    "label": "04/07"
   },
   "mes": {
-   "ent": 147,
-   "g": 107,
+   "ent": 148,
+   "g": 108,
    "r": 40,
-   "pl": 107.14,
+   "pl": 110.84,
    "wr": 73,
    "label": "mês"
   }
