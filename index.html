@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Sports Trader — Bots | Catálogo validado em dinheiro real</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#081327; --bg2:#0c1730; --card:#101f39; --card2:#14243f;
+    --bd:#26374f; --green:#e4b648; --green-d:#b78a2e; --gold:#ffc94d;
+    --white:#f3f6f8; --mut:#8a93a3; --red:#ff5c6c;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Poppins',system-ui,sans-serif;background:var(--bg);color:var(--white);line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+  .green{color:var(--green)} .gold{color:var(--gold)} .mut{color:var(--mut)} .red{color:var(--red)} .white{color:var(--white)}
+
+  header{position:sticky;top:0;z-index:50;background:rgba(8,19,39,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--bd)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+  .brand{font-weight:800;letter-spacing:2px;font-size:18px}
+  .brand small{display:block;font-size:11px;letter-spacing:6px;color:var(--green);font-weight:600}
+  .tabs{display:flex;gap:6px}
+  .tab{padding:9px 14px;border-radius:10px;font-size:14px;font-weight:500;color:var(--mut);cursor:pointer;border:1px solid transparent;transition:.15s;white-space:nowrap}
+  .tab:hover{color:var(--white)}
+  .tab.active{color:var(--green);background:rgba(228,182,72,.08);border-color:rgba(228,182,72,.35)}
+  .cta-top{background:var(--green);color:#0a1526;padding:10px 18px;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer}
+
+  .agepill{display:inline-flex;gap:6px;align-items:center;font-size:11px;color:var(--mut);border:1px solid var(--bd);border-radius:20px;padding:4px 10px}
+
+  section{display:none;padding:38px 0 60px}
+  section.show{display:block}
+
+  .hero{padding-top:48px}
+  .hero h1{font-size:54px;line-height:1.05;font-weight:800;letter-spacing:-1px}
+  .hero p.sub{color:var(--mut);font-size:18px;margin-top:16px;max-width:660px}
+  .badges{display:flex;gap:14px;flex-wrap:wrap;margin-top:28px}
+  .kpi{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:18px 22px;min-width:150px}
+  .kpi b{display:block;font-size:30px;font-weight:800;color:var(--green)}
+  .kpi span{font-size:12px;color:var(--mut);letter-spacing:1px}
+  .hero-cta{margin-top:34px;display:flex;gap:14px;flex-wrap:wrap}
+  .btn{padding:14px 26px;border-radius:12px;font-weight:700;cursor:pointer;border:none;font-size:15px;font-family:inherit}
+  .btn-p{background:var(--green);color:#0a1526}
+  .btn-s{background:transparent;color:var(--white);border:1px solid var(--bd)}
+
+  h2.sec{font-size:30px;font-weight:700;letter-spacing:-.5px}
+  .lead{color:var(--mut);margin-top:6px;margin-bottom:26px;max-width:720px}
+
+  .livehead{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-bottom:22px}
+  .livedot{display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:13px;color:var(--green)}
+  .livedot i{width:9px;height:9px;border-radius:50%;background:var(--green);animation:pulse 1.6s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(228,182,72,.55)}70%{box-shadow:0 0 0 12px rgba(228,182,72,0)}100%{box-shadow:0 0 0 0 rgba(228,182,72,0)}}
+  .seg{display:flex;gap:4px;background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:4px}
+  .seg button{background:none;border:none;color:var(--mut);font-family:inherit;font-size:13px;font-weight:500;padding:7px 16px;border-radius:7px;cursor:pointer}
+  .seg button.on{background:rgba(228,182,72,.12);color:var(--green)}
+  .summary{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:24px}
+  .scell{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:16px 18px}
+  .scell b{font-size:26px;font-weight:800;display:block}
+  .scell span{font-size:12px;color:var(--mut)}
+  .feed{display:flex;flex-direction:column;gap:10px}
+  .entry{display:grid;grid-template-columns:78px 1fr auto;gap:14px;align-items:center;background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:13px 16px;animation:fade .4s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+  .entry .tm{font-variant-numeric:tabular-nums;color:var(--mut);font-size:13px;font-weight:500}
+  .entry .match{font-weight:600;font-size:15px}
+  .entry .meta{font-size:12.5px;color:var(--mut);margin-top:2px}
+  .chip{font-size:11px;font-weight:700;padding:4px 9px;border-radius:20px;white-space:nowrap}
+  .c-open{background:rgba(255,201,77,.12);color:var(--gold)}
+  .c-green{background:rgba(228,182,72,.14);color:var(--green)}
+  .c-red{background:rgba(255,92,108,.14);color:var(--red)}
+  .pl{font-weight:700;font-variant-numeric:tabular-nums;text-align:right;min-width:74px}
+
+  .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px}
+  .fbtn{background:var(--card);border:1px solid var(--bd);color:var(--mut);font-family:inherit;font-size:13px;font-weight:500;padding:8px 16px;border-radius:20px;cursor:pointer}
+  .fbtn.on{border-color:var(--green);color:var(--green)}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .bot{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:18px;position:relative;transition:.15s}
+  .bot:hover{border-color:#33445f;transform:translateY(-2px)}
+  .bot .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:4px}
+  .bot h3{font-size:16px;font-weight:700}
+  .bot .strat{font-size:12.5px;color:var(--mut);margin-bottom:14px}
+  .seal{font-size:10px;font-weight:800;letter-spacing:.5px;padding:5px 9px;border-radius:20px;white-space:nowrap;display:inline-flex;align-items:center;gap:5px}
+  .seal.ap{background:rgba(228,182,72,.15);color:var(--green);border:1px solid rgba(228,182,72,.4);box-shadow:0 0 14px rgba(228,182,72,.25)}
+  .seal.val{background:rgba(255,201,77,.1);color:var(--gold);border:1px solid rgba(255,201,77,.3)}
+  .seal.rep{background:rgba(255,92,108,.08);color:var(--red);border:1px solid rgba(255,92,108,.25)}
+  .seal i{width:7px;height:7px;border-radius:50%;background:currentColor}
+  .seal.ap i{animation:pulse 1.6s infinite}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:8px}
+  .st{background:var(--bg2);border-radius:9px;padding:9px 6px;text-align:center}
+  .st b{display:block;font-size:15px;font-weight:700}
+  .st span{font-size:10px;color:var(--mut)}
+  .saleinfo{margin-top:13px;font-size:12px;color:var(--mut);border-top:1px dashed var(--bd);padding-top:11px}
+  .saleinfo.ok{color:var(--green)}
+
+  .steps{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  .step{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:22px}
+  .step .n{width:38px;height:38px;border-radius:10px;background:rgba(228,182,72,.12);color:var(--green);display:flex;align-items:center;justify-content:center;font-weight:800;margin-bottom:12px}
+  .step h4{font-size:17px;margin-bottom:6px}
+  .step p{font-size:14px;color:var(--mut)}
+
+  .plans{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .plan{background:var(--card);border:1px solid var(--bd);border-radius:18px;padding:24px 20px;display:flex;flex-direction:column}
+  .plan.feat{border-color:var(--green);box-shadow:0 0 30px rgba(228,182,72,.12)}
+  .plan .tag{font-size:11px;font-weight:700;color:var(--green);letter-spacing:1px;margin-bottom:6px;min-height:14px}
+  .plan h3{font-size:20px;font-weight:700}
+  .plan .price{font-size:34px;font-weight:800;margin:10px 0 2px}
+  .plan .from{font-size:13px;color:var(--mut);text-decoration:line-through}
+  .plan ul{list-style:none;margin:16px 0;flex:1}
+  .plan li{font-size:13.5px;color:var(--mut);padding:6px 0 6px 22px;position:relative}
+  .plan li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700}
+  .plan .btn{width:100%;text-align:center}
+
+  .disc{background:var(--bg2);border:1px solid var(--bd);border-radius:14px;padding:18px 20px;font-size:12.5px;color:var(--mut);margin-top:14px}
+  footer{border-top:1px solid var(--bd);padding:30px 0;color:var(--mut);font-size:13px}
+  .demo-note{font-size:11px;color:var(--gold);background:rgba(255,201,77,.07);border:1px solid rgba(255,201,77,.2);border-radius:8px;padding:6px 12px;display:inline-block}
+  .mobtabs{display:none;gap:6px;overflow-x:auto;padding:10px 0}
+
+  @media(max-width:900px){
+    .tabs{display:none}
+    .hero h1{font-size:38px}
+    .grid,.plans,.summary,.steps{grid-template-columns:1fr 1fr}
+    .mobtabs{display:flex}
+  }
+  @media(max-width:600px){
+    .grid,.plans,.summary,.steps{grid-template-columns:1fr}
+    .entry{grid-template-columns:60px 1fr}.entry .pl{grid-column:2;text-align:left}
+  }
+
+  .faqlist{display:flex;flex-direction:column;gap:10px;max-width:840px}
+  .faqlist details{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:0 18px}
+  .faqlist summary{cursor:pointer;padding:16px 0;font-weight:600;font-size:15px;list-style:none;display:flex;justify-content:space-between;gap:12px}
+  .faqlist summary::-webkit-details-marker{display:none}
+  .faqlist summary::after{content:"+";color:var(--green);font-weight:800;font-size:18px}
+  .faqlist details[open] summary::after{content:"\2013"}
+  .faqlist details p{color:var(--mut);font-size:14px;padding:0 0 16px;margin:0}
+  .cmp{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:600px){.cmp{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div id="prebar" style="background:linear-gradient(90deg,#12233f,#0a1526);border-bottom:1px solid #e4b648;color:#e4b648;text-align:center;padding:10px 14px;font-weight:600;font-size:14px">🚀 Catálogo em pré-lançamento — <span style="color:#fff">entre na nossa comunidade no Discord</span> e acompanhe os resultados ao vivo. <a href="#" onclick="waitlist();return false;" style="color:#e4b648;text-decoration:underline">Quero entrar &rarr;</a></div>
+<header>
+  <div class="wrap nav">
+    <div class="brand" style="display:flex;align-items:center;gap:12px"><img src="logo.png" alt="Tech Sports Trader" style="height:46px;width:46px;border-radius:9px;flex:none"><span>TECH SPORTS TRADER<small>BOTS</small></span></div>
+    <nav class="tabs">
+      <div class="tab active" data-t="apresentacao">Apresentação</div>
+      <div class="tab" data-t="aovivo">Ao Vivo</div>
+      <div class="tab" data-t="catalogo">Catálogo</div>
+      <div class="tab" data-t="como">Como funciona</div>
+      <div class="tab" data-t="faq">FAQ</div>
+      <div class="tab" data-t="planos">Planos</div>
+      <div class="tab" data-t="instagram">Instagram</div>
+    </nav>
+    <div class="cta-top" onclick="go('planos')">Ver planos</div>
+  </div>
+  <div class="wrap mobtabs">
+    <div class="tab active" data-t="apresentacao">Apresentação</div>
+    <div class="tab" data-t="aovivo">Ao Vivo</div>
+    <div class="tab" data-t="catalogo">Catálogo</div>
+    <div class="tab" data-t="como">Como funciona</div>
+    <div class="tab" data-t="faq">FAQ</div>
+      <div class="tab" data-t="planos">Planos</div>
+    <div class="tab" data-t="instagram">Instagram</div>
+  </div>
+</header>
+
+<!-- ===================== APRESENTAÇÃO ===================== -->
+<section id="apresentacao" class="show">
+  <div class="wrap">
+    <div class="hero" style="padding-top:30px">
+      <span class="agepill">🔞 +18 · Jogo responsável</span>
+      <h1 style="margin-top:18px">Bots de trading esportivo<br><span class="green">validados em dinheiro real.</span></h1>
+      <p class="sub">A gente descobre, testa e valida estratégias nos mais diversos mercados do futebol com dinheiro real. Só o que prova resultado vira produto. Você opera na sua conta, com a gestão de banca calculada para a sua banca — sem acesso ao nosso motor, sem suas credenciais com a gente.</p>
+      <div class="badges">
+        <div class="kpi"><b>Real</b><span>DINHEIRO REAL, NÃO SIMULAÇÃO</span></div>
+        <div class="kpi"><b>Gestão</b><span>DE BANCA INCLUSA</span></div>
+        <div class="kpi"><b>Sua conta</b><span>VOCÊ NO CONTROLE</span></div>
+        <div class="kpi"><b>+18</b><span>JOGO RESPONSÁVEL</span></div>
+      </div>
+      <div class="hero-cta">
+        <button class="btn btn-p" onclick="waitlist()">Entrar na comunidade</button>
+        <button class="btn btn-s" onclick="go('catalogo')">Ver o catálogo</button>
+      </div>
+    </div>
+
+    <div style="height:54px"></div>
+
+    <h2 class="sec">O que é o Tech Sports Trader</h2>
+    <p class="lead">Não é palpite, não é grupo de tips. São robôs configurados que operam as mais diversas estratégias e mercados — Lay, Back, over/under, placar exato, gols e outros — no mercado ao vivo, com regra de entrada e de saída (cashout) definidas e testadas em meses de operação real.</p>
+
+    <div class="steps" style="margin-bottom:20px">
+      <div class="step"><div class="n">1</div><h4>Descobrimos</h4><p>Garimpamos estratégias candidatas cruzando estatística minuto a minuto com odds ao vivo.</p></div>
+      <div class="step"><div class="n">2</div><h4>Validamos</h4><p>Cada bot roda com dinheiro real por meses. O P/L vem do relatório da própria plataforma — não de simulação.</p></div>
+      <div class="step"><div class="n">3</div><h4>Aprovamos</h4><p>Só entra no catálogo quem passa na régua: mais de 100 entradas reais, ROI e P/L positivos. Win rate alto é bônus, não exigência — bot de WR baixo pode ser muito lucrativo.</p></div>
+      <div class="step"><div class="n">4</div><h4>Entregamos</h4><p>Você recebe a configuração campo a campo + a gestão de banca, e opera na sua própria conta.</p></div>
+    </div>
+
+    <div style="height:44px"></div>
+    <h2 class="sec">Esclarecimento — "não dá pra fazer de graça?"</h2>
+    <p class="lead">Dá pra montar bot sozinho. Mas o que você leva aqui não é um "arquivo" — é o atalho que pula meses de teste e a banca que a variância come no aprendizado.</p>
+    <div class="cmp" style="margin-bottom:16px">
+      <div class="step"><div class="n">🛠️</div><h4>Fazer sozinho</h4><p>Configurar cada bot do zero, entender mercado/odds/gatilhos, meses validando com dinheiro real, banca em risco no aprendizado e gestão feita na unha. Até ter um bot confiável: <b class="white">meses</b>.</p></div>
+      <div class="step" style="border-color:rgba(228,182,72,.4)"><div class="n">✅</div><h4>Pegar pronto aqui</h4><p>Você recebe a configuração já validada + a gestão de banca e coloca pra rodar na sua conta em minutos. A fase de aprendizado (e os reds dela) já passou — por nossa conta. Você paga pelo <b class="white">track record</b>, não pelo arquivo.</p></div>
+    </div>
+    <div class="disc" style="border-color:rgba(228,182,72,.35)">💚 <b class="white">Na Bolsa de Aposta, rodar bot é GRÁTIS.</b> A plataforma não cobra pra operar bots — você só replica a estratégia que entregamos e opera sem custo de software. Já no <b class="white">BotBet</b>, é preciso a assinatura Premium (contratada direto com o BotBet, à parte). Nos dois casos, o que você compra de nós é a <b class="white">estratégia validada + a gestão</b>, não o software.</div>
+
+    <div class="disc">
+      <b class="white">Transparência é o nosso diferencial.</b> Na aba <b class="green">Catálogo</b> você vê nossos bots — os aprovados e os que ainda estão em validação. O selo "APROVADO" acende sozinho quando o bot bate o critério. Nada de print montado: o que você vê é o que o relatório da plataforma mostra.
+    </div>
+    <div class="disc">
+      ⚠️ <b class="white">+18. Conteúdo informativo, não é promessa de lucro.</b> Trading esportivo envolve risco real de perda da banca. Resultados passados não garantem resultados futuros. A gestão de banca reduz o impacto da variância — não a elimina. Jogue com responsabilidade.
+    </div>
+  </div>
+</section>
+
+<!-- ===================== AO VIVO ===================== -->
+<section id="aovivo">
+  <div class="wrap">
+    <div class="livehead">
+      <div>
+        <h2 class="sec">Últimas operações concluídas</h2>
+        <div class="livedot" style="margin-top:6px"><i></i> Operações reais · atualiza a cada hora</div>
+      </div>
+      <div class="seg" id="period">
+        <button class="on" data-p="dia">Hoje</button>
+        <button data-p="mes">Mês</button>
+      </div>
+    </div>
+    <div class="summary" id="summary"></div>
+    <div class="feed" id="feed"></div>
+    <p class="demo-note" style="margin-top:18px">Operações reais concluídas dos bots, conferidas no relatório da plataforma. Atualiza sozinho a cada hora.</p>
+  </div>
+</section>
+
+<!-- ===================== CATALOGO ===================== -->
+<section id="catalogo">
+  <div class="wrap">
+    <h2 class="sec">Catálogo completo — transparência total</h2>
+    <p class="lead">Nossos bots validados ficam aqui. O selo <b class="green">APROVADO</b> acende automaticamente quando o bot cumpre o critério: <b>mais de 100 entradas reais + ROI positivo + P/L positivo</b> (fonte: relatório da plataforma). Win rate NÃO é critério: acertar muito não é lucrar — um bot pode vencer 99% e devolver tudo num único red, ou vencer 60% e ser muito lucrativo. O que aprova é volume real + lucro. Os demais seguem <b class="gold">em validação</b> até provarem o mesmo. Bots com prejuízo ficam <b class="white">fora do catálogo</b>, em monitoramento — se virarem positivos, voltam para validação.</p>
+    <div class="filters" id="filters">
+      <button class="fbtn on" data-f="todos">Todos</button>
+      <button class="fbtn" data-f="ap">✅ Aprovados</button>
+      <button class="fbtn" data-f="val">🟡 Em validação</button>
+      
+    </div>
+    <div class="grid" id="botgrid"></div>
+  </div>
+</section>
+
+<!-- ===================== COMO FUNCIONA ===================== -->
+<section id="como">
+  <div class="wrap">
+    <h2 class="sec">Como funciona</h2>
+    <p class="lead">Você opera na sua própria conta. A gente entrega a configuração validada + a gestão de banca. Sem acesso ao nosso motor, sem suas credenciais com a gente.</p>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><h4>Escolhe o plano</h4><p>Compra única. Você leva 1, 2, 5 ou os 7 bots aprovados + a gestão de banca.</p></div>
+      <div class="step"><div class="n">2</div><h4>Recebe o material</h4><p>PDF personalizado com a config campo a campo da plataforma (BotBet ou Bolsa) + acesso à comunidade.</p></div>
+      <div class="step"><div class="n">3</div><h4>Configura na sua conta</h4><p>É copiar e colar cada campo. A responsabilidade/stake vem como % da sua banca.</p></div>
+      <div class="step"><div class="n">4</div><h4>Opera com disciplina</h4><p>O bot roda 24h na nuvem. Você revê a stake toda semana conforme a banca. Disciplina > ansiedade.</p></div>
+    </div>
+    <div class="disc">
+      <b class="white">Por que rodamos com stake mínima no semestre de teste?</b><br>
+      Porque validar vem antes de escalar. O resultado em R$ é enxuto de propósito — provamos o método (win rate, ROI, consistência) sem arriscar banca. O tamanho da operação é proporcional à banca de cada pessoa e cresce com ela, seguindo a gestão. O que prova um bot é a <b class="white">consistência</b>, não um print de lucro alto.
+    </div>
+  </div>
+</section>
+
+<!-- ===================== PLANOS ===================== -->
+<section id="planos">
+  <div class="wrap">
+    <h2 class="sec">Planos — compra única</h2>
+    <p class="lead">Sem mensalidade. Você paga uma vez e leva a configuração + a gestão de banca. Garantia de 7 dias. A assinatura do BotBet é um custo separado, contratado direto com o BotBet. <b class="gold">Preços iniciais de lançamento.</b></p>
+    <div class="plans">
+      <div class="plan">
+        <div class="tag"></div>
+        <h3>Unitário</h3>
+        <div class="price">R$ 97</div>
+        <div class="from">de R$ 127</div>
+        <ul><li>1 bot aprovado à sua escolha</li><li>Gestão de banca</li><li>Guia campo a campo</li></ul>
+        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
+      </div>
+      <div class="plan">
+        <div class="tag"></div>
+        <h3>Dupla</h3>
+        <div class="price">R$ 197</div>
+        <div class="from">de R$ 247</div>
+        <ul><li>2 bots: FORTRESS LAY + APEX SHIELD</li><li>Segura goleada casa e visitante</li><li>Gestão de banca</li></ul>
+        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
+      </div>
+      <div class="plan feat">
+        <div class="tag">MAIS ESCOLHIDO</div>
+        <h3>Esquadrão</h3>
+        <div class="price">R$ 397</div>
+        <div class="from">de R$ 497</div>
+        <ul><li>5 bots aprovados à sua escolha</li><li>Gestão de banca completa</li><li>Comunidade + suporte</li></ul>
+        <button class="btn btn-p" onclick="waitlist()">Entrar na comunidade</button>
+      </div>
+      <div class="plan">
+        <div class="tag">MELHOR CUSTO</div>
+        <h3>Arsenal</h3>
+        <div class="price">R$ 597</div>
+        <div class="from">de R$ 797</div>
+        <ul><li>Todos os bots aprovados do catálogo</li><li>Os bots aprovados de hoje — a lista cresce conforme novos passam de 100 entradas</li><li>Comunidade + prioridade nos drops</li></ul>
+        <button class="btn btn-s" onclick="waitlist()">Entrar na comunidade</button>
+      </div>
+    </div>
+    <p class="lead" style="margin-top:20px">📦 O Arsenal cobre os <b class="white">7 bots aprovados</b> deste lançamento. Pacotes maiores (8 a 10 bots), conforme novos bots forem aprovados, terão <b class="white">preço mais alto</b> — bot validado é ativo, não entra em promoção de pacote.</p>
+    <div class="disc">
+      ⚠️ <b class="white">+18. Conteúdo informativo, não é promessa de lucro.</b> Trading esportivo envolve risco real de perda da banca. Resultados passados, conferidos no relatório da plataforma, não garantem resultados futuros. Jogue com responsabilidade.
+    </div>
+  </div>
+</section>
+
+<!-- ===================== FAQ ===================== -->
+<section id="faq">
+  <div class="wrap">
+    <h2 class="sec">Perguntas frequentes</h2>
+    <p class="lead">O essencial, sem enrolação.</p>
+    <div class="faqlist">
+      <details><summary>Isso é promessa de lucro?</summary><p>Não. É material educacional: configuração validada + gestão de banca. Trading esportivo tem risco e variância — dá pra ter perdas. Resultados passados não garantem resultados futuros.</p></details>
+      <details><summary>Além do plano, pago mais alguma coisa?</summary><p>Depende da plataforma. Na <b>Bolsa de Aposta rodar bot é grátis</b> — você só replica a estratégia. No <b>BotBet</b> é preciso a assinatura Premium, contratada direto com o BotBet e não inclusa aqui.</p></details>
+      <details><summary>Preciso entender de apostas?</summary><p>Para configurar, não: é copiar e colar campo a campo pelo guia. Mas seguir a gestão de banca é essencial — e a gente explica passo a passo.</p></details>
+      <details><summary>Como recebo o material?</summary><p>Depois da compra aprovada, você recebe acesso à área de membros com o PDF do(s) bot(s) do seu plano + a comunidade.</p></details>
+      <details><summary>O que exatamente vem?</summary><p>A configuração de cada bot do plano (mercado, odds, gatilhos, entrada e saída), o guia de aplicação na sua plataforma e a gestão de banca calculada pela sua banca.</p></details>
+      <details><summary>Por que alguns bots têm win rate baixo?</summary><p>Porque acertar muito não é lucrar. Tem bot que acerta 40% e é lucrativo (odds altas) e bot que acerta 99%. O que aprova um bot aqui é <b>volume de entradas + ROI + P/L</b> — não o win rate.</p></details>
+      <details><summary>E se um bot parar de performar?</summary><p>A gente monitora a saúde dos bots (degradação). Bot que degrada sai do catálogo; bot em validação que vira consistente entra. Você é avisado das mudanças.</p></details>
+      <details><summary>Tem garantia?</summary><p>Sim, 7 dias em todos os planos.</p></details>
+      <details><summary>Posso compartilhar ou revender?</summary><p>Não. O material é pessoal e intransferível, com marca d'água rastreável e multa por compartilhamento.</p></details>
+      <details><summary>Quais formas de pagamento?</summary><p>Pix e cartão, pelo checkout (até 12x no cartão).</p></details>
+    </div>
+    <div class="disc">⚠️ <b class="white">+18. Conteúdo informativo, não é promessa de lucro.</b> Trading esportivo envolve risco real de perda da banca. Resultados passados não garantem resultados futuros. Jogue com responsabilidade.</div>
+  </div>
+</section>
+
+<!-- ===================== INSTAGRAM ===================== -->
+<section id="instagram">
+  <div class="wrap">
+    <h2 class="sec">No Instagram</h2>
+    <p class="lead">Resultados reais, bastidores e conteúdo educacional todo dia. Segue lá pra acompanhar e ser avisado da abertura do catálogo.</p>
+    <div style="background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:30px 24px;text-align:center;max-width:520px;margin:6px auto 0">
+      <div style="font-size:30px;font-weight:800;letter-spacing:.5px">@tech_sportstrade</div>
+      <div class="mut" style="margin:6px 0 20px">Tech Sports Trader — Bots · +18 · Jogo responsável</div>
+      <a class="btn btn-p" href="https://instagram.com/tech_sportstrade" target="_blank" rel="noopener" style="display:inline-block;text-decoration:none">Seguir no Instagram</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Tech Sports Trader — Bots · material pessoal e intransferível · +18 · Jogo responsável · <a href="https://instagram.com/tech_sportstrade" target="_blank" rel="noopener" style="color:var(--green)">@tech_sportstrade</a> · <a href="termos.html" style="color:var(--green)">Termos</a><br>
+    <span class="mut">© 2026 · Resultados passados não garantem resultados futuros · Trading esportivo tem risco real de perda.</span>
+  </div>
+</footer>
+
+<script>
+/* ===== Config de lançamento ===== */
+var TST_CONFIG = {
+  preLaunch: true,                                   // pré-lançamento: botões -> lista de espera
+  waitlistUrl: 'https://discord.gg/d6PFax56p', // TROQUE pelo seu IG ou WhatsApp (ex.: https://wa.me/5554XXXXXXXXX)
+  checkout: { unitario:'', dupla:'', esquadrao:'', arsenal:'' } // cole os links do checkout quando aprovar e ponha preLaunch:false
+};
+function waitlist(){ window.open(TST_CONFIG.waitlistUrl,'_blank'); }
+function go(t){
+  document.querySelectorAll('section').forEach(s=>s.classList.toggle('show',s.id===t));
+  document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.t===t));
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+document.querySelectorAll('.tab').forEach(x=>x.addEventListener('click',()=>go(x.dataset.t)));
+
+/* dados reais (relatório BotBet, 28/06/2026) */
+const BOTS=[
+ {n:"STRIKER",s:"Back Over 1.5 FT · BotBet",g:286,r:82,pl:16.29,roi:2.2,wr:77.7},
+ {n:"APEX SHIELD",s:"Lay Goleada Visitante · BotBet",g:441,r:5,pl:278.91,roi:0.8,wr:98.9},
+ {n:"FORTRESS LAY",s:"Lay Goleada Casa · BotBet",g:310,r:17,pl:146.88,roi:1.5,wr:94.8},
+ {n:"OVERLORD",s:"Lay Over 0.5 FT · Bolsa",g:45,r:73,pl:74.23,roi:31.5,wr:38.1},
+ {n:"CITADEL",s:"Lay Placar 0-3 · Bolsa",g:234,r:0,pl:375.33,roi:1.3,wr:100.0}
+];
+const MIN_ENTRADAS=100;
+function statusOf(b){
+  const ent=b.g+b.r;
+  if(b.pl<0) return "rep";
+  if(ent>MIN_ENTRADAS && b.roi>0 && b.pl>0) return "ap";
+  return "val";
+}
+const money=v=>(v<0?"-":"+")+"R$ "+Math.abs(v).toFixed(2).replace('.',',');
+
+function renderBots(filter="todos"){
+  const grid=document.getElementById('botgrid');
+  const list=BOTS.map(b=>({...b,st:statusOf(b),ent:b.g+b.r})).filter(b=>b.st!=="rep")
+    .sort((a,b)=> (a.st===b.st? b.pl-a.pl : ({ap:0,val:1,rep:2}[a.st]-{ap:0,val:1,rep:2}[b.st])));
+  grid.innerHTML="";
+  list.filter(b=>filter==="todos"||b.st===filter).forEach(b=>{
+    const aviso = b.aviso ? '<span class="seal" style="background:#3a2a12;color:#ffc94d;border:1px solid #ffc94d"><i style="background:#ffc94d"></i>'+String(b.aviso).toUpperCase()+'</span>' : '';
+    const seal = b.st==="ap"?'<span class="seal ap"><i></i>APROVADO</span>'
+               : b.st==="val"?'<span class="seal val"><i></i>EM VALIDAÇÃO</span>'
+               : '<span class="seal rep"><i></i>REPROVADO</span>';
+    const sale = b.aviso
+        ? `<div class="saleinfo">🔧 Em reparo — pausado temporariamente para ajustes. Os números são do histórico de validação.</div>`
+        : b.st==="ap"
+        ? `<div class="saleinfo ok">✓ À venda — entrou após ${b.ent} entradas, ROI +${b.roi}% e P/L positivo.</div>`
+        : b.st==="val"
+        ? `<div class="saleinfo">Faltam ${Math.max(0,MIN_ENTRADAS-b.ent)} entradas e/ou ROI+ e P/L+ para aprovar. Não está à venda.</div>`
+        : `<div class="saleinfo">P/L negativo no período — fora do catálogo.</div>`;
+    grid.insertAdjacentHTML('beforeend',`
+      <div class="bot">
+        <div class="top"><h3>${b.n}</h3>${seal}${aviso}</div>
+        <div class="strat">${b.s}</div>
+        <div class="stats">
+          <div class="st"><b class="${b.pl>=0?'green':'red'}">${money(b.pl)}</b><span>P/L</span></div>
+          <div class="st"><b>${b.wr}%</b><span>WR</span></div>
+          <div class="st"><b>${b.ent}</b><span>ENTRADAS</span></div>
+          <div class="st"><b class="${b.roi>=0?'':'red'}">${b.roi>0?'+':''}${b.roi}%</b><span>ROI</span></div>
+        </div>
+        ${sale}
+      </div>`);
+  });
+}
+renderBots();
+/* monitoramento: tenta ler dados.json (fonte viva); se não achar, usa o array embutido */
+(function(){fetch('dados.json?t='+Date.now()).then(function(r){return r.ok?r.json():Promise.reject();}).then(function(d){if(d&&Array.isArray(d.bots)&&d.bots.length){BOTS.length=0;d.bots.forEach(function(b){BOTS.push(b);});var on=document.querySelector('#filters .fbtn.on');renderBots(on?on.dataset.f:'todos');}}).catch(function(){});})();
+document.querySelectorAll('#filters .fbtn').forEach(btn=>btn.addEventListener('click',()=>{
+  document.querySelectorAll('#filters .fbtn').forEach(x=>x.classList.remove('on'));
+  btn.classList.add('on'); renderBots(btn.dataset.f);
+}));
+
+/* últimas operações concluídas (reais) — atualiza a cada hora via dados.json */
+var OPS = [];
+var RESUMO = {"dia":{"ent":0,"g":0,"r":0,"pl":0,"label":"—"},"mes":{"ent":0,"wr":0,"pl":0}};
+function apCount(){return BOTS.filter(function(b){return statusOf(b)==='ap';}).length;}
+function opHTML(e){
+  var chip = e.status==='green'?'<span class="chip c-green">GREEN</span>':'<span class="chip c-red">RED</span>';
+  var pl='<span class="'+(e.pl>=0?'green':'red')+'">'+money(e.pl)+'</span>';
+  var odd=e.odd?(' · @'+e.odd):'';
+  var sub=(e.bot||'')+' · '+(e.mkt||'')+odd+' '+chip;
+  return '<div class="entry"><div class="tm">'+(e.tm||'')+'</div><div><div class="match">'+(e.match||'')+'</div><div class="meta">'+sub+'</div></div><div class="pl">'+pl+'</div></div>';
+}
+function renderFeed(){ document.getElementById('feed').innerHTML=OPS.slice(0,20).map(opHTML).join(''); }
+function cells(arr){return arr.map(function(x){return '<div class="scell"><b class="'+(x[2]||'')+'">'+x[1]+'</b><span>'+x[0]+'</span></div>';}).join('');}
+var curPeriod='dia';
+function renderSummary(){
+  var s=document.getElementById('summary');
+  if(curPeriod==='dia'){var d=RESUMO.dia||{};s.innerHTML=cells([['Entradas ('+(d.label||'dia')+')',d.ent||0],['Greens',d.g||0,'green'],['Reds',d.r||0,'red'],['P/L do dia',money(d.pl||0),(d.pl||0)>=0?'green':'red']]);}
+  else{var m=RESUMO.mes||{};s.innerHTML=cells([['Entradas no período',m.ent||0],['Win rate médio',(m.wr||0)+'%','green'],['Bots aprovados',apCount(),'green'],['P/L acumulado',money(m.pl||0),(m.pl||0)>=0?'green':'red']]);}
+}
+document.querySelectorAll('#period button').forEach(function(b){b.addEventListener('click',function(){
+  document.querySelectorAll('#period button').forEach(function(x){x.classList.remove('on');});
+  b.classList.add('on'); curPeriod=b.dataset.p; renderSummary();
+});});
+renderFeed(); renderSummary();
+fetch('dados.json?t='+Date.now()).then(function(r){return r.ok?r.json():Promise.reject();}).then(function(d){
+  if(d.operacoes&&d.operacoes.length){OPS=d.operacoes;renderFeed();}
+  if(d.resumo){RESUMO=d.resumo;renderSummary();}
+}).catch(function(){});
+</script>
+</body>
+</html>
