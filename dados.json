@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T17:42",
+ "gerado_em": "2026-07-04T17:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -191,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 15,
+   "r": 18,
+   "pl": 20.2,
+   "roi": 6.7,
+   "wr": 45.5,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x0",
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -210,17 +221,6 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 14,
-   "r": 18,
-   "pl": 17.7,
-   "roi": 6.7,
-   "wr": 43.8,
    "st": "val"
   },
   {
@@ -586,6 +586,16 @@
    "pl": 3.7
   },
   {
+   "data": "2026-07-04 20:29:56.000000",
+   "tm": "20:29",
+   "match": "Deportivo Armenio vs Brown de Adrogué",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 2.5
+  },
+  {
    "data": "2026-07-04 20:24:58.000000",
    "tm": "20:24",
    "match": "Almirante Brown vs Los Andes",
@@ -784,33 +794,23 @@
    "odd": 6.6,
    "status": "green",
    "pl": 1.79
-  },
-  {
-   "data": "2026-07-04 14:59:54.000000",
-   "tm": "14:59",
-   "match": "Degerfors vs Malmö FF",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 17.5,
-   "status": "green",
-   "pl": 1.33
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 54,
-   "g": 38,
+   "ent": 55,
+   "g": 39,
    "r": 16,
-   "pl": 23.65,
-   "wr": 70,
+   "pl": 26.15,
+   "wr": 71,
    "label": "04/07"
   },
   "mes": {
-   "ent": 150,
-   "g": 110,
+   "ent": 151,
+   "g": 111,
    "r": 40,
-   "pl": 114.84,
-   "wr": 73,
+   "pl": 117.34,
+   "wr": 74,
    "label": "mês"
   }
  }
