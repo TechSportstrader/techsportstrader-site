@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-04T19:27",
+ "gerado_em": "2026-07-04T20:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 47,
-   "r": 86,
-   "pl": 58.96,
+   "r": 88,
+   "pl": 54.96,
    "roi": 18.9,
-   "wr": 35.3,
+   "wr": 34.8,
    "st": "ap"
   },
   {
@@ -224,17 +224,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 15,
-   "r": 21,
-   "pl": 14.36,
-   "roi": 6.7,
-   "wr": 41.7,
-   "st": "val"
-  },
-  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -309,6 +298,17 @@
    "pl": 10.43,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 15,
+   "r": 23,
+   "pl": 10.38,
+   "roi": 6.7,
+   "wr": 39.5,
    "st": "val"
   },
   {
@@ -444,6 +444,17 @@
    "st": "val"
   },
   {
+   "n": "FÚRIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 1,
+   "pl": 4.57,
+   "roi": 0.2,
+   "wr": 97.6,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -452,17 +463,6 @@
    "pl": 4.5,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "FÚRIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 1,
-   "pl": 4.32,
-   "roi": 0.2,
-   "wr": 97.5,
    "st": "val"
   },
   {
@@ -566,6 +566,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-04 20:54:55",
+   "tm": "20:54",
+   "match": "Santa Cruz vs Ituano",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 20:49:29",
+   "tm": "20:49",
+   "match": "Velo Clube vs São Luiz",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-07-04 20:24:56",
+   "tm": "20:24",
+   "match": "Santa Cruz vs Ituano",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.25
+  },
+  {
+   "data": "2026-07-04 19:44:53",
+   "tm": "19:44",
+   "match": "Quilmes Atlético Club vs Atlanta",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-04 19:39:33",
+   "tm": "19:39",
+   "match": "Quilmes Atlético Club vs Atlanta",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-04 19:04:59",
    "tm": "19:04",
@@ -755,73 +805,23 @@
    "odd": 12.5,
    "status": "green",
    "pl": 4.35
-  },
-  {
-   "data": "2026-07-04 15:15:18",
-   "tm": "15:15",
-   "match": "Canada x Morocco",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.91
-  },
-  {
-   "data": "2026-07-04 15:05:10",
-   "tm": "15:05",
-   "match": "Canada vs Morocco",
-   "bot": "FÚRIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.5
-  },
-  {
-   "data": "2026-07-04 15:05:03",
-   "tm": "15:05",
-   "match": "Canada vs Morocco",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-07-04 15:05:03",
-   "tm": "15:05",
-   "match": "Canada vs Morocco",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-07-04 15:00:10",
-   "tm": "15:00",
-   "match": "Canada vs Morocco",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.52
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 74,
-   "g": 49,
-   "r": 25,
-   "pl": 0.45,
-   "wr": 66,
+   "ent": 79,
+   "g": 50,
+   "r": 29,
+   "pl": -7.28,
+   "wr": 63,
    "label": "04/07"
   },
   "mes": {
-   "ent": 177,
-   "g": 122,
-   "r": 55,
-   "pl": 79.77,
-   "wr": 69,
+   "ent": 182,
+   "g": 123,
+   "r": 59,
+   "pl": 72.04,
+   "wr": 68,
    "label": "mês"
   }
  }
