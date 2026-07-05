@@ -459,12 +459,12 @@ function opHTML(e){
   var sub=(e.bot||'')+' · '+(e.mkt||'')+odd+' '+chip;
   return '<div class="entry"><div class="tm">'+(e.tm||'')+'</div><div><div class="match">'+(e.match||'')+'</div><div class="meta">'+sub+'</div></div><div class="pl">'+pl+'</div></div>';
 }
-function renderFeed(){ document.getElementById('feed').innerHTML=OPS.slice(0,20).map(opHTML).join(''); }
+function renderFeed(){ var el=document.getElementById('feed'); if(!OPS.length){el.innerHTML='<div class="demo-note" style="text-align:center;padding:24px">Sem operações recentes no momento. Assim que os jogos começarem, elas aparecem aqui sozinhas.</div>';return;} el.innerHTML=OPS.slice(0,20).map(opHTML).join(''); }
 function cells(arr){return arr.map(function(x){return '<div class="scell"><b class="'+(x[2]||'')+'">'+x[1]+'</b><span>'+x[0]+'</span></div>';}).join('');}
 var curPeriod='dia';
 function renderSummary(){
   var s=document.getElementById('summary');
-  if(curPeriod==='dia'){var d=RESUMO.dia||{};s.innerHTML=cells([['Entradas ('+(d.label||'dia')+')',d.ent||0],['Greens',d.g||0,'green'],['Reds',d.r||0,'red'],['P/L do dia',money(d.pl||0),(d.pl||0)>=0?'green':'red']]);}
+  if(curPeriod==='dia'){var d=RESUMO.dia||{}; if(!d.ent){s.innerHTML='<div class="scell" style="grid-column:1/-1;text-align:center"><b class="gold">🕐 Aguardando as primeiras operações de hoje</b><span>a maioria das entradas acontece à tarde e à noite</span></div>';} else {s.innerHTML=cells([['Entradas ('+(d.label||'dia')+')',d.ent||0],['Greens',d.g||0,'green'],['Reds',d.r||0,'red'],['P/L do dia',money(d.pl||0),(d.pl||0)>=0?'green':'red']]);} }
   else{var m=RESUMO.mes||{};s.innerHTML=cells([['Entradas no período',m.ent||0],['Win rate médio',(m.wr||0)+'%','green'],['Bots aprovados',apCount(),'green'],['P/L acumulado',money(m.pl||0),(m.pl||0)>=0?'green':'red']]);}
 }
 document.querySelectorAll('#period button').forEach(function(b){b.addEventListener('click',function(){
