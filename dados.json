@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T08:59",
+ "gerado_em": "2026-07-05T09:34",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 49,
-   "r": 90,
-   "pl": 60.38,
+   "r": 91,
+   "pl": 58.44,
    "roi": 18.9,
-   "wr": 35.3,
+   "wr": 35.0,
    "st": "ap"
   },
   {
@@ -62,11 +62,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 117,
-   "r": 82,
-   "pl": 12.41,
+   "g": 118,
+   "r": 83,
+   "pl": 12.33,
    "roi": -0.0,
-   "wr": 58.8,
+   "wr": 58.7,
    "st": "ap"
   },
   {
@@ -301,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 15,
-   "r": 23,
-   "pl": 10.38,
-   "roi": 6.7,
-   "wr": 39.5,
-   "st": "val"
-  },
-  {
    "n": "SENTINEL 0.2",
    "s": "Lay Placar 0x2 · BotBet",
    "plat": "BotBet",
@@ -342,6 +331,17 @@
    "pl": 9.77,
    "roi": 3.0,
    "wr": 97.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 15,
+   "r": 24,
+   "pl": 8.38,
+   "roi": 6.7,
+   "wr": 38.5,
    "st": "val"
   },
   {
@@ -488,6 +488,17 @@
    "st": "val"
   },
   {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 74,
+   "r": 12,
+   "pl": 3.72,
+   "roi": 0.3,
+   "wr": 86.0,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -496,17 +507,6 @@
    "pl": 3.47,
    "roi": -0.0,
    "wr": 59.3,
-   "st": "val"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 73,
-   "r": 12,
-   "pl": 3.4,
-   "roi": 0.3,
-   "wr": 85.9,
    "st": "val"
   },
   {
@@ -567,10 +567,60 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-05 09:25:01",
+   "tm": "09:25",
+   "match": "Qingdao Hainiu vs Chengdu Rongcheng",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.32
+  },
+  {
+   "data": "2026-07-05 09:15:03",
+   "tm": "09:15",
+   "match": "Guangxi Hengchen vs Dalian Kuncheng City",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 09:09:37",
+   "tm": "09:09",
+   "match": "Gimcheon Sangmu vs Jeju United",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 09:04:59",
+   "tm": "09:04",
+   "match": "Gimcheon Sangmu vs Jeju United",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
    "data": "2026-07-05 08:55:01",
    "tm": "08:55",
    "match": "Qingdao Hainiu vs Chengdu Rongcheng",
    "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.92
+  },
+  {
+   "data": "2026-07-05 08:55:01",
+   "tm": "08:55",
+   "match": "Qingdao Hainiu vs Chengdu Rongcheng",
+   "bot": "GUARDIÃO HT",
    "mkt": "Under 0.5 HT",
    "odd": 2.0,
    "status": "green",
@@ -755,72 +805,22 @@
    "odd": 2.0,
    "status": "green",
    "pl": 1.92
-  },
-  {
-   "data": "2026-07-04 19:04:59",
-   "tm": "19:04",
-   "match": "Paraguay vs France",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.92
-  },
-  {
-   "data": "2026-07-04 18:59:44",
-   "tm": "18:59",
-   "match": "Indy Eleven vs Charleston Battery",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.84
-  },
-  {
-   "data": "2026-07-04 18:54:54",
-   "tm": "18:54",
-   "match": "Indy Eleven vs Charleston Battery",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.84
-  },
-  {
-   "data": "2026-07-04 18:54:52",
-   "tm": "18:54",
-   "match": "Betim vs CSA",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.27
-  },
-  {
-   "data": "2026-07-04 18:49:29",
-   "tm": "18:49",
-   "match": "Betim vs CSA",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 7,
-   "r": 0,
-   "pl": 18.05,
-   "wr": 100,
+   "ent": 12,
+   "g": 9,
+   "r": 3,
+   "pl": 14.35,
+   "wr": 75,
    "label": "05/07"
   },
   "mes": {
-   "ent": 195,
-   "g": 133,
-   "r": 62,
-   "pl": 76.41,
+   "ent": 200,
+   "g": 135,
+   "r": 65,
+   "pl": 72.71,
    "wr": 68,
    "label": "mês"
   }
