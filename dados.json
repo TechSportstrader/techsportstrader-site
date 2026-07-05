@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T02:59",
+ "gerado_em": "2026-07-05T07:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 48,
+   "g": 49,
    "r": 90,
-   "pl": 57.05,
+   "pl": 60.38,
    "roi": 18.9,
-   "wr": 34.8,
+   "wr": 35.3,
    "st": "ap"
   },
   {
@@ -73,11 +73,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 106,
+   "g": 107,
    "r": 82,
-   "pl": 0.21,
+   "pl": 2.99,
    "roi": -1.4,
-   "wr": 56.4,
+   "wr": 56.6,
    "st": "ap"
   },
   {
@@ -169,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 56,
+   "r": 31,
+   "pl": 24.07,
+   "roi": 9.9,
+   "wr": 64.4,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -199,17 +210,6 @@
    "pl": 20.51,
    "roi": 11.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 55,
-   "r": 31,
-   "pl": 19.67,
-   "roi": 9.9,
-   "wr": 64.0,
    "st": "val"
   },
   {
@@ -567,6 +567,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-05 07:54:58",
+   "tm": "07:54",
+   "match": "RTC vs Ugyen Academy",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 2.78
+  },
+  {
+   "data": "2026-07-05 07:04:57",
+   "tm": "07:04",
+   "match": "Xiamen Feilu vs Shenzhen 2028",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.33
+  },
+  {
+   "data": "2026-07-05 07:04:57",
+   "tm": "07:04",
+   "match": "Xiamen Feilu vs Shenzhen 2028",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 4.4
+  },
+  {
    "data": "2026-07-04 22:35:00",
    "tm": "22:35",
    "match": "Guarani vs Floresta",
@@ -775,53 +805,23 @@
    "odd": 1.5,
    "status": "green",
    "pl": 2.33
-  },
-  {
-   "data": "2026-07-04 17:35:03",
-   "tm": "17:35",
-   "match": "Deportivo Armenio vs Brown de Adrogué",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 3.7
-  },
-  {
-   "data": "2026-07-04 17:29:56",
-   "tm": "17:29",
-   "match": "Deportivo Armenio vs Brown de Adrogué",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 2.5
-  },
-  {
-   "data": "2026-07-04 17:24:58",
-   "tm": "17:24",
-   "match": "Almirante Brown vs Los Andes",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -5.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 3,
+   "g": 3,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 10.51,
+   "wr": 100,
    "label": "05/07"
   },
   "mes": {
-   "ent": 188,
-   "g": 126,
+   "ent": 191,
+   "g": 129,
    "r": 62,
-   "pl": 58.36,
-   "wr": 67,
+   "pl": 68.87,
+   "wr": 68,
    "label": "mês"
   }
  }
