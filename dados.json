@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T10:59",
+ "gerado_em": "2026-07-05T11:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 444,
+   "g": 445,
    "r": 5,
-   "pl": 282.47,
+   "pl": 284.1,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 118,
-   "r": 83,
-   "pl": 12.33,
+   "r": 84,
+   "pl": 10.33,
    "roi": -0.0,
-   "wr": 58.7,
+   "wr": 58.4,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 109,
-   "r": 82,
-   "pl": 6.33,
+   "r": 83,
+   "pl": 4.33,
    "roi": -1.4,
-   "wr": 57.1,
+   "wr": 56.8,
    "st": "ap"
   },
   {
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 89,
+   "r": 7,
+   "pl": 15.78,
+   "roi": 0.0,
+   "wr": 92.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -235,36 +246,25 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 10,
+   "r": 0,
+   "pl": 13.64,
+   "roi": 1.1,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 20,
-   "r": 15,
-   "pl": 14.24,
+   "r": 16,
+   "pl": 12.24,
    "roi": 1.4,
-   "wr": 57.1,
-   "st": "val"
-  },
-  {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 88,
-   "r": 7,
-   "pl": 14.0,
-   "roi": 0.0,
-   "wr": 92.6,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
-   "plat": "Bolsa",
-   "g": 9,
-   "r": 0,
-   "pl": 12.39,
-   "roi": 1.1,
-   "wr": 100.0,
+   "wr": 55.6,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 6,
+   "r": 0,
+   "pl": 8.51,
+   "roi": 9.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -352,17 +363,6 @@
    "r": 0,
    "pl": 6.87,
    "roi": 27.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 0,
-   "pl": 6.84,
-   "roi": 9.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -499,17 +499,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 16,
-   "r": 11,
-   "pl": 3.47,
-   "roi": -0.0,
-   "wr": 59.3,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -529,6 +518,17 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 16,
+   "r": 12,
+   "pl": 1.47,
+   "roi": -0.0,
+   "wr": 57.1,
    "st": "val"
   },
   {
@@ -555,6 +555,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-05 11:55:02",
+   "tm": "11:55",
+   "match": "Odd vs Haugesund",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 11:55:01",
+   "tm": "11:55",
+   "match": "Odd vs Haugesund",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 11:49:41",
+   "tm": "11:49",
+   "match": "Odd vs Haugesund",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 11:05:01",
+   "tm": "11:05",
+   "match": "TPV vs JJK",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 11:00:02",
+   "tm": "11:00",
+   "match": "IFK Göteborg vs AIK",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 5.0,
+   "status": "green",
+   "pl": 1.25
+  },
   {
    "data": "2026-07-05 10:44:59",
    "tm": "10:44",
@@ -604,6 +654,26 @@
    "odd": 1.8,
    "status": "green",
    "pl": 2.63
+  },
+  {
+   "data": "2026-07-05 10:19:31",
+   "tm": "10:19",
+   "match": "IFK Göteborg x AIK",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 44.0,
+   "status": "green",
+   "pl": 1.78
+  },
+  {
+   "data": "2026-07-05 10:05:25",
+   "tm": "10:05",
+   "match": "Kalmar FF x Örgryte IS",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 9.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-05 09:59:40",
@@ -676,6 +746,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-05 09:08:35",
+   "tm": "09:08",
+   "match": "IFK Göteborg x AIK",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.63
+  },
+  {
    "data": "2026-07-05 09:04:59",
    "tm": "09:04",
    "match": "Gimcheon Sangmu vs Jeju United",
@@ -714,103 +794,23 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.42
-  },
-  {
-   "data": "2026-07-05 08:25:02",
-   "tm": "08:25",
-   "match": "Gwangju vs Ulsan HD",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.42
-  },
-  {
-   "data": "2026-07-05 07:54:58",
-   "tm": "07:54",
-   "match": "RTC vs Ugyen Academy",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 2.78
-  },
-  {
-   "data": "2026-07-05 07:54:58",
-   "tm": "07:54",
-   "match": "RTC vs Ugyen Academy",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 2.78
-  },
-  {
-   "data": "2026-07-05 07:04:57",
-   "tm": "07:04",
-   "match": "Xiamen Feilu vs Shenzhen 2028",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 3.33
-  },
-  {
-   "data": "2026-07-05 07:04:57",
-   "tm": "07:04",
-   "match": "Xiamen Feilu vs Shenzhen 2028",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 4.4
-  },
-  {
-   "data": "2026-07-04 22:35:00",
-   "tm": "22:35",
-   "match": "Guarani vs Floresta",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 6.06
-  },
-  {
-   "data": "2026-07-04 22:24:52",
-   "tm": "22:24",
-   "match": "Pittsburgh Riverhounds vs Brooklyn FC",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.97
-  },
-  {
-   "data": "2026-07-04 21:03:17",
-   "tm": "21:03",
-   "match": "Rhode Island FC x Orange County SC",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 8.0,
-   "status": "green",
-   "pl": 2.86
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
-   "g": 15,
-   "r": 6,
-   "pl": 18.65,
-   "wr": 71,
+   "ent": 29,
+   "g": 19,
+   "r": 10,
+   "pl": 16.98,
+   "wr": 66,
    "label": "05/07"
   },
   "mes": {
-   "ent": 207,
-   "g": 140,
-   "r": 67,
-   "pl": 78.07,
-   "wr": 68,
+   "ent": 215,
+   "g": 144,
+   "r": 71,
+   "pl": 76.4,
+   "wr": 67,
    "label": "mês"
   }
  }
