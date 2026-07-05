@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T07:59",
+ "gerado_em": "2026-07-05T08:59",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -62,22 +62,22 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 115,
+   "g": 117,
    "r": 82,
-   "pl": 8.21,
+   "pl": 12.41,
    "roi": -0.0,
-   "wr": 58.4,
+   "wr": 58.8,
    "st": "ap"
   },
   {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 107,
+   "g": 109,
    "r": 82,
-   "pl": 2.99,
+   "pl": 6.33,
    "roi": -1.4,
-   "wr": 56.6,
+   "wr": 57.1,
    "st": "ap"
   },
   {
@@ -567,10 +567,50 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-05 08:55:01",
+   "tm": "08:55",
+   "match": "Qingdao Hainiu vs Chengdu Rongcheng",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.92
+  },
+  {
+   "data": "2026-07-05 08:25:02",
+   "tm": "08:25",
+   "match": "Gwangju vs Ulsan HD",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
+   "data": "2026-07-05 08:25:02",
+   "tm": "08:25",
+   "match": "Gwangju vs Ulsan HD",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
    "data": "2026-07-05 07:54:58",
    "tm": "07:54",
    "match": "RTC vs Ugyen Academy",
    "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 2.78
+  },
+  {
+   "data": "2026-07-05 07:54:58",
+   "tm": "07:54",
+   "match": "RTC vs Ugyen Academy",
+   "bot": "GUARDIÃO HT",
    "mkt": "Under 0.5 HT",
    "odd": 2.4,
    "status": "green",
@@ -765,62 +805,22 @@
    "odd": 1.8,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 18:34:52",
-   "tm": "18:34",
-   "match": "Maranhão vs Inter de Limeira",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.98
-  },
-  {
-   "data": "2026-07-04 18:29:28",
-   "tm": "18:29",
-   "match": "Maranhão vs Inter de Limeira",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-04 18:23:21",
-   "tm": "18:23",
-   "match": "Paraguay x France",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 0.94
-  },
-  {
-   "data": "2026-07-04 17:35:06",
-   "tm": "17:35",
-   "match": "Deportivo Armenio vs Brown de Adrogué",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 2.33
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 3,
+   "ent": 7,
+   "g": 7,
    "r": 0,
-   "pl": 10.51,
+   "pl": 18.05,
    "wr": 100,
    "label": "05/07"
   },
   "mes": {
-   "ent": 191,
-   "g": 129,
+   "ent": 195,
+   "g": 133,
    "r": 62,
-   "pl": 68.87,
+   "pl": 76.41,
    "wr": 68,
    "label": "mês"
   }
