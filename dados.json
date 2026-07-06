@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T15:29",
+ "gerado_em": "2026-07-06T16:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -147,17 +147,6 @@
    "st": "val"
   },
   {
-   "n": "TRIPWIRE",
-   "s": "Lay Goleada Visitante · BotBet",
-   "plat": "BotBet",
-   "g": 27,
-   "r": 4,
-   "pl": 39.91,
-   "roi": 10.0,
-   "wr": 87.1,
-   "st": "val"
-  },
-  {
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
@@ -188,6 +177,17 @@
    "pl": 23.29,
    "roi": 13.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "TRIPWIRE",
+   "s": "Lay Goleada Visitante · BotBet",
+   "plat": "BotBet",
+   "g": 27,
+   "r": 5,
+   "pl": 21.55,
+   "roi": 10.0,
+   "wr": 84.4,
    "st": "val"
   },
   {
@@ -567,6 +567,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-06 15:38:25",
+   "tm": "15:38",
+   "match": "BK Häcken x Djurgårdens IF",
+   "bot": "TRIPWIRE",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 3.2,
+   "status": "red",
+   "pl": -18.36
+  },
+  {
    "data": "2026-07-06 14:59:45",
    "tm": "14:59",
    "match": "Super Nova vs Ogre United",
@@ -795,32 +805,22 @@
    "odd": 16.0,
    "status": "green",
    "pl": 2.0
-  },
-  {
-   "data": "2026-07-05 18:13:04",
-   "tm": "18:13",
-   "match": "Brazil x Norway",
-   "bot": "BTTS LAB",
-   "mkt": "Ambas Marcam",
-   "odd": 3.0,
-   "status": "green",
-   "pl": 4.1
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
+   "ent": 8,
    "g": 6,
-   "r": 1,
-   "pl": 17.99,
-   "wr": 86,
+   "r": 2,
+   "pl": -0.37,
+   "wr": 75,
    "label": "06/07"
   },
   "mes": {
-   "ent": 272,
+   "ent": 273,
    "g": 186,
-   "r": 86,
-   "pl": 123.61,
+   "r": 87,
+   "pl": 105.25,
    "wr": 68,
    "label": "mês"
   }
