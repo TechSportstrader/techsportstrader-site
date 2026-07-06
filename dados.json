@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T21:29",
+ "gerado_em": "2026-07-05T22:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -62,22 +62,22 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 121,
+   "g": 122,
    "r": 87,
-   "pl": 9.53,
+   "pl": 10.89,
    "roi": -0.0,
-   "wr": 58.2,
+   "wr": 58.4,
    "st": "ap"
   },
   {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 112,
+   "g": 113,
    "r": 85,
-   "pl": 5.98,
+   "pl": 7.34,
    "roi": -1.4,
-   "wr": 56.9,
+   "wr": 57.1,
    "st": "ap"
   },
   {
@@ -235,23 +235,12 @@
    "st": "val"
   },
   {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 89,
-   "r": 7,
-   "pl": 15.78,
-   "roi": 0.0,
-   "wr": 92.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 12,
+   "g": 13,
    "r": 0,
-   "pl": 15.71,
+   "pl": 16.78,
    "roi": 1.3,
    "wr": 100.0,
    "st": "val"
@@ -260,11 +249,22 @@
    "n": "SENTINEL 0.2",
    "s": "Lay Placar 0x2 · BotBet",
    "plat": "BotBet",
-   "g": 25,
+   "g": 26,
    "r": 1,
-   "pl": 14.97,
+   "pl": 16.08,
    "roi": 1.0,
-   "wr": 96.2,
+   "wr": 96.3,
+   "st": "val"
+  },
+  {
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 89,
+   "r": 7,
+   "pl": 15.78,
+   "roi": 0.0,
+   "wr": 92.7,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 21,
+   "g": 22,
    "r": 18,
-   "pl": 12.08,
+   "pl": 13.06,
    "roi": 1.4,
-   "wr": 53.8,
+   "wr": 55.0,
    "st": "val"
   },
   {
@@ -567,6 +567,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-05 22:09:39",
+   "tm": "22:09",
+   "match": "Miami FC II vs Birmingham Legion",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.07
+  },
+  {
+   "data": "2026-07-05 21:54:59",
+   "tm": "21:54",
+   "match": "Anápolis vs Botafogo PB",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-07-05 21:54:59",
+   "tm": "21:54",
+   "match": "Anápolis vs Botafogo PB",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-07-05 21:54:58",
+   "tm": "21:54",
+   "match": "Miami FC II vs Birmingham Legion",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 0.98
+  },
+  {
    "data": "2026-07-05 21:25:03",
    "tm": "21:25",
    "match": "Náutico vs Juventude",
@@ -595,6 +635,16 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-05 20:14:21",
+   "tm": "20:14",
+   "match": "Miami FC x Birmingham Legion FC",
+   "bot": "SENTINEL 0.2",
+   "mkt": "Lay Placar 0x2",
+   "odd": 28.0,
+   "status": "green",
+   "pl": 1.11
   },
   {
    "data": "2026-07-05 20:14:15",
@@ -755,73 +805,23 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.4
-  },
-  {
-   "data": "2026-07-05 15:05:00",
-   "tm": "15:05",
-   "match": "Maghreb Fès vs Olympique Dcheïra",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-05 14:55:02",
-   "tm": "14:55",
-   "match": "Danubio vs Juventud",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 14:55:02",
-   "tm": "14:55",
-   "match": "Danubio vs Juventud",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 14:30:06",
-   "tm": "14:30",
-   "match": "FC Supra Du Quebec x Forge FC",
-   "bot": "VANGUARD",
-   "mkt": "Lay Placar 1x0",
-   "odd": 18.0,
-   "status": "green",
-   "pl": 1.18
-  },
-  {
-   "data": "2026-07-05 13:54:58",
-   "tm": "13:54",
-   "match": "FA Šiauliai vs Žalgiris",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.38
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 66,
-   "g": 46,
+   "ent": 71,
+   "g": 51,
    "r": 20,
-   "pl": 39.73,
-   "wr": 70,
+   "pl": 45.61,
+   "wr": 72,
    "label": "05/07"
   },
   "mes": {
-   "ent": 255,
-   "g": 172,
+   "ent": 260,
+   "g": 177,
    "r": 83,
-   "pl": 96.05,
-   "wr": 67,
+   "pl": 101.93,
+   "wr": 68,
    "label": "mês"
   }
  }
