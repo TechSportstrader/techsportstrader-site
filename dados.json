@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-05T23:29",
+ "gerado_em": "2026-07-06T00:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -809,12 +809,12 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 76,
-   "g": 54,
-   "r": 22,
-   "pl": 49.31,
-   "wr": 71,
-   "label": "05/07"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "06/07"
   },
   "mes": {
    "ent": 265,
