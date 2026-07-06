@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T14:29",
+ "gerado_em": "2026-07-06T15:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 52,
+   "g": 53,
    "r": 93,
-   "pl": 64.64,
+   "pl": 70.89,
    "roi": 18.9,
-   "wr": 35.9,
+   "wr": 36.3,
    "st": "ap"
   },
   {
@@ -162,10 +162,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 4,
-   "r": 10,
-   "pl": 33.27,
+   "r": 11,
+   "pl": 31.27,
    "roi": 3.7,
-   "wr": 28.6,
+   "wr": 26.7,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 45,
+   "r": 19,
+   "pl": 10.08,
+   "roi": 1.5,
+   "wr": 70.3,
+   "st": "val"
+  },
+  {
    "n": "INTERCEPTOR 7-10",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -331,17 +342,6 @@
    "pl": 9.77,
    "roi": 3.0,
    "wr": 97.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 44,
-   "r": 19,
-   "pl": 8.7,
-   "roi": 1.5,
-   "wr": 69.8,
    "st": "val"
   },
   {
@@ -567,6 +567,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-06 14:59:45",
+   "tm": "14:59",
+   "match": "Super Nova vs Ogre United",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-06 14:54:58",
+   "tm": "14:54",
+   "match": "Super Nova vs Ogre United",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 1.38
+  },
+  {
+   "data": "2026-07-06 14:45:02",
+   "tm": "14:45",
+   "match": "Sūduva vs TransINVEST Vilnius",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 6.25
+  },
+  {
    "data": "2026-07-06 13:54:59",
    "tm": "13:54",
    "match": "Super Nova vs Ogre United",
@@ -775,52 +805,22 @@
    "odd": 3.0,
    "status": "green",
    "pl": 4.1
-  },
-  {
-   "data": "2026-07-05 17:55:08",
-   "tm": "17:55",
-   "match": "Brazil vs Norway",
-   "bot": "FÚRIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.76
-  },
-  {
-   "data": "2026-07-05 17:55:01",
-   "tm": "17:55",
-   "match": "Brazil vs Norway",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.82
-  },
-  {
-   "data": "2026-07-05 17:55:01",
-   "tm": "17:55",
-   "match": "Brazil vs Norway",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.82
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 4,
-   "r": 0,
-   "pl": 12.36,
-   "wr": 100,
+   "ent": 7,
+   "g": 6,
+   "r": 1,
+   "pl": 17.99,
+   "wr": 86,
    "label": "06/07"
   },
   "mes": {
-   "ent": 269,
-   "g": 184,
-   "r": 85,
-   "pl": 117.98,
+   "ent": 272,
+   "g": 186,
+   "r": 86,
+   "pl": 123.61,
    "wr": 68,
    "label": "mês"
   }
