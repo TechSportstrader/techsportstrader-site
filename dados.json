@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T19:29",
+ "gerado_em": "2026-07-06T20:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -48,25 +48,25 @@
    "st": "ap"
   },
   {
+   "n": "STRIKER",
+   "s": "Back Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 297,
+   "r": 85,
+   "pl": 17.55,
+   "roi": 2.0,
+   "wr": 77.7,
+   "st": "ap"
+  },
+  {
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 125,
-   "r": 88,
-   "pl": 22.34,
+   "r": 89,
+   "pl": 17.34,
    "roi": -0.0,
-   "wr": 58.7,
-   "st": "ap"
-  },
-  {
-   "n": "STRIKER",
-   "s": "Back Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 296,
-   "r": 85,
-   "pl": 16.79,
-   "roi": 2.0,
-   "wr": 77.7,
+   "wr": 58.4,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 115,
-   "r": 86,
-   "pl": 9.26,
+   "r": 87,
+   "pl": 7.26,
    "roi": -1.4,
-   "wr": 57.2,
+   "wr": 56.9,
    "st": "ap"
   },
   {
@@ -488,6 +488,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 54,
+   "r": 23,
+   "pl": 3.66,
+   "roi": 2.0,
+   "wr": 70.1,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -507,17 +518,6 @@
    "pl": 2.76,
    "roi": -0.0,
    "wr": 58.1,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 53,
-   "r": 23,
-   "pl": 2.58,
-   "roi": 2.0,
-   "wr": 69.7,
    "st": "val"
   },
   {
@@ -577,6 +577,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-06 20:14:05",
+   "tm": "20:14",
+   "match": "Botafogo-SP x Avaí",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
+   "data": "2026-07-06 20:06:15",
+   "tm": "20:06",
+   "match": "Botafogo-SP x Avaí",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.76
+  },
+  {
+   "data": "2026-07-06 19:35:00",
+   "tm": "19:35",
+   "match": "Botafogo SP vs Avaí",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-06 19:35:00",
+   "tm": "19:35",
+   "match": "Botafogo SP vs Avaí",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-06 18:15:00",
    "tm": "18:15",
@@ -776,62 +816,22 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 22:44:58",
-   "tm": "22:44",
-   "match": "Mexico vs England",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 22:35:07",
-   "tm": "22:35",
-   "match": "Náutico vs Juventude",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 4.3
-  },
-  {
-   "data": "2026-07-05 22:35:06",
-   "tm": "22:35",
-   "match": "Náutico vs Juventude",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 3.33
-  },
-  {
-   "data": "2026-07-05 22:09:39",
-   "tm": "22:09",
-   "match": "Miami FC II vs Birmingham Legion",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 1.07
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 19,
-   "g": 15,
-   "r": 4,
-   "pl": 9.54,
-   "wr": 79,
+   "ent": 23,
+   "g": 17,
+   "r": 6,
+   "pl": 4.38,
+   "wr": 74,
    "label": "06/07"
   },
   "mes": {
-   "ent": 290,
-   "g": 201,
-   "r": 89,
-   "pl": 123.09,
+   "ent": 294,
+   "g": 203,
+   "r": 91,
+   "pl": 117.92,
    "wr": 69,
    "label": "mês"
   }
