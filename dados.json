@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T13:29",
+ "gerado_em": "2026-07-06T14:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -48,6 +48,17 @@
    "st": "ap"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 124,
+   "r": 88,
+   "pl": 17.24,
+   "roi": -0.0,
+   "wr": 58.5,
+   "st": "ap"
+  },
+  {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -59,25 +70,14 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 122,
-   "r": 88,
-   "pl": 8.89,
-   "roi": -0.0,
-   "wr": 58.1,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 113,
+   "g": 114,
    "r": 86,
-   "pl": 5.34,
+   "pl": 7.22,
    "roi": -1.4,
-   "wr": 56.8,
+   "wr": 57.0,
    "st": "ap"
   },
   {
@@ -499,6 +499,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 22,
+   "r": 15,
+   "pl": 3.18,
+   "roi": -0.2,
+   "wr": 59.5,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -532,17 +543,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 21,
-   "r": 15,
-   "pl": 1.05,
-   "roi": -0.2,
-   "wr": 58.3,
-   "st": "val"
-  },
-  {
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -566,6 +566,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-06 13:54:59",
+   "tm": "13:54",
+   "match": "Super Nova vs Ogre United",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 4.7
+  },
+  {
+   "data": "2026-07-06 13:54:59",
+   "tm": "13:54",
+   "match": "Super Nova vs Ogre United",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.88
+  },
+  {
+   "data": "2026-07-06 13:49:36",
+   "tm": "13:49",
+   "match": "Super Nova vs Ogre United",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 2.13
+  },
+  {
+   "data": "2026-07-06 13:44:59",
+   "tm": "13:44",
+   "match": "Sūduva vs TransINVEST Vilnius",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 3.65
+  },
   {
    "data": "2026-07-05 22:44:58",
    "tm": "22:44",
@@ -765,62 +805,22 @@
    "odd": 1.9,
    "status": "green",
    "pl": 1.82
-  },
-  {
-   "data": "2026-07-05 17:39:39",
-   "tm": "17:39",
-   "match": "Patronato vs San Martín de Tucumán",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 17:06:15",
-   "tm": "17:06",
-   "match": "Brazil x Norway",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.5,
-   "status": "green",
-   "pl": 1.54
-  },
-  {
-   "data": "2026-07-05 16:25:01",
-   "tm": "16:25",
-   "match": "Deportivo Madryn vs Club Atletico Colón",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-05 16:13:06",
-   "tm": "16:13",
-   "match": "Macará x LDU",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 12.36,
+   "wr": 100,
    "label": "06/07"
   },
   "mes": {
-   "ent": 265,
-   "g": 180,
+   "ent": 269,
+   "g": 184,
    "r": 85,
-   "pl": 105.62,
+   "pl": 117.98,
    "wr": 68,
    "label": "mês"
   }
