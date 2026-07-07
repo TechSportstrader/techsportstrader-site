@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T13:29",
+ "gerado_em": "2026-07-07T14:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 126,
+   "g": 127,
    "r": 89,
-   "pl": 21.19,
+   "pl": 26.69,
    "roi": -0.0,
-   "wr": 58.6,
+   "wr": 58.8,
    "st": "ap"
   },
   {
@@ -73,11 +73,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 117,
+   "g": 118,
    "r": 87,
-   "pl": 10.26,
+   "pl": 12.46,
    "roi": -1.4,
-   "wr": 57.4,
+   "wr": 57.6,
    "st": "ap"
   },
   {
@@ -567,6 +567,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-07 13:55:02",
+   "tm": "13:55",
+   "match": "Sabah vs The New Saints",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 5.5
+  },
+  {
+   "data": "2026-07-07 13:55:01",
+   "tm": "13:55",
+   "match": "Sabah vs The New Saints",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 2.2
+  },
+  {
    "data": "2026-07-06 22:30:04",
    "tm": "22:30",
    "match": "USA x Belgium",
@@ -785,42 +805,22 @@
    "odd": 2.0,
    "status": "green",
    "pl": 5.1
-  },
-  {
-   "data": "2026-07-06 16:54:59",
-   "tm": "16:54",
-   "match": "Portugal vs Spain",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 2.04
-  },
-  {
-   "data": "2026-07-06 16:37:23",
-   "tm": "16:37",
-   "match": "Keflavík IF x Fram Reykjavík",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 18.5,
-   "status": "green",
-   "pl": 1.43
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 7.7,
+   "wr": 100,
    "label": "07/07"
   },
   "mes": {
-   "ent": 305,
-   "g": 212,
+   "ent": 307,
+   "g": 214,
    "r": 93,
-   "pl": 134.13,
+   "pl": 141.83,
    "wr": 70,
    "label": "mês"
   }
