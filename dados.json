@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T20:29",
+ "gerado_em": "2026-07-06T21:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 312,
+   "g": 313,
    "r": 18,
-   "pl": 119.0,
+   "pl": 120.9,
    "roi": 1.0,
-   "wr": 94.5,
+   "wr": 94.6,
    "st": "ap"
   },
   {
@@ -51,11 +51,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 297,
+   "g": 298,
    "r": 85,
-   "pl": 17.55,
+   "pl": 18.33,
    "roi": 2.0,
-   "wr": 77.7,
+   "wr": 77.8,
    "st": "ap"
   },
   {
@@ -84,9 +84,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 94,
+   "g": 95,
    "r": 3,
-   "pl": 151.61,
+   "pl": 155.78,
    "roi": 3.0,
    "wr": 96.9,
    "st": "val"
@@ -455,6 +455,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 55,
+   "r": 23,
+   "pl": 4.66,
+   "roi": 2.0,
+   "wr": 70.5,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -485,17 +496,6 @@
    "pl": 4.15,
    "roi": 0.4,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 54,
-   "r": 23,
-   "pl": 3.66,
-   "roi": 2.0,
-   "wr": 70.1,
    "st": "val"
   },
   {
@@ -578,6 +578,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-06 20:16:06",
+   "tm": "20:16",
+   "match": "Vila Nova FC x São Bernardo",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.0
+  },
+  {
    "data": "2026-07-06 20:14:05",
    "tm": "20:14",
    "match": "Botafogo-SP x Avaí",
@@ -586,6 +596,16 @@
    "odd": 1.5,
    "status": "green",
    "pl": 1.08
+  },
+  {
+   "data": "2026-07-06 20:11:05",
+   "tm": "20:11",
+   "match": "Vila Nova FC x São Bernardo",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.78
   },
   {
    "data": "2026-07-06 20:06:15",
@@ -616,6 +636,26 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-06 19:28:20",
+   "tm": "19:28",
+   "match": "Vila Nova FC x São Bernardo",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.5,
+   "status": "green",
+   "pl": 1.9
+  },
+  {
+   "data": "2026-07-06 19:06:05",
+   "tm": "19:06",
+   "match": "Vila Nova FC x São Bernardo",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 4.17
   },
   {
    "data": "2026-07-06 18:15:00",
@@ -776,62 +816,22 @@
    "odd": 1.9,
    "status": "green",
    "pl": 4.7
-  },
-  {
-   "data": "2026-07-06 13:54:59",
-   "tm": "13:54",
-   "match": "Super Nova vs Ogre United",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.88
-  },
-  {
-   "data": "2026-07-06 13:49:36",
-   "tm": "13:49",
-   "match": "Super Nova vs Ogre United",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.1,
-   "status": "green",
-   "pl": 2.13
-  },
-  {
-   "data": "2026-07-06 13:44:59",
-   "tm": "13:44",
-   "match": "Sūduva vs TransINVEST Vilnius",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 3.65
-  },
-  {
-   "data": "2026-07-05 22:44:58",
-   "tm": "22:44",
-   "match": "Mexico vs England",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 17,
+   "ent": 27,
+   "g": 21,
    "r": 6,
-   "pl": 4.38,
-   "wr": 74,
+   "pl": 12.23,
+   "wr": 78,
    "label": "06/07"
   },
   "mes": {
-   "ent": 294,
-   "g": 203,
+   "ent": 298,
+   "g": 207,
    "r": 91,
-   "pl": 117.92,
+   "pl": 125.77,
    "wr": 69,
    "label": "mês"
   }
