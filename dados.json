@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T01:29",
+ "gerado_em": "2026-07-07T10:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -73,11 +73,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 116,
+   "g": 117,
    "r": 87,
-   "pl": 8.8,
+   "pl": 10.26,
    "roi": -1.4,
-   "wr": 57.1,
+   "wr": 57.4,
    "st": "ap"
   },
   {
@@ -499,17 +499,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 18,
-   "r": 13,
-   "pl": 2.76,
-   "roi": -0.0,
-   "wr": 58.1,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -540,6 +529,17 @@
    "pl": 2.1,
    "roi": -100.0,
    "wr": 50.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 18,
+   "r": 14,
+   "pl": 0.76,
+   "roi": -0.0,
+   "wr": 56.2,
    "st": "val"
   },
   {
@@ -817,10 +817,10 @@
    "label": "07/07"
   },
   "mes": {
-   "ent": 303,
-   "g": 211,
-   "r": 92,
-   "pl": 134.67,
+   "ent": 305,
+   "g": 212,
+   "r": 93,
+   "pl": 134.13,
    "wr": 70,
    "label": "mês"
   }
