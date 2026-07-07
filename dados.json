@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-06T21:29",
+ "gerado_em": "2026-07-06T22:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,21 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 53,
-   "r": 93,
-   "pl": 70.89,
+   "r": 94,
+   "pl": 68.89,
    "roi": 18.9,
-   "wr": 36.3,
+   "wr": 36.1,
+   "st": "ap"
+  },
+  {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 126,
+   "r": 89,
+   "pl": 21.19,
+   "roi": -0.0,
+   "wr": 58.6,
    "st": "ap"
   },
   {
@@ -59,25 +70,14 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 125,
-   "r": 89,
-   "pl": 17.34,
-   "roi": -0.0,
-   "wr": 58.4,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 115,
+   "g": 116,
    "r": 87,
-   "pl": 7.26,
+   "pl": 8.8,
    "roi": -1.4,
-   "wr": 56.9,
+   "wr": 57.1,
    "st": "ap"
   },
   {
@@ -381,11 +381,11 @@
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 43,
+   "g": 44,
    "r": 1,
-   "pl": 6.52,
+   "pl": 6.77,
    "roi": 0.2,
-   "wr": 97.7,
+   "wr": 97.8,
    "st": "val"
   },
   {
@@ -577,6 +577,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-06 22:24:57",
+   "tm": "22:24",
+   "match": "Orense vs Técnico Universitario",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-06 21:55:00",
+   "tm": "21:55",
+   "match": "Orense vs Técnico Universitario",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.25
+  },
+  {
+   "data": "2026-07-06 21:54:57",
+   "tm": "21:54",
+   "match": "Orense vs Técnico Universitario",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.54
+  },
+  {
+   "data": "2026-07-06 21:54:56",
+   "tm": "21:54",
+   "match": "Orense vs Técnico Universitario",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 3.85
+  },
   {
    "data": "2026-07-06 20:16:06",
    "tm": "20:16",
@@ -776,63 +816,23 @@
    "odd": 1.3,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-06 14:59:45",
-   "tm": "14:59",
-   "match": "Super Nova vs Ogre United",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-06 14:54:58",
-   "tm": "14:54",
-   "match": "Super Nova vs Ogre United",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.7,
-   "status": "green",
-   "pl": 1.38
-  },
-  {
-   "data": "2026-07-06 14:45:02",
-   "tm": "14:45",
-   "match": "Sūduva vs TransINVEST Vilnius",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 6.25
-  },
-  {
-   "data": "2026-07-06 13:54:59",
-   "tm": "13:54",
-   "match": "Super Nova vs Ogre United",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 4.7
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 27,
-   "g": 21,
-   "r": 6,
-   "pl": 12.23,
-   "wr": 78,
+   "ent": 31,
+   "g": 24,
+   "r": 7,
+   "pl": 15.87,
+   "wr": 77,
    "label": "06/07"
   },
   "mes": {
-   "ent": 298,
-   "g": 207,
-   "r": 91,
-   "pl": 125.77,
-   "wr": 69,
+   "ent": 302,
+   "g": 210,
+   "r": 92,
+   "pl": 129.41,
+   "wr": 70,
    "label": "mês"
   }
  }
