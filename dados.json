@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T16:29",
+ "gerado_em": "2026-07-07T17:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 118,
-   "r": 88,
-   "pl": 10.46,
+   "r": 89,
+   "pl": 8.46,
    "roi": -1.4,
-   "wr": 57.3,
+   "wr": 57.0,
    "st": "ap"
   },
   {
@@ -588,6 +588,16 @@
    "pl": -5.0
   },
   {
+   "data": "2026-07-07 16:25:00",
+   "tm": "16:25",
+   "match": "Tre Fiori vs Larne",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-07 16:05:00",
    "tm": "16:05",
    "match": "UNA Strassen vs La Fiorita",
@@ -806,33 +816,23 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.78
-  },
-  {
-   "data": "2026-07-06 20:06:15",
-   "tm": "20:06",
-   "match": "Botafogo-SP x Avaí",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.76
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 14,
+   "ent": 15,
    "g": 8,
-   "r": 6,
-   "pl": -2.15,
-   "wr": 57,
+   "r": 7,
+   "pl": -4.15,
+   "wr": 53,
    "label": "07/07"
   },
   "mes": {
-   "ent": 329,
+   "ent": 330,
    "g": 229,
-   "r": 100,
-   "pl": 138.2,
-   "wr": 70,
+   "r": 101,
+   "pl": 136.2,
+   "wr": 69,
    "label": "mês"
   }
  }
