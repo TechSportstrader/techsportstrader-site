@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T17:29",
+ "gerado_em": "2026-07-07T20:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -95,11 +95,11 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 78,
+   "g": 79,
    "r": 8,
-   "pl": 75.05,
+   "pl": 77.38,
    "roi": 4.0,
-   "wr": 90.7,
+   "wr": 90.8,
    "st": "val"
   },
   {
@@ -158,17 +158,6 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 57,
-   "r": 31,
-   "pl": 28.37,
-   "roi": 9.9,
-   "wr": 64.8,
-   "st": "val"
-  },
-  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -177,6 +166,17 @@
    "pl": 27.87,
    "roi": 10.0,
    "wr": 84.8,
+   "st": "val"
+  },
+  {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 57,
+   "r": 32,
+   "pl": 23.37,
+   "roi": 9.9,
+   "wr": 64.0,
    "st": "val"
   },
   {
@@ -499,6 +499,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 30,
+   "r": 5,
+   "pl": 2.99,
+   "roi": -0.3,
+   "wr": 85.7,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -518,28 +529,6 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 1,
-   "r": 1,
-   "pl": 2.1,
-   "roi": -100.0,
-   "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 29,
-   "r": 5,
-   "pl": 1.2,
-   "roi": -0.3,
-   "wr": 85.3,
    "st": "val"
   },
   {
@@ -568,15 +557,76 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 6,
+   "g": 7,
    "r": 0,
-   "pl": 0.5,
+   "pl": 0.53,
    "roi": 1.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 1,
+   "r": 2,
+   "pl": 0.1,
+   "roi": -100.0,
+   "wr": 33.3,
    "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-07 18:59:35",
+   "tm": "18:59",
+   "match": "Switzerland vs Colombia",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 1.79
+  },
+  {
+   "data": "2026-07-07 18:19:14",
+   "tm": "18:19",
+   "match": "Switzerland x Colombia",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.03
+  },
+  {
+   "data": "2026-07-07 18:05:03",
+   "tm": "18:05",
+   "match": "Víkingur Reykjavík vs Győri ETO",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-07 17:47:04",
+   "tm": "17:47",
+   "match": "Switzerland x Colombia",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-07 17:23:19",
+   "tm": "17:23",
+   "match": "Switzerland x Colombia",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 9.6,
+   "status": "green",
+   "pl": 2.33
+  },
   {
    "data": "2026-07-07 16:25:00",
    "tm": "16:25",
@@ -766,72 +816,22 @@
    "odd": 1.1,
    "status": "green",
    "pl": 0.25
-  },
-  {
-   "data": "2026-07-06 21:54:57",
-   "tm": "21:54",
-   "match": "Orense vs Técnico Universitario",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.54
-  },
-  {
-   "data": "2026-07-06 21:54:56",
-   "tm": "21:54",
-   "match": "Orense vs Técnico Universitario",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 3.85
-  },
-  {
-   "data": "2026-07-06 20:16:06",
-   "tm": "20:16",
-   "match": "Vila Nova FC x São Bernardo",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.0
-  },
-  {
-   "data": "2026-07-06 20:14:05",
-   "tm": "20:14",
-   "match": "Botafogo-SP x Avaí",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.08
-  },
-  {
-   "data": "2026-07-06 20:11:05",
-   "tm": "20:11",
-   "match": "Vila Nova FC x São Bernardo",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.78
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 15,
-   "g": 8,
-   "r": 7,
-   "pl": -4.15,
-   "wr": 53,
+   "ent": 20,
+   "g": 11,
+   "r": 9,
+   "pl": -7.0,
+   "wr": 55,
    "label": "07/07"
   },
   "mes": {
-   "ent": 330,
-   "g": 229,
-   "r": 101,
-   "pl": 136.2,
+   "ent": 335,
+   "g": 232,
+   "r": 103,
+   "pl": 133.35,
    "wr": 69,
    "label": "mês"
   }
