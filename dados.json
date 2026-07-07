@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T15:29",
+ "gerado_em": "2026-07-07T16:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -48,17 +48,6 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 127,
-   "r": 89,
-   "pl": 26.69,
-   "roi": -0.0,
-   "wr": 58.8,
-   "st": "ap"
-  },
-  {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -70,14 +59,25 @@
    "st": "ap"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 127,
+   "r": 91,
+   "pl": 16.69,
+   "roi": -0.0,
+   "wr": 58.3,
+   "st": "ap"
+  },
+  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 118,
-   "r": 87,
-   "pl": 12.46,
+   "r": 88,
+   "pl": 10.46,
    "roi": -1.4,
-   "wr": 57.6,
+   "wr": 57.3,
    "st": "ap"
   },
   {
@@ -411,6 +411,17 @@
    "st": "val"
   },
   {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 80,
+   "r": 12,
+   "pl": 5.84,
+   "roi": 0.3,
+   "wr": 87.0,
+   "st": "val"
+  },
+  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -419,17 +430,6 @@
    "pl": 5.67,
    "roi": 2.0,
    "wr": 70.9,
-   "st": "val"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 79,
-   "r": 12,
-   "pl": 5.46,
-   "roi": 0.3,
-   "wr": 86.8,
    "st": "val"
   },
   {
@@ -577,6 +577,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-07 16:25:00",
+   "tm": "16:25",
+   "match": "Tre Fiori vs Larne",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-07 16:05:00",
+   "tm": "16:05",
+   "match": "UNA Strassen vs La Fiorita",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.38
+  },
+  {
+   "data": "2026-07-07 15:54:59",
+   "tm": "15:54",
+   "match": "AF Elbasani vs BATE",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-07 15:54:59",
+   "tm": "15:54",
+   "match": "AF Elbasani vs BATE",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-07 15:05:02",
    "tm": "15:05",
@@ -776,62 +816,22 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.76
-  },
-  {
-   "data": "2026-07-06 19:35:00",
-   "tm": "19:35",
-   "match": "Botafogo SP vs Avaí",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -5.0
-  },
-  {
-   "data": "2026-07-06 19:35:00",
-   "tm": "19:35",
-   "match": "Botafogo SP vs Avaí",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-06 19:28:20",
-   "tm": "19:28",
-   "match": "Vila Nova FC x São Bernardo",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 12.5,
-   "status": "green",
-   "pl": 1.9
-  },
-  {
-   "data": "2026-07-06 19:06:05",
-   "tm": "19:06",
-   "match": "Vila Nova FC x São Bernardo",
-   "bot": "SENTINEL 0.1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 13.0,
-   "status": "green",
-   "pl": 4.17
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 10,
-   "g": 7,
-   "r": 3,
-   "pl": 9.47,
-   "wr": 70,
+   "ent": 14,
+   "g": 8,
+   "r": 6,
+   "pl": -2.15,
+   "wr": 57,
    "label": "07/07"
   },
   "mes": {
-   "ent": 325,
-   "g": 228,
-   "r": 97,
-   "pl": 149.82,
+   "ent": 329,
+   "g": 229,
+   "r": 100,
+   "pl": 138.2,
    "wr": 70,
    "label": "mês"
   }
