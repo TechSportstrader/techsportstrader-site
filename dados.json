@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-08T12:29",
+ "gerado_em": "2026-07-08T13:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -48,6 +48,17 @@
    "st": "ap"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 128,
+   "r": 92,
+   "pl": 16.14,
+   "roi": -0.0,
+   "wr": 58.2,
+   "st": "ap"
+  },
+  {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -59,25 +70,14 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 127,
-   "r": 92,
-   "pl": 11.69,
-   "roi": -0.0,
-   "wr": 58.0,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 118,
+   "g": 119,
    "r": 90,
-   "pl": 6.46,
+   "pl": 8.24,
    "roi": -1.4,
-   "wr": 56.7,
+   "wr": 56.9,
    "st": "ap"
   },
   {
@@ -499,6 +499,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 23,
+   "r": 16,
+   "pl": 3.02,
+   "roi": -0.2,
+   "wr": 59.0,
+   "st": "val"
+  },
+  {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -529,17 +540,6 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 22,
-   "r": 16,
-   "pl": 1.18,
-   "roi": -0.2,
-   "wr": 57.9,
    "st": "val"
   },
   {
@@ -577,6 +577,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-08 12:55:00",
+   "tm": "12:55",
+   "match": "Kairat vs Sutjeska",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.78
+  },
+  {
+   "data": "2026-07-08 12:54:59",
+   "tm": "12:54",
+   "match": "Kairat vs Sutjeska",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 4.45
+  },
+  {
+   "data": "2026-07-08 12:49:37",
+   "tm": "12:49",
+   "match": "Kairat vs Sutjeska",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.84
+  },
   {
    "data": "2026-07-08 09:24:58",
    "tm": "09:24",
@@ -786,52 +816,22 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-07 15:05:02",
-   "tm": "15:05",
-   "match": "Sabah vs The New Saints",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "green",
-   "pl": 1.2
-  },
-  {
-   "data": "2026-07-07 15:00:07",
-   "tm": "15:00",
-   "match": "Ararat-Armenia vs Riga",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.6,
-   "status": "green",
-   "pl": 2.17
-  },
-  {
-   "data": "2026-07-07 14:55:00",
-   "tm": "14:55",
-   "match": "Argentina vs Egypt",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 2.97
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 0,
+   "ent": 5,
+   "g": 3,
    "r": 2,
-   "pl": -7.0,
-   "wr": 0,
+   "pl": 1.07,
+   "wr": 60,
    "label": "08/07"
   },
   "mes": {
-   "ent": 346,
-   "g": 239,
+   "ent": 349,
+   "g": 242,
    "r": 107,
-   "pl": 135.57,
+   "pl": 143.64,
    "wr": 69,
    "label": "mês"
   }
