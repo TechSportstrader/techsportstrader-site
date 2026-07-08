@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T20:29",
+ "gerado_em": "2026-07-07T21:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 33,
+   "r": 1,
+   "pl": 10.67,
+   "roi": 3.0,
+   "wr": 97.1,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -320,17 +331,6 @@
    "pl": 10.43,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 32,
-   "r": 1,
-   "pl": 9.77,
-   "roi": 3.0,
-   "wr": 97.0,
    "st": "val"
   },
   {
@@ -618,6 +618,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-07 17:43:04",
+   "tm": "17:43",
+   "match": "Switzerland x Colombia",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.9
+  },
+  {
    "data": "2026-07-07 17:23:19",
    "tm": "17:23",
    "match": "Switzerland x Colombia",
@@ -806,32 +816,22 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.91
-  },
-  {
-   "data": "2026-07-06 21:55:00",
-   "tm": "21:55",
-   "match": "Orense vs Técnico Universitario",
-   "bot": "FÚRIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.25
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 20,
-   "g": 11,
+   "ent": 21,
+   "g": 12,
    "r": 9,
-   "pl": -7.0,
-   "wr": 55,
+   "pl": -6.1,
+   "wr": 57,
    "label": "07/07"
   },
   "mes": {
-   "ent": 335,
-   "g": 232,
+   "ent": 336,
+   "g": 233,
    "r": 103,
-   "pl": 133.35,
+   "pl": 134.25,
    "wr": 69,
    "label": "mês"
   }
