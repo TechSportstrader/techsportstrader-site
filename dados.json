@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-07T21:29",
+ "gerado_em": "2026-07-07T22:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 300,
-   "r": 85,
-   "pl": 19.66,
+   "r": 86,
+   "pl": 17.66,
    "roi": 2.0,
-   "wr": 77.9,
+   "wr": 77.7,
    "st": "ap"
   },
   {
@@ -367,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20 (Bolsa)",
+   "s": "Lay (misto) · Bolsa",
+   "plat": "Bolsa",
+   "g": 5,
+   "r": 0,
+   "pl": 6.82,
+   "roi": 0.3,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -430,17 +441,6 @@
    "pl": 5.67,
    "roi": 2.0,
    "wr": 70.9,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20 (Bolsa)",
-   "s": "Lay (misto) · Bolsa",
-   "plat": "Bolsa",
-   "g": 4,
-   "r": 0,
-   "pl": 5.35,
-   "roi": 0.3,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -577,6 +577,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-07 22:09:45",
+   "tm": "22:09",
+   "match": "Athletic Club vs Operário PR",
+   "bot": "SISTEMA L-20 (Bolsa)",
+   "mkt": "Lay (misto)",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-07-07 21:16:05",
+   "tm": "21:16",
+   "match": "Athletic Club x Operário-PR",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-07 18:59:35",
    "tm": "18:59",
@@ -796,42 +816,22 @@
    "odd": 2.3,
    "status": "green",
    "pl": 6.32
-  },
-  {
-   "data": "2026-07-06 22:24:57",
-   "tm": "22:24",
-   "match": "Orense vs Técnico Universitario",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-06 22:16:15",
-   "tm": "22:16",
-   "match": "Orense SC x Técnico Universitario",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.91
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
-   "g": 12,
-   "r": 9,
-   "pl": -6.1,
+   "ent": 23,
+   "g": 13,
+   "r": 10,
+   "pl": -6.63,
    "wr": 57,
    "label": "07/07"
   },
   "mes": {
-   "ent": 336,
-   "g": 233,
-   "r": 103,
-   "pl": 134.25,
+   "ent": 338,
+   "g": 234,
+   "r": 104,
+   "pl": 133.72,
    "wr": 69,
    "label": "mês"
   }
