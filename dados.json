@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T15:29",
+ "gerado_em": "2026-07-09T16:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -151,10 +151,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 4,
-   "r": 11,
-   "pl": 31.27,
+   "r": 12,
+   "pl": 29.27,
    "roi": 3.7,
-   "wr": 26.7,
+   "wr": 25.0,
    "st": "val"
   },
   {
@@ -444,17 +444,6 @@
    "st": "val"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 80,
-   "r": 12,
-   "pl": 5.84,
-   "roi": 0.3,
-   "wr": 87.0,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -474,6 +463,17 @@
    "pl": 4.5,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 81,
+   "r": 13,
+   "pl": 4.34,
+   "roi": 0.3,
+   "wr": 86.2,
    "st": "val"
   },
   {
@@ -566,6 +566,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-09 16:05:10",
+   "tm": "16:05",
+   "match": "Dynamo Kyiv vs Universitatea Cluj",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-09 16:00:53",
+   "tm": "16:00",
+   "match": "Dinamo Minsk vs Sileks",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-09 15:34:57",
+   "tm": "15:34",
+   "match": "Bohemians vs St Josephs FC",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.5
+  },
   {
    "data": "2026-07-09 15:24:56",
    "tm": "15:24",
@@ -775,52 +805,22 @@
    "odd": 1.3,
    "status": "green",
    "pl": 0.65
-  },
-  {
-   "data": "2026-07-08 21:24:11",
-   "tm": "21:24",
-   "match": "Hartford Athletic x Orange County SC",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-07-08 21:24:04",
-   "tm": "21:24",
-   "match": "Ponte Preta x Criciúma",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.39
-  },
-  {
-   "data": "2026-07-08 21:12:05",
-   "tm": "21:12",
-   "match": "Ponte Preta x Criciúma",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 27.0,
-   "status": "green",
-   "pl": 2.2
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 8,
-   "r": 9,
-   "pl": -2.81,
-   "wr": 47,
+   "ent": 20,
+   "g": 9,
+   "r": 11,
+   "pl": -6.31,
+   "wr": 45,
    "label": "09/07"
   },
   "mes": {
-   "ent": 385,
-   "g": 265,
-   "r": 120,
-   "pl": 160.02,
+   "ent": 388,
+   "g": 266,
+   "r": 122,
+   "pl": 156.52,
    "wr": 69,
    "label": "mês"
   }
