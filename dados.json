@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T17:29",
+ "gerado_em": "2026-07-09T18:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 237,
+   "g": 238,
    "r": 0,
-   "pl": 381.45,
+   "pl": 384.15,
    "roi": 38.0,
    "wr": 100.0,
    "st": "ap"
@@ -41,10 +41,21 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 55,
-   "r": 99,
-   "pl": 68.93,
+   "r": 100,
+   "pl": 66.93,
    "roi": 18.9,
-   "wr": 35.7,
+   "wr": 35.5,
+   "st": "ap"
+  },
+  {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 131,
+   "r": 94,
+   "pl": 18.39,
+   "roi": -0.0,
+   "wr": 58.2,
    "st": "ap"
   },
   {
@@ -59,25 +70,14 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 130,
-   "r": 94,
-   "pl": 14.34,
-   "roi": -0.0,
-   "wr": 58.0,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 121,
+   "g": 122,
    "r": 92,
-   "pl": 7.52,
+   "pl": 9.14,
    "roi": -1.4,
-   "wr": 56.8,
+   "wr": 57.0,
    "st": "ap"
   },
   {
@@ -147,17 +147,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 4,
-   "r": 12,
-   "pl": 29.27,
-   "roi": 3.7,
-   "wr": 25.0,
-   "st": "val"
-  },
-  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -166,6 +155,17 @@
    "pl": 27.87,
    "roi": 10.0,
    "wr": 84.8,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 4,
+   "r": 13,
+   "pl": 27.27,
+   "roi": 3.7,
+   "wr": 23.5,
    "st": "val"
   },
   {
@@ -235,17 +235,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 20,
-   "r": 27,
-   "pl": 18.41,
-   "roi": 6.7,
-   "wr": 42.6,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -265,6 +254,17 @@
    "pl": 17.11,
    "roi": 1.0,
    "wr": 96.4,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 20,
+   "r": 28,
+   "pl": 16.41,
+   "roi": 6.7,
+   "wr": 41.7,
    "st": "val"
   },
   {
@@ -389,14 +389,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
+   "n": "FÚRIA HT",
+   "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 32,
-   "r": 5,
-   "pl": 6.99,
-   "roi": -0.3,
-   "wr": 86.5,
+   "g": 45,
+   "r": 1,
+   "pl": 7.14,
+   "roi": 0.2,
+   "wr": 97.8,
    "st": "val"
   },
   {
@@ -408,17 +408,6 @@
    "pl": 6.87,
    "roi": 27.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "FÚRIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 44,
-   "r": 1,
-   "pl": 6.77,
-   "roi": 0.2,
-   "wr": 97.8,
    "st": "val"
   },
   {
@@ -452,6 +441,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 16,
+   "pl": 4.69,
+   "roi": -0.2,
+   "wr": 60.0,
    "st": "val"
   },
   {
@@ -496,17 +496,6 @@
    "pl": 3.28,
    "roi": -0.2,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 16,
-   "pl": 3.02,
-   "roi": -0.2,
-   "wr": 59.0,
    "st": "val"
   },
   {
@@ -567,6 +556,86 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-09 18:03:32",
+   "tm": "18:03",
+   "match": "Sarajevo vs Inter Turku",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 38.0,
+   "status": "green",
+   "pl": 2.7
+  },
+  {
+   "data": "2026-07-09 18:00:25",
+   "tm": "18:00",
+   "match": "France vs Morocco",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-09 18:00:11",
+   "tm": "18:00",
+   "match": "Sarajevo vs Inter Turku",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-09 17:55:10",
+   "tm": "17:55",
+   "match": "France vs Morocco",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.37
+  },
+  {
+   "data": "2026-07-09 17:55:04",
+   "tm": "17:55",
+   "match": "France vs Morocco",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.62
+  },
+  {
+   "data": "2026-07-09 17:55:04",
+   "tm": "17:55",
+   "match": "France vs Morocco",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 4.05
+  },
+  {
+   "data": "2026-07-09 17:39:54",
+   "tm": "17:39",
+   "match": "Dinamo City vs Astana",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-09 17:34:58",
+   "tm": "17:34",
+   "match": "Dinamo City vs Astana",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-09 16:05:10",
    "tm": "16:05",
    "match": "Dynamo Kyiv vs Universitatea Cluj",
@@ -605,26 +674,6 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 15:11:03",
-   "tm": "15:11",
-   "match": "Alashkert vs Yelimay Semey",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-09 15:10:56",
-   "tm": "15:10",
-   "match": "Nõmme Kalju vs Linfield",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.3,
-   "status": "green",
-   "pl": 2.33
   },
   {
    "data": "2026-07-09 15:05:06",
@@ -745,83 +794,23 @@
    "odd": 21.0,
    "status": "green",
    "pl": 1.1
-  },
-  {
-   "data": "2026-07-09 00:54:26",
-   "tm": "00:54",
-   "match": "Vancouver Whitecaps x Cavalry FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.67
-  },
-  {
-   "data": "2026-07-09 00:24:56",
-   "tm": "00:24",
-   "match": "Vancouver FC vs CF Montréal",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.96
-  },
-  {
-   "data": "2026-07-08 23:59:51",
-   "tm": "23:59",
-   "match": "Vancouver FC vs CF Montréal",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.32
-  },
-  {
-   "data": "2026-07-08 23:28:21",
-   "tm": "23:28",
-   "match": "Vancouver FC x CF Montréal",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 22.0,
-   "status": "green",
-   "pl": 1.05
-  },
-  {
-   "data": "2026-07-08 22:19:42",
-   "tm": "22:19",
-   "match": "Hartford Athletic vs Orange County",
-   "bot": "BLINDADO 2-2",
-   "mkt": "Lay Placar 2x2",
-   "odd": 4.0,
-   "status": "red",
-   "pl": -4.92
-  },
-  {
-   "data": "2026-07-08 21:38:11",
-   "tm": "21:38",
-   "match": "Hartford Athletic x Orange County SC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.65
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 20,
-   "g": 9,
-   "r": 11,
-   "pl": -6.31,
-   "wr": 45,
+   "ent": 26,
+   "g": 12,
+   "r": 14,
+   "pl": -5.9,
+   "wr": 46,
    "label": "09/07"
   },
   "mes": {
-   "ent": 388,
-   "g": 266,
-   "r": 122,
-   "pl": 156.52,
-   "wr": 69,
+   "ent": 382,
+   "g": 258,
+   "r": 124,
+   "pl": 146.75,
+   "wr": 68,
    "label": "mês"
   }
  }
