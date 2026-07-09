@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-08T21:29",
+ "gerado_em": "2026-07-08T22:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 300,
+   "g": 301,
    "r": 87,
-   "pl": 15.66,
+   "pl": 16.42,
    "roi": 2.0,
-   "wr": 77.5,
+   "wr": 77.6,
    "st": "ap"
   },
   {
@@ -139,11 +139,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 51,
+   "g": 52,
    "r": 4,
-   "pl": 47.36,
+   "pl": 49.56,
    "roi": 1.0,
-   "wr": 92.7,
+   "wr": 92.9,
    "st": "val"
   },
   {
@@ -202,6 +202,17 @@
    "st": "val"
   },
   {
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 91,
+   "r": 7,
+   "pl": 21.29,
+   "roi": 0.0,
+   "wr": 92.9,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -221,17 +232,6 @@
    "pl": 20.51,
    "roi": 11.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 90,
-   "r": 7,
-   "pl": 19.93,
-   "roi": 0.0,
-   "wr": 92.8,
    "st": "val"
   },
   {
@@ -265,17 +265,6 @@
    "pl": 17.11,
    "roi": 1.0,
    "wr": 96.4,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
-   "plat": "Bolsa",
-   "g": 10,
-   "r": 0,
-   "pl": 13.64,
-   "roi": 1.1,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -345,6 +334,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 10,
+   "r": 1,
+   "pl": 8.72,
+   "roi": 1.1,
+   "wr": 90.9,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -411,6 +411,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 57,
+   "r": 23,
+   "pl": 6.31,
+   "roi": 2.0,
+   "wr": 71.2,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -430,17 +441,6 @@
    "pl": 5.84,
    "roi": 0.3,
    "wr": 87.0,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 56,
-   "r": 23,
-   "pl": 5.67,
-   "roi": 2.0,
-   "wr": 70.9,
    "st": "val"
   },
   {
@@ -555,6 +555,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-08 22:19:42",
+   "tm": "22:19",
+   "match": "Hartford Athletic vs Orange County",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.0,
+   "status": "red",
+   "pl": -4.92
+  },
+  {
+   "data": "2026-07-08 21:38:11",
+   "tm": "21:38",
+   "match": "Hartford Athletic x Orange County SC",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.65
+  },
+  {
+   "data": "2026-07-08 21:24:11",
+   "tm": "21:24",
+   "match": "Hartford Athletic x Orange County SC",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-07-08 21:12:05",
+   "tm": "21:12",
+   "match": "Ponte Preta x Criciúma",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 27.0,
+   "status": "green",
+   "pl": 2.2
+  },
+  {
+   "data": "2026-07-08 21:08:15",
+   "tm": "21:08",
+   "match": "Ponte Preta x Criciúma",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.76
+  },
   {
    "data": "2026-07-08 19:34:59",
    "tm": "19:34",
@@ -744,72 +794,22 @@
    "odd": 1.3,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-07 22:13:07",
-   "tm": "22:13",
-   "match": "Aucas x Guayaquil City",
-   "bot": "MURALHA CASA-40",
-   "mkt": "Lay Goleada Casa",
-   "odd": 13.5,
-   "status": "green",
-   "pl": 1.15
-  },
-  {
-   "data": "2026-07-07 22:09:45",
-   "tm": "22:09",
-   "match": "Athletic Club vs Operário PR",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-07-07 21:16:05",
-   "tm": "21:16",
-   "match": "Athletic Club x Operário-PR",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-07 21:12:15",
-   "tm": "21:12",
-   "match": "Aucas x Guayaquil City",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 2.46
-  },
-  {
-   "data": "2026-07-07 18:59:35",
-   "tm": "18:59",
-   "match": "Switzerland vs Colombia",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.6,
-   "status": "green",
-   "pl": 1.79
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 15,
-   "g": 11,
-   "r": 4,
-   "pl": 18.45,
-   "wr": 73,
+   "ent": 20,
+   "g": 15,
+   "r": 5,
+   "pl": 18.5,
+   "wr": 75,
    "label": "08/07"
   },
   "mes": {
-   "ent": 350,
-   "g": 245,
-   "r": 105,
-   "pl": 160.46,
+   "ent": 355,
+   "g": 249,
+   "r": 106,
+   "pl": 160.51,
    "wr": 70,
    "label": "mês"
   }
