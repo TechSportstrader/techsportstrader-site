@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-08T23:29",
+ "gerado_em": "2026-07-09T00:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 55,
-   "r": 95,
-   "pl": 76.87,
+   "r": 96,
+   "pl": 74.91,
    "roi": 18.9,
-   "wr": 36.7,
+   "wr": 36.4,
    "st": "ap"
   },
   {
@@ -552,9 +552,40 @@
    "roi": -100.0,
    "wr": 33.3,
    "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 19,
+   "r": 15,
+   "pl": 0.08,
+   "roi": -0.0,
+   "wr": 55.9,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-09 00:24:56",
+   "tm": "00:24",
+   "match": "Vancouver FC vs CF Montréal",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -1.96
+  },
+  {
+   "data": "2026-07-08 23:59:51",
+   "tm": "23:59",
+   "match": "Vancouver FC vs CF Montréal",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.32
+  },
   {
    "data": "2026-07-08 22:19:42",
    "tm": "22:19",
@@ -614,6 +645,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.76
+  },
+  {
+   "data": "2026-07-08 19:39:43",
+   "tm": "19:39",
+   "match": "Real Oruro vs Universitario de Vinto",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-07-08 19:34:59",
@@ -764,52 +805,22 @@
    "odd": 1.7,
    "status": "red",
    "pl": -5.0
-  },
-  {
-   "data": "2026-07-07 23:09:48",
-   "tm": "23:09",
-   "match": "Aucas vs Guayaquil City",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 13.0,
-   "status": "green",
-   "pl": 1.24
-  },
-  {
-   "data": "2026-07-07 22:43:31",
-   "tm": "22:43",
-   "match": "Gualberto Villarroel SJ vs Real Tomayapo",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-07 22:19:05",
-   "tm": "22:19",
-   "match": "Aucas x Guayaquil City",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 4.15
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
-   "g": 16,
-   "r": 5,
-   "pl": 19.89,
-   "wr": 76,
-   "label": "08/07"
+   "ent": 1,
+   "g": 0,
+   "r": 1,
+   "pl": -1.96,
+   "wr": 0,
+   "label": "09/07"
   },
   "mes": {
-   "ent": 356,
-   "g": 250,
-   "r": 106,
-   "pl": 161.9,
+   "ent": 368,
+   "g": 256,
+   "r": 112,
+   "pl": 159.82,
    "wr": 70,
    "label": "mês"
   }
