@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T18:29",
+ "gerado_em": "2026-07-09T19:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -282,11 +282,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 47,
+   "g": 48,
    "r": 20,
-   "pl": 11.37,
+   "pl": 12.64,
    "roi": 1.5,
-   "wr": 70.1,
+   "wr": 70.6,
    "st": "val"
   },
   {
@@ -342,17 +342,6 @@
    "pl": 8.72,
    "roi": 1.1,
    "wr": 90.9,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 59,
-   "r": 23,
-   "pl": 8.37,
-   "roi": 2.0,
-   "wr": 72.0,
    "st": "val"
   },
   {
@@ -419,6 +408,17 @@
    "pl": 6.47,
    "roi": 16.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 59,
+   "r": 24,
+   "pl": 6.37,
+   "roi": 2.0,
+   "wr": 71.1,
    "st": "val"
   },
   {
@@ -555,6 +555,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-09 19:14:58",
+   "tm": "19:14",
+   "match": "France vs Morocco",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 1.27
+  },
+  {
+   "data": "2026-07-09 18:31:06",
+   "tm": "18:31",
+   "match": "France x Morocco",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-09 18:03:32",
    "tm": "18:03",
@@ -774,43 +794,23 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 14:24:56",
-   "tm": "14:24",
-   "match": "Alashkert vs Yelimay Semey",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 01:09:38",
-   "tm": "01:09",
-   "match": "Vancouver FC vs CF Montréal",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 21.0,
-   "status": "green",
-   "pl": 1.1
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 26,
-   "g": 12,
-   "r": 14,
-   "pl": -5.9,
+   "ent": 28,
+   "g": 13,
+   "r": 15,
+   "pl": -6.63,
    "wr": 46,
    "label": "09/07"
   },
   "mes": {
-   "ent": 382,
-   "g": 258,
-   "r": 124,
-   "pl": 146.75,
-   "wr": 68,
+   "ent": 384,
+   "g": 259,
+   "r": 125,
+   "pl": 146.02,
+   "wr": 67,
    "label": "mês"
   }
  }
