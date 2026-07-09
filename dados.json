@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-08T21:08",
+ "gerado_em": "2026-07-08T21:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -474,17 +474,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 3,
-   "r": 0,
-   "pl": 4.15,
-   "roi": 0.4,
-   "wr": 100.0,
    "st": "val"
   },
   {
