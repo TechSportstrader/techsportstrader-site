@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T19:29",
+ "gerado_em": "2026-07-09T20:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -62,9 +62,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 301,
+   "g": 302,
    "r": 87,
-   "pl": 16.42,
+   "pl": 17.23,
    "roi": 2.0,
    "wr": 77.6,
    "st": "ap"
@@ -524,9 +524,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 7,
+   "g": 8,
    "r": 0,
-   "pl": 0.53,
+   "pl": 0.72,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -574,6 +574,26 @@
    "odd": 1.5,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-09 18:25:04",
+   "tm": "18:25",
+   "match": "France x Morocco",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.82
+  },
+  {
+   "data": "2026-07-09 18:20:15",
+   "tm": "18:20",
+   "match": "France x Morocco",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.19
   },
   {
    "data": "2026-07-09 18:03:32",
@@ -774,43 +794,23 @@
    "odd": 1.6,
    "status": "red",
    "pl": -1.98
-  },
-  {
-   "data": "2026-07-09 14:30:04",
-   "tm": "14:30",
-   "match": "Alashkert vs Yelimay Semey",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 14:30:03",
-   "tm": "14:30",
-   "match": "Liepāja vs Dečić",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 28,
-   "g": 13,
+   "ent": 30,
+   "g": 15,
    "r": 15,
-   "pl": -6.63,
-   "wr": 46,
+   "pl": -5.63,
+   "wr": 50,
    "label": "09/07"
   },
   "mes": {
-   "ent": 384,
-   "g": 259,
+   "ent": 386,
+   "g": 261,
    "r": 125,
-   "pl": 146.02,
-   "wr": 67,
+   "pl": 147.02,
+   "wr": 68,
    "label": "mês"
   }
  }
