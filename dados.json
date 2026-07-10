@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T22:29",
+ "gerado_em": "2026-07-09T23:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -9,8 +9,8 @@
    "plat": "Bolsa",
    "g": 238,
    "r": 0,
-   "pl": 384.15,
-   "roi": 38.0,
+   "pl": 384.03,
+   "roi": 38.4,
    "wr": 100.0,
    "st": "ap"
   },
@@ -18,10 +18,10 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 445,
+   "g": 446,
    "r": 5,
-   "pl": 284.1,
-   "roi": 1.0,
+   "pl": 285.44,
+   "roi": 1,
    "wr": 98.9,
    "st": "ap"
   },
@@ -31,8 +31,8 @@
    "plat": "BotBet",
    "g": 314,
    "r": 18,
-   "pl": 123.36,
-   "roi": 1.0,
+   "pl": 123.03,
+   "roi": 1,
    "wr": 94.6,
    "st": "ap"
   },
@@ -42,8 +42,8 @@
    "plat": "Bolsa",
    "g": 55,
    "r": 100,
-   "pl": 66.93,
-   "roi": 18.9,
+   "pl": 65.67,
+   "roi": 18.8,
    "wr": 35.5,
    "st": "ap"
   },
@@ -64,8 +64,8 @@
    "plat": "BotBet",
    "g": 302,
    "r": 87,
-   "pl": 17.23,
-   "roi": 2.0,
+   "pl": 16.84,
+   "roi": 2,
    "wr": 77.6,
    "st": "ap"
   },
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 49,
+   "r": 20,
+   "pl": 13.99,
+   "roi": 1.5,
+   "wr": 71.0,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -276,17 +287,6 @@
    "pl": 13.06,
    "roi": 1.4,
    "wr": 55.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 48,
-   "r": 20,
-   "pl": 12.64,
-   "roi": 1.5,
-   "wr": 70.6,
    "st": "val"
   },
   {
@@ -342,17 +342,6 @@
    "pl": 8.72,
    "roi": 1.1,
    "wr": 90.9,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20 (Bolsa)",
-   "s": "Lay (misto) · Bolsa",
-   "plat": "Bolsa",
-   "g": 6,
-   "r": 0,
-   "pl": 7.92,
-   "roi": 0.3,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -556,6 +545,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-09 23:05:00",
+   "tm": "23:05",
+   "match": "Nacional Potosí vs Aurora",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
    "data": "2026-07-09 21:59:41",
    "tm": "21:59",
    "match": "Nacional Potosí vs Aurora",
@@ -574,6 +573,16 @@
    "odd": 2.0,
    "status": "green",
    "pl": 1.96
+  },
+  {
+   "data": "2026-07-09 21:20:04",
+   "tm": "21:20",
+   "match": "Nacional Potosí x Club Aurora",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-07-09 19:14:58",
@@ -774,42 +783,22 @@
    "odd": 1.7,
    "status": "green",
    "pl": 3.4
-  },
-  {
-   "data": "2026-07-09 14:55:07",
-   "tm": "14:55",
-   "match": "Dynamo Kyiv vs Universitatea Cluj",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.92
-  },
-  {
-   "data": "2026-07-09 14:55:07",
-   "tm": "14:55",
-   "match": "Dynamo Kyiv vs Universitatea Cluj",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 4.8
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 32,
-   "g": 17,
+   "ent": 33,
+   "g": 18,
    "r": 15,
-   "pl": -1.71,
-   "wr": 53,
+   "pl": 0.02,
+   "wr": 55,
    "label": "09/07"
   },
   "mes": {
-   "ent": 388,
-   "g": 263,
+   "ent": 386,
+   "g": 261,
    "r": 125,
-   "pl": 150.94,
+   "pl": 148.4,
    "wr": 68,
    "label": "mês"
   }
