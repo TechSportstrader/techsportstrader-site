@@ -221,7 +221,7 @@
     <div class="livehead">
       <div>
         <h2 class="sec">Últimas operações concluídas</h2>
-        <div class="livedot" style="margin-top:6px"><i></i> Operações reais · atualiza a cada hora</div>
+        <div class="livedot" style="margin-top:6px"><i></i> Operações de hoje · atualiza a cada hora · histórico por dia no calendário abaixo</div>
       </div>
       <div class="seg" id="period">
         <button class="on" data-p="dia">Hoje</button>
@@ -230,7 +230,29 @@
     </div>
     <div class="summary" id="summary"></div>
     <div class="feed" id="feed"></div>
-    <p class="demo-note" style="margin-top:18px">Operações reais concluídas dos métodos, conferidas no relatório da plataforma. Atualiza sozinho a cada hora.</p>
+    <p class="demo-note" style="margin-top:18px">Operações concluídas dos métodos do catálogo, acompanhadas pelo nosso monitoramento ao vivo. Atualiza sozinho a cada hora.</p>
+
+    <style>
+      #calendario .calmonth{margin-bottom:20px}
+      #calendario .calhead{font-weight:700;color:#e4b648;text-transform:capitalize;margin-bottom:10px;font-size:16px}
+      #calendario .calgrid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+      #calendario .caldow{text-align:center;color:#8fa0bd;font-size:11px;font-weight:600;padding:2px 0}
+      #calendario .calcell{background:var(--card);border:1px solid var(--bd);border-radius:10px;min-height:66px;padding:7px;display:flex;flex-direction:column;gap:2px}
+      #calendario .calcell.empty{background:transparent;border:0}
+      #calendario .calcell .cd{font-size:12px;color:#8fa0bd;font-weight:700}
+      #calendario .calcell.pos{border-color:rgba(22,224,127,.45);background:rgba(22,224,127,.08)}
+      #calendario .calcell.neg{border-color:rgba(255,92,108,.45);background:rgba(255,92,108,.08)}
+      #calendario .calcell .cpl{font-weight:700;font-size:13px;margin-top:auto}
+      #calendario .calcell.pos .cpl{color:#16e07f}
+      #calendario .calcell.neg .cpl{color:#ff5c6c}
+      #calendario .calcell .cops{font-size:10px;color:#8fa0bd}
+      @media(max-width:560px){#calendario .calcell{min-height:54px;padding:4px}#calendario .calcell .cpl{font-size:11px}#calendario .calcell .cops{display:none}}
+    </style>
+    <div class="calwrap" style="margin-top:30px">
+      <h2 class="sec" style="font-size:22px">Resultado por dia</h2>
+      <div class="livedot" style="margin:4px 0 16px"><i></i> Total diário dos métodos do catálogo · verde = dia positivo, vermelho = dia negativo</div>
+      <div id="calendario"></div>
+    </div>
   </div>
 </section>
 
@@ -464,17 +486,39 @@ function cells(arr){return arr.map(function(x){return '<div class="scell"><b cla
 var curPeriod='dia';
 function renderSummary(){
   var s=document.getElementById('summary');
-  if(curPeriod==='dia'){var d=RESUMO.dia||{}; if(!d.ent){s.innerHTML='<div class="scell" style="grid-column:1/-1;text-align:center"><b class="gold">🕐 Aguardando as primeiras operações de hoje</b><span>a maioria das entradas acontece à tarde e à noite</span></div>';} else {s.innerHTML=cells([['Entradas ('+(d.label||'dia')+')',d.ent||0],['Greens',d.g||0,'green'],['Reds',d.r||0,'red'],['P/L do dia',money(d.pl||0),(d.pl||0)>=0?'green':'red']]);} }
-  else{var m=RESUMO.mes||{};s.innerHTML=cells([['Entradas no período',m.ent||0],['Win rate médio',(m.wr||0)+'%','green'],['Bots aprovados',apCount(),'green'],['P/L acumulado',money(m.pl||0),(m.pl||0)>=0?'green':'red']]);}
+  if(curPeriod==='dia'){var d=RESUMO.dia||{}; if(!d.ent){s.innerHTML='<div class="scell" style="grid-column:1/-1;text-align:center"><b class="gold">🕐 Aguardando as primeiras operações de hoje</b><span>a maioria das entradas acontece à tarde e à noite</span></div>';} else {s.innerHTML=cells([['Entradas ('+(d.label||'dia')+')',d.ent||0],['Greens',d.g||0,'green'],['Reds',d.r||0,'red'],['P/L do dia · métodos do catálogo',money(d.pl||0),(d.pl||0)>=0?'green':'red']]);} }
+  else{var m=RESUMO.mes||{};s.innerHTML=cells([['Entradas no período',m.ent||0],['Win rate médio',(m.wr||0)+'%','green'],['Métodos aprovados',apCount(),'green'],['P/L do mês · métodos do catálogo',money(m.pl||0),(m.pl||0)>=0?'green':'red']]);}
 }
 document.querySelectorAll('#period button').forEach(function(b){b.addEventListener('click',function(){
   document.querySelectorAll('#period button').forEach(function(x){x.classList.remove('on');});
   b.classList.add('on'); curPeriod=b.dataset.p; renderSummary();
 });});
+function renderCalendario(cal){
+  var host=document.getElementById('calendario'); if(!host) return; cal=cal||{};
+  var now=new Date();
+  function mHTML(y,m){
+    var first=new Date(y,m,1), sd=first.getDay(), days=new Date(y,m+1,0).getDate();
+    var name=first.toLocaleDateString('pt-BR',{month:'long',year:'numeric'});
+    var h='<div class="calmonth"><div class="calhead">'+name+'</div><div class="calgrid">';
+    ['D','S','T','Q','Q','S','S'].forEach(function(w){h+='<div class="caldow">'+w+'</div>';});
+    var i; for(i=0;i<sd;i++) h+='<div class="calcell empty"></div>';
+    for(var dn=1;dn<=days;dn++){
+      var key=y+'-'+('0'+(m+1)).slice(-2)+'-'+('0'+dn).slice(-2), c=cal[key];
+      if(c&&c.ops){var pos=c.pl>=0; h+='<div class="calcell '+(pos?'pos':'neg')+'"><div class="cd">'+dn+'</div><div class="cpl">'+money(c.pl)+'</div><div class="cops">'+c.ops+' ops</div></div>';}
+      else h+='<div class="calcell"><div class="cd">'+dn+'</div></div>';
+    }
+    return h+'</div></div>';
+  }
+  var html='', pm=new Date(now.getFullYear(),now.getMonth()-1,1), pk=pm.getFullYear()+'-'+('0'+(pm.getMonth()+1)).slice(-2);
+  if(Object.keys(cal).some(function(k){return k.slice(0,7)===pk;})) html+=mHTML(pm.getFullYear(),pm.getMonth());
+  html+=mHTML(now.getFullYear(),now.getMonth());
+  host.innerHTML=html;
+}
 renderFeed(); renderSummary();
 fetch('dados.json?t='+Date.now()).then(function(r){return r.ok?r.json():Promise.reject();}).then(function(d){
-  if(d.operacoes&&d.operacoes.length){OPS=d.operacoes;renderFeed();}
+  if(d.operacoes){OPS=d.operacoes;renderFeed();}
   if(d.resumo){RESUMO=d.resumo;renderSummary();}
+  if(d.calendario){renderCalendario(d.calendario);}
 }).catch(function(){});
 </script>
 </body>
