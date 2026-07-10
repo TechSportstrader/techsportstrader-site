@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T16:14",
+ "gerado_em": "2026-07-10T17:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -59,25 +59,14 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 131,
-   "r": 96,
-   "pl": 8.39,
-   "roi": -0.0,
-   "wr": 57.7,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 122,
-   "r": 94,
-   "pl": 5.14,
+   "r": 95,
+   "pl": 3.14,
    "roi": -1.4,
-   "wr": 56.5,
+   "wr": 56.2,
    "st": "ap"
   },
   {
@@ -224,6 +213,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 22,
+   "r": 29,
+   "pl": 20.13,
+   "roi": 6.7,
+   "wr": 43.1,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -243,17 +243,6 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 21,
-   "r": 29,
-   "pl": 17.27,
-   "roi": 6.7,
-   "wr": 42.0,
    "st": "val"
   },
   {
@@ -279,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 3-1 (Bolsa)",
+   "s": "Lay Placar 3x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 9,
+   "r": 0,
+   "pl": 13.34,
+   "roi": 4.2,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -287,17 +287,6 @@
    "pl": 11.68,
    "roi": 1.4,
    "wr": 53.7,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 3-1 (Bolsa)",
-   "s": "Lay Placar 3x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 8,
-   "r": 0,
-   "pl": 11.62,
-   "roi": 4.2,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -545,6 +534,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-10 17:11:35",
+   "tm": "17:11",
+   "match": "UAI Urquiza vs Deportivo Merlo",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.86
+  },
+  {
+   "data": "2026-07-10 17:01:42",
+   "tm": "17:01",
+   "match": "Talleres Remedios de Escalada vs Flandria",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-10 17:01:12",
+   "tm": "17:01",
+   "match": "Brown de Adrogué vs Ituzaingó",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.26
+  },
+  {
+   "data": "2026-07-10 16:51:09",
+   "tm": "16:51",
+   "match": "Waterford United vs St Patrick's",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-10 15:02:20",
    "tm": "15:02",
    "match": "Villa San Carlos vs San Martín Burzaco",
@@ -633,26 +662,6 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-10 12:34:59",
-   "tm": "12:34",
-   "match": "River Plate Res. vs Racing Club Res.",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -5.0
-  },
-  {
-   "data": "2026-07-10 12:25:01",
-   "tm": "12:25",
-   "match": "Inter Turku II vs RoPS",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -5.0
   },
   {
    "data": "2026-07-10 12:25:01",
@@ -763,43 +772,23 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.82
-  },
-  {
-   "data": "2026-07-09 18:20:15",
-   "tm": "18:20",
-   "match": "France x Morocco",
-   "bot": "LOWLINE",
-   "mkt": "Under 3.5 FT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.19
-  },
-  {
-   "data": "2026-07-09 18:03:32",
-   "tm": "18:03",
-   "match": "Sarajevo vs Inter Turku",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 38.0,
-   "status": "green",
-   "pl": 2.7
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 15,
-   "g": 7,
-   "r": 8,
-   "pl": -7.73,
-   "wr": 47,
+   "ent": 17,
+   "g": 10,
+   "r": 7,
+   "pl": 9.11,
+   "wr": 59,
    "label": "10/07"
   },
   "mes": {
-   "ent": 401,
-   "g": 268,
-   "r": 133,
-   "pl": 140.67,
-   "wr": 67,
+   "ent": 355,
+   "g": 241,
+   "r": 114,
+   "pl": 136.28,
+   "wr": 68,
    "label": "mês"
   }
  }
