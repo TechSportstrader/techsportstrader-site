@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T12:14",
+ "gerado_em": "2026-07-10T13:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -48,17 +48,6 @@
    "st": "ap"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 131,
-   "r": 94,
-   "pl": 18.39,
-   "roi": -0.0,
-   "wr": 58.2,
-   "st": "ap"
-  },
-  {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -70,14 +59,25 @@
    "st": "ap"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 131,
+   "r": 96,
+   "pl": 8.39,
+   "roi": -0.0,
+   "wr": 57.7,
+   "st": "ap"
+  },
+  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 122,
-   "r": 92,
-   "pl": 9.14,
+   "r": 94,
+   "pl": 5.14,
    "roi": -1.4,
-   "wr": 57.0,
+   "wr": 56.5,
    "st": "ap"
   },
   {
@@ -545,6 +545,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-10 12:34:59",
+   "tm": "12:34",
+   "match": "River Plate Res. vs Racing Club Res.",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 12:34:59",
+   "tm": "12:34",
+   "match": "River Plate Res. vs Racing Club Res.",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-10 12:25:01",
+   "tm": "12:25",
+   "match": "Inter Turku II vs RoPS",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-10 12:25:01",
+   "tm": "12:25",
+   "match": "Inter Turku II vs RoPS",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-10 09:33:32",
    "tm": "09:33",
    "match": "Cheonan City vs Gimhae City",
@@ -743,63 +783,23 @@
    "odd": 1.2,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 16:00:53",
-   "tm": "16:00",
-   "match": "Dinamo Minsk vs Sileks",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 15:34:57",
-   "tm": "15:34",
-   "match": "Bohemians vs St Josephs FC",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.5
-  },
-  {
-   "data": "2026-07-09 15:24:56",
-   "tm": "15:24",
-   "match": "Velez vs Milsami",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 15:05:06",
-   "tm": "15:05",
-   "match": "Europa FC vs Skendija 79",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.9,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
+   "ent": 7,
    "g": 2,
-   "r": 1,
-   "pl": 1.75,
-   "wr": 67,
+   "r": 5,
+   "pl": -12.25,
+   "wr": 29,
    "label": "10/07"
   },
   "mes": {
-   "ent": 389,
+   "ent": 393,
    "g": 263,
-   "r": 126,
-   "pl": 150.15,
-   "wr": 68,
+   "r": 130,
+   "pl": 136.15,
+   "wr": 67,
    "label": "mês"
   }
  }
