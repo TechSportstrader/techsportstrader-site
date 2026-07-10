@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T18:14",
+ "gerado_em": "2026-07-10T19:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "SKIRMISH",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 6,
+   "r": 0,
+   "pl": 8.78,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -340,17 +351,6 @@
    "g": 6,
    "r": 0,
    "pl": 7.55,
-   "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SKIRMISH",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 0,
-   "pl": 7.31,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -422,6 +422,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 11,
+   "pl": 5.15,
+   "roi": -0.2,
+   "wr": 68.6,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -463,17 +474,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 11,
-   "pl": 4.22,
-   "roi": -0.2,
-   "wr": 67.6,
    "st": "val"
   },
   {
@@ -542,6 +542,16 @@
    "odd": 2.3,
    "status": "green",
    "pl": 1.2
+  },
+  {
+   "data": "2026-07-10 18:08:38",
+   "tm": "18:08",
+   "match": "Waterford United vs St Patrick's",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.93
   },
   {
    "data": "2026-07-10 17:58:30",
@@ -642,6 +652,16 @@
    "odd": 14.5,
    "status": "green",
    "pl": 1.11
+  },
+  {
+   "data": "2026-07-10 16:25:14",
+   "tm": "16:25",
+   "match": "Waterford FC x St. Patrick's Athletic",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.47
   },
   {
    "data": "2026-07-10 15:02:20",
@@ -752,42 +772,22 @@
    "odd": 40.0,
    "status": "green",
    "pl": 2.56
-  },
-  {
-   "data": "2026-07-10 09:30:00",
-   "tm": "09:30",
-   "match": "Cheonan City vs Gimhae City",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-10 09:29:59",
-   "tm": "09:29",
-   "match": "Cheonan City vs Gimhae City",
-   "bot": "BLINDADO 3-1 (Bolsa)",
-   "mkt": "Lay Placar 3x1",
-   "odd": 22.0,
-   "status": "green",
-   "pl": 1.19
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 24,
-   "g": 15,
+   "ent": 26,
+   "g": 17,
    "r": 9,
-   "pl": 12.92,
-   "wr": 62,
+   "pl": 15.32,
+   "wr": 65,
    "label": "10/07"
   },
   "mes": {
-   "ent": 362,
-   "g": 246,
+   "ent": 364,
+   "g": 248,
    "r": 116,
-   "pl": 140.09,
+   "pl": 142.49,
    "wr": 68,
    "label": "mês"
   }
