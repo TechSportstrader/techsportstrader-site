@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T17:14",
+ "gerado_em": "2026-07-10T18:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -257,17 +257,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 50,
-   "r": 20,
-   "pl": 15.19,
-   "roi": 1.5,
-   "wr": 71.4,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -276,6 +265,17 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 51,
+   "r": 22,
+   "pl": 12.25,
+   "roi": 1.5,
+   "wr": 69.9,
    "st": "val"
   },
   {
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 8,
+   "r": 0,
+   "pl": 10.77,
+   "roi": 9.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 10.67,
    "roi": 3.0,
    "wr": 97.1,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 7,
-   "r": 0,
-   "pl": 9.66,
-   "roi": 9.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -353,6 +353,17 @@
    "pl": 7.31,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 60,
+   "r": 24,
+   "pl": 7.15,
+   "roi": 2.0,
+   "wr": 71.4,
    "st": "val"
   },
   {
@@ -397,17 +408,6 @@
    "pl": 6.47,
    "roi": 16.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 59,
-   "r": 24,
-   "pl": 6.37,
-   "roi": 2.0,
-   "wr": 71.1,
    "st": "val"
   },
   {
@@ -477,6 +477,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 21,
+   "r": 15,
+   "pl": 4.08,
+   "roi": -0.0,
+   "wr": 58.3,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -496,17 +507,6 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 20,
-   "r": 15,
-   "pl": 2.04,
-   "roi": -0.0,
-   "wr": 57.1,
    "st": "val"
   },
   {
@@ -534,6 +534,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-10 18:08:38",
+   "tm": "18:08",
+   "match": "ÍR vs Thróttur Reykjavík",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.3,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-07-10 17:58:30",
+   "tm": "17:58",
+   "match": "Spain vs Belgium",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.3,
+   "status": "red",
+   "pl": -2.98
+  },
+  {
+   "data": "2026-07-10 17:48:45",
+   "tm": "17:48",
+   "match": "Dundalk vs Drogheda United",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.8,
+   "status": "red",
+   "pl": -1.16
+  },
+  {
+   "data": "2026-07-10 17:25:05",
+   "tm": "17:25",
+   "match": "Spain x Belgium",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.78
+  },
+  {
+   "data": "2026-07-10 17:11:41",
+   "tm": "17:11",
+   "match": "Leiknir Reykjavík vs Grótta",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 2.04
+  },
+  {
    "data": "2026-07-10 17:11:35",
    "tm": "17:11",
    "match": "UAI Urquiza vs Deportivo Merlo",
@@ -542,6 +592,16 @@
    "odd": 1.7,
    "status": "green",
    "pl": 2.86
+  },
+  {
+   "data": "2026-07-10 17:11:07",
+   "tm": "17:11",
+   "match": "UAI Urquiza vs Deportivo Merlo",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.82
   },
   {
    "data": "2026-07-10 17:01:42",
@@ -572,6 +632,16 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 16:31:23",
+   "tm": "16:31",
+   "match": "Dundalk FC x Drogheda United",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.5,
+   "status": "green",
+   "pl": 1.11
   },
   {
    "data": "2026-07-10 15:02:20",
@@ -702,92 +772,22 @@
    "odd": 22.0,
    "status": "green",
    "pl": 1.19
-  },
-  {
-   "data": "2026-07-09 23:05:00",
-   "tm": "23:05",
-   "match": "Nacional Potosí vs Aurora",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.7,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-07-09 21:59:41",
-   "tm": "21:59",
-   "match": "Nacional Potosí vs Aurora",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.96
-  },
-  {
-   "data": "2026-07-09 21:59:41",
-   "tm": "21:59",
-   "match": "Nacional Potosí vs Aurora",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.96
-  },
-  {
-   "data": "2026-07-09 21:20:04",
-   "tm": "21:20",
-   "match": "Nacional Potosí x Club Aurora",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
-  },
-  {
-   "data": "2026-07-09 19:14:58",
-   "tm": "19:14",
-   "match": "France vs Morocco",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.5,
-   "status": "green",
-   "pl": 1.27
-  },
-  {
-   "data": "2026-07-09 18:31:06",
-   "tm": "18:31",
-   "match": "France x Morocco",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 18:25:04",
-   "tm": "18:25",
-   "match": "France x Morocco",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.82
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 10,
-   "r": 7,
-   "pl": 9.11,
-   "wr": 59,
+   "ent": 24,
+   "g": 15,
+   "r": 9,
+   "pl": 12.92,
+   "wr": 62,
    "label": "10/07"
   },
   "mes": {
-   "ent": 355,
-   "g": 241,
-   "r": 114,
-   "pl": 136.28,
+   "ent": 362,
+   "g": 246,
+   "r": 116,
+   "pl": 140.09,
    "wr": 68,
    "label": "mês"
   }
