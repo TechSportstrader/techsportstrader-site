@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T19:14",
+ "gerado_em": "2026-07-10T19:40",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -389,17 +389,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 25,
-   "r": 16,
-   "pl": 6.65,
-   "roi": -0.2,
-   "wr": 61.0,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -455,6 +444,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 25,
+   "r": 17,
+   "pl": 4.65,
+   "roi": -0.2,
+   "wr": 59.5,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -477,17 +477,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 21,
-   "r": 15,
-   "pl": 4.08,
-   "roi": -0.0,
-   "wr": 58.3,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -507,6 +496,17 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 21,
+   "r": 16,
+   "pl": 2.08,
+   "roi": -0.0,
+   "wr": 56.8,
    "st": "val"
   },
   {
@@ -533,6 +533,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-10 19:38:57",
+   "tm": "19:38",
+   "match": "Leones del Norte vs Universidad Católica",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 19:38:56",
+   "tm": "19:38",
+   "match": "Leones del Norte vs Universidad Católica",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-10 18:08:38",
    "tm": "18:08",
@@ -752,42 +772,22 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-10 12:25:01",
-   "tm": "12:25",
-   "match": "Inter Turku II vs RoPS",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-10 09:33:32",
-   "tm": "09:33",
-   "match": "Cheonan City vs Gimhae City",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 40.0,
-   "status": "green",
-   "pl": 2.56
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 26,
+   "ent": 28,
    "g": 17,
-   "r": 9,
-   "pl": 15.32,
-   "wr": 65,
+   "r": 11,
+   "pl": 11.32,
+   "wr": 61,
    "label": "10/07"
   },
   "mes": {
-   "ent": 364,
+   "ent": 366,
    "g": 248,
-   "r": 116,
-   "pl": 142.49,
+   "r": 118,
+   "pl": 138.49,
    "wr": 68,
    "label": "mês"
   }
