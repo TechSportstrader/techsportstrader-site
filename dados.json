@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T13:14",
+ "gerado_em": "2026-07-10T14:14",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -261,10 +261,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 20,
-   "r": 28,
-   "pl": 16.41,
+   "r": 29,
+   "pl": 14.41,
    "roi": 6.7,
-   "wr": 41.7,
+   "wr": 40.8,
    "st": "val"
   },
   {
@@ -480,11 +480,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 22,
+   "g": 23,
    "r": 11,
-   "pl": 3.28,
+   "pl": 4.22,
    "roi": -0.2,
-   "wr": 66.7,
+   "wr": 67.6,
    "st": "val"
   },
   {
@@ -544,6 +544,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-10 14:04:58",
+   "tm": "14:04",
+   "match": "Tampere United vs SalPa",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 14:00:17",
+   "tm": "14:00",
+   "match": "Tampere United vs SalPa",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 13:24:59",
+   "tm": "13:24",
+   "match": "Inter Turku II vs RoPS",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.94
+  },
   {
    "data": "2026-07-10 12:34:59",
    "tm": "12:34",
@@ -753,52 +783,22 @@
    "odd": 1.8,
    "status": "green",
    "pl": 4.05
-  },
-  {
-   "data": "2026-07-09 17:39:54",
-   "tm": "17:39",
-   "match": "Dinamo City vs Astana",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 17:34:58",
-   "tm": "17:34",
-   "match": "Dinamo City vs Astana",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-09 16:05:10",
-   "tm": "16:05",
-   "match": "Dynamo Kyiv vs Universitatea Cluj",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 2,
-   "r": 5,
-   "pl": -12.25,
-   "wr": 29,
+   "ent": 10,
+   "g": 3,
+   "r": 7,
+   "pl": -15.31,
+   "wr": 30,
    "label": "10/07"
   },
   "mes": {
-   "ent": 393,
-   "g": 263,
-   "r": 130,
-   "pl": 136.15,
+   "ent": 396,
+   "g": 264,
+   "r": 132,
+   "pl": 133.09,
    "wr": 67,
    "label": "mês"
   }
