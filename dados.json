@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-09T21:29",
+ "gerado_em": "2026-07-09T22:29",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -400,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 25,
+   "r": 16,
+   "pl": 6.65,
+   "roi": -0.2,
+   "wr": 61.0,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -441,17 +452,6 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 16,
-   "pl": 4.69,
-   "roi": -0.2,
-   "wr": 60.0,
    "st": "val"
   },
   {
@@ -521,6 +521,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 20,
+   "r": 15,
+   "pl": 2.04,
+   "roi": -0.0,
+   "wr": 57.1,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -541,20 +552,29 @@
    "roi": -100.0,
    "wr": 33.3,
    "st": "val"
-  },
-  {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 19,
-   "r": 15,
-   "pl": 0.08,
-   "roi": -0.0,
-   "wr": 55.9,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-09 21:59:41",
+   "tm": "21:59",
+   "match": "Nacional Potosí vs Aurora",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.96
+  },
+  {
+   "data": "2026-07-09 21:59:41",
+   "tm": "21:59",
+   "match": "Nacional Potosí vs Aurora",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.96
+  },
   {
    "data": "2026-07-09 19:14:58",
    "tm": "19:14",
@@ -774,42 +794,22 @@
    "odd": 2.0,
    "status": "green",
    "pl": 4.8
-  },
-  {
-   "data": "2026-07-09 14:55:02",
-   "tm": "14:55",
-   "match": "Qarabağ vs Vestri",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -1.12
-  },
-  {
-   "data": "2026-07-09 14:34:56",
-   "tm": "14:34",
-   "match": "Liepāja vs Dečić",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -1.98
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 30,
-   "g": 15,
+   "ent": 32,
+   "g": 17,
    "r": 15,
-   "pl": -5.63,
-   "wr": 50,
+   "pl": -1.71,
+   "wr": 53,
    "label": "09/07"
   },
   "mes": {
-   "ent": 386,
-   "g": 261,
+   "ent": 388,
+   "g": 263,
    "r": 125,
-   "pl": 147.02,
+   "pl": 150.94,
    "wr": 68,
    "label": "mês"
   }
