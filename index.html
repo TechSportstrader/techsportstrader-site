@@ -509,10 +509,7 @@ function renderCalendario(cal){
     }
     return h+'</div></div>';
   }
-  var html='', pm=new Date(now.getFullYear(),now.getMonth()-1,1), pk=pm.getFullYear()+'-'+('0'+(pm.getMonth()+1)).slice(-2);
-  if(Object.keys(cal).some(function(k){return k.slice(0,7)===pk;})) html+=mHTML(pm.getFullYear(),pm.getMonth());
-  html+=mHTML(now.getFullYear(),now.getMonth());
-  host.innerHTML=html;
+  host.innerHTML=mHTML(now.getFullYear(),now.getMonth());   // só o mês atual
 }
 renderFeed(); renderSummary();
 fetch('dados.json?t='+Date.now()).then(function(r){return r.ok?r.json():Promise.reject();}).then(function(d){
