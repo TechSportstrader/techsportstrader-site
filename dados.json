@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-10T21:41",
+ "gerado_em": "2026-07-10T22:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -158,17 +158,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 4,
-   "r": 14,
-   "pl": 25.27,
-   "roi": 3.7,
-   "wr": 22.2,
-   "st": "val"
-  },
-  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -177,6 +166,17 @@
    "pl": 23.29,
    "roi": 13.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 4,
+   "r": 15,
+   "pl": 23.27,
+   "roi": 3.7,
+   "wr": 21.1,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 0,
+   "pl": 8.19,
+   "roi": 16.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -385,17 +396,6 @@
    "r": 0,
    "pl": 6.87,
    "roi": 27.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 0,
-   "pl": 6.47,
-   "roi": 16.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -533,6 +533,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-10 22:18:51",
+   "tm": "22:18",
+   "match": "Sport Recife vs Botafogo SP",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-10 20:29:04",
+   "tm": "20:29",
+   "match": "Sport Recife x Botafogo-SP",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
   {
    "data": "2026-07-10 20:10:04",
    "tm": "20:10",
@@ -846,28 +866,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 31,
-   "g": 18,
-   "r": 13,
-   "pl": 8.54,
+   "ent": 33,
+   "g": 19,
+   "r": 14,
+   "pl": 8.26,
    "wr": 58,
    "label": "10/07"
   },
   "mes": {
-   "ent": 369,
-   "g": 249,
-   "r": 120,
-   "pl": 135.71,
+   "ent": 371,
+   "g": 250,
+   "r": 121,
+   "pl": 135.43,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-10": {
-   "pl": 8.54,
-   "ops": 31,
-   "g": 18,
-   "r": 13
+   "pl": 8.26,
+   "ops": 33,
+   "g": 19,
+   "r": 14
   },
   "2026-07-09": {
    "pl": -7.23,
