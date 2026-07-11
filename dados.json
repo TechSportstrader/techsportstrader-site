@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-11T19:41",
+ "gerado_em": "2026-07-11T20:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 23,
+   "r": 31,
+   "pl": 18.92,
+   "roi": 6.7,
+   "wr": 42.6,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -254,17 +265,6 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 22,
-   "r": 31,
-   "pl": 16.14,
-   "roi": 6.7,
-   "wr": 41.5,
    "st": "val"
   },
   {
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "SKIRMISH",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 7,
+   "r": 0,
+   "pl": 10.45,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
@@ -345,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "SKIRMISH",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 6,
-   "r": 0,
-   "pl": 8.78,
-   "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -375,17 +375,6 @@
    "pl": 6.87,
    "roi": 27.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 62,
-   "r": 25,
-   "pl": 6.75,
-   "roi": 2.0,
-   "wr": 71.3,
    "st": "val"
   },
   {
@@ -419,6 +408,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 62,
+   "r": 26,
+   "pl": 4.75,
+   "roi": 2.0,
+   "wr": 70.5,
    "st": "val"
   },
   {
@@ -534,6 +534,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-11 20:09:07",
+   "tm": "20:09",
+   "match": "XV de Piracicaba vs Cianorte",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.78
+  },
+  {
+   "data": "2026-07-11 20:08:35",
+   "tm": "20:08",
+   "match": "XV de Piracicaba vs Cianorte",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 2.94
+  },
+  {
+   "data": "2026-07-11 19:20:05",
+   "tm": "19:20",
+   "match": "Norway x England",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-11 18:48:51",
    "tm": "18:48",
    "match": "Norway vs England",
@@ -562,6 +592,16 @@
    "odd": 1.8,
    "status": "red",
    "pl": -5.0
+  },
+  {
+   "data": "2026-07-11 18:22:16",
+   "tm": "18:22",
+   "match": "Norway x England",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-11 17:28:28",
@@ -1092,72 +1132,32 @@
    "odd": 55.0,
    "status": "green",
    "pl": 1.63
-  },
-  {
-   "data": "2026-07-11 09:58:43",
-   "tm": "09:58",
-   "match": "Fredrikstad vs Lillestrøm",
-   "bot": "FÚRIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.35
-  },
-  {
-   "data": "2026-07-11 09:58:38",
-   "tm": "09:58",
-   "match": "Fredrikstad vs Lillestrøm",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 5.0
-  },
-  {
-   "data": "2026-07-11 09:58:38",
-   "tm": "09:58",
-   "match": "Fredrikstad vs Lillestrøm",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 2.0
-  },
-  {
-   "data": "2026-07-11 09:48:35",
-   "tm": "09:48",
-   "match": "Chengdu Rongcheng vs Chongqing Tonglianglong FC",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -5.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 75,
-   "g": 48,
-   "r": 27,
-   "pl": 3.64,
-   "wr": 64,
+   "ent": 79,
+   "g": 51,
+   "r": 28,
+   "pl": 9.03,
+   "wr": 65,
    "label": "11/07"
   },
   "mes": {
-   "ent": 495,
-   "g": 328,
-   "r": 167,
-   "pl": 131.93,
+   "ent": 499,
+   "g": 331,
+   "r": 168,
+   "pl": 137.32,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-11": {
-   "pl": 3.64,
-   "ops": 75,
-   "g": 48,
-   "r": 27
+   "pl": 9.03,
+   "ops": 79,
+   "g": 51,
+   "r": 28
   },
   "2026-07-10": {
    "pl": -13.78,
