@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-11T07:41",
+ "gerado_em": "2026-07-11T10:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -59,14 +59,25 @@
    "st": "ap"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 133,
+   "r": 99,
+   "pl": 5.53,
+   "roi": -0.0,
+   "wr": 57.3,
+   "st": "ap"
+  },
+  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 122,
-   "r": 95,
-   "pl": 3.14,
+   "g": 124,
+   "r": 97,
+   "pl": 4.14,
    "roi": -1.4,
-   "wr": 56.2,
+   "wr": 56.1,
    "st": "ap"
   },
   {
@@ -169,17 +180,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 4,
-   "r": 15,
-   "pl": 23.27,
-   "roi": 3.7,
-   "wr": 21.1,
-   "st": "val"
-  },
-  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -188,6 +188,17 @@
    "pl": 21.29,
    "roi": 0.0,
    "wr": 92.9,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 4,
+   "r": 16,
+   "pl": 21.27,
+   "roi": 3.7,
+   "wr": 20.0,
    "st": "val"
   },
   {
@@ -246,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 23,
+   "r": 19,
+   "pl": 14.24,
+   "roi": 1.4,
+   "wr": 54.8,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -254,28 +276,6 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 51,
-   "r": 22,
-   "pl": 12.25,
-   "roi": 1.5,
-   "wr": 69.9,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 22,
-   "r": 19,
-   "pl": 11.68,
-   "roi": 1.4,
-   "wr": 53.7,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 51,
+   "r": 23,
+   "pl": 9.65,
+   "roi": 1.5,
+   "wr": 68.9,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -334,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
-   "plat": "Bolsa",
-   "g": 10,
-   "r": 1,
-   "pl": 8.72,
-   "roi": 1.1,
-   "wr": 90.9,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -359,22 +359,22 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 60,
+   "g": 61,
    "r": 24,
-   "pl": 7.15,
+   "pl": 7.92,
    "roi": 2.0,
-   "wr": 71.4,
+   "wr": 71.8,
    "st": "val"
   },
   {
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 45,
+   "g": 46,
    "r": 1,
-   "pl": 7.14,
+   "pl": 7.49,
    "roi": 0.2,
-   "wr": 97.8,
+   "wr": 97.9,
    "st": "val"
   },
   {
@@ -386,6 +386,28 @@
    "pl": 6.87,
    "roi": 27.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 27,
+   "r": 18,
+   "pl": 5.83,
+   "roi": -0.2,
+   "wr": 60.0,
+   "st": "val"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 84,
+   "r": 13,
+   "pl": 5.3,
+   "roi": 0.3,
+   "wr": 86.6,
    "st": "val"
   },
   {
@@ -408,28 +430,6 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 82,
-   "r": 13,
-   "pl": 4.8,
-   "roi": 0.3,
-   "wr": 86.3,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 25,
-   "r": 17,
-   "pl": 4.65,
-   "roi": -0.2,
-   "wr": 59.5,
    "st": "val"
   },
   {
@@ -466,6 +466,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 10,
+   "r": 2,
+   "pl": 3.72,
+   "roi": 1.1,
+   "wr": 83.3,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -491,11 +502,11 @@
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 21,
-   "r": 16,
+   "g": 22,
+   "r": 17,
    "pl": 2.08,
    "roi": -0.0,
-   "wr": 56.8,
+   "wr": 56.4,
    "st": "val"
   },
   {
@@ -521,289 +532,516 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-11 10:29:32",
+   "tm": "10:29",
+   "match": "Guangdong Mingtu vs Shenzhen 2028",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.7,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-11 10:28:36",
+   "tm": "10:28",
+   "match": "Guangzhou E-Power FC vs Shijiazhuang Gongfu",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.8,
+   "status": "red",
+   "pl": -2.6
+  },
+  {
+   "data": "2026-07-11 09:59:33",
+   "tm": "09:59",
+   "match": "Fredrikstad vs Lillestrøm",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
+   "data": "2026-07-11 09:58:43",
+   "tm": "09:58",
+   "match": "Fredrikstad vs Lillestrøm",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.35
+  },
+  {
+   "data": "2026-07-11 09:58:38",
+   "tm": "09:58",
+   "match": "Fredrikstad vs Lillestrøm",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 5.0
+  },
+  {
+   "data": "2026-07-11 09:58:38",
+   "tm": "09:58",
+   "match": "Fredrikstad vs Lillestrøm",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
+   "data": "2026-07-11 09:48:35",
+   "tm": "09:48",
+   "match": "Chengdu Rongcheng vs Chongqing Tonglianglong FC",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-11 09:48:35",
+   "tm": "09:48",
+   "match": "Chengdu Rongcheng vs Chongqing Tonglianglong FC",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 09:39:40",
+   "tm": "09:39",
+   "match": "Hwaseong vs Paju Citizen",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 09:29:19",
+   "tm": "09:29",
+   "match": "Guangzhou E-Power FC vs Shijiazhuang Gongfu",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.76
+  },
+  {
+   "data": "2026-07-11 09:19:25",
+   "tm": "09:19",
+   "match": "Shenzhen Peng City vs Qingdao West Coast",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 09:19:25",
+   "tm": "09:19",
+   "match": "Shenzhen Peng City vs Qingdao West Coast",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 09:18:33",
+   "tm": "09:18",
+   "match": "Dalian Kuncheng City vs Nanjing City",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 08:59:18",
+   "tm": "08:59",
+   "match": "Dalian Kuncheng City vs Nanjing City",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
+   "data": "2026-07-11 08:58:16",
+   "tm": "08:58",
+   "match": "Yanbian Longding vs Suzhou Dongwu",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 2.04
+  },
+  {
+   "data": "2026-07-11 08:38:28",
+   "tm": "08:38",
+   "match": "Feyenoord vs Club Brugge",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.3,
+   "status": "green",
+   "pl": 2.56
+  },
+  {
+   "data": "2026-07-11 08:32:16",
+   "tm": "08:32",
+   "match": "Feyenoord x Club Brugge KV",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.77
+  },
+  {
+   "data": "2026-07-11 08:28:27",
+   "tm": "08:28",
+   "match": "Feyenoord vs Club Brugge",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.26
+  },
+  {
+   "data": "2026-07-11 08:18:26",
+   "tm": "08:18",
+   "match": "Yongin City vs Cheongju",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-11 08:08:34",
+   "tm": "08:08",
+   "match": "Ulsan HD vs Jeonbuk Motors",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.24
+  },
+  {
+   "data": "2026-07-11 07:58:31",
+   "tm": "07:58",
+   "match": "Feyenoord vs Club Brugge",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 7.14
+  },
+  {
+   "data": "2026-07-11 07:58:31",
+   "tm": "07:58",
+   "match": "Feyenoord vs Club Brugge",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 3.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
-   "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "ent": 22,
+   "g": 13,
+   "r": 9,
+   "pl": 3.94,
+   "wr": 59,
    "label": "11/07"
   },
   "mes": {
-   "ent": 366,
-   "g": 244,
-   "r": 122,
-   "pl": 122.76,
-   "wr": 67,
+   "ent": 440,
+   "g": 287,
+   "r": 153,
+   "pl": 127.93,
+   "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
-  "2026-07-10": {
-   "pl": 6.26,
-   "ops": 34,
-   "g": 19,
-   "r": 15
-  },
-  "2026-07-09": {
-   "pl": -7.23,
-   "ops": 29,
-   "g": 15,
-   "r": 14
-  },
-  "2026-07-08": {
-   "pl": 24.78,
-   "ops": 20,
-   "g": 16,
-   "r": 4
-  },
-  "2026-07-07": {
-   "pl": 1.29,
-   "ops": 23,
-   "g": 14,
+  "2026-07-11": {
+   "pl": 3.94,
+   "ops": 22,
+   "g": 13,
    "r": 9
   },
-  "2026-07-06": {
-   "pl": 12.26,
-   "ops": 29,
-   "g": 23,
+  "2026-07-10": {
+   "pl": -13.74,
+   "ops": 38,
+   "g": 19,
+   "r": 19
+  },
+  "2026-07-09": {
+   "pl": 0.02,
+   "ops": 33,
+   "g": 18,
+   "r": 15
+  },
+  "2026-07-08": {
+   "pl": 19.23,
+   "ops": 23,
+   "g": 17,
    "r": 6
   },
+  "2026-07-07": {
+   "pl": -3.21,
+   "ops": 26,
+   "g": 15,
+   "r": 11
+  },
+  "2026-07-06": {
+   "pl": 24.56,
+   "ops": 34,
+   "g": 27,
+   "r": 7
+  },
   "2026-07-05": {
-   "pl": 40.08,
-   "ops": 63,
-   "g": 45,
-   "r": 18
+   "pl": 42.76,
+   "ops": 75,
+   "g": 52,
+   "r": 23
   },
   "2026-07-04": {
-   "pl": -37.5,
-   "ops": 71,
-   "g": 41,
-   "r": 30
+   "pl": -28.3,
+   "ops": 83,
+   "g": 50,
+   "r": 33
   },
   "2026-07-03": {
-   "pl": 49.14,
-   "ops": 38,
-   "g": 30,
-   "r": 8
+   "pl": 50.33,
+   "ops": 41,
+   "g": 32,
+   "r": 9
   },
   "2026-07-02": {
-   "pl": 29.44,
-   "ops": 34,
-   "g": 24,
-   "r": 10
+   "pl": 32.1,
+   "ops": 38,
+   "g": 27,
+   "r": 11
   },
   "2026-07-01": {
-   "pl": 4.25,
-   "ops": 25,
+   "pl": 0.25,
+   "ops": 27,
    "g": 17,
-   "r": 8
+   "r": 10
   },
   "2026-06-30": {
-   "pl": -1.61,
+   "pl": -2.91,
+   "ops": 19,
+   "g": 10,
+   "r": 9
+  },
+  "2026-06-29": {
+   "pl": 1.4,
+   "ops": 23,
+   "g": 11,
+   "r": 12
+  },
+  "2026-06-28": {
+   "pl": 32.48,
+   "ops": 65,
+   "g": 42,
+   "r": 23
+  },
+  "2026-06-27": {
+   "pl": 8.12,
+   "ops": 43,
+   "g": 29,
+   "r": 14
+  },
+  "2026-06-26": {
+   "pl": -3.28,
+   "ops": 35,
+   "g": 18,
+   "r": 17
+  },
+  "2026-06-25": {
+   "pl": 18.69,
+   "ops": 26,
+   "g": 21,
+   "r": 5
+  },
+  "2026-06-24": {
+   "pl": 1.22,
+   "ops": 27,
+   "g": 20,
+   "r": 7
+  },
+  "2026-06-23": {
+   "pl": 28.06,
+   "ops": 31,
+   "g": 22,
+   "r": 9
+  },
+  "2026-06-22": {
+   "pl": -0.21,
+   "ops": 32,
+   "g": 16,
+   "r": 16
+  },
+  "2026-06-21": {
+   "pl": -9.14,
+   "ops": 38,
+   "g": 28,
+   "r": 10
+  },
+  "2026-06-20": {
+   "pl": 11.66,
+   "ops": 54,
+   "g": 34,
+   "r": 20
+  },
+  "2026-06-19": {
+   "pl": 9.24,
+   "ops": 12,
+   "g": 8,
+   "r": 4
+  },
+  "2026-06-18": {
+   "pl": 4.43,
+   "ops": 13,
+   "g": 10,
+   "r": 3
+  },
+  "2026-06-17": {
+   "pl": 9.81,
+   "ops": 16,
+   "g": 13,
+   "r": 3
+  },
+  "2026-06-16": {
+   "pl": 21.68,
+   "ops": 30,
+   "g": 20,
+   "r": 10
+  },
+  "2026-06-15": {
+   "pl": 10.93,
+   "ops": 22,
+   "g": 15,
+   "r": 7
+  },
+  "2026-06-14": {
+   "pl": 39.94,
+   "ops": 51,
+   "g": 38,
+   "r": 13
+  },
+  "2026-06-13": {
+   "pl": 13.49,
+   "ops": 44,
+   "g": 28,
+   "r": 16
+  },
+  "2026-06-12": {
+   "pl": -24.34,
+   "ops": 26,
+   "g": 18,
+   "r": 8
+  },
+  "2026-06-11": {
+   "pl": 4.23,
+   "ops": 9,
+   "g": 7,
+   "r": 2
+  },
+  "2026-06-10": {
+   "pl": 4.86,
+   "ops": 20,
+   "g": 14,
+   "r": 6
+  },
+  "2026-06-09": {
+   "pl": 3.45,
+   "ops": 24,
+   "g": 14,
+   "r": 10
+  },
+  "2026-06-08": {
+   "pl": -9.93,
+   "ops": 27,
+   "g": 12,
+   "r": 15
+  },
+  "2026-06-07": {
+   "pl": 8.14,
+   "ops": 50,
+   "g": 31,
+   "r": 19
+  },
+  "2026-06-06": {
+   "pl": -16.25,
+   "ops": 54,
+   "g": 29,
+   "r": 25
+  },
+  "2026-06-05": {
+   "pl": 18.45,
+   "ops": 19,
+   "g": 14,
+   "r": 5
+  },
+  "2026-06-04": {
+   "pl": -0.18,
+   "ops": 10,
+   "g": 6,
+   "r": 4
+  },
+  "2026-06-03": {
+   "pl": -14.1,
    "ops": 15,
    "g": 8,
    "r": 7
   },
-  "2026-06-29": {
-   "pl": 7.4,
-   "ops": 20,
-   "g": 11,
-   "r": 9
-  },
-  "2026-06-28": {
-   "pl": 28.38,
-   "ops": 62,
-   "g": 39,
-   "r": 23
-  },
-  "2026-06-27": {
-   "pl": 10.92,
-   "ops": 40,
-   "g": 28,
-   "r": 12
-  },
-  "2026-06-26": {
-   "pl": 4.72,
-   "ops": 31,
-   "g": 18,
-   "r": 13
-  },
-  "2026-06-25": {
-   "pl": 13.55,
-   "ops": 23,
-   "g": 18,
-   "r": 5
-  },
-  "2026-06-24": {
-   "pl": -2.55,
-   "ops": 22,
-   "g": 16,
-   "r": 6
-  },
-  "2026-06-23": {
-   "pl": 29.04,
-   "ops": 25,
-   "g": 19,
-   "r": 6
-  },
-  "2026-06-22": {
-   "pl": 4.11,
-   "ops": 28,
-   "g": 15,
-   "r": 13
-  },
-  "2026-06-21": {
-   "pl": -12.23,
-   "ops": 36,
-   "g": 26,
-   "r": 10
-  },
-  "2026-06-20": {
-   "pl": 13.2,
-   "ops": 50,
-   "g": 32,
-   "r": 18
-  },
-  "2026-06-19": {
-   "pl": 9.24,
-   "ops": 10,
-   "g": 7,
+  "2026-06-02": {
+   "pl": 11.81,
+   "ops": 11,
+   "g": 8,
    "r": 3
   },
-  "2026-06-18": {
-   "pl": 6.43,
-   "ops": 12,
-   "g": 10,
-   "r": 2
+  "2026-06-01": {
+   "pl": 6.62,
+   "ops": 25,
+   "g": 16,
+   "r": 9
   },
-  "2026-06-17": {
-   "pl": 8.91,
-   "ops": 13,
-   "g": 11,
-   "r": 2
+  "2026-05-31": {
+   "pl": 9.12,
+   "ops": 74,
+   "g": 48,
+   "r": 26
   },
-  "2026-06-16": {
-   "pl": 26.12,
-   "ops": 26,
-   "g": 19,
-   "r": 7
+  "2026-05-30": {
+   "pl": 21.99,
+   "ops": 70,
+   "g": 46,
+   "r": 24
   },
-  "2026-06-15": {
-   "pl": 10.49,
-   "ops": 20,
-   "g": 14,
-   "r": 6
+  "2026-05-29": {
+   "pl": 69.64,
+   "ops": 72,
+   "g": 56,
+   "r": 16
   },
-  "2026-06-14": {
-   "pl": 33.51,
-   "ops": 45,
-   "g": 33,
-   "r": 12
-  },
-  "2026-06-13": {
-   "pl": 15.09,
-   "ops": 38,
-   "g": 25,
-   "r": 13
-  },
-  "2026-06-12": {
-   "pl": -26.3,
-   "ops": 22,
-   "g": 15,
-   "r": 7
-  },
-  "2026-06-11": {
-   "pl": 1.47,
-   "ops": 7,
-   "g": 5,
-   "r": 2
-  },
-  "2026-06-10": {
-   "pl": 2.84,
-   "ops": 16,
-   "g": 11,
-   "r": 5
-  },
-  "2026-06-09": {
-   "pl": 5.83,
-   "ops": 21,
-   "g": 13,
-   "r": 8
-  },
-  "2026-06-08": {
-   "pl": -7.26,
-   "ops": 20,
-   "g": 9,
-   "r": 11
-  },
-  "2026-06-07": {
-   "pl": 14.63,
-   "ops": 40,
-   "g": 27,
-   "r": 13
-  },
-  "2026-06-06": {
-   "pl": -6.11,
-   "ops": 42,
-   "g": 25,
-   "r": 17
-  },
-  "2026-06-05": {
-   "pl": 15.33,
-   "ops": 17,
-   "g": 12,
-   "r": 5
-  },
-  "2026-06-04": {
-   "pl": -1.38,
-   "ops": 9,
-   "g": 5,
-   "r": 4
-  },
-  "2026-06-03": {
-   "pl": -18.1,
-   "ops": 13,
-   "g": 6,
-   "r": 7
-  },
-  "2026-06-02": {
-   "pl": 11.01,
+  "2026-05-28": {
+   "pl": 8.02,
    "ops": 8,
    "g": 6,
    "r": 2
-  },
-  "2026-06-01": {
-   "pl": 4.86,
-   "ops": 19,
-   "g": 12,
-   "r": 7
-  },
-  "2026-05-31": {
-   "pl": 7.98,
-   "ops": 60,
-   "g": 40,
-   "r": 20
-  },
-  "2026-05-30": {
-   "pl": 19.18,
-   "ops": 61,
-   "g": 40,
-   "r": 21
-  },
-  "2026-05-29": {
-   "pl": 59.17,
-   "ops": 59,
-   "g": 45,
-   "r": 14
-  },
-  "2026-05-28": {
-   "pl": 8.48,
-   "ops": 6,
-   "g": 5,
-   "r": 1
   },
   "2026-05-27": {
    "pl": -14.49,
