@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T19:06",
+ "gerado_em": "2026-07-12T19:10",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -202,17 +202,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 31,
-   "pl": 22.92,
-   "roi": 6.7,
-   "wr": 43.6,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -257,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 32,
+   "pl": 20.92,
+   "roi": 6.7,
+   "wr": 42.9,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -276,6 +276,17 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 42,
+   "r": 6,
+   "pl": 14.9,
+   "roi": -0.3,
+   "wr": 87.5,
    "st": "val"
   },
   {
@@ -309,17 +320,6 @@
    "pl": 13.25,
    "roi": 1.4,
    "wr": 53.2,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 41,
-   "r": 6,
-   "pl": 13.18,
-   "roi": -0.3,
-   "wr": 87.2,
    "st": "val"
   },
   {
@@ -522,6 +522,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-12 19:09:11",
+   "tm": "19:09",
+   "match": "Treze vs CRAC",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-12 18:59:19",
+   "tm": "18:59",
+   "match": "FH vs Valur",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 1.72
+  },
   {
    "data": "2026-07-12 18:48:30",
    "tm": "18:48",
@@ -975,28 +995,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 45,
-   "g": 33,
-   "r": 12,
-   "pl": 68.23,
-   "wr": 73,
+   "ent": 47,
+   "g": 34,
+   "r": 13,
+   "pl": 67.95,
+   "wr": 72,
    "label": "12/07"
   },
   "mes": {
-   "ent": 545,
-   "g": 363,
-   "r": 182,
-   "pl": 199.38,
+   "ent": 547,
+   "g": 364,
+   "r": 183,
+   "pl": 199.1,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 68.23,
-   "ops": 45,
-   "g": 33,
-   "r": 12
+   "pl": 67.95,
+   "ops": 47,
+   "g": 34,
+   "r": 13
   },
   "2026-07-11": {
    "pl": 8.29,
