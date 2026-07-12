@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T01:41",
+ "gerado_em": "2026-07-12T02:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -272,10 +272,10 @@
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 19,
-   "pl": 15.5,
+   "r": 20,
+   "pl": 13.5,
    "roi": 1.4,
-   "wr": 55.8,
+   "wr": 54.5,
    "st": "val"
   },
   {
@@ -532,26 +532,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-12 02:08:29",
+   "tm": "02:08",
+   "match": "LA Galaxy vs América",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "12/07"
   },
   "mes": {
-   "ent": 501,
+   "ent": 502,
    "g": 333,
-   "r": 168,
-   "pl": 140.25,
+   "r": 169,
+   "pl": 138.25,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-12": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-07-11": {
    "pl": 11.96,
    "ops": 81,
