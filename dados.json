@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T14:42",
+ "gerado_em": "2026-07-12T15:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -59,34 +59,34 @@
    "st": "ap"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 88,
-   "r": 13,
-   "pl": 6.8,
-   "roi": 0.3,
-   "wr": 87.1,
-   "st": "ap"
-  },
-  {
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 137,
+   "g": 138,
    "r": 102,
-   "pl": 5.73,
+   "pl": 12.03,
    "roi": -0.0,
-   "wr": 57.3,
+   "wr": 57.5,
+   "st": "ap"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 89,
+   "r": 13,
+   "pl": 7.18,
+   "roi": 0.3,
+   "wr": 87.3,
    "st": "ap"
   },
   {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 127,
-   "r": 101,
-   "pl": 1.02,
+   "g": 128,
+   "r": 102,
+   "pl": 1.38,
    "roi": -1.4,
    "wr": 55.7,
    "st": "ap"
@@ -158,6 +158,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 6,
+   "r": 19,
+   "pl": 46.87,
+   "roi": 3.7,
+   "wr": 24.0,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x0",
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -166,17 +177,6 @@
    "pl": 42.77,
    "roi": 9.9,
    "wr": 66.0,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 5,
-   "r": 19,
-   "pl": 32.87,
-   "roi": 3.7,
-   "wr": 20.8,
    "st": "val"
   },
   {
@@ -254,6 +254,17 @@
    "pl": 21.18,
    "roi": 33.0,
    "wr": 84.4,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 2,
+   "r": 4,
+   "pl": 18.64,
+   "roi": 131.0,
+   "wr": 33.3,
    "st": "val"
   },
   {
@@ -381,9 +392,9 @@
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
-   "g": 5,
+   "g": 6,
    "r": 0,
-   "pl": 6.87,
+   "pl": 8.12,
    "roi": 27.0,
    "wr": 100.0,
    "st": "val"
@@ -392,11 +403,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 25,
+   "g": 26,
    "r": 11,
-   "pl": 5.93,
+   "pl": 7.24,
    "roi": -0.2,
-   "wr": 69.4,
+   "wr": 70.3,
    "st": "val"
   },
   {
@@ -408,6 +419,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 11,
+   "r": 2,
+   "pl": 4.97,
+   "roi": 1.1,
+   "wr": 84.6,
    "st": "val"
   },
   {
@@ -444,47 +466,25 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 1,
-   "r": 4,
-   "pl": 3.84,
-   "roi": 131.0,
-   "wr": 20.0,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
-   "plat": "Bolsa",
-   "g": 10,
-   "r": 2,
-   "pl": 3.72,
-   "roi": 1.1,
-   "wr": 83.3,
-   "st": "val"
-  },
-  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 62,
+   "g": 63,
    "r": 27,
-   "pl": 2.75,
+   "pl": 3.88,
    "roi": 2.0,
-   "wr": 69.7,
+   "wr": 70.0,
    "st": "val"
   },
   {
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 46,
+   "g": 47,
    "r": 2,
-   "pl": 2.49,
+   "pl": 2.99,
    "roi": 0.2,
-   "wr": 95.8,
+   "wr": 95.9,
    "st": "val"
   },
   {
@@ -534,6 +534,126 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-12 14:58:46",
+   "tm": "14:58",
+   "match": "LDU Quito vs Libertad",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.5
+  },
+  {
+   "data": "2026-07-12 14:58:40",
+   "tm": "14:58",
+   "match": "LDU Quito vs Libertad",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 2.36
+  },
+  {
+   "data": "2026-07-12 14:58:39",
+   "tm": "14:58",
+   "match": "LDU Quito vs Libertad",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.3,
+   "status": "green",
+   "pl": 6.3
+  },
+  {
+   "data": "2026-07-12 14:58:37",
+   "tm": "14:58",
+   "match": "Nõmme United II vs Flora II",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 1.31
+  },
+  {
+   "data": "2026-07-12 14:48:16",
+   "tm": "14:48",
+   "match": "TransINVEST Vilnius vs Banga",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 28.0,
+   "status": "green",
+   "pl": 3.7
+  },
+  {
+   "data": "2026-07-12 13:59:24",
+   "tm": "13:59",
+   "match": "Brann vs Start",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "green",
+   "pl": 14.0
+  },
+  {
+   "data": "2026-07-12 13:25:38",
+   "tm": "13:25",
+   "match": "SK Brann x IK Start",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.4,
+   "status": "green",
+   "pl": 14.8
+  },
+  {
+   "data": "2026-07-12 12:59:04",
+   "tm": "12:59",
+   "match": "Barra FC vs Santa Cruz",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 5.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-07-12 12:48:29",
+   "tm": "12:48",
+   "match": "GAIS vs Elfsborg",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.38
+  },
+  {
+   "data": "2026-07-12 12:38:24",
+   "tm": "12:38",
+   "match": "GAIS x IF Elfsborg",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-12 12:22:11",
+   "tm": "12:22",
+   "match": "Barra FC x Santa Cruz",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 5.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-07-12 12:17:15",
+   "tm": "12:17",
+   "match": "Operário-PR x Grêmio Novorizontino",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.12
+  },
+  {
    "data": "2026-07-12 11:38:37",
    "tm": "11:38",
    "match": "KFUM vs Bodø / Glimt",
@@ -552,6 +672,16 @@
    "odd": 1.8,
    "status": "green",
    "pl": 0.78
+  },
+  {
+   "data": "2026-07-12 11:37:35",
+   "tm": "11:37",
+   "match": "GAIS x IF Elfsborg",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 85.0,
+   "status": "green",
+   "pl": 1.01
   },
   {
    "data": "2026-07-12 10:46:23",
@@ -666,40 +796,40 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 9,
-   "r": 4,
-   "pl": 18.09,
-   "wr": 69,
+   "ent": 26,
+   "g": 21,
+   "r": 5,
+   "pl": 64.08,
+   "wr": 81,
    "label": "12/07"
   },
   "mes": {
-   "ent": 514,
-   "g": 342,
-   "r": 172,
-   "pl": 158.35,
+   "ent": 529,
+   "g": 354,
+   "r": 175,
+   "pl": 200.33,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 18.09,
-   "ops": 13,
-   "g": 9,
-   "r": 4
+   "pl": 64.08,
+   "ops": 26,
+   "g": 21,
+   "r": 5
   },
   "2026-07-11": {
-   "pl": 11.96,
-   "ops": 81,
+   "pl": 9.96,
+   "ops": 82,
    "g": 53,
-   "r": 28
+   "r": 29
   },
   "2026-07-10": {
-   "pl": -13.78,
-   "ops": 36,
+   "pl": -15.78,
+   "ops": 37,
    "g": 18,
-   "r": 18
+   "r": 19
   },
   "2026-07-09": {
    "pl": -5.94,
