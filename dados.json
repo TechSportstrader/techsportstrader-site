@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T06:41",
+ "gerado_em": "2026-07-12T09:42",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -158,25 +158,25 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 62,
+   "r": 32,
+   "pl": 42.77,
+   "roi": 9.9,
+   "wr": 66.0,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 5,
-   "r": 18,
-   "pl": 34.87,
+   "r": 19,
+   "pl": 32.87,
    "roi": 3.7,
-   "wr": 21.7,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 60,
-   "r": 32,
-   "pl": 33.97,
-   "roi": 9.9,
-   "wr": 65.2,
+   "wr": 20.8,
    "st": "val"
   },
   {
@@ -199,6 +199,17 @@
    "pl": 23.29,
    "roi": 13.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 31,
+   "pl": 22.92,
+   "roi": 6.7,
+   "wr": 43.6,
    "st": "val"
   },
   {
@@ -246,17 +257,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 31,
-   "pl": 18.92,
-   "roi": 6.7,
-   "wr": 42.6,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -298,6 +298,17 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 6,
+   "pl": 11.53,
+   "roi": -0.3,
+   "wr": 87.0,
    "st": "val"
   },
   {
@@ -375,17 +386,6 @@
    "pl": 6.87,
    "roi": 27.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 37,
-   "r": 6,
-   "pl": 6.01,
-   "roi": -0.3,
-   "wr": 86.0,
    "st": "val"
   },
   {
@@ -534,6 +534,86 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-12 09:39:27",
+   "tm": "09:39",
+   "match": "Jeju United vs Daejeon Citizen",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.0
+  },
+  {
+   "data": "2026-07-12 09:39:26",
+   "tm": "09:39",
+   "match": "Incheon United vs Anyang",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-12 09:39:24",
+   "tm": "09:39",
+   "match": "Seoul vs Gangwon",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-12 09:39:23",
+   "tm": "09:39",
+   "match": "Busan I'Park vs Gimpo",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-12 09:39:20",
+   "tm": "09:39",
+   "match": "Jeju United vs Daejeon Citizen",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.8,
+   "status": "green",
+   "pl": 2.08
+  },
+  {
+   "data": "2026-07-12 09:38:50",
+   "tm": "09:38",
+   "match": "Seoul vs Gangwon",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 3.8
+  },
+  {
+   "data": "2026-07-12 09:38:46",
+   "tm": "09:38",
+   "match": "Jeju United vs Daejeon Citizen",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 5.0
+  },
+  {
+   "data": "2026-07-12 09:38:43",
+   "tm": "09:38",
+   "match": "Jeju United vs Daejeon Citizen",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.26
+  },
+  {
    "data": "2026-07-12 02:08:29",
    "tm": "02:08",
    "match": "LA Galaxy vs América",
@@ -546,28 +626,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 0,
-   "r": 1,
-   "pl": -2.0,
-   "wr": 0,
+   "ent": 9,
+   "g": 7,
+   "r": 2,
+   "pl": 19.58,
+   "wr": 78,
    "label": "12/07"
   },
   "mes": {
-   "ent": 502,
-   "g": 333,
-   "r": 169,
-   "pl": 138.25,
-   "wr": 66,
+   "ent": 510,
+   "g": 340,
+   "r": 170,
+   "pl": 159.83,
+   "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": -2.0,
-   "ops": 1,
-   "g": 0,
-   "r": 1
+   "pl": 19.58,
+   "ops": 9,
+   "g": 7,
+   "r": 2
   },
   "2026-07-11": {
    "pl": 11.96,
