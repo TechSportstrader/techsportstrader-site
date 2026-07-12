@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T10:47",
+ "gerado_em": "2026-07-12T11:42",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -268,17 +268,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 20,
-   "pl": 13.5,
-   "roi": 1.4,
-   "wr": 54.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -298,6 +287,17 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 21,
+   "pl": 12.8,
+   "roi": 1.4,
+   "wr": 53.3,
    "st": "val"
   },
   {
@@ -392,11 +392,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 24,
+   "g": 25,
    "r": 11,
-   "pl": 5.15,
+   "pl": 5.93,
    "roi": -0.2,
-   "wr": 68.6,
+   "wr": 69.4,
    "st": "val"
   },
   {
@@ -408,17 +408,6 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 62,
-   "r": 26,
-   "pl": 4.75,
-   "roi": 2.0,
-   "wr": 70.5,
    "st": "val"
   },
   {
@@ -474,6 +463,17 @@
    "pl": 3.72,
    "roi": 1.1,
    "wr": 83.3,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 62,
+   "r": 27,
+   "pl": 2.75,
+   "roi": 2.0,
+   "wr": 69.7,
    "st": "val"
   },
   {
@@ -533,6 +533,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-12 11:38:37",
+   "tm": "11:38",
+   "match": "KFUM vs Bodø / Glimt",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -0.7
+  },
+  {
+   "data": "2026-07-12 11:38:37",
+   "tm": "11:38",
+   "match": "KFUM vs Bodø / Glimt",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.78
+  },
+  {
+   "data": "2026-07-12 10:46:23",
+   "tm": "10:46",
+   "match": "KFUM Oslo x Bodø/Glimt",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
+   "data": "2026-07-12 10:27:25",
+   "tm": "10:27",
+   "match": "Hammarby IF x Kalmar FF",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-12 09:39:27",
    "tm": "09:39",
@@ -626,28 +666,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 7,
-   "r": 2,
-   "pl": 19.58,
-   "wr": 78,
+   "ent": 13,
+   "g": 9,
+   "r": 4,
+   "pl": 18.09,
+   "wr": 69,
    "label": "12/07"
   },
   "mes": {
-   "ent": 510,
-   "g": 340,
-   "r": 170,
-   "pl": 159.83,
+   "ent": 514,
+   "g": 342,
+   "r": 172,
+   "pl": 158.35,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 19.58,
-   "ops": 9,
-   "g": 7,
-   "r": 2
+   "pl": 18.09,
+   "ops": 13,
+   "g": 9,
+   "r": 4
   },
   "2026-07-11": {
    "pl": 11.96,
