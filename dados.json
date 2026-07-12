@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-11T21:41",
+ "gerado_em": "2026-07-11T22:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 6,
+   "r": 0,
+   "pl": 9.86,
+   "roi": 16.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -353,17 +364,6 @@
    "pl": 9.83,
    "roi": 1.5,
    "wr": 68.8,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 0,
-   "pl": 8.19,
-   "roi": 16.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -533,6 +533,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-11 20:17:17",
+   "tm": "20:17",
+   "match": "Guayaquil City x Delfín",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
   {
    "data": "2026-07-11 20:09:07",
    "tm": "20:09",
@@ -1122,41 +1132,31 @@
    "odd": 1.5,
    "status": "green",
    "pl": 0.94
-  },
-  {
-   "data": "2026-07-11 10:21:38",
-   "tm": "10:21",
-   "match": "Mjällby AIF x AIK",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.63
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 79,
-   "g": 51,
+   "ent": 80,
+   "g": 52,
    "r": 28,
-   "pl": 9.03,
+   "pl": 10.7,
    "wr": 65,
    "label": "11/07"
   },
   "mes": {
-   "ent": 499,
-   "g": 331,
+   "ent": 500,
+   "g": 332,
    "r": 168,
-   "pl": 137.32,
+   "pl": 138.99,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-11": {
-   "pl": 9.03,
-   "ops": 79,
-   "g": 51,
+   "pl": 10.7,
+   "ops": 80,
+   "g": 52,
    "r": 28
   },
   "2026-07-10": {
