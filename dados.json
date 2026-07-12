@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T19:21",
+ "gerado_em": "2026-07-12T20:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 62,
-   "r": 106,
-   "pl": 84.09,
+   "r": 107,
+   "pl": 82.09,
    "roi": 18.9,
-   "wr": 36.9,
+   "wr": 36.7,
    "st": "ap"
   },
   {
@@ -533,6 +533,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-12 19:08:35",
+   "tm": "19:08",
+   "match": "Treze vs CRAC",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-12 18:59:19",
    "tm": "18:59",
    "match": "FH vs Valur",
@@ -995,28 +1005,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
+   "ent": 48,
    "g": 34,
-   "r": 13,
-   "pl": 67.95,
-   "wr": 72,
+   "r": 14,
+   "pl": 65.95,
+   "wr": 71,
    "label": "12/07"
   },
   "mes": {
-   "ent": 547,
+   "ent": 548,
    "g": 364,
-   "r": 183,
-   "pl": 199.1,
-   "wr": 67,
+   "r": 184,
+   "pl": 197.1,
+   "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 67.95,
-   "ops": 47,
+   "pl": 65.95,
+   "ops": 48,
    "g": 34,
-   "r": 13
+   "r": 14
   },
   "2026-07-11": {
    "pl": 8.29,
