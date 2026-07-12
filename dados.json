@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-12T15:41",
+ "gerado_em": "2026-07-12T16:41",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -249,11 +249,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 27,
-   "r": 5,
-   "pl": 21.18,
+   "g": 28,
+   "r": 6,
+   "pl": 21.22,
    "roi": 33.0,
-   "wr": 84.4,
+   "wr": 82.4,
    "st": "val"
   },
   {
@@ -304,11 +304,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 24,
-   "r": 21,
-   "pl": 12.8,
+   "g": 25,
+   "r": 22,
+   "pl": 13.25,
    "roi": 1.4,
-   "wr": 53.3,
+   "wr": 53.2,
    "st": "val"
   },
   {
@@ -378,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 53,
-   "r": 24,
-   "pl": 9.83,
-   "roi": 1.5,
-   "wr": 68.8,
-   "st": "val"
-  },
-  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -408,6 +397,17 @@
    "pl": 7.24,
    "roi": -0.2,
    "wr": 70.3,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 53,
+   "r": 25,
+   "pl": 5.76,
+   "roi": 1.5,
+   "wr": 67.9,
    "st": "val"
   },
   {
@@ -533,6 +533,66 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-12 16:28:30",
+   "tm": "16:28",
+   "match": "KA Akureyri vs ÍA",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -4.07
+  },
+  {
+   "data": "2026-07-12 16:28:30",
+   "tm": "16:28",
+   "match": "KA Akureyri vs ÍA",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
+   "data": "2026-07-12 16:18:40",
+   "tm": "16:18",
+   "match": "Sarpsborg 08 vs Viking",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -0.6
+  },
+  {
+   "data": "2026-07-12 16:04:36",
+   "tm": "16:04",
+   "match": "KA Akureyri x ÍA Akranes",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -0.96
+  },
+  {
+   "data": "2026-07-12 15:31:26",
+   "tm": "15:31",
+   "match": "Sarpsborg 08 x Viking FK",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-12 15:20:25",
+   "tm": "15:20",
+   "match": "Sarpsborg 08 x Viking FK",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.0
+  },
   {
    "data": "2026-07-12 14:58:46",
    "tm": "14:58",
@@ -796,28 +856,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 26,
-   "g": 21,
-   "r": 5,
-   "pl": 64.08,
-   "wr": 81,
+   "ent": 32,
+   "g": 23,
+   "r": 9,
+   "pl": 58.49,
+   "wr": 72,
    "label": "12/07"
   },
   "mes": {
-   "ent": 529,
-   "g": 354,
-   "r": 175,
-   "pl": 200.33,
+   "ent": 535,
+   "g": 356,
+   "r": 179,
+   "pl": 194.75,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 64.08,
-   "ops": 26,
-   "g": 21,
-   "r": 5
+   "pl": 58.49,
+   "ops": 32,
+   "g": 23,
+   "r": 9
   },
   "2026-07-11": {
    "pl": 9.96,
