@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T18:11",
+ "gerado_em": "2026-07-13T19:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -125,6 +125,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 7,
+   "r": 21,
+   "pl": 58.47,
+   "roi": 3.7,
+   "wr": 25.0,
+   "st": "val"
+  },
+  {
    "n": "WARDEN",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -166,17 +177,6 @@
    "pl": 45.12,
    "roi": 9.9,
    "wr": 66.3,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 6,
-   "r": 21,
-   "pl": 42.87,
-   "roi": 3.7,
-   "wr": 22.2,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-13 18:09:07",
+   "tm": "18:09",
+   "match": "Breidablik vs Keflavík",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.8,
+   "status": "green",
+   "pl": 15.6
+  },
+  {
    "data": "2026-07-13 18:08:34",
    "tm": "18:08",
    "match": "Breidablik vs Keflavík",
@@ -605,27 +615,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 4,
+   "ent": 9,
+   "g": 5,
    "r": 4,
-   "pl": -3.27,
-   "wr": 50,
+   "pl": 12.33,
+   "wr": 56,
    "label": "13/07"
   },
   "mes": {
-   "ent": 575,
-   "g": 385,
+   "ent": 576,
+   "g": 386,
    "r": 190,
-   "pl": 217.33,
+   "pl": 232.93,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": -3.27,
-   "ops": 8,
-   "g": 4,
+   "pl": 12.33,
+   "ops": 9,
+   "g": 5,
    "r": 4
   },
   "2026-07-12": {
