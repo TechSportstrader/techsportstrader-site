@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T17:11",
+ "gerado_em": "2026-07-13T18:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5",
+   "s": "Lay Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 29,
+   "r": 6,
+   "pl": 22.66,
+   "roi": 33.0,
+   "wr": 82.9,
+   "st": "val"
+  },
+  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 21.29,
    "roi": 0.0,
    "wr": 92.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5",
-   "s": "Lay Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 28,
-   "r": 6,
-   "pl": 21.22,
-   "roi": 33.0,
-   "wr": 82.4,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 26,
+   "r": 22,
+   "pl": 14.01,
+   "roi": 1.4,
+   "wr": 54.2,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 25,
-   "r": 22,
-   "pl": 13.25,
-   "roi": 1.4,
-   "wr": 53.2,
    "st": "val"
   },
   {
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 27,
+   "r": 11,
+   "pl": 8.23,
+   "roi": -0.2,
+   "wr": 71.1,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -386,17 +397,6 @@
    "pl": 7.75,
    "roi": 1.1,
    "wr": 86.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 26,
-   "r": 11,
-   "pl": 7.24,
-   "roi": -0.2,
-   "wr": 70.3,
    "st": "val"
   },
   {
@@ -523,6 +523,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-13 18:08:34",
+   "tm": "18:08",
+   "match": "Breidablik vs Keflavík",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 0.99
+  },
+  {
+   "data": "2026-07-13 17:38:28",
+   "tm": "17:38",
+   "match": "Breidablik vs Keflavík",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.76
+  },
+  {
+   "data": "2026-07-13 17:18:34",
+   "tm": "17:18",
+   "match": "Breidablik Kópavogur x Keflavík IF",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.44
+  },
+  {
    "data": "2026-07-13 16:48:55",
    "tm": "16:48",
    "match": "Quilmes Res. vs Central Córdoba SdE Res.",
@@ -575,27 +605,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 1,
+   "ent": 8,
+   "g": 4,
    "r": 4,
-   "pl": -6.46,
-   "wr": 20,
+   "pl": -3.27,
+   "wr": 50,
    "label": "13/07"
   },
   "mes": {
-   "ent": 572,
-   "g": 382,
+   "ent": 575,
+   "g": 385,
    "r": 190,
-   "pl": 214.14,
+   "pl": 217.33,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": -6.46,
-   "ops": 5,
-   "g": 1,
+   "pl": -3.27,
+   "ops": 8,
+   "g": 4,
    "r": 4
   },
   "2026-07-12": {
