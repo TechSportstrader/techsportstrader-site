@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T07:11",
+ "gerado_em": "2026-07-13T09:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 55,
+   "r": 25,
+   "pl": 8.61,
+   "roi": 1.5,
+   "wr": 68.8,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -386,17 +397,6 @@
    "pl": 7.75,
    "roi": 1.1,
    "wr": 86.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 54,
-   "r": 25,
-   "pl": 7.41,
-   "roi": 1.5,
-   "wr": 68.4,
    "st": "val"
   },
   {
@@ -532,19 +532,19 @@
    "label": "13/07"
   },
   "mes": {
-   "ent": 566,
-   "g": 380,
+   "ent": 567,
+   "g": 381,
    "r": 186,
-   "pl": 219.4,
+   "pl": 220.6,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-12": {
-   "pl": 88.25,
-   "ops": 66,
-   "g": 50,
+   "pl": 89.45,
+   "ops": 67,
+   "g": 51,
    "r": 16
   },
   "2026-07-11": {
