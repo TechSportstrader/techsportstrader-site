@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T15:11",
+ "gerado_em": "2026-07-13T16:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -378,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 55,
-   "r": 25,
-   "pl": 8.61,
-   "roi": 1.5,
-   "wr": 68.8,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -408,6 +397,17 @@
    "pl": 7.24,
    "roi": -0.2,
    "wr": 70.3,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 55,
+   "r": 26,
+   "pl": 6.97,
+   "roi": 1.5,
+   "wr": 67.9,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-13 15:28:28",
+   "tm": "15:28",
+   "match": "Djurgården vs Halmstad",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.64
+  },
+  {
    "data": "2026-07-13 09:59:06",
    "tm": "09:59",
    "match": "Shanghai Jiading Huilong vs Foshan Nashi FC",
@@ -535,28 +545,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 1,
-   "r": 0,
-   "pl": 1.15,
-   "wr": 100,
+   "r": 1,
+   "pl": -0.49,
+   "wr": 50,
    "label": "13/07"
   },
   "mes": {
-   "ent": 568,
+   "ent": 569,
    "g": 382,
-   "r": 186,
-   "pl": 221.75,
+   "r": 187,
+   "pl": 220.11,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": 1.15,
-   "ops": 1,
+   "pl": -0.49,
+   "ops": 2,
    "g": 1,
-   "r": 0
+   "r": 1
   },
   "2026-07-12": {
    "pl": 89.45,
