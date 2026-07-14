@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-14T18:11",
+ "gerado_em": "2026-07-14T19:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -136,17 +136,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 7,
-   "r": 23,
-   "pl": 54.47,
-   "roi": 3.7,
-   "wr": 23.3,
-   "st": "val"
-  },
-  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -155,6 +144,17 @@
    "pl": 54.28,
    "roi": 4.0,
    "wr": 95.5,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 7,
+   "r": 24,
+   "pl": 52.47,
+   "roi": 3.7,
+   "wr": 22.6,
    "st": "val"
   },
   {
@@ -283,10 +283,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 2,
-   "r": 5,
-   "pl": 16.64,
+   "r": 6,
+   "pl": 14.64,
    "roi": 131.0,
-   "wr": 28.6,
+   "wr": 25.0,
    "st": "val"
   },
   {
@@ -512,6 +512,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-14 18:09:08",
+   "tm": "18:09",
+   "match": "France vs Spain",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-14 17:49:14",
    "tm": "17:49",
    "match": "Falkirk vs Ayr United",
@@ -578,6 +588,16 @@
    "bot": "OVERLORD",
    "mkt": "Lay Over 0.5 FT",
    "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-14 16:31:19",
+   "tm": "16:31",
+   "match": "France x Spain",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.6,
    "status": "red",
    "pl": -2.0
   },
@@ -814,28 +834,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 30,
+   "ent": 32,
    "g": 18,
-   "r": 12,
-   "pl": 6.63,
-   "wr": 60,
+   "r": 14,
+   "pl": 2.63,
+   "wr": 56,
    "label": "14/07"
   },
   "mes": {
-   "ent": 617,
+   "ent": 619,
    "g": 412,
-   "r": 205,
-   "pl": 254.95,
+   "r": 207,
+   "pl": 250.95,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-14": {
-   "pl": 6.63,
-   "ops": 30,
+   "pl": 2.63,
+   "ops": 32,
    "g": 18,
-   "r": 12
+   "r": 14
   },
   "2026-07-13": {
    "pl": 29.51,
