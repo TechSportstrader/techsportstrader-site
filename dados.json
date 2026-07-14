@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T22:11",
+ "gerado_em": "2026-07-13T23:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 63,
+   "g": 64,
    "r": 109,
-   "pl": 82.53,
+   "pl": 88.09,
    "roi": 18.9,
-   "wr": 36.6,
+   "wr": 37.0,
    "st": "ap"
   },
   {
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 25,
+   "r": 33,
+   "pl": 22.59,
+   "roi": 6.7,
+   "wr": 43.1,
+   "st": "val"
+  },
+  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 20.55,
    "roi": -0.3,
    "wr": 88.2,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 33,
-   "pl": 18.95,
-   "roi": 6.7,
-   "wr": 42.1,
    "st": "val"
   },
   {
@@ -488,17 +488,6 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO 80",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 2,
-   "r": 3,
-   "pl": 0.59,
-   "roi": 27.0,
-   "wr": 40.0,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -511,6 +500,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-13 22:39:45",
+   "tm": "22:39",
+   "match": "Figueirense vs Volta Redonda",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.64
+  },
+  {
+   "data": "2026-07-13 22:38:45",
+   "tm": "22:38",
+   "match": "Figueirense vs Volta Redonda",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.56
+  },
   {
    "data": "2026-07-13 21:39:05",
    "tm": "21:39",
@@ -654,34 +663,34 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 14,
-   "g": 7,
+   "ent": 16,
+   "g": 9,
    "r": 7,
-   "pl": 5.75,
-   "wr": 50,
+   "pl": 14.95,
+   "wr": 56,
    "label": "13/07"
   },
   "mes": {
    "ent": 517,
-   "g": 351,
-   "r": 166,
-   "pl": 214.16,
+   "g": 352,
+   "r": 165,
+   "pl": 221.58,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": 5.75,
-   "ops": 14,
-   "g": 7,
+   "pl": 14.95,
+   "ops": 16,
+   "g": 9,
    "r": 7
   },
   "2026-07-12": {
-   "pl": 87.09,
-   "ops": 66,
+   "pl": 88.88,
+   "ops": 65,
    "g": 50,
-   "r": 16
+   "r": 15
   },
   "2026-07-11": {
    "pl": 10.41,
@@ -738,9 +747,9 @@
    "r": 8
   },
   "2026-07-02": {
-   "pl": 32.62,
-   "ops": 34,
-   "g": 25,
+   "pl": 29.05,
+   "ops": 33,
+   "g": 24,
    "r": 9
   },
   "2026-07-01": {
@@ -762,16 +771,16 @@
    "r": 9
   },
   "2026-06-28": {
-   "pl": 17.22,
-   "ops": 62,
-   "g": 38,
+   "pl": 13.05,
+   "ops": 61,
+   "g": 37,
    "r": 24
   },
   "2026-06-27": {
-   "pl": 11.69,
-   "ops": 45,
+   "pl": 13.66,
+   "ops": 44,
    "g": 31,
-   "r": 14
+   "r": 13
   },
   "2026-06-26": {
    "pl": 7.47,
@@ -792,10 +801,10 @@
    "r": 7
   },
   "2026-06-23": {
-   "pl": 28.83,
-   "ops": 25,
+   "pl": 31.86,
+   "ops": 24,
    "g": 19,
-   "r": 6
+   "r": 5
   },
   "2026-06-22": {
    "pl": 0.45,
