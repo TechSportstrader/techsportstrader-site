@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T21:11",
+ "gerado_em": "2026-07-13T22:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 45,
+   "r": 6,
+   "pl": 20.55,
+   "roi": -0.3,
+   "wr": 88.2,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -243,17 +254,6 @@
    "pl": 18.95,
    "roi": 6.7,
    "wr": 42.1,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 44,
-   "r": 6,
-   "pl": 18.9,
-   "roi": -0.3,
-   "wr": 88.0,
    "st": "val"
   },
   {
@@ -512,6 +512,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-13 21:39:05",
+   "tm": "21:39",
+   "match": "Itabaiana vs Brusque",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.65
+  },
+  {
    "data": "2026-07-13 20:21:06",
    "tm": "20:21",
    "match": "América Mineiro x Londrina",
@@ -644,27 +654,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 6,
+   "ent": 14,
+   "g": 7,
    "r": 7,
-   "pl": 4.1,
-   "wr": 46,
+   "pl": 5.75,
+   "wr": 50,
    "label": "13/07"
   },
   "mes": {
-   "ent": 516,
-   "g": 350,
+   "ent": 517,
+   "g": 351,
    "r": 166,
-   "pl": 212.51,
+   "pl": 214.16,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": 4.1,
-   "ops": 13,
-   "g": 6,
+   "pl": 5.75,
+   "ops": 14,
+   "g": 7,
    "r": 7
   },
   "2026-07-12": {
