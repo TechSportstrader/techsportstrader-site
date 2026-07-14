@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-14T09:11",
+ "gerado_em": "2026-07-14T10:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -293,11 +293,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 26,
+   "g": 27,
    "r": 22,
-   "pl": 14.01,
+   "pl": 16.07,
    "roi": 1.4,
-   "wr": 54.2,
+   "wr": 55.1,
    "st": "val"
   },
   {
@@ -512,6 +512,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-14 09:58:29",
+   "tm": "09:58",
+   "match": "Zhejiang Professional vs Qingdao Hainiu",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 2.06
+  },
+  {
    "data": "2026-07-14 01:18:31",
    "tm": "01:18",
    "match": "Atlanta vs Colegiales",
@@ -534,27 +544,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
+   "ent": 3,
+   "g": 2,
    "r": 1,
-   "pl": -1.68,
-   "wr": 50,
+   "pl": 0.38,
+   "wr": 67,
    "label": "14/07"
   },
   "mes": {
-   "ent": 589,
-   "g": 395,
+   "ent": 590,
+   "g": 396,
    "r": 194,
-   "pl": 246.64,
+   "pl": 248.7,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-14": {
-   "pl": -1.68,
-   "ops": 2,
-   "g": 1,
+   "pl": 0.38,
+   "ops": 3,
+   "g": 2,
    "r": 1
   },
   "2026-07-13": {
