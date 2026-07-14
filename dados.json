@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-13T20:11",
+ "gerado_em": "2026-07-13T21:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 307,
+   "g": 308,
    "r": 91,
-   "pl": 13.14,
+   "pl": 13.91,
    "roi": 2.0,
-   "wr": 77.1,
+   "wr": 77.2,
    "st": "ap"
   },
   {
@@ -400,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 65,
-   "r": 27,
-   "pl": 6.27,
-   "roi": 2.0,
-   "wr": 70.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -430,6 +419,17 @@
    "pl": 4.5,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 65,
+   "r": 28,
+   "pl": 4.27,
+   "roi": 2.0,
+   "wr": 69.9,
    "st": "val"
   },
   {
@@ -511,6 +511,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-13 20:21:06",
+   "tm": "20:21",
+   "match": "América Mineiro x Londrina",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-13 20:07:15",
+   "tm": "20:07",
+   "match": "América Mineiro x Londrina",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.77
+  },
   {
    "data": "2026-07-13 19:59:15",
    "tm": "19:59",
@@ -624,28 +644,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 11,
-   "g": 5,
-   "r": 6,
-   "pl": 5.33,
-   "wr": 45,
+   "ent": 13,
+   "g": 6,
+   "r": 7,
+   "pl": 4.1,
+   "wr": 46,
    "label": "13/07"
   },
   "mes": {
-   "ent": 514,
-   "g": 349,
-   "r": 165,
-   "pl": 213.74,
+   "ent": 516,
+   "g": 350,
+   "r": 166,
+   "pl": 212.51,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-13": {
-   "pl": 5.33,
-   "ops": 11,
-   "g": 5,
-   "r": 6
+   "pl": 4.1,
+   "ops": 13,
+   "g": 6,
+   "r": 7
   },
   "2026-07-12": {
    "pl": 87.09,
