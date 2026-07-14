@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-14T12:11",
+ "gerado_em": "2026-07-14T13:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 140,
+   "g": 141,
    "r": 103,
-   "pl": 15.96,
+   "pl": 20.31,
    "roi": -0.0,
-   "wr": 57.6,
+   "wr": 57.8,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 129,
+   "g": 130,
    "r": 103,
-   "pl": 1.73,
+   "pl": 2.95,
    "roi": -1.4,
-   "wr": 55.6,
+   "wr": 55.8,
    "st": "ap"
   },
   {
@@ -480,22 +480,22 @@
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 48,
+   "g": 49,
    "r": 2,
-   "pl": 3.44,
+   "pl": 4.04,
    "roi": 0.2,
-   "wr": 96.0,
+   "wr": 96.1,
    "st": "val"
   },
   {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 28,
+   "g": 29,
    "r": 21,
-   "pl": 1.45,
+   "pl": 3.29,
    "roi": -0.2,
-   "wr": 57.1,
+   "wr": 58.0,
    "st": "val"
   },
   {
@@ -511,6 +511,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-14 12:59:14",
+   "tm": "12:59",
+   "match": "KuPS vs Vardar",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.84
+  },
+  {
+   "data": "2026-07-14 12:58:40",
+   "tm": "12:58",
+   "match": "KuPS vs Vardar",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.6
+  },
+  {
+   "data": "2026-07-14 12:58:37",
+   "tm": "12:58",
+   "match": "KuPS vs Vardar",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-14 12:58:35",
+   "tm": "12:58",
+   "match": "KuPS vs Vardar",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 4.35
+  },
   {
    "data": "2026-07-14 10:38:58",
    "tm": "10:38",
@@ -554,27 +594,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 3,
+   "ent": 8,
+   "g": 7,
    "r": 1,
-   "pl": 2.05,
-   "wr": 75,
+   "pl": 10.06,
+   "wr": 88,
    "label": "14/07"
   },
   "mes": {
-   "ent": 591,
-   "g": 397,
+   "ent": 595,
+   "g": 401,
    "r": 194,
-   "pl": 250.37,
+   "pl": 258.38,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-14": {
-   "pl": 2.05,
-   "ops": 4,
-   "g": 3,
+   "pl": 10.06,
+   "ops": 8,
+   "g": 7,
    "r": 1
   },
   "2026-07-13": {
