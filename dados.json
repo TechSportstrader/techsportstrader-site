@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-14T14:11",
+ "gerado_em": "2026-07-14T15:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 64,
+   "g": 65,
    "r": 110,
-   "pl": 86.09,
+   "pl": 90.35,
    "roi": 18.9,
-   "wr": 36.8,
+   "wr": 37.1,
    "st": "ap"
   },
   {
@@ -52,10 +52,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 141,
-   "r": 103,
-   "pl": 20.31,
+   "r": 104,
+   "pl": 15.31,
    "roi": -0.0,
-   "wr": 57.8,
+   "wr": 57.6,
    "st": "ap"
   },
   {
@@ -85,10 +85,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 130,
-   "r": 103,
-   "pl": 2.95,
+   "r": 104,
+   "pl": 0.95,
    "roi": -1.4,
-   "wr": 55.8,
+   "wr": 55.6,
    "st": "ap"
   },
   {
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 7,
-   "r": 21,
-   "pl": 58.47,
-   "roi": 3.7,
-   "wr": 25.0,
-   "st": "val"
-  },
-  {
    "n": "WARDEN",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -144,6 +133,17 @@
    "pl": 57.78,
    "roi": 1.2,
    "wr": 98.2,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 7,
+   "r": 22,
+   "pl": 56.47,
+   "roi": 3.7,
+   "wr": 24.1,
    "st": "val"
   },
   {
@@ -191,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 26,
+   "r": 33,
+   "pl": 26.16,
+   "roi": 6.7,
+   "wr": 44.1,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 22.66,
    "roi": 33.0,
    "wr": 82.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 25,
-   "r": 33,
-   "pl": 22.59,
-   "roi": 6.7,
-   "wr": 43.1,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 34,
+   "r": 1,
+   "pl": 11.24,
+   "roi": 3.0,
+   "wr": 97.1,
+   "st": "val"
+  },
+  {
    "n": "GUARDIÃO 0x0",
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -364,17 +375,6 @@
    "pl": 10.69,
    "roi": 27.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 33,
-   "r": 1,
-   "pl": 10.67,
-   "roi": 3.0,
-   "wr": 97.1,
    "st": "val"
   },
   {
@@ -400,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 55,
-   "r": 26,
-   "pl": 6.97,
-   "roi": 1.5,
-   "wr": 67.9,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -430,6 +419,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 56,
+   "r": 27,
+   "pl": 4.93,
+   "roi": 1.5,
+   "wr": 67.5,
    "st": "val"
   },
   {
@@ -492,10 +492,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 29,
-   "r": 21,
-   "pl": 3.29,
+   "r": 22,
+   "pl": 1.29,
    "roi": -0.2,
-   "wr": 58.0,
+   "wr": 56.9,
    "st": "val"
   },
   {
@@ -512,6 +512,86 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-14 15:09:15",
+   "tm": "15:09",
+   "match": "Inter Club d'Escaldes vs Lincoln Red Imps",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-14 15:08:34",
+   "tm": "15:08",
+   "match": "Inter Club d'Escaldes vs Lincoln Red Imps",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-14 14:59:22",
+   "tm": "14:59",
+   "match": "Rosario Central Res. vs San Lorenzo Res.",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.57
+  },
+  {
+   "data": "2026-07-14 14:58:33",
+   "tm": "14:58",
+   "match": "Győri ETO vs Víkingur Reykjavík",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -3.26
+  },
+  {
+   "data": "2026-07-14 14:58:32",
+   "tm": "14:58",
+   "match": "Rosario Central Res. vs San Lorenzo Res.",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.26
+  },
+  {
+   "data": "2026-07-14 14:49:33",
+   "tm": "14:49",
+   "match": "Győri ETO vs Víkingur Reykjavík",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-14 14:48:39",
+   "tm": "14:48",
+   "match": "Győri ETO vs Víkingur Reykjavík",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-14 14:48:38",
+   "tm": "14:48",
+   "match": "Győri ETO vs Víkingur Reykjavík",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
    "data": "2026-07-14 13:58:40",
    "tm": "13:58",
    "match": "Inter Club d'Escaldes vs Lincoln Red Imps",
@@ -520,6 +600,16 @@
    "odd": 1.1,
    "status": "green",
    "pl": 0.35
+  },
+  {
+   "data": "2026-07-14 13:44:17",
+   "tm": "13:44",
+   "match": "Inter Club d'Escaldes x Lincoln Red Imps",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.57
   },
   {
    "data": "2026-07-14 12:59:14",
@@ -604,28 +694,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 8,
-   "r": 1,
-   "pl": 10.41,
-   "wr": 89,
+   "ent": 18,
+   "g": 12,
+   "r": 6,
+   "pl": 5.77,
+   "wr": 67,
    "label": "14/07"
   },
   "mes": {
-   "ent": 596,
-   "g": 402,
-   "r": 194,
-   "pl": 258.73,
+   "ent": 605,
+   "g": 406,
+   "r": 199,
+   "pl": 254.09,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-14": {
-   "pl": 10.41,
-   "ops": 9,
-   "g": 8,
-   "r": 1
+   "pl": 5.77,
+   "ops": 18,
+   "g": 12,
+   "r": 6
   },
   "2026-07-13": {
    "pl": 29.51,
