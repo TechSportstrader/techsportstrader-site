@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T15:11",
+ "gerado_em": "2026-07-15T16:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -84,11 +84,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 132,
+   "g": 133,
    "r": 104,
-   "pl": 4.07,
+   "pl": 5.89,
    "roi": -1.4,
-   "wr": 55.9,
+   "wr": 56.1,
    "st": "ap"
   },
   {
@@ -433,6 +433,17 @@
    "st": "val"
   },
   {
+   "n": "FÚRIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 51,
+   "r": 2,
+   "pl": 4.59,
+   "roi": 0.2,
+   "wr": 96.2,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -441,17 +452,6 @@
    "pl": 4.5,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "FÚRIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 50,
-   "r": 2,
-   "pl": 4.39,
-   "roi": 0.2,
-   "wr": 96.2,
    "st": "val"
   },
   {
@@ -512,6 +512,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-15 15:28:41",
+   "tm": "15:28",
+   "match": "Universitatea Craiova vs ML Vitebsk",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.2
+  },
+  {
+   "data": "2026-07-15 15:28:35",
+   "tm": "15:28",
+   "match": "Universitatea Craiova vs ML Vitebsk",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.82
+  },
+  {
    "data": "2026-07-15 14:58:31",
    "tm": "14:58",
    "match": "Libertad vs Técnico Universitario",
@@ -564,27 +584,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 4,
+   "ent": 7,
+   "g": 6,
    "r": 1,
-   "pl": -6.02,
-   "wr": 80,
+   "pl": -4.0,
+   "wr": 86,
    "label": "15/07"
   },
   "mes": {
-   "ent": 631,
-   "g": 419,
+   "ent": 633,
+   "g": 421,
    "r": 212,
-   "pl": 232.11,
-   "wr": 66,
+   "pl": 234.13,
+   "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": -6.02,
-   "ops": 5,
-   "g": 4,
+   "pl": -4.0,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-07-14": {
