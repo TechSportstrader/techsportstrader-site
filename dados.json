@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T14:11",
+ "gerado_em": "2026-07-15T15:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 142,
+   "g": 143,
    "r": 104,
-   "pl": 19.41,
+   "pl": 23.11,
    "roi": -0.0,
-   "wr": 57.7,
+   "wr": 57.9,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 131,
+   "g": 132,
    "r": 104,
-   "pl": 2.59,
+   "pl": 4.07,
    "roi": -1.4,
-   "wr": 55.7,
+   "wr": 55.9,
    "st": "ap"
   },
   {
@@ -117,9 +117,9 @@
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 25,
+   "g": 26,
    "r": 0,
-   "pl": 64.02,
+   "pl": 67.42,
    "roi": 6.4,
    "wr": 100.0,
    "st": "val"
@@ -512,6 +512,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-15 14:58:31",
+   "tm": "14:58",
+   "match": "Libertad vs Técnico Universitario",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 3.7
+  },
+  {
+   "data": "2026-07-15 14:58:31",
+   "tm": "14:58",
+   "match": "Libertad vs Técnico Universitario",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.48
+  },
+  {
+   "data": "2026-07-15 14:28:17",
+   "tm": "14:28",
+   "match": "JIPPO vs MP",
+   "bot": "RAMPART",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 3.4
+  },
+  {
    "data": "2026-07-15 13:48:29",
    "tm": "13:48",
    "match": "JIPPO vs MP",
@@ -534,27 +564,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
+   "ent": 5,
+   "g": 4,
    "r": 1,
-   "pl": -14.6,
-   "wr": 50,
+   "pl": -6.02,
+   "wr": 80,
    "label": "15/07"
   },
   "mes": {
-   "ent": 628,
-   "g": 416,
+   "ent": 631,
+   "g": 419,
    "r": 212,
-   "pl": 223.53,
+   "pl": 232.11,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": -14.6,
-   "ops": 2,
-   "g": 1,
+   "pl": -6.02,
+   "ops": 5,
+   "g": 4,
    "r": 1
   },
   "2026-07-14": {
