@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T09:11",
+ "gerado_em": "2026-07-15T10:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -173,10 +173,10 @@
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 64,
-   "r": 32,
-   "pl": 47.12,
+   "r": 33,
+   "pl": 42.12,
    "roi": 9.9,
-   "wr": 66.7,
+   "wr": 66.0,
    "st": "val"
   },
   {
@@ -228,10 +228,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 26,
-   "r": 34,
-   "pl": 25.06,
+   "r": 35,
+   "pl": 23.09,
    "roi": 6.7,
-   "wr": 43.3,
+   "wr": 42.6,
    "st": "val"
   },
   {
@@ -254,17 +254,6 @@
    "pl": 21.29,
    "roi": 0.0,
    "wr": 92.9,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 45,
-   "r": 6,
-   "pl": 20.55,
-   "roi": -0.3,
-   "wr": 88.2,
    "st": "val"
   },
   {
@@ -308,6 +297,17 @@
    "r": 0,
    "pl": 13.34,
    "roi": 4.2,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 10,
+   "r": 0,
+   "pl": 12.86,
+   "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -356,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 9,
-   "r": 0,
-   "pl": 11.34,
-   "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
    "n": "GUARDIÃO 0x0",
    "s": "Under 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -375,6 +364,17 @@
    "pl": 11.16,
    "roi": 1.1,
    "wr": 73.9,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 45,
+   "r": 7,
+   "pl": 11.05,
+   "roi": -0.3,
+   "wr": 86.5,
    "st": "val"
   },
   {
@@ -521,20 +521,20 @@
    "label": "15/07"
   },
   "mes": {
-   "ent": 622,
-   "g": 414,
-   "r": 208,
-   "pl": 253.08,
-   "wr": 67,
+   "ent": 626,
+   "g": 415,
+   "r": 211,
+   "pl": 238.13,
+   "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-14": {
-   "pl": 4.76,
-   "ops": 35,
-   "g": 20,
-   "r": 15
+   "pl": -10.19,
+   "ops": 39,
+   "g": 21,
+   "r": 18
   },
   "2026-07-13": {
    "pl": 29.51,
