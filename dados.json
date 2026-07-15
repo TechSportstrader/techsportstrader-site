@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T13:11",
+ "gerado_em": "2026-07-15T14:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -73,11 +73,11 @@
    "n": "IGNIÇÃO 0.5 (Bolsa)",
    "s": "Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 95,
+   "g": 96,
    "r": 14,
-   "pl": 7.62,
+   "pl": 8.02,
    "roi": 0.3,
-   "wr": 87.2,
+   "wr": 87.3,
    "st": "ap"
   },
   {
@@ -209,17 +209,6 @@
    "r": 0,
    "pl": 25.81,
    "roi": 11.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 19,
-   "r": 0,
-   "pl": 25.14,
-   "roi": 1.3,
    "wr": 100.0,
    "st": "val"
   },
@@ -378,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 19,
+   "r": 1,
+   "pl": 10.14,
+   "roi": 1.3,
+   "wr": 95.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -510,26 +510,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-15 13:48:29",
+   "tm": "13:48",
+   "match": "JIPPO vs MP",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.4
+  },
+  {
+   "data": "2026-07-15 13:29:06",
+   "tm": "13:29",
+   "match": "Malisheva vs Vllaznia Shkodër",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "red",
+   "pl": -15.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
-   "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "ent": 2,
+   "g": 1,
+   "r": 1,
+   "pl": -14.6,
+   "wr": 50,
    "label": "15/07"
   },
   "mes": {
-   "ent": 626,
-   "g": 415,
-   "r": 211,
-   "pl": 238.13,
+   "ent": 628,
+   "g": 416,
+   "r": 212,
+   "pl": 223.53,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-15": {
+   "pl": -14.6,
+   "ops": 2,
+   "g": 1,
+   "r": 1
+  },
   "2026-07-14": {
    "pl": -10.19,
    "ops": 39,
