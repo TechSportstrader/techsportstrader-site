@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T19:11",
+ "gerado_em": "2026-07-15T20:12",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -436,11 +436,11 @@
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 52,
+   "g": 53,
    "r": 2,
-   "pl": 4.79,
+   "pl": 5.04,
    "roi": 0.2,
-   "wr": 96.3,
+   "wr": 96.4,
    "st": "val"
   },
   {
@@ -511,6 +511,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-15 19:58:36",
+   "tm": "19:58",
+   "match": "Universidad Católica vs LDU Quito",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.25
+  },
   {
    "data": "2026-07-15 17:58:31",
    "tm": "17:58",
@@ -744,27 +754,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 19,
+   "ent": 24,
+   "g": 20,
    "r": 4,
-   "pl": 14.19,
+   "pl": 14.44,
    "wr": 83,
    "label": "15/07"
   },
   "mes": {
-   "ent": 649,
-   "g": 434,
+   "ent": 650,
+   "g": 435,
    "r": 215,
-   "pl": 252.32,
+   "pl": 252.57,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": 14.19,
-   "ops": 23,
-   "g": 19,
+   "pl": 14.44,
+   "ops": 24,
+   "g": 20,
    "r": 4
   },
   "2026-07-14": {
