@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T16:11",
+ "gerado_em": "2026-07-15T17:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,11 +51,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 143,
+   "g": 146,
    "r": 104,
-   "pl": 23.11,
+   "pl": 35.01,
    "roi": -0.0,
-   "wr": 57.9,
+   "wr": 58.4,
    "st": "ap"
   },
   {
@@ -70,25 +70,25 @@
    "st": "ap"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 96,
-   "r": 14,
-   "pl": 8.02,
-   "roi": 0.3,
-   "wr": 87.3,
-   "st": "ap"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 133,
+   "g": 135,
    "r": 104,
-   "pl": 5.89,
+   "pl": 8.83,
    "roi": -1.4,
-   "wr": 56.1,
+   "wr": 56.5,
+   "st": "ap"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 97,
+   "r": 14,
+   "pl": 8.26,
+   "roi": 0.3,
+   "wr": 87.4,
    "st": "ap"
   },
   {
@@ -301,14 +301,14 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 27,
-   "r": 24,
-   "pl": 12.71,
-   "roi": 1.4,
-   "wr": 52.9,
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 36,
+   "r": 1,
+   "pl": 12.69,
+   "roi": 3.0,
+   "wr": 97.3,
    "st": "val"
   },
   {
@@ -334,14 +334,14 @@
    "st": "val"
   },
   {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 35,
-   "r": 1,
-   "pl": 11.89,
-   "roi": 3.0,
-   "wr": 97.2,
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 27,
+   "r": 25,
+   "pl": 11.29,
+   "roi": 1.4,
+   "wr": 51.9,
    "st": "val"
   },
   {
@@ -436,11 +436,11 @@
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 51,
+   "g": 52,
    "r": 2,
-   "pl": 4.59,
+   "pl": 4.79,
    "roi": 0.2,
-   "wr": 96.2,
+   "wr": 96.3,
    "st": "val"
   },
   {
@@ -512,6 +512,86 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-15 16:58:38",
+   "tm": "16:58",
+   "match": "England vs Argentina",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.2
+  },
+  {
+   "data": "2026-07-15 16:58:34",
+   "tm": "16:58",
+   "match": "England vs Argentina",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
+   "data": "2026-07-15 16:58:33",
+   "tm": "16:58",
+   "match": "England vs Argentina",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 3.38
+  },
+  {
+   "data": "2026-07-15 16:48:32",
+   "tm": "16:48",
+   "match": "Sutjeska vs Kairat",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
+   "data": "2026-07-15 16:48:31",
+   "tm": "16:48",
+   "match": "Sutjeska vs Kairat",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 3.97
+  },
+  {
+   "data": "2026-07-15 16:43:05",
+   "tm": "16:43",
+   "match": "FK Sutjeska Nikšić x Kairat Almaty",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.8
+  },
+  {
+   "data": "2026-07-15 16:28:36",
+   "tm": "16:28",
+   "match": "Universitatea Craiova vs ML Vitebsk",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.24
+  },
+  {
+   "data": "2026-07-15 16:28:35",
+   "tm": "16:28",
+   "match": "Universitatea Craiova vs ML Vitebsk",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -1.42
+  },
+  {
    "data": "2026-07-15 15:28:41",
    "tm": "15:28",
    "match": "Universitatea Craiova vs ML Vitebsk",
@@ -530,6 +610,16 @@
    "odd": 1.9,
    "status": "green",
    "pl": 1.82
+  },
+  {
+   "data": "2026-07-15 15:28:35",
+   "tm": "15:28",
+   "match": "Universitatea Craiova vs ML Vitebsk",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 4.55
   },
   {
    "data": "2026-07-15 14:58:31",
@@ -584,28 +674,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 6,
-   "r": 1,
-   "pl": -4.0,
-   "wr": 86,
+   "ent": 16,
+   "g": 14,
+   "r": 2,
+   "pl": 10.66,
+   "wr": 88,
    "label": "15/07"
   },
   "mes": {
-   "ent": 633,
-   "g": 421,
-   "r": 212,
-   "pl": 234.13,
+   "ent": 642,
+   "g": 429,
+   "r": 213,
+   "pl": 248.79,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": -4.0,
-   "ops": 7,
-   "g": 6,
-   "r": 1
+   "pl": 10.66,
+   "ops": 16,
+   "g": 14,
+   "r": 2
   },
   "2026-07-14": {
    "pl": -10.19,
