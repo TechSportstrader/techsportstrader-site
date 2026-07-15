@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T17:11",
+ "gerado_em": "2026-07-15T18:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 65,
-   "r": 112,
-   "pl": 86.35,
+   "r": 113,
+   "pl": 84.35,
    "roi": 18.9,
-   "wr": 36.7,
+   "wr": 36.5,
    "st": "ap"
   },
   {
@@ -213,17 +213,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 26,
-   "r": 35,
-   "pl": 23.09,
-   "roi": 6.7,
-   "wr": 42.6,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -246,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 26,
+   "r": 36,
+   "pl": 21.09,
+   "roi": 6.7,
+   "wr": 41.9,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -254,6 +254,17 @@
    "pl": 18.03,
    "roi": 4.0,
    "wr": 92.3,
+   "st": "val"
+  },
+  {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 11,
+   "r": 0,
+   "pl": 15.44,
+   "roi": 27.0,
+   "wr": 100.0,
    "st": "val"
   },
   {
@@ -312,17 +323,6 @@
    "st": "val"
   },
   {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 9,
-   "r": 0,
-   "pl": 12.3,
-   "roi": 27.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 14,
+   "r": 2,
+   "pl": 9.42,
+   "roi": 1.1,
+   "wr": 87.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -389,14 +400,14 @@
    "st": "val"
   },
   {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 13,
-   "r": 2,
-   "pl": 7.75,
-   "roi": 1.1,
-   "wr": 86.7,
+   "g": 57,
+   "r": 27,
+   "pl": 6.13,
+   "roi": 1.5,
+   "wr": 67.9,
    "st": "val"
   },
   {
@@ -419,17 +430,6 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 56,
-   "r": 27,
-   "pl": 4.93,
-   "roi": 1.5,
-   "wr": 67.5,
    "st": "val"
   },
   {
@@ -512,6 +512,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-15 17:58:31",
+   "tm": "17:58",
+   "match": "Sutjeska vs Kairat",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-07-15 17:38:29",
+   "tm": "17:38",
+   "match": "Sutjeska vs Kairat",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-15 17:29:11",
+   "tm": "17:29",
+   "match": "Sutjeska vs Kairat",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-15 17:19:00",
+   "tm": "17:19",
+   "match": "Atert Bissen vs KÍ",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-15 16:58:38",
    "tm": "16:58",
    "match": "England vs Argentina",
@@ -542,6 +582,16 @@
    "pl": 3.38
   },
   {
+   "data": "2026-07-15 16:50:04",
+   "tm": "16:50",
+   "match": "FK Dečić Tuzi x FK Liepaja",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.4,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
    "data": "2026-07-15 16:48:32",
    "tm": "16:48",
    "match": "Sutjeska vs Kairat",
@@ -570,6 +620,16 @@
    "odd": 1.1,
    "status": "green",
    "pl": 0.8
+  },
+  {
+   "data": "2026-07-15 16:34:06",
+   "tm": "16:34",
+   "match": "Atert Bissen x Klaksvíkar Ítróttarfelag",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-15 16:28:36",
@@ -674,28 +734,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 16,
-   "g": 14,
-   "r": 2,
-   "pl": 10.66,
-   "wr": 88,
+   "ent": 22,
+   "g": 18,
+   "r": 4,
+   "pl": 12.67,
+   "wr": 82,
    "label": "15/07"
   },
   "mes": {
-   "ent": 642,
-   "g": 429,
-   "r": 213,
-   "pl": 248.79,
+   "ent": 648,
+   "g": 433,
+   "r": 215,
+   "pl": 250.8,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": 10.66,
-   "ops": 16,
-   "g": 14,
-   "r": 2
+   "pl": 12.67,
+   "ops": 22,
+   "g": 18,
+   "r": 4
   },
   "2026-07-14": {
    "pl": -10.19,
