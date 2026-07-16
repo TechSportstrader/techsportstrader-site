@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-16T18:11",
+ "gerado_em": "2026-07-16T19:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 450,
+   "g": 451,
    "r": 5,
-   "pl": 290.78,
+   "pl": 292.26,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -691,6 +691,16 @@
    "pl": 1.36
   },
   {
+   "data": "2026-07-16 16:08:06",
+   "tm": "16:08",
+   "match": "Academia de Balompié Boliviano x Club Independiente Petrolero",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
+  },
+  {
    "data": "2026-07-16 16:00:19",
    "tm": "16:00",
    "match": "Dinamo Tbilisi vs Mondorf-les-Bains",
@@ -963,27 +973,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 46,
-   "g": 31,
+   "ent": 47,
+   "g": 32,
    "r": 15,
-   "pl": 9.89,
-   "wr": 67,
+   "pl": 11.37,
+   "wr": 68,
    "label": "16/07"
   },
   "mes": {
-   "ent": 685,
-   "g": 458,
+   "ent": 686,
+   "g": 459,
    "r": 227,
-   "pl": 253.0,
+   "pl": 254.48,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-16": {
-   "pl": 9.89,
-   "ops": 46,
-   "g": 31,
+   "pl": 11.37,
+   "ops": 47,
+   "g": 32,
    "r": 15
   },
   "2026-07-15": {
