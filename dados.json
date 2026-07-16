@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-16T17:11",
+ "gerado_em": "2026-07-16T18:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
    "g": 316,
-   "r": 19,
-   "pl": 95.62,
+   "r": 20,
+   "pl": 94.67,
    "roi": 1.0,
-   "wr": 94.3,
+   "wr": 94.0,
    "st": "ap"
   },
   {
@@ -235,6 +235,28 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 1,
+   "pl": 17.73,
+   "roi": 1.3,
+   "wr": 96.0,
+   "st": "val"
+  },
+  {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 13,
+   "r": 0,
+   "pl": 16.9,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -242,17 +264,6 @@
    "r": 0,
    "pl": 15.44,
    "roi": 27.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 12,
-   "r": 0,
-   "pl": 15.43,
-   "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -265,17 +276,6 @@
    "pl": 15.01,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 22,
-   "r": 1,
-   "pl": 14.65,
-   "roi": 1.3,
-   "wr": 95.7,
    "st": "val"
   },
   {
@@ -345,14 +345,25 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 60,
-   "r": 27,
-   "pl": 10.62,
-   "roi": 1.5,
-   "wr": 69.0,
+   "g": 50,
+   "r": 8,
+   "pl": 10.33,
+   "roi": -0.3,
+   "wr": 86.2,
+   "st": "val"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 101,
+   "r": 14,
+   "pl": 9.78,
+   "roi": 0.3,
+   "wr": 87.8,
    "st": "val"
   },
   {
@@ -367,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 100,
-   "r": 14,
-   "pl": 9.12,
-   "roi": 0.3,
-   "wr": 87.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -389,14 +389,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 48,
-   "r": 8,
-   "pl": 6.49,
-   "roi": -0.3,
-   "wr": 85.7,
+   "g": 60,
+   "r": 28,
+   "pl": 7.33,
+   "roi": 1.5,
+   "wr": 68.2,
    "st": "val"
   },
   {
@@ -480,9 +480,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 8,
+   "g": 9,
    "r": 0,
-   "pl": 0.72,
+   "pl": 0.82,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -500,6 +500,66 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-16 17:59:26",
+   "tm": "17:59",
+   "match": "ABB vs Independiente Petrolero",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-07-16 17:59:22",
+   "tm": "17:59",
+   "match": "S.S. Virtus Acquaviva vs FC Dila Gori",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.6,
+   "status": "green",
+   "pl": 2.17
+  },
+  {
+   "data": "2026-07-16 17:58:35",
+   "tm": "17:58",
+   "match": "S.S. Virtus Acquaviva vs FC Dila Gori",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.66
+  },
+  {
+   "data": "2026-07-16 17:49:08",
+   "tm": "17:49",
+   "match": "Mornar vs Atlètic Club d'Escaldes",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.58
+  },
+  {
+   "data": "2026-07-16 17:38:32",
+   "tm": "17:38",
+   "match": "ABB vs Independiente Petrolero",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "red",
+   "pl": -3.29
+  },
+  {
+   "data": "2026-07-16 17:29:03",
+   "tm": "17:29",
+   "match": "Žilina vs Hajduk Split",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
   {
    "data": "2026-07-16 16:59:43",
    "tm": "16:59",
@@ -601,6 +661,16 @@
    "pl": 1.67
   },
   {
+   "data": "2026-07-16 16:26:06",
+   "tm": "16:26",
+   "match": "Academia de Balompié Boliviano x Club Independiente Petrolero",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.0,
+   "status": "red",
+   "pl": -0.95
+  },
+  {
    "data": "2026-07-16 16:12:05",
    "tm": "16:12",
    "match": "MŠK Žilina x HNK Hajduk Split",
@@ -691,6 +761,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-16 15:51:07",
+   "tm": "15:51",
+   "match": "MŠK Žilina x HNK Hajduk Split",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
    "data": "2026-07-16 15:48:43",
    "tm": "15:48",
    "match": "Independiente Res. vs Deportivo Riestra Res.",
@@ -709,6 +789,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -5.0
+  },
+  {
+   "data": "2026-07-16 15:46:06",
+   "tm": "15:46",
+   "match": "FC Universitatea Cluj x Dynamo Kyiv",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.1
   },
   {
    "data": "2026-07-16 15:41:06",
@@ -873,28 +963,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 37,
-   "g": 24,
-   "r": 13,
-   "pl": 4.98,
-   "wr": 65,
+   "ent": 46,
+   "g": 31,
+   "r": 15,
+   "pl": 9.89,
+   "wr": 67,
    "label": "16/07"
   },
   "mes": {
-   "ent": 676,
-   "g": 451,
-   "r": 225,
-   "pl": 248.09,
+   "ent": 685,
+   "g": 458,
+   "r": 227,
+   "pl": 253.0,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-16": {
-   "pl": 4.98,
-   "ops": 37,
-   "g": 24,
-   "r": 13
+   "pl": 9.89,
+   "ops": 46,
+   "g": 31,
+   "r": 15
   },
   "2026-07-15": {
    "pl": 4.37,
