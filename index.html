@@ -193,7 +193,7 @@
     <div class="steps" style="margin-bottom:20px">
       <div class="step"><div class="n">1</div><h4>Descobrimos</h4><p>Garimpamos estratégias candidatas cruzando estatística minuto a minuto com odds ao vivo.</p></div>
       <div class="step"><div class="n">2</div><h4>Validamos</h4><p>Cada método roda com dinheiro real por meses. O P/L vem do relatório da própria plataforma — não de simulação.</p></div>
-      <div class="step"><div class="n">3</div><h4>Aprovamos</h4><p>Só entra no catálogo quem passa na régua: mais de 100 entradas reais, ROI e P/L positivos. Win rate alto é bônus, não exigência — método de WR baixo pode ser muito lucrativo.</p></div>
+      <div class="step"><div class="n">3</div><h4>Aprovamos</h4><p>Só entra no catálogo quem passa na régua: mais de 100 entradas reais + resultado sólido — ROI de pelo menos 1,5% <b>ou</b> lucro de pelo menos R$ 40 (sempre com P/L e ROI positivos). Win rate alto é bônus, não exigência — método de WR baixo pode ser muito lucrativo.</p></div>
       <div class="step"><div class="n">4</div><h4>Entregamos</h4><p>Você recebe a configuração campo a campo + a gestão de banca, e opera na sua própria conta.</p></div>
     </div>
 
@@ -260,7 +260,7 @@
 <section id="catalogo">
   <div class="wrap">
     <h2 class="sec">Catálogo completo — transparência total</h2>
-    <p class="lead">Nossos métodos validados ficam aqui. O selo <b class="green">APROVADO</b> acende automaticamente quando o método cumpre o critério: <b>mais de 100 entradas reais + ROI positivo + P/L positivo</b> (fonte: nosso monitoramento em dinheiro real, atualizado de hora em hora). Win rate NÃO é critério: acertar muito não é lucrar — um método pode vencer 99% e devolver tudo num único red, ou vencer 60% e ser muito lucrativo. O que aprova é volume real + lucro. Os demais seguem <b class="gold">em validação</b> até provarem o mesmo. Métodos com prejuízo ficam <b class="white">fora do catálogo</b>, em monitoramento — se virarem positivos, voltam para validação.</p>
+    <p class="lead">Nossos métodos validados ficam aqui. O selo <b class="green">APROVADO</b> acende automaticamente quando o método cumpre o critério: <b>mais de 100 entradas reais + resultado sólido</b> — ROI de pelo menos 1,5% <b>ou</b> lucro acumulado de pelo menos R$ 40 (sempre com P/L e ROI positivos) (fonte: nosso monitoramento em dinheiro real, atualizado de hora em hora). Win rate NÃO é critério: acertar muito não é lucrar — um método pode vencer 99% e devolver tudo num único red, ou vencer 60% e ser muito lucrativo. O que aprova é volume real + lucro. Os demais seguem <b class="gold">em validação</b> até provarem o mesmo. Métodos com prejuízo ficam <b class="white">fora do catálogo</b>, em monitoramento — se virarem positivos, voltam para validação.</p>
     <div class="filters" id="filters">
       <button class="fbtn on" data-f="todos">Todos</button>
       <button class="fbtn" data-f="ap">✅ Aprovados</button>
@@ -425,7 +425,7 @@ const MIN_ENTRADAS=100;
 function statusOf(b){
   const ent=b.g+b.r;
   if(b.pl<0) return "rep";
-  if(ent>MIN_ENTRADAS && b.roi>0 && b.pl>0) return "ap";
+  if(ent>MIN_ENTRADAS && b.pl>0 && b.roi>0 && (b.roi>=1.5 || b.pl>=40)) return "ap";
   return "val";
 }
 const money=v=>(v<0?"-":"+")+"R$ "+Math.abs(v).toFixed(2).replace('.',',');
