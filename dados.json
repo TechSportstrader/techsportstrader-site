@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T20:12",
+ "gerado_em": "2026-07-15T22:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 449,
+   "g": 450,
    "r": 5,
-   "pl": 289.7,
+   "pl": 290.78,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -41,21 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 65,
-   "r": 113,
-   "pl": 84.35,
+   "r": 114,
+   "pl": 82.36,
    "roi": 18.9,
-   "wr": 36.5,
-   "st": "ap"
-  },
-  {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 146,
-   "r": 104,
-   "pl": 35.01,
-   "roi": -0.0,
-   "wr": 58.4,
+   "wr": 36.3,
    "st": "ap"
   },
   {
@@ -67,28 +56,6 @@
    "pl": 13.91,
    "roi": 2.0,
    "wr": 77.2,
-   "st": "ap"
-  },
-  {
-   "n": "VIGIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 135,
-   "r": 104,
-   "pl": 8.83,
-   "roi": -1.4,
-   "wr": 56.5,
-   "st": "ap"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 97,
-   "r": 14,
-   "pl": 8.26,
-   "roi": 0.3,
-   "wr": 87.4,
    "st": "ap"
   },
   {
@@ -180,6 +147,17 @@
    "st": "val"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 146,
+   "r": 105,
+   "pl": 30.01,
+   "roi": -0.0,
+   "wr": 58.2,
+   "st": "val"
+  },
+  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -268,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 12,
+   "r": 0,
+   "pl": 15.43,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -276,17 +265,6 @@
    "pl": 14.64,
    "roi": 131.0,
    "wr": 25.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 11,
-   "r": 0,
-   "pl": 14.38,
-   "roi": 6.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -309,6 +287,17 @@
    "pl": 13.34,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 46,
+   "r": 7,
+   "pl": 12.9,
+   "roi": -0.3,
+   "wr": 86.8,
    "st": "val"
   },
   {
@@ -356,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 45,
-   "r": 7,
-   "pl": 11.05,
-   "roi": -0.3,
-   "wr": 86.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -386,6 +364,17 @@
    "pl": 9.42,
    "roi": 1.1,
    "wr": 87.5,
+   "st": "val"
+  },
+  {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 97,
+   "r": 14,
+   "pl": 8.26,
+   "roi": 0.3,
+   "wr": 87.4,
    "st": "val"
   },
   {
@@ -441,6 +430,17 @@
    "pl": 5.04,
    "roi": 0.2,
    "wr": 96.4,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 135,
+   "r": 106,
+   "pl": 4.83,
+   "roi": -1.4,
+   "wr": 56.0,
    "st": "val"
   },
   {
@@ -512,6 +512,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-15 21:09:31",
+   "tm": "21:09",
+   "match": "Universidad Católica vs LDU Quito",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-07-15 20:58:32",
+   "tm": "20:58",
+   "match": "Lexington vs New Mexico United",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-15 20:58:31",
+   "tm": "20:58",
+   "match": "Miami FC II vs Indy Eleven",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-15 20:58:31",
+   "tm": "20:58",
+   "match": "Miami FC II vs Indy Eleven",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-15 19:58:36",
    "tm": "19:58",
    "match": "Universidad Católica vs LDU Quito",
@@ -520,6 +560,26 @@
    "odd": 1.1,
    "status": "green",
    "pl": 0.25
+  },
+  {
+   "data": "2026-07-15 19:34:04",
+   "tm": "19:34",
+   "match": "Universidad Católica del Ecuador x LDU",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 24.0,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
+   "data": "2026-07-15 19:07:15",
+   "tm": "19:07",
+   "match": "Real Potosí x CD San Antonio",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
   },
   {
    "data": "2026-07-15 17:58:31",
@@ -754,34 +814,34 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 24,
-   "g": 20,
-   "r": 4,
-   "pl": 14.44,
-   "wr": 83,
+   "ent": 30,
+   "g": 23,
+   "r": 7,
+   "pl": 9.42,
+   "wr": 77,
    "label": "15/07"
   },
   "mes": {
-   "ent": 650,
-   "g": 435,
-   "r": 215,
-   "pl": 252.57,
+   "ent": 657,
+   "g": 438,
+   "r": 219,
+   "pl": 245.56,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": 14.44,
-   "ops": 24,
-   "g": 20,
-   "r": 4
+   "pl": 9.42,
+   "ops": 30,
+   "g": 23,
+   "r": 7
   },
   "2026-07-14": {
-   "pl": -10.19,
-   "ops": 39,
+   "pl": -12.18,
+   "ops": 40,
    "g": 21,
-   "r": 18
+   "r": 19
   },
   "2026-07-13": {
    "pl": 29.51,
