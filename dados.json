@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T22:35",
+ "gerado_em": "2026-07-15T23:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 65,
-   "r": 114,
-   "pl": 82.36,
+   "r": 115,
+   "pl": 80.36,
    "roi": 18.9,
-   "wr": 36.3,
+   "wr": 36.1,
    "st": "ap"
   },
   {
@@ -217,10 +217,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 26,
-   "r": 36,
-   "pl": 21.09,
+   "r": 37,
+   "pl": 19.17,
    "roi": 6.7,
-   "wr": 41.9,
+   "wr": 41.3,
    "st": "val"
   },
   {
@@ -511,6 +511,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-15 22:58:55",
+   "tm": "22:58",
+   "match": "Barcelona Guayaquil vs Guayaquil City",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.92
+  },
+  {
+   "data": "2026-07-15 22:58:29",
+   "tm": "22:58",
+   "match": "Barcelona Guayaquil vs Guayaquil City",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-15 21:09:31",
    "tm": "21:09",
@@ -814,28 +834,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 30,
+   "ent": 32,
    "g": 23,
-   "r": 7,
-   "pl": 9.42,
-   "wr": 77,
+   "r": 9,
+   "pl": 5.5,
+   "wr": 72,
    "label": "15/07"
   },
   "mes": {
-   "ent": 657,
+   "ent": 659,
    "g": 438,
-   "r": 219,
-   "pl": 245.56,
-   "wr": 67,
+   "r": 221,
+   "pl": 241.64,
+   "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-15": {
-   "pl": 9.42,
-   "ops": 30,
+   "pl": 5.5,
+   "ops": 32,
    "g": 23,
-   "r": 7
+   "r": 9
   },
   "2026-07-14": {
    "pl": -12.18,
