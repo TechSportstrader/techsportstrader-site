@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-16T09:11",
+ "gerado_em": "2026-07-16T10:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -147,17 +147,6 @@
    "st": "val"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 146,
-   "r": 105,
-   "pl": 30.01,
-   "roi": -0.0,
-   "wr": 58.2,
-   "st": "val"
-  },
-  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -188,6 +177,17 @@
    "pl": 25.81,
    "roi": 11.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 146,
+   "r": 106,
+   "pl": 25.01,
+   "roi": -0.0,
+   "wr": 57.9,
    "st": "val"
   },
   {
@@ -433,17 +433,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 135,
-   "r": 106,
-   "pl": 4.83,
-   "roi": -1.4,
-   "wr": 56.0,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -488,6 +477,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 135,
+   "r": 107,
+   "pl": 2.83,
+   "roi": -1.4,
+   "wr": 55.8,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -510,26 +510,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-16 09:38:32",
+   "tm": "09:38",
+   "match": "Thimphu vs Paro FC",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-16 09:38:31",
+   "tm": "09:38",
+   "match": "Thimphu vs Paro FC",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -5.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 2,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 2,
+   "pl": -7.0,
    "wr": 0,
    "label": "16/07"
   },
   "mes": {
-   "ent": 661,
+   "ent": 663,
    "g": 439,
-   "r": 222,
-   "pl": 241.36,
+   "r": 224,
+   "pl": 234.36,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-16": {
+   "pl": -7.0,
+   "ops": 2,
+   "g": 0,
+   "r": 2
+  },
   "2026-07-15": {
    "pl": 5.22,
    "ops": 34,
