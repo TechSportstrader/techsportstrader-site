@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T07:11",
+ "gerado_em": "2026-07-17T10:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -147,17 +147,6 @@
    "st": "val"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 148,
-   "r": 107,
-   "pl": 28.81,
-   "roi": -0.0,
-   "wr": 58.0,
-   "st": "val"
-  },
-  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -188,6 +177,17 @@
    "pl": 25.81,
    "roi": 11.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 148,
+   "r": 108,
+   "pl": 23.81,
+   "roi": -0.0,
+   "wr": 57.8,
    "st": "val"
   },
   {
@@ -356,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 102,
-   "r": 14,
-   "pl": 10.36,
-   "roi": 0.3,
-   "wr": 87.9,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -375,6 +364,17 @@
    "pl": 9.42,
    "roi": 1.1,
    "wr": 87.5,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 28,
+   "r": 11,
+   "pl": 9.27,
+   "roi": -0.2,
+   "wr": 71.8,
    "st": "val"
   },
   {
@@ -389,14 +389,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 27,
-   "r": 11,
-   "pl": 8.23,
-   "roi": -0.2,
-   "wr": 71.1,
+   "g": 102,
+   "r": 15,
+   "pl": 8.36,
+   "roi": 0.3,
+   "wr": 87.2,
    "st": "val"
   },
   {
@@ -480,11 +480,11 @@
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 137,
-   "r": 109,
-   "pl": 2.35,
+   "g": 138,
+   "r": 110,
+   "pl": 2.03,
    "roi": -1.4,
-   "wr": 55.7,
+   "wr": 55.6,
    "st": "val"
   },
   {
@@ -511,6 +511,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-17 09:58:43",
+   "tm": "09:58",
+   "match": "Qingdao West Coast vs Chengdu Rongcheng",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.04
+  },
+  {
+   "data": "2026-07-17 09:58:42",
+   "tm": "09:58",
+   "match": "Suzhou Dongwu vs Shenzhen Juniors FC",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-17 09:48:39",
+   "tm": "09:48",
+   "match": "Yunnan Yukun vs Shanghai Port",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.3,
+   "status": "red",
+   "pl": -5.0
+  },
+  {
+   "data": "2026-07-17 08:58:35",
+   "tm": "08:58",
+   "match": "Suzhou Dongwu vs Shenzhen Juniors FC",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.68
+  },
+  {
+   "data": "2026-07-17 08:38:36",
+   "tm": "08:38",
+   "match": "Changchun Yatai vs Wuxi Wugou",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-17 01:49:08",
    "tm": "01:49",
@@ -554,28 +604,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 3,
-   "r": 1,
-   "pl": 3.4,
-   "wr": 75,
+   "ent": 9,
+   "g": 5,
+   "r": 4,
+   "pl": -2.88,
+   "wr": 56,
    "label": "17/07"
   },
   "mes": {
-   "ent": 728,
-   "g": 486,
-   "r": 242,
-   "pl": 267.83,
+   "ent": 733,
+   "g": 488,
+   "r": 245,
+   "pl": 261.55,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": 3.4,
-   "ops": 4,
-   "g": 3,
-   "r": 1
+   "pl": -2.88,
+   "ops": 9,
+   "g": 5,
+   "r": 4
   },
   "2026-07-16": {
    "pl": 23.92,
