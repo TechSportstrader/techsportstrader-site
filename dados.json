@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T18:11",
+ "gerado_em": "2026-07-17T19:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -150,11 +150,11 @@
    "n": "GUARDIÃO HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 151,
+   "g": 152,
    "r": 109,
-   "pl": 30.48,
+   "pl": 34.68,
    "roi": -0.0,
-   "wr": 58.1,
+   "wr": 58.2,
    "st": "val"
   },
   {
@@ -389,6 +389,28 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 142,
+   "r": 111,
+   "pl": 6.47,
+   "roi": -1.4,
+   "wr": 56.1,
+   "st": "val"
+  },
+  {
+   "n": "FÚRIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 57,
+   "r": 2,
+   "pl": 6.19,
+   "roi": 0.2,
+   "wr": 96.6,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -411,17 +433,6 @@
    "st": "val"
   },
   {
-   "n": "FÚRIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 55,
-   "r": 2,
-   "pl": 5.64,
-   "roi": 0.2,
-   "wr": 96.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -430,17 +441,6 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 141,
-   "r": 111,
-   "pl": 4.79,
-   "roi": -1.4,
-   "wr": 56.0,
    "st": "val"
   },
   {
@@ -511,6 +511,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-17 18:58:33",
+   "tm": "18:58",
+   "match": "Nueva Chicago vs Agropecuario Argentino",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.2
+  },
+  {
+   "data": "2026-07-17 18:18:42",
+   "tm": "18:18",
+   "match": "Sporting Cristal vs Deportivo Garcilaso",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.35
+  },
+  {
+   "data": "2026-07-17 18:18:38",
+   "tm": "18:18",
+   "match": "Sporting Cristal vs Deportivo Garcilaso",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.68
+  },
+  {
+   "data": "2026-07-17 18:18:38",
+   "tm": "18:18",
+   "match": "Sporting Cristal vs Deportivo Garcilaso",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 4.2
+  },
   {
    "data": "2026-07-17 17:50:02",
    "tm": "17:50",
@@ -954,27 +994,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 44,
-   "g": 32,
+   "ent": 48,
+   "g": 36,
    "r": 12,
-   "pl": 17.51,
-   "wr": 73,
+   "pl": 23.94,
+   "wr": 75,
    "label": "17/07"
   },
   "mes": {
-   "ent": 768,
-   "g": 515,
+   "ent": 772,
+   "g": 519,
    "r": 253,
-   "pl": 281.94,
+   "pl": 288.37,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": 17.51,
-   "ops": 44,
-   "g": 32,
+   "pl": 23.94,
+   "ops": 48,
+   "g": 36,
    "r": 12
   },
   "2026-07-16": {
