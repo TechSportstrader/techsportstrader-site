@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T16:11",
+ "gerado_em": "2026-07-17T17:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -45,6 +45,17 @@
    "pl": 74.46,
    "roi": 18.9,
    "wr": 35.3,
+   "st": "ap"
+  },
+  {
+   "n": "SENTINELA 0x0",
+   "s": "Under 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 67,
+   "r": 34,
+   "pl": 47.06,
+   "roi": 9.9,
+   "wr": 66.3,
    "st": "ap"
   },
   {
@@ -136,14 +147,14 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x0",
-   "s": "Under 0.5 FT · Bolsa",
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 66,
-   "r": 34,
-   "pl": 44.96,
-   "roi": 9.9,
-   "wr": 66.0,
+   "g": 151,
+   "r": 109,
+   "pl": 30.48,
+   "roi": -0.0,
+   "wr": 58.1,
    "st": "val"
   },
   {
@@ -180,25 +191,14 @@
    "st": "val"
   },
   {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 150,
-   "r": 109,
-   "pl": 24.86,
-   "roi": -0.0,
-   "wr": 57.9,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 29,
+   "g": 30,
    "r": 6,
-   "pl": 22.66,
+   "pl": 23.77,
    "roi": 33.0,
-   "wr": 82.9,
+   "wr": 83.3,
    "st": "val"
   },
   {
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 54,
+   "r": 8,
+   "pl": 17.06,
+   "roi": -0.3,
+   "wr": 87.1,
+   "st": "val"
+  },
+  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
@@ -276,17 +287,6 @@
    "pl": 16.25,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 53,
-   "r": 8,
-   "pl": 15.39,
-   "roi": -0.3,
-   "wr": 86.9,
    "st": "val"
   },
   {
@@ -359,33 +359,33 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 28,
+   "g": 29,
    "r": 11,
-   "pl": 9.27,
+   "pl": 10.26,
    "roi": -0.2,
-   "wr": 71.8,
+   "wr": 72.5,
    "st": "val"
   },
   {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 61,
+   "g": 62,
    "r": 28,
-   "pl": 8.53,
+   "pl": 9.78,
    "roi": 1.5,
-   "wr": 68.5,
+   "wr": 68.9,
    "st": "val"
   },
   {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 67,
+   "g": 68,
    "r": 28,
-   "pl": 6.27,
+   "pl": 6.99,
    "roi": 2.0,
-   "wr": 70.5,
+   "wr": 70.8,
    "st": "val"
   },
   {
@@ -414,11 +414,11 @@
    "n": "FÚRIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 54,
+   "g": 55,
    "r": 2,
-   "pl": 5.24,
+   "pl": 5.64,
    "roi": 0.2,
-   "wr": 96.4,
+   "wr": 96.5,
    "st": "val"
   },
   {
@@ -430,6 +430,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 141,
+   "r": 111,
+   "pl": 4.79,
+   "roi": -1.4,
+   "wr": 56.0,
    "st": "val"
   },
   {
@@ -469,22 +480,11 @@
    "n": "IGNIÇÃO 0.5 (Bolsa)",
    "s": "Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 102,
+   "g": 103,
    "r": 16,
-   "pl": 3.36,
+   "pl": 4.06,
    "roi": 0.3,
-   "wr": 86.4,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 140,
-   "r": 111,
-   "pl": 2.59,
-   "roi": -1.4,
-   "wr": 55.8,
+   "wr": 86.6,
    "st": "val"
   },
   {
@@ -511,6 +511,96 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-17 17:10:14",
+   "tm": "17:10",
+   "match": "FC Cajamarca vs ADC Juan Pablo II",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-17 17:08:45",
+   "tm": "17:08",
+   "match": "Almirante Brown vs Estudiantes de Buenos Aires",
+   "bot": "SENTINELA 0x0",
+   "mkt": "Under 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 2.1
+  },
+  {
+   "data": "2026-07-17 16:58:32",
+   "tm": "16:58",
+   "match": "Shamrock Rovers vs Cork City",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.7
+  },
+  {
+   "data": "2026-07-17 16:38:46",
+   "tm": "16:38",
+   "match": "Benfica vs Villarreal",
+   "bot": "FÚRIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.4
+  },
+  {
+   "data": "2026-07-17 16:38:40",
+   "tm": "16:38",
+   "match": "Benfica vs Villarreal",
+   "bot": "VIGIA HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 2.2
+  },
+  {
+   "data": "2026-07-17 16:38:39",
+   "tm": "16:38",
+   "match": "Benfica vs Villarreal",
+   "bot": "GUARDIÃO HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 5.62
+  },
+  {
+   "data": "2026-07-17 16:18:38",
+   "tm": "16:18",
+   "match": "Bodø / Glimt vs Fredrikstad",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.99
+  },
+  {
+   "data": "2026-07-17 16:18:34",
+   "tm": "16:18",
+   "match": "Bodø / Glimt vs Fredrikstad",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-07-17 16:13:22",
+   "tm": "16:13",
+   "match": "FK Železničar Pančevo x FK Radnički Niš",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.73
+  },
   {
    "data": "2026-07-17 15:58:56",
    "tm": "15:58",
@@ -560,6 +650,16 @@
    "odd": 1.5,
    "status": "green",
    "pl": 1.0
+  },
+  {
+   "data": "2026-07-17 15:24:24",
+   "tm": "15:24",
+   "match": "Bodø/Glimt x Fredrikstad FK",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.11
   },
   {
    "data": "2026-07-17 15:21:25",
@@ -774,27 +874,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 26,
-   "g": 17,
+   "ent": 36,
+   "g": 27,
    "r": 9,
-   "pl": -3.67,
-   "wr": 65,
+   "pl": 13.1,
+   "wr": 75,
    "label": "17/07"
   },
   "mes": {
-   "ent": 750,
-   "g": 500,
+   "ent": 760,
+   "g": 510,
    "r": 250,
-   "pl": 260.76,
+   "pl": 277.53,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": -3.67,
-   "ops": 26,
-   "g": 17,
+   "pl": 13.1,
+   "ops": 36,
+   "g": 27,
    "r": 9
   },
   "2026-07-16": {
