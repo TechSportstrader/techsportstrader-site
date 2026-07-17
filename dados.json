@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T10:11",
+ "gerado_em": "2026-07-17T11:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 53,
+   "r": 8,
+   "pl": 15.39,
+   "roi": -0.3,
+   "wr": 86.9,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -287,17 +298,6 @@
    "pl": 13.77,
    "roi": 3.0,
    "wr": 97.4,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 52,
-   "r": 8,
-   "pl": 13.72,
-   "roi": -0.3,
-   "wr": 86.7,
    "st": "val"
   },
   {
@@ -512,6 +512,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-17 10:29:31",
+   "tm": "10:29",
+   "match": "Shijiazhuang Gongfu vs Yanbian Longding",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-17 09:58:43",
    "tm": "09:58",
    "match": "Qingdao West Coast vs Chengdu Rongcheng",
@@ -604,27 +614,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 5,
+   "ent": 10,
+   "g": 6,
    "r": 4,
-   "pl": -2.88,
-   "wr": 56,
+   "pl": -1.21,
+   "wr": 60,
    "label": "17/07"
   },
   "mes": {
-   "ent": 733,
-   "g": 488,
+   "ent": 734,
+   "g": 489,
    "r": 245,
-   "pl": 261.55,
+   "pl": 263.22,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": -2.88,
-   "ops": 9,
-   "g": 5,
+   "pl": -1.21,
+   "ops": 10,
+   "g": 6,
    "r": 4
   },
   "2026-07-16": {
