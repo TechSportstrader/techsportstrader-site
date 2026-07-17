@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T17:11",
+ "gerado_em": "2026-07-17T18:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 452,
+   "g": 453,
    "r": 5,
-   "pl": 293.34,
+   "pl": 294.82,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -40,9 +40,9 @@
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 66,
-   "r": 121,
-   "pl": 74.46,
+   "g": 67,
+   "r": 123,
+   "pl": 73.44,
    "roi": 18.9,
    "wr": 35.3,
    "st": "ap"
@@ -216,11 +216,22 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 27,
-   "r": 39,
-   "pl": 19.53,
+   "g": 28,
+   "r": 40,
+   "pl": 20.41,
    "roi": 6.7,
-   "wr": 40.9,
+   "wr": 41.2,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 55,
+   "r": 8,
+   "pl": 18.78,
+   "roi": -0.3,
+   "wr": 87.3,
    "st": "val"
   },
   {
@@ -246,14 +257,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
+   "n": "BLINDADO 3-1 (Bolsa)",
+   "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 54,
-   "r": 8,
-   "pl": 17.06,
-   "roi": -0.3,
-   "wr": 87.1,
+   "g": 12,
+   "r": 0,
+   "pl": 17.6,
+   "roi": 4.2,
+   "wr": 100.0,
    "st": "val"
   },
   {
@@ -275,17 +286,6 @@
    "r": 0,
    "pl": 16.69,
    "roi": 27.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 3-1 (Bolsa)",
-   "s": "Lay Placar 3x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 11,
-   "r": 0,
-   "pl": 16.25,
-   "roi": 4.2,
    "wr": 100.0,
    "st": "val"
   },
@@ -512,6 +512,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-17 17:50:02",
+   "tm": "17:50",
+   "match": "Finn Harps vs Bray Wanderers",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -1.82
+  },
+  {
+   "data": "2026-07-17 17:48:42",
+   "tm": "17:48",
+   "match": "Finn Harps vs Bray Wanderers",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-17 17:19:18",
+   "tm": "17:19",
+   "match": "Celje vs Mura",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
+   "data": "2026-07-17 17:10:17",
+   "tm": "17:10",
+   "match": "Deportivo Maipú vs San Martín de Tucumán",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
    "data": "2026-07-17 17:10:14",
    "tm": "17:10",
    "match": "FC Cajamarca vs ADC Juan Pablo II",
@@ -522,6 +562,26 @@
    "pl": 1.67
   },
   {
+   "data": "2026-07-17 17:10:13",
+   "tm": "17:10",
+   "match": "Deportivo Maipú vs San Martín de Tucumán",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.7
+  },
+  {
+   "data": "2026-07-17 17:08:51",
+   "tm": "17:08",
+   "match": "Benfica vs Villarreal",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -1.96
+  },
+  {
    "data": "2026-07-17 17:08:45",
    "tm": "17:08",
    "match": "Almirante Brown vs Estudiantes de Buenos Aires",
@@ -530,6 +590,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 2.1
+  },
+  {
+   "data": "2026-07-17 17:08:43",
+   "tm": "17:08",
+   "match": "Deportivo Maipú vs San Martín de Tucumán",
+   "bot": "OVERLORD",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.94
   },
   {
    "data": "2026-07-17 16:58:32",
@@ -670,6 +740,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.71
+  },
+  {
+   "data": "2026-07-17 15:10:06",
+   "tm": "15:10",
+   "match": "FC Cajamarca x CD Juan Pablo II",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-07-17 15:09:47",
@@ -874,28 +954,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 36,
-   "g": 27,
-   "r": 9,
-   "pl": 13.1,
-   "wr": 75,
+   "ent": 44,
+   "g": 32,
+   "r": 12,
+   "pl": 17.51,
+   "wr": 73,
    "label": "17/07"
   },
   "mes": {
-   "ent": 760,
-   "g": 510,
-   "r": 250,
-   "pl": 277.53,
+   "ent": 768,
+   "g": 515,
+   "r": 253,
+   "pl": 281.94,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": 13.1,
-   "ops": 36,
-   "g": 27,
-   "r": 9
+   "pl": 17.51,
+   "ops": 44,
+   "g": 32,
+   "r": 12
   },
   "2026-07-16": {
    "pl": 23.92,
