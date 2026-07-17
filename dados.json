@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-16T23:11",
+ "gerado_em": "2026-07-17T00:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 316,
+   "g": 317,
    "r": 20,
-   "pl": 94.67,
+   "pl": 96.03,
    "roi": 1.0,
-   "wr": 94.0,
+   "wr": 94.1,
    "st": "ap"
   },
   {
@@ -41,21 +41,21 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 66,
-   "r": 119,
-   "pl": 78.43,
+   "r": 120,
+   "pl": 76.46,
    "roi": 18.9,
-   "wr": 35.7,
+   "wr": 35.5,
    "st": "ap"
   },
   {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 308,
+   "g": 310,
    "r": 91,
-   "pl": 13.91,
+   "pl": 15.35,
    "roi": 2.0,
-   "wr": 77.2,
+   "wr": 77.3,
    "st": "ap"
   },
   {
@@ -147,6 +147,17 @@
    "st": "val"
   },
   {
+   "n": "GUARDIÃO HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 148,
+   "r": 107,
+   "pl": 28.81,
+   "roi": -0.0,
+   "wr": 58.0,
+   "st": "val"
+  },
+  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -177,17 +188,6 @@
    "pl": 25.81,
    "roi": 11.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "GUARDIÃO HT",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 147,
-   "r": 107,
-   "pl": 24.21,
-   "roi": -0.0,
-   "wr": 57.9,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 52,
+   "r": 8,
+   "pl": 13.72,
+   "roi": -0.3,
+   "wr": 86.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -345,25 +356,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 50,
-   "r": 8,
-   "pl": 10.33,
-   "roi": -0.3,
-   "wr": 86.2,
-   "st": "val"
-  },
-  {
    "n": "IGNIÇÃO 0.5 (Bolsa)",
    "s": "Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 101,
+   "g": 102,
    "r": 14,
-   "pl": 9.78,
+   "pl": 10.36,
    "roi": 0.3,
-   "wr": 87.8,
+   "wr": 87.9,
    "st": "val"
   },
   {
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 61,
+   "r": 28,
+   "pl": 8.53,
+   "roi": 1.5,
+   "wr": 68.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -389,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 60,
-   "r": 28,
-   "pl": 7.33,
-   "roi": 1.5,
-   "wr": 68.2,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -408,6 +408,17 @@
    "pl": 5.81,
    "roi": -100.0,
    "wr": 50.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 66,
+   "r": 28,
+   "pl": 5.27,
+   "roi": 2.0,
+   "wr": 70.2,
    "st": "val"
   },
   {
@@ -444,17 +455,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 65,
-   "r": 28,
-   "pl": 4.27,
-   "roi": 2.0,
-   "wr": 69.9,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -477,6 +477,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 137,
+   "r": 109,
+   "pl": 2.35,
+   "roi": -1.4,
+   "wr": 55.7,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -488,513 +499,42 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT",
+   "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 136,
-   "r": 109,
-   "pl": 0.51,
-   "roi": -1.4,
-   "wr": 55.5,
+   "g": 31,
+   "r": 24,
+   "pl": 0.39,
+   "roi": -0.2,
+   "wr": 56.4,
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-07-16 17:59:26",
-   "tm": "17:59",
-   "match": "ABB vs Independiente Petrolero",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 1.5
-  },
-  {
-   "data": "2026-07-16 17:59:22",
-   "tm": "17:59",
-   "match": "S.S. Virtus Acquaviva vs FC Dila Gori",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.6,
-   "status": "green",
-   "pl": 2.17
-  },
-  {
-   "data": "2026-07-16 17:58:35",
-   "tm": "17:58",
-   "match": "S.S. Virtus Acquaviva vs FC Dila Gori",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.66
-  },
-  {
-   "data": "2026-07-16 17:49:08",
-   "tm": "17:49",
-   "match": "Mornar vs Atlètic Club d'Escaldes",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 10.5,
-   "status": "green",
-   "pl": 1.58
-  },
-  {
-   "data": "2026-07-16 17:38:32",
-   "tm": "17:38",
-   "match": "ABB vs Independiente Petrolero",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.6,
-   "status": "red",
-   "pl": -3.29
-  },
-  {
-   "data": "2026-07-16 17:29:03",
-   "tm": "17:29",
-   "match": "Žilina vs Hajduk Split",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-16 16:59:43",
-   "tm": "16:59",
-   "match": "Platense Res. vs San Martín San Juan Res.",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 4.3
-  },
-  {
-   "data": "2026-07-16 16:59:40",
-   "tm": "16:59",
-   "match": "KF Ballkani vs Connah's Quay",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 10.5,
-   "status": "green",
-   "pl": 1.58
-  },
-  {
-   "data": "2026-07-16 16:58:38",
-   "tm": "16:58",
-   "match": "Platense Res. vs San Martín San Juan Res.",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 6.06
-  },
-  {
-   "data": "2026-07-16 16:58:37",
-   "tm": "16:58",
-   "match": "Skendija 79 vs Europa FC",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "green",
-   "pl": 1.88
-  },
-  {
-   "data": "2026-07-16 16:49:30",
-   "tm": "16:49",
-   "match": "Skendija 79 vs Europa FC",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.94
-  },
-  {
-   "data": "2026-07-16 16:48:42",
-   "tm": "16:48",
-   "match": "ABB vs Independiente Petrolero",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 16:48:42",
-   "tm": "16:48",
-   "match": "ABB vs Independiente Petrolero",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -5.0
-  },
-  {
-   "data": "2026-07-16 16:48:39",
-   "tm": "16:48",
-   "match": "Skendija 79 vs Europa FC",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 16:48:38",
-   "tm": "16:48",
-   "match": "Skendija 79 vs Europa FC",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.26
-  },
-  {
-   "data": "2026-07-16 16:39:17",
-   "tm": "16:39",
-   "match": "Hamrun Spartans vs NSÍ",
-   "bot": "BLINDADO 3-1 (Bolsa)",
-   "mkt": "Lay Placar 3x1",
-   "odd": 17.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-16 16:26:06",
-   "tm": "16:26",
-   "match": "Academia de Balompié Boliviano x Club Independiente Petrolero",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 14.0,
-   "status": "red",
-   "pl": -0.95
-  },
-  {
-   "data": "2026-07-16 16:12:05",
-   "tm": "16:12",
-   "match": "MŠK Žilina x HNK Hajduk Split",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.28
-  },
-  {
-   "data": "2026-07-16 16:11:05",
-   "tm": "16:11",
-   "match": "NK Aluminij Kidričevo x Sheriff Tiraspol",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 60.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-07-16 16:08:06",
-   "tm": "16:08",
-   "match": "Academia de Balompié Boliviano x Club Independiente Petrolero",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
-  },
-  {
-   "data": "2026-07-16 16:00:19",
-   "tm": "16:00",
-   "match": "Dinamo Tbilisi vs Mondorf-les-Bains",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 16:00:16",
-   "tm": "16:00",
-   "match": "FC Santa Coloma vs Penybont",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 1.43
-  },
-  {
-   "data": "2026-07-16 16:00:13",
-   "tm": "16:00",
-   "match": "Víkingur vs Stjarnan",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-16 16:00:07",
-   "tm": "16:00",
-   "match": "BATE vs AF Elbasani",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.2,
-   "status": "green",
-   "pl": 1.92
-  },
-  {
-   "data": "2026-07-16 16:00:07",
-   "tm": "16:00",
-   "match": "Milsami vs Velez",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "red",
-   "pl": -10.0
-  },
-  {
-   "data": "2026-07-16 15:58:54",
-   "tm": "15:58",
-   "match": "BATE vs AF Elbasani",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 2.44
-  },
-  {
-   "data": "2026-07-16 15:58:51",
-   "tm": "15:58",
-   "match": "Dinamo Tbilisi vs Mondorf-les-Bains",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 15:51:07",
-   "tm": "15:51",
-   "match": "MŠK Žilina x HNK Hajduk Split",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-07-16 15:48:43",
-   "tm": "15:48",
-   "match": "Independiente Res. vs Deportivo Riestra Res.",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 15:48:41",
-   "tm": "15:48",
-   "match": "Milsami vs Velez",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -5.0
-  },
-  {
-   "data": "2026-07-16 15:46:06",
-   "tm": "15:46",
-   "match": "FC Universitatea Cluj x Dynamo Kyiv",
-   "bot": "LOWLINE",
-   "mkt": "Under 3.5 FT",
-   "odd": 1.0,
-   "status": "green",
-   "pl": 0.1
-  },
-  {
-   "data": "2026-07-16 15:41:06",
-   "tm": "15:41",
-   "match": "FC Universitatea Cluj x Dynamo Kyiv",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 80.0,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-07-16 15:28:44",
-   "tm": "15:28",
-   "match": "Víkingur vs Stjarnan",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 15:28:42",
-   "tm": "15:28",
-   "match": "Universitatea Cluj vs Dynamo Kyiv",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 4.2
-  },
-  {
-   "data": "2026-07-16 15:28:42",
-   "tm": "15:28",
-   "match": "Universitatea Cluj vs Dynamo Kyiv",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.68
-  },
-  {
-   "data": "2026-07-16 15:28:39",
-   "tm": "15:28",
-   "match": "Víkingur vs Stjarnan",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.3,
-   "status": "green",
-   "pl": 1.21
-  },
-  {
-   "data": "2026-07-16 15:28:39",
-   "tm": "15:28",
-   "match": "Žalgiris vs Petrovac",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.26
-  },
-  {
-   "data": "2026-07-16 15:18:36",
-   "tm": "15:18",
-   "match": "Hamrun Spartans vs NSÍ",
-   "bot": "IGNIÇÃO 0.5 (Bolsa)",
-   "mkt": "Over 0.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.34
-  },
-  {
-   "data": "2026-07-16 15:13:14",
-   "tm": "15:13",
-   "match": "FC Universitatea Cluj x Dynamo Kyiv",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.8
-  },
-  {
-   "data": "2026-07-16 14:58:59",
-   "tm": "14:58",
-   "match": "St Josephs FC vs Bohemians",
-   "bot": "SENTINELA 0x0",
-   "mkt": "Under 0.5 FT",
-   "odd": 2.1,
-   "status": "green",
-   "pl": 5.4
-  },
-  {
-   "data": "2026-07-16 14:58:48",
-   "tm": "14:58",
-   "match": "Pyunik vs Marsaxlokk",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.4
-  },
-  {
-   "data": "2026-07-16 14:48:32",
-   "tm": "14:48",
-   "match": "Pyunik vs Marsaxlokk",
-   "bot": "OVERLORD",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.99
-  },
-  {
-   "data": "2026-07-16 13:59:59",
-   "tm": "13:59",
-   "match": "Astana vs Dinamo City",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 1.5
-  },
-  {
-   "data": "2026-07-16 13:58:19",
-   "tm": "13:58",
-   "match": "Yelimay Semey vs Alashkert",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 40.0,
-   "status": "green",
-   "pl": 2.54
-  },
-  {
-   "data": "2026-07-16 13:18:28",
-   "tm": "13:18",
-   "match": "Astana vs Dinamo City",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 2.72
-  },
-  {
-   "data": "2026-07-16 09:38:32",
-   "tm": "09:38",
-   "match": "Thimphu vs Paro FC",
-   "bot": "VIGIA HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-16 09:38:31",
-   "tm": "09:38",
-   "match": "Thimphu vs Paro FC",
-   "bot": "GUARDIÃO HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 2.2,
-   "status": "red",
-   "pl": -5.0
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 47,
-   "g": 32,
-   "r": 15,
-   "pl": 11.37,
-   "wr": 68,
-   "label": "16/07"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "17/07"
   },
   "mes": {
-   "ent": 686,
-   "g": 459,
-   "r": 227,
-   "pl": 254.48,
+   "ent": 724,
+   "g": 483,
+   "r": 241,
+   "pl": 264.43,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-16": {
-   "pl": 11.37,
-   "ops": 47,
-   "g": 32,
-   "r": 15
+   "pl": 23.92,
+   "ops": 62,
+   "g": 44,
+   "r": 18
   },
   "2026-07-15": {
    "pl": 4.37,
@@ -1003,57 +543,57 @@
    "r": 11
   },
   "2026-07-14": {
-   "pl": -12.02,
-   "ops": 38,
-   "g": 20,
-   "r": 18
+   "pl": -12.18,
+   "ops": 40,
+   "g": 21,
+   "r": 19
   },
   "2026-07-13": {
-   "pl": 31.51,
-   "ops": 21,
+   "pl": 29.51,
+   "ops": 22,
    "g": 14,
-   "r": 7
+   "r": 8
   },
   "2026-07-12": {
-   "pl": 89.62,
-   "ops": 65,
-   "g": 50,
+   "pl": 91.24,
+   "ops": 66,
+   "g": 51,
    "r": 15
   },
   "2026-07-11": {
-   "pl": 11.11,
-   "ops": 76,
-   "g": 50,
-   "r": 26
+   "pl": 8.29,
+   "ops": 81,
+   "g": 52,
+   "r": 29
   },
   "2026-07-10": {
-   "pl": -15.5,
-   "ops": 35,
+   "pl": -17.5,
+   "ops": 36,
    "g": 17,
-   "r": 18
+   "r": 19
   },
   "2026-07-09": {
-   "pl": -9.57,
-   "ops": 34,
-   "g": 18,
+   "pl": -5.94,
+   "ops": 36,
+   "g": 20,
    "r": 16
   },
   "2026-07-08": {
-   "pl": 18.07,
-   "ops": 20,
-   "g": 15,
+   "pl": 19.91,
+   "ops": 21,
+   "g": 16,
    "r": 5
   },
   "2026-07-07": {
-   "pl": 2.75,
-   "ops": 27,
+   "pl": 0.75,
+   "ops": 28,
    "g": 17,
-   "r": 10
+   "r": 11
   },
   "2026-07-06": {
-   "pl": 22.31,
-   "ops": 33,
-   "g": 26,
+   "pl": 24.44,
+   "ops": 34,
+   "g": 27,
    "r": 7
   },
   "2026-07-05": {
@@ -1063,10 +603,10 @@
    "r": 21
   },
   "2026-07-04": {
-   "pl": -36.28,
-   "ops": 80,
-   "g": 48,
-   "r": 32
+   "pl": -33.12,
+   "ops": 85,
+   "g": 52,
+   "r": 33
   },
   "2026-07-03": {
    "pl": 51.12,
@@ -1075,22 +615,22 @@
    "r": 9
   },
   "2026-07-02": {
-   "pl": 30.53,
-   "ops": 36,
+   "pl": 28.53,
+   "ops": 37,
    "g": 26,
-   "r": 10
+   "r": 11
   },
   "2026-07-01": {
-   "pl": 6.25,
-   "ops": 24,
+   "pl": 2.25,
+   "ops": 26,
    "g": 17,
-   "r": 7
+   "r": 9
   },
   "2026-06-30": {
-   "pl": 1.4,
-   "ops": 17,
-   "g": 10,
-   "r": 7
+   "pl": 0.88,
+   "ops": 19,
+   "g": 11,
+   "r": 8
   },
   "2026-06-29": {
    "pl": 3.69,
@@ -1099,27 +639,27 @@
    "r": 11
   },
   "2026-06-28": {
-   "pl": 11.32,
-   "ops": 60,
-   "g": 36,
+   "pl": 17.13,
+   "ops": 64,
+   "g": 40,
    "r": 24
   },
   "2026-06-27": {
-   "pl": 12.14,
-   "ops": 43,
-   "g": 30,
+   "pl": 13.66,
+   "ops": 44,
+   "g": 31,
    "r": 13
   },
   "2026-06-26": {
-   "pl": 4.85,
-   "ops": 33,
+   "pl": 0.85,
+   "ops": 35,
    "g": 19,
-   "r": 14
+   "r": 16
   },
   "2026-06-25": {
-   "pl": 17.48,
-   "ops": 25,
-   "g": 20,
+   "pl": 20.96,
+   "ops": 27,
+   "g": 22,
    "r": 5
   },
   "2026-06-24": {
@@ -1129,28 +669,28 @@
    "r": 7
   },
   "2026-06-23": {
-   "pl": 33.31,
-   "ops": 27,
-   "g": 21,
-   "r": 6
+   "pl": 33.09,
+   "ops": 29,
+   "g": 22,
+   "r": 7
   },
   "2026-06-22": {
-   "pl": -1.5,
-   "ops": 31,
-   "g": 17,
-   "r": 14
+   "pl": -3.87,
+   "ops": 34,
+   "g": 18,
+   "r": 16
   },
   "2026-06-21": {
-   "pl": -13.02,
-   "ops": 36,
-   "g": 28,
-   "r": 8
+   "pl": -13.22,
+   "ops": 38,
+   "g": 29,
+   "r": 9
   },
   "2026-06-20": {
-   "pl": 9.33,
-   "ops": 53,
+   "pl": 7.33,
+   "ops": 54,
    "g": 35,
-   "r": 18
+   "r": 19
   },
   "2026-06-19": {
    "pl": 11.24,
@@ -1159,9 +699,9 @@
    "r": 3
   },
   "2026-06-18": {
-   "pl": 3.01,
-   "ops": 12,
-   "g": 9,
+   "pl": 4.43,
+   "ops": 13,
+   "g": 10,
    "r": 3
   },
   "2026-06-17": {
@@ -1171,10 +711,10 @@
    "r": 3
   },
   "2026-06-16": {
-   "pl": 18.72,
-   "ops": 26,
-   "g": 17,
-   "r": 9
+   "pl": 19.96,
+   "ops": 29,
+   "g": 19,
+   "r": 10
   },
   "2026-06-15": {
    "pl": 10.93,
@@ -1183,16 +723,16 @@
    "r": 7
   },
   "2026-06-14": {
-   "pl": 30.28,
-   "ops": 43,
-   "g": 31,
-   "r": 12
+   "pl": 32.74,
+   "ops": 47,
+   "g": 34,
+   "r": 13
   },
   "2026-06-13": {
-   "pl": 15.49,
-   "ops": 43,
+   "pl": 13.49,
+   "ops": 44,
    "g": 28,
-   "r": 15
+   "r": 16
   },
   "2026-06-12": {
    "pl": -24.34,
