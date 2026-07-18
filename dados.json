@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T02:11",
+ "gerado_em": "2026-07-18T03:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 454,
+   "g": 455,
    "r": 5,
-   "pl": 296.3,
+   "pl": 297.46,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -294,10 +294,10 @@
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 28,
-   "r": 27,
-   "pl": 12.5,
+   "r": 28,
+   "pl": 12.36,
    "roi": 1.4,
-   "wr": 50.9,
+   "wr": 50.0,
    "st": "val"
   },
   {
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-18 02:08:36",
+   "tm": "02:08",
+   "match": "Juárez vs Puebla",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -0.14
+  },
+  {
    "data": "2026-07-18 01:11:15",
    "tm": "01:11",
    "match": "FC Juárez x Club Puebla",
@@ -454,32 +464,42 @@
    "odd": 1.2,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-18 00:08:15",
+   "tm": "00:08",
+   "match": "FC Juárez x Club Puebla",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 1.16
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 0,
-   "r": 1,
-   "pl": -2.0,
-   "wr": 0,
+   "ent": 3,
+   "g": 1,
+   "r": 2,
+   "pl": -0.98,
+   "wr": 33,
    "label": "18/07"
   },
   "mes": {
-   "ent": 559,
-   "g": 384,
-   "r": 175,
-   "pl": 203.5,
+   "ent": 561,
+   "g": 385,
+   "r": 176,
+   "pl": 204.52,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-18": {
-   "pl": -2.0,
-   "ops": 1,
-   "g": 0,
-   "r": 1
+   "pl": -0.98,
+   "ops": 3,
+   "g": 1,
+   "r": 2
   },
   "2026-07-17": {
    "pl": 16.79,
