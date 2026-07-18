@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T15:11",
+ "gerado_em": "2026-07-18T16:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 318,
+   "g": 319,
    "r": 20,
-   "pl": 98.14,
+   "pl": 100.36,
    "roi": 1.0,
    "wr": 94.1,
    "st": "ap"
@@ -106,9 +106,9 @@
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 63,
+   "g": 64,
    "r": 3,
-   "pl": 54.28,
+   "pl": 55.53,
    "roi": 4.0,
    "wr": 95.5,
    "st": "val"
@@ -169,17 +169,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5",
-   "s": "Lay Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 30,
-   "r": 6,
-   "pl": 23.77,
-   "roi": 33.0,
-   "wr": 83.3,
-   "st": "val"
-  },
-  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -188,6 +177,17 @@
    "pl": 22.92,
    "roi": 0.0,
    "wr": 92.9,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5",
+   "s": "Lay Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 30,
+   "r": 7,
+   "pl": 22.65,
+   "roi": 33.0,
+   "wr": 81.1,
    "st": "val"
   },
   {
@@ -549,6 +549,16 @@
    "pl": 1.02
   },
   {
+   "data": "2026-07-18 14:08:41",
+   "tm": "14:08",
+   "match": "Viking FK x Sandefjord Fotball",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.12
+  },
+  {
    "data": "2026-07-18 14:06:29",
    "tm": "14:06",
    "match": "JJK vs Jazz",
@@ -609,6 +619,16 @@
    "pl": 0.61
   },
   {
+   "data": "2026-07-18 13:36:35",
+   "tm": "13:36",
+   "match": "Þór Akureyri x Víkingur Reykjavík",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 16.5,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-07-18 13:24:25",
    "tm": "13:24",
    "match": "Þór Akureyri x Víkingur Reykjavík",
@@ -617,6 +637,16 @@
    "odd": 21.0,
    "status": "green",
    "pl": 1.19
+  },
+  {
+   "data": "2026-07-18 13:07:25",
+   "tm": "13:07",
+   "match": "Molde FK x SK Brann",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 2.22
   },
   {
    "data": "2026-07-18 13:06:43",
@@ -991,28 +1021,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 51,
-   "g": 35,
-   "r": 16,
-   "pl": 4.22,
+   "ent": 54,
+   "g": 37,
+   "r": 17,
+   "pl": 6.57,
    "wr": 69,
    "label": "18/07"
   },
   "mes": {
-   "ent": 662,
-   "g": 446,
-   "r": 216,
-   "pl": 201.84,
+   "ent": 665,
+   "g": 448,
+   "r": 217,
+   "pl": 204.19,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-18": {
-   "pl": 4.22,
-   "ops": 51,
-   "g": 35,
-   "r": 16
+   "pl": 6.57,
+   "ops": 54,
+   "g": 37,
+   "r": 17
   },
   "2026-07-17": {
    "pl": 16.79,
