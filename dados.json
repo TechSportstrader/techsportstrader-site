@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T18:11",
+ "gerado_em": "2026-07-18T19:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 245,
+   "g": 246,
    "r": 0,
-   "pl": 401.56,
+   "pl": 404.12,
    "roi": 38.0,
    "wr": 100.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 319,
+   "g": 320,
    "r": 20,
-   "pl": 100.36,
+   "pl": 102.49,
    "roi": 1.0,
    "wr": 94.1,
    "st": "ap"
@@ -213,6 +213,17 @@
    "st": "val"
   },
   {
+   "n": "GLOBAL EDGE",
+   "s": "Lay Goleada Fora · BotBet",
+   "plat": "BotBet",
+   "g": 25,
+   "r": 2,
+   "pl": 20.3,
+   "roi": 4.0,
+   "wr": 92.6,
+   "st": "val"
+  },
+  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
@@ -221,17 +232,6 @@
    "pl": 18.37,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "GLOBAL EDGE",
-   "s": "Lay Goleada Fora · BotBet",
-   "plat": "BotBet",
-   "g": 24,
-   "r": 2,
-   "pl": 18.03,
-   "roi": 4.0,
-   "wr": 92.3,
    "st": "val"
   },
   {
@@ -489,6 +489,26 @@
    "pl": 1.32
   },
   {
+   "data": "2026-07-18 18:06:36",
+   "tm": "18:06",
+   "match": "Sport Recife vs Operário PR",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 40.0,
+   "status": "green",
+   "pl": 2.56
+  },
+  {
+   "data": "2026-07-18 17:18:17",
+   "tm": "17:18",
+   "match": "Deportivo Cuenca x Universidad Católica del Ecuador",
+   "bot": "GLOBAL EDGE",
+   "mkt": "Lay Goleada Fora",
+   "odd": 7.4,
+   "status": "green",
+   "pl": 2.27
+  },
+  {
    "data": "2026-07-18 17:17:00",
    "tm": "17:17",
    "match": "Ludogorets vs Lokomotiv Plovdiv",
@@ -527,6 +547,16 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.54
+  },
+  {
+   "data": "2026-07-18 16:18:07",
+   "tm": "16:18",
+   "match": "Criciúma x Vila Nova FC",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 2.13
   },
   {
    "data": "2026-07-18 16:16:31",
@@ -1047,61 +1077,31 @@
    "odd": 1.9,
    "status": "green",
    "pl": 1.7
-  },
-  {
-   "data": "2026-07-18 07:08:17",
-   "tm": "07:08",
-   "match": "Shanghai Second vs Shandong Taishan II",
-   "bot": "RAMPART",
-   "mkt": "Lay Goleada Casa",
-   "odd": 29.0,
-   "status": "green",
-   "pl": 1.27
-  },
-  {
-   "data": "2026-07-18 02:08:36",
-   "tm": "02:08",
-   "match": "Juárez vs Puebla",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -0.14
-  },
-  {
-   "data": "2026-07-18 01:11:15",
-   "tm": "01:11",
-   "match": "FC Juárez x Club Puebla",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 61,
-   "g": 42,
+   "ent": 64,
+   "g": 45,
    "r": 19,
-   "pl": 8.44,
-   "wr": 69,
+   "pl": 15.4,
+   "wr": 70,
    "label": "18/07"
   },
   "mes": {
-   "ent": 672,
-   "g": 453,
+   "ent": 675,
+   "g": 456,
    "r": 219,
-   "pl": 206.06,
-   "wr": 67,
+   "pl": 213.02,
+   "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-18": {
-   "pl": 8.44,
-   "ops": 61,
-   "g": 42,
+   "pl": 15.4,
+   "ops": 64,
+   "g": 45,
    "r": 19
   },
   "2026-07-17": {
