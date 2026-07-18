@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T00:11",
+ "gerado_em": "2026-07-18T01:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 317,
+   "g": 318,
    "r": 20,
-   "pl": 96.03,
+   "pl": 98.14,
    "roi": 1.0,
    "wr": 94.1,
    "st": "ap"
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 314,
-   "r": 91,
-   "pl": 18.18,
+   "r": 92,
+   "pl": 16.18,
    "roi": 2.0,
-   "wr": 77.5,
+   "wr": 77.3,
    "st": "ap"
   },
   {
@@ -128,11 +128,22 @@
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 28,
+   "g": 29,
    "r": 5,
-   "pl": 27.87,
+   "pl": 29.14,
    "roi": 10.0,
-   "wr": 84.8,
+   "wr": 85.3,
+   "st": "val"
+  },
+  {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 20,
+   "r": 0,
+   "pl": 27.27,
+   "roi": 11.0,
+   "wr": 100.0,
    "st": "val"
   },
   {
@@ -143,17 +154,6 @@
    "r": 0,
    "pl": 26.09,
    "roi": 13.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 19,
-   "r": 0,
-   "pl": 25.81,
-   "roi": 11.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -455,20 +455,20 @@
    "label": "18/07"
   },
   "mes": {
-   "ent": 554,
-   "g": 381,
-   "r": 173,
-   "pl": 202.66,
+   "ent": 558,
+   "g": 384,
+   "r": 174,
+   "pl": 205.5,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": 13.95,
-   "ops": 48,
-   "g": 34,
-   "r": 14
+   "pl": 16.79,
+   "ops": 52,
+   "g": 37,
+   "r": 15
   },
   "2026-07-16": {
    "pl": 25.66,
