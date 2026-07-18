@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T17:11",
+ "gerado_em": "2026-07-18T18:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 317,
-   "r": 93,
-   "pl": 16.16,
+   "r": 94,
+   "pl": 14.16,
    "roi": 2.0,
-   "wr": 77.3,
+   "wr": 77.1,
    "st": "ap"
   },
   {
@@ -95,9 +95,9 @@
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 27,
+   "g": 28,
    "r": 0,
-   "pl": 68.69,
+   "pl": 70.01,
    "roi": 6.4,
    "wr": 100.0,
    "st": "val"
@@ -129,10 +129,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 7,
-   "r": 27,
-   "pl": 46.47,
+   "r": 28,
+   "pl": 44.47,
    "roi": 3.7,
-   "wr": 20.6,
+   "wr": 20.0,
    "st": "val"
   },
   {
@@ -205,11 +205,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 25,
+   "g": 26,
    "r": 1,
-   "pl": 19.23,
+   "pl": 20.34,
    "roi": 1.3,
-   "wr": 96.2,
+   "wr": 96.3,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 0,
+   "pl": 6.14,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -364,17 +375,6 @@
    "pl": 5.89,
    "roi": 1.1,
    "wr": 83.3,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 0,
-   "pl": 5.09,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -479,6 +479,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-18 18:06:37",
+   "tm": "18:06",
+   "match": "Criciúma vs Vila Nova",
+   "bot": "RAMPART",
+   "mkt": "Lay Goleada Casa",
+   "odd": 29.0,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-07-18 17:17:00",
+   "tm": "17:17",
+   "match": "Ludogorets vs Lokomotiv Plovdiv",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.5,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
+   "data": "2026-07-18 17:16:58",
+   "tm": "17:16",
+   "match": "Olimpija vs Bravo",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-18 16:46:18",
+   "tm": "16:46",
+   "match": "Sport Recife x Operário-PR",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 25.0,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
    "data": "2026-07-18 16:29:13",
    "tm": "16:29",
    "match": "FK Zemun x FK Partizan",
@@ -497,6 +537,16 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.85
+  },
+  {
+   "data": "2026-07-18 16:06:23",
+   "tm": "16:06",
+   "match": "FK Novi Pazar x FK Radnički 1923",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-07-18 14:56:38",
@@ -1027,42 +1077,32 @@
    "odd": 1.2,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-07-18 00:08:15",
-   "tm": "00:08",
-   "match": "FC Juárez x Club Puebla",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 70.0,
-   "status": "green",
-   "pl": 1.16
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 56,
-   "g": 39,
-   "r": 17,
-   "pl": 8.96,
-   "wr": 70,
+   "ent": 61,
+   "g": 42,
+   "r": 19,
+   "pl": 8.44,
+   "wr": 69,
    "label": "18/07"
   },
   "mes": {
-   "ent": 667,
-   "g": 450,
-   "r": 217,
-   "pl": 206.58,
+   "ent": 672,
+   "g": 453,
+   "r": 219,
+   "pl": 206.06,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-18": {
-   "pl": 8.96,
-   "ops": 56,
-   "g": 39,
-   "r": 17
+   "pl": 8.44,
+   "ops": 61,
+   "g": 42,
+   "r": 19
   },
   "2026-07-17": {
    "pl": 16.79,
