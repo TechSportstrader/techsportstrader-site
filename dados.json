@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T20:12",
+ "gerado_em": "2026-07-17T21:17",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -62,11 +62,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 312,
+   "g": 313,
    "r": 91,
-   "pl": 16.66,
+   "pl": 17.7,
    "roi": 2.0,
-   "wr": 77.4,
+   "wr": 77.5,
    "st": "ap"
   },
   {
@@ -216,11 +216,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 55,
+   "g": 56,
    "r": 8,
-   "pl": 18.78,
+   "pl": 20.45,
    "roi": -0.3,
-   "wr": 87.3,
+   "wr": 87.5,
    "st": "val"
   },
   {
@@ -378,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 68,
-   "r": 28,
-   "pl": 6.99,
-   "roi": 2.0,
-   "wr": 70.8,
-   "st": "val"
-  },
-  {
    "n": "VIGIA HT",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -441,6 +430,17 @@
    "pl": 5.09,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 68,
+   "r": 29,
+   "pl": 4.99,
+   "roi": 2.0,
+   "wr": 70.1,
    "st": "val"
   },
   {
@@ -511,6 +511,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-17 21:00:41",
+   "tm": "21:00",
+   "match": "América Mineiro vs Ceará",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-17 20:31:05",
+   "tm": "20:31",
+   "match": "Juventude x Cuiabá",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 2.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-17 20:06:15",
+   "tm": "20:06",
+   "match": "Juventude x Cuiabá",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.03
+  },
   {
    "data": "2026-07-17 19:29:12",
    "tm": "19:29",
@@ -1014,28 +1044,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 50,
-   "g": 36,
-   "r": 14,
-   "pl": 20.2,
+   "ent": 53,
+   "g": 38,
+   "r": 15,
+   "pl": 20.9,
    "wr": 72,
    "label": "17/07"
   },
   "mes": {
-   "ent": 774,
-   "g": 519,
-   "r": 255,
-   "pl": 284.63,
+   "ent": 777,
+   "g": 521,
+   "r": 256,
+   "pl": 285.33,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-17": {
-   "pl": 20.2,
-   "ops": 50,
-   "g": 36,
-   "r": 14
+   "pl": 20.9,
+   "ops": 53,
+   "g": 38,
+   "r": 15
   },
   "2026-07-16": {
    "pl": 23.92,
