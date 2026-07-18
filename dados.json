@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T01:11",
+ "gerado_em": "2026-07-18T02:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 314,
-   "r": 92,
-   "pl": 16.18,
+   "r": 93,
+   "pl": 14.18,
    "roi": 2.0,
-   "wr": 77.3,
+   "wr": 77.1,
    "st": "ap"
   },
   {
@@ -444,26 +444,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-18 01:11:15",
+   "tm": "01:11",
+   "match": "FC Juárez x Club Puebla",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "18/07"
   },
   "mes": {
-   "ent": 558,
+   "ent": 559,
    "g": 384,
-   "r": 174,
-   "pl": 205.5,
+   "r": 175,
+   "pl": 203.5,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-18": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-07-17": {
    "pl": 16.79,
    "ops": 52,
