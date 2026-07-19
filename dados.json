@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T19:11",
+ "gerado_em": "2026-07-19T20:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 39,
+   "r": 1,
+   "pl": 14.71,
+   "roi": 3.0,
+   "wr": 97.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -276,17 +287,6 @@
    "pl": 14.43,
    "roi": 1.5,
    "wr": 68.7,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 38,
-   "r": 1,
-   "pl": 13.77,
-   "roi": 3.0,
-   "wr": 97.4,
    "st": "val"
   },
   {
@@ -456,6 +456,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-19 19:30:15",
+   "tm": "19:30",
+   "match": "Guayaquil City x Manta FC",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.95
+  },
   {
    "data": "2026-07-19 15:26:33",
    "tm": "15:26",
@@ -899,27 +909,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 44,
-   "g": 25,
+   "ent": 45,
+   "g": 26,
    "r": 19,
-   "pl": 5.56,
-   "wr": 57,
+   "pl": 6.51,
+   "wr": 58,
    "label": "19/07"
   },
   "mes": {
-   "ent": 701,
-   "g": 472,
+   "ent": 702,
+   "g": 473,
    "r": 229,
-   "pl": 224.09,
+   "pl": 225.04,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": 5.56,
-   "ops": 44,
-   "g": 25,
+   "pl": 6.51,
+   "ops": 45,
+   "g": 26,
    "r": 19
   },
   "2026-07-18": {
