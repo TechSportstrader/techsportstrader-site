@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T08:11",
+ "gerado_em": "2026-07-19T09:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 67,
-   "r": 124,
-   "pl": 71.7,
+   "r": 125,
+   "pl": 69.7,
    "roi": 18.9,
-   "wr": 35.1,
+   "wr": 34.9,
    "st": "ap"
   },
   {
@@ -191,17 +191,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 30,
-   "r": 44,
-   "pl": 22.45,
-   "roi": 6.7,
-   "wr": 40.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -210,6 +199,17 @@
    "pl": 21.92,
    "roi": 1.3,
    "wr": 96.4,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 30,
+   "r": 45,
+   "pl": 20.45,
+   "roi": 6.7,
+   "wr": 40.0,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 6,
+   "r": 0,
+   "pl": 7.27,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -356,14 +367,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 0,
-   "pl": 6.14,
-   "roi": 4.0,
-   "wr": 100.0,
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 110,
+   "r": 17,
+   "pl": 5.97,
+   "roi": 0.3,
+   "wr": 86.6,
    "st": "val"
   },
   {
@@ -375,17 +386,6 @@
    "pl": 5.89,
    "roi": 1.1,
    "wr": 83.3,
-   "st": "val"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 109,
-   "r": 17,
-   "pl": 4.87,
-   "roi": 0.3,
-   "wr": 86.5,
    "st": "val"
   },
   {
@@ -468,6 +468,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-19 02:06:30",
+   "tm": "02:06",
+   "match": "Querétaro vs América",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 1.1
+  },
+  {
    "data": "2026-07-19 00:16:35",
    "tm": "00:16",
    "match": "Guadalajara vs Toluca",
@@ -500,40 +510,40 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 1,
+   "ent": 4,
+   "g": 2,
    "r": 2,
-   "pl": -1.51,
-   "wr": 33,
+   "pl": -0.41,
+   "wr": 50,
    "label": "19/07"
   },
   "mes": {
-   "ent": 661,
-   "g": 450,
-   "r": 211,
-   "pl": 221.6,
+   "ent": 665,
+   "g": 452,
+   "r": 213,
+   "pl": 219.83,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": -1.51,
-   "ops": 3,
-   "g": 1,
+   "pl": -0.41,
+   "ops": 4,
+   "g": 2,
    "r": 2
   },
   "2026-07-18": {
-   "pl": 19.99,
-   "ops": 75,
-   "g": 52,
-   "r": 23
+   "pl": 19.12,
+   "ops": 77,
+   "g": 53,
+   "r": 24
   },
   "2026-07-17": {
-   "pl": 16.79,
-   "ops": 52,
+   "pl": 14.79,
+   "ops": 53,
    "g": 37,
-   "r": 15
+   "r": 16
   },
   "2026-07-16": {
    "pl": 25.1,
