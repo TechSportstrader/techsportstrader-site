@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T10:11",
+ "gerado_em": "2026-07-19T11:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -180,6 +180,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 31,
+   "r": 45,
+   "pl": 23.44,
+   "roi": 6.7,
+   "wr": 40.8,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -199,17 +210,6 @@
    "pl": 21.92,
    "roi": 1.3,
    "wr": 96.4,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 30,
-   "r": 45,
-   "pl": 20.45,
-   "roi": 6.7,
-   "wr": 40.0,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 111,
+   "r": 17,
+   "pl": 6.57,
+   "roi": 0.3,
+   "wr": 86.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -364,17 +375,6 @@
    "pl": 6.2,
    "roi": -0.2,
    "wr": 68.2,
-   "st": "val"
-  },
-  {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 110,
-   "r": 17,
-   "pl": 5.97,
-   "roi": 0.3,
-   "wr": 86.6,
    "st": "val"
   },
   {
@@ -468,6 +468,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-19 10:36:36",
+   "tm": "10:36",
+   "match": "Värnamo vs Ljungskile",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.6
+  },
+  {
+   "data": "2026-07-19 10:36:35",
+   "tm": "10:36",
+   "match": "Hangzhou Linping Wuyue vs Chengdu Rongcheng II",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.99
+  },
+  {
    "data": "2026-07-19 02:06:30",
    "tm": "02:06",
    "match": "Querétaro vs América",
@@ -510,27 +530,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 2,
+   "ent": 6,
+   "g": 4,
    "r": 2,
-   "pl": -0.41,
-   "wr": 50,
+   "pl": 3.18,
+   "wr": 67,
    "label": "19/07"
   },
   "mes": {
-   "ent": 665,
-   "g": 452,
+   "ent": 667,
+   "g": 454,
    "r": 213,
-   "pl": 219.83,
+   "pl": 223.42,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": -0.41,
-   "ops": 4,
-   "g": 2,
+   "pl": 3.18,
+   "ops": 6,
+   "g": 4,
    "r": 2
   },
   "2026-07-18": {
