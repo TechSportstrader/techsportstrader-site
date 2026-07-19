@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T16:11",
+ "gerado_em": "2026-07-19T17:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -52,10 +52,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 319,
-   "r": 95,
-   "pl": 13.31,
+   "r": 96,
+   "pl": 11.31,
    "roi": 2.0,
-   "wr": 77.1,
+   "wr": 76.9,
    "st": "ap"
   },
   {
@@ -507,6 +507,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-19 15:12:10",
+   "tm": "15:12",
+   "match": "FK Čukarički x FK IMT Beograd",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-19 14:56:40",
    "tm": "14:56",
    "match": "Aluminij vs Maribor",
@@ -889,28 +899,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 43,
+   "ent": 44,
    "g": 25,
-   "r": 18,
-   "pl": 7.56,
-   "wr": 58,
+   "r": 19,
+   "pl": 5.56,
+   "wr": 57,
    "label": "19/07"
   },
   "mes": {
-   "ent": 700,
+   "ent": 701,
    "g": 472,
-   "r": 228,
-   "pl": 226.09,
+   "r": 229,
+   "pl": 224.09,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": 7.56,
-   "ops": 43,
+   "pl": 5.56,
+   "ops": 44,
    "g": 25,
-   "r": 18
+   "r": 19
   },
   "2026-07-18": {
    "pl": 17.17,
