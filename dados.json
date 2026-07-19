@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T11:11",
+ "gerado_em": "2026-07-19T12:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 7,
-   "r": 30,
-   "pl": 40.47,
+   "r": 31,
+   "pl": 38.47,
    "roi": 3.7,
-   "wr": 18.9,
+   "wr": 18.4,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 29,
+   "r": 29,
+   "pl": 11.86,
+   "roi": 1.4,
+   "wr": 50.0,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -298,17 +309,6 @@
    "pl": 11.69,
    "roi": 27.0,
    "wr": 92.3,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 28,
-   "r": 29,
-   "pl": 11.0,
-   "roi": 1.4,
-   "wr": 49.1,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 16,
+   "r": 3,
+   "pl": 7.24,
+   "roi": 1.1,
+   "wr": 84.2,
+   "st": "val"
+  },
+  {
    "n": "IGNIÇÃO 0.5 (Bolsa)",
    "s": "Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -375,17 +386,6 @@
    "pl": 6.2,
    "roi": -0.2,
    "wr": 68.2,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 2-2",
-   "s": "Lay Placar 2x2 · Bolsa",
-   "plat": "Bolsa",
-   "g": 15,
-   "r": 3,
-   "pl": 5.89,
-   "roi": 1.1,
-   "wr": 83.3,
    "st": "val"
   },
   {
@@ -468,6 +468,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-19 12:06:33",
+   "tm": "12:06",
+   "match": "Värnamo vs Ljungskile",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.7,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
+   "data": "2026-07-19 12:06:29",
+   "tm": "12:06",
+   "match": "Värnamo vs Ljungskile",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-19 11:26:30",
+   "tm": "11:26",
+   "match": "Värnamo vs Ljungskile",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.86
+  },
+  {
    "data": "2026-07-19 10:36:36",
    "tm": "10:36",
    "match": "Värnamo vs Ljungskile",
@@ -530,28 +560,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 4,
-   "r": 2,
-   "pl": 3.18,
+   "ent": 9,
+   "g": 6,
+   "r": 3,
+   "pl": 3.39,
    "wr": 67,
    "label": "19/07"
   },
   "mes": {
-   "ent": 667,
-   "g": 454,
-   "r": 213,
-   "pl": 223.42,
+   "ent": 670,
+   "g": 456,
+   "r": 214,
+   "pl": 223.63,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": 3.18,
-   "ops": 6,
-   "g": 4,
-   "r": 2
+   "pl": 3.39,
+   "ops": 9,
+   "g": 6,
+   "r": 3
   },
   "2026-07-18": {
    "pl": 19.12,
