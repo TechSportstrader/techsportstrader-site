@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T15:11",
+ "gerado_em": "2026-07-19T16:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -51,22 +51,22 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 318,
-   "r": 94,
-   "pl": 14.58,
+   "g": 319,
+   "r": 95,
+   "pl": 13.31,
    "roi": 2.0,
-   "wr": 77.2,
+   "wr": 77.1,
    "st": "ap"
   },
   {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 75,
-   "r": 34,
-   "pl": 1.49,
+   "g": 76,
+   "r": 35,
+   "pl": 0.38,
    "roi": 2.0,
-   "wr": 68.8,
+   "wr": 68.5,
    "st": "ap"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 35,
-   "r": 46,
-   "pl": 41.85,
+   "r": 47,
+   "pl": 39.85,
    "roi": 6.7,
-   "wr": 43.2,
+   "wr": 42.7,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 65,
+   "r": 10,
+   "pl": 17.67,
+   "roi": -0.3,
+   "wr": 86.7,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -243,17 +254,6 @@
    "pl": 17.6,
    "roi": 4.2,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 64,
-   "r": 10,
-   "pl": 15.88,
-   "roi": -0.3,
-   "wr": 86.5,
    "st": "val"
   },
   {
@@ -457,6 +457,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-19 15:26:33",
+   "tm": "15:26",
+   "match": "Técnico Universitario vs Aucas",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-19 15:26:32",
+   "tm": "15:26",
+   "match": "Botev Vratsa vs Cherno More",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 1.79
+  },
+  {
+   "data": "2026-07-19 15:23:11",
+   "tm": "15:23",
+   "match": "FK Vojvodina x OFK Beograd Mozzart Bet",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.89
+  },
+  {
+   "data": "2026-07-19 15:20:21",
+   "tm": "15:20",
+   "match": "FK Vojvodina x OFK Beograd Mozzart Bet",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.73
+  },
+  {
+   "data": "2026-07-19 15:16:14",
+   "tm": "15:16",
+   "match": "FK Radnik Surdulica x FK Mladost Lučani",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-19 14:56:40",
    "tm": "14:56",
    "match": "Aluminij vs Maribor",
@@ -465,6 +515,16 @@
    "odd": 1.3,
    "status": "green",
    "pl": 5.88
+  },
+  {
+   "data": "2026-07-19 14:38:05",
+   "tm": "14:38",
+   "match": "FC Petrolul Ploiești x FC Dinamo București",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-07-19 14:36:34",
@@ -829,28 +889,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 37,
-   "g": 22,
-   "r": 15,
-   "pl": 10.15,
-   "wr": 59,
+   "ent": 43,
+   "g": 25,
+   "r": 18,
+   "pl": 7.56,
+   "wr": 58,
    "label": "19/07"
   },
   "mes": {
-   "ent": 694,
-   "g": 469,
-   "r": 225,
-   "pl": 228.68,
-   "wr": 68,
+   "ent": 700,
+   "g": 472,
+   "r": 228,
+   "pl": 226.09,
+   "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": 10.15,
-   "ops": 37,
-   "g": 22,
-   "r": 15
+   "pl": 7.56,
+   "ops": 43,
+   "g": 25,
+   "r": 18
   },
   "2026-07-18": {
    "pl": 17.17,
