@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T13:11",
+ "gerado_em": "2026-07-19T14:11",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">100 entradas + P/L+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 75,
-   "r": 33,
-   "pl": 3.49,
+   "r": 34,
+   "pl": 1.49,
    "roi": 2.0,
-   "wr": 69.4,
+   "wr": 68.8,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 81,
+   "g": 83,
    "r": 8,
-   "pl": 80.19,
+   "pl": 83.68,
    "roi": 4.0,
-   "wr": 91.0,
+   "wr": 91.2,
    "st": "val"
   },
   {
@@ -106,11 +106,11 @@
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 64,
+   "g": 65,
    "r": 3,
-   "pl": 55.53,
+   "pl": 57.2,
    "roi": 4.0,
-   "wr": 95.5,
+   "wr": 95.6,
    "st": "val"
   },
   {
@@ -293,33 +293,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 62,
+   "g": 63,
    "r": 10,
-   "pl": 11.0,
+   "pl": 13.38,
    "roi": -0.3,
-   "wr": 86.1,
-   "st": "val"
-  },
-  {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 3,
-   "r": 2,
-   "pl": 9.9,
-   "roi": -100.0,
-   "wr": 60.0,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 29,
-   "r": 30,
-   "pl": 9.86,
-   "roi": 1.4,
-   "wr": 49.2,
+   "wr": 86.3,
    "st": "val"
   },
   {
@@ -331,6 +309,28 @@
    "pl": 8.64,
    "roi": 131.0,
    "wr": 18.2,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 29,
+   "r": 31,
+   "pl": 8.6,
+   "roi": 1.4,
+   "wr": 48.3,
+   "st": "val"
+  },
+  {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 3,
+   "r": 3,
+   "pl": 7.9,
+   "roi": -100.0,
+   "wr": 50.0,
    "st": "val"
   },
   {
@@ -400,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "IGNIÇÃO 0.5 (Bolsa)",
+   "s": "Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 112,
+   "r": 18,
+   "pl": 2.62,
+   "roi": 0.3,
+   "wr": 86.2,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -422,17 +433,6 @@
    "st": "val"
   },
   {
-   "n": "IGNIÇÃO 0.5 (Bolsa)",
-   "s": "Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 111,
-   "r": 18,
-   "pl": 1.57,
-   "roi": 0.3,
-   "wr": 86.0,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -447,15 +447,55 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 11,
+   "g": 12,
    "r": 0,
-   "pl": 0.92,
+   "pl": 0.97,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-19 13:26:47",
+   "tm": "13:26",
+   "match": "Elfsborg vs Sirius",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.2,
+   "status": "green",
+   "pl": 2.38
+  },
+  {
+   "data": "2026-07-19 13:26:40",
+   "tm": "13:26",
+   "match": "Hammarby vs Degerfors",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.5,
+   "status": "red",
+   "pl": -1.26
+  },
+  {
+   "data": "2026-07-19 13:21:04",
+   "tm": "13:21",
+   "match": "GV San José x The Strongest",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.05
+  },
+  {
+   "data": "2026-07-19 13:16:33",
+   "tm": "13:16",
+   "match": "Elfsborg vs Sirius",
+   "bot": "IGNIÇÃO 0.5 (Bolsa)",
+   "mkt": "Over 0.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 1.05
+  },
   {
    "data": "2026-07-19 13:06:45",
    "tm": "13:06",
@@ -547,6 +587,26 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-19 12:49:24",
+   "tm": "12:49",
+   "match": "Halmstads BK x BK Häcken",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-19 12:48:05",
+   "tm": "12:48",
+   "match": "GV San José x The Strongest",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-19 12:46:30",
    "tm": "12:46",
    "match": "ÍBV vs KA Akureyri",
@@ -555,6 +615,16 @@
    "odd": 2.0,
    "status": "red",
    "pl": -0.99
+  },
+  {
+   "data": "2026-07-19 12:44:05",
+   "tm": "12:44",
+   "match": "GV San José x The Strongest",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.82
   },
   {
    "data": "2026-07-19 12:40:24",
@@ -605,6 +675,26 @@
    "odd": 10.0,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-19 11:53:57",
+   "tm": "11:53",
+   "match": "IF Elfsborg x IK Sirius",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 13.5,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-19 11:53:25",
+   "tm": "11:53",
+   "match": "IF Elfsborg x IK Sirius",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-19 11:42:25",
@@ -699,28 +789,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 24,
-   "g": 13,
-   "r": 11,
-   "pl": -5.18,
-   "wr": 54,
+   "ent": 33,
+   "g": 19,
+   "r": 14,
+   "pl": -1.8,
+   "wr": 58,
    "label": "19/07"
   },
   "mes": {
-   "ent": 681,
-   "g": 460,
-   "r": 221,
-   "pl": 213.36,
+   "ent": 690,
+   "g": 466,
+   "r": 224,
+   "pl": 216.73,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-19": {
-   "pl": -5.18,
-   "ops": 24,
-   "g": 13,
-   "r": 11
+   "pl": -1.8,
+   "ops": 33,
+   "g": 19,
+   "r": 14
   },
   "2026-07-18": {
    "pl": 17.17,
