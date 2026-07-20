@@ -1,19 +1,8 @@
 {
- "gerado_em": "2026-07-20T18:42",
+ "gerado_em": "2026-07-20T19:11",
  "fonte": "baseline plataformas + delta banco",
- "criterio": ">100 entradas + P/L+ (por plataforma)",
+ "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
-  {
-   "n": "CITADEL",
-   "s": "Lay Placar 0-3 · Bolsa",
-   "plat": "Bolsa",
-   "g": 248,
-   "r": 0,
-   "pl": 407.82,
-   "roi": 38.0,
-   "wr": 100.0,
-   "st": "ap"
-  },
   {
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
@@ -37,17 +26,6 @@
    "st": "ap"
   },
   {
-   "n": "OVERLORD",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 67,
-   "r": 125,
-   "pl": 69.7,
-   "roi": 18.9,
-   "wr": 34.9,
-   "st": "ap"
-  },
-  {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -59,15 +37,15 @@
    "st": "ap"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 76,
-   "r": 35,
-   "pl": 0.38,
-   "roi": 2.0,
-   "wr": 68.5,
-   "st": "ap"
+   "n": "CITADEL",
+   "s": "Lay Placar 0-3 · Bolsa",
+   "plat": "Bolsa",
+   "g": 248,
+   "r": 0,
+   "pl": 407.82,
+   "roi": 38.0,
+   "wr": 100.0,
+   "st": "val"
   },
   {
    "n": "SENTINEL 0.1",
@@ -100,6 +78,17 @@
    "pl": 73.06,
    "roi": 6.4,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 67,
+   "r": 125,
+   "pl": 69.7,
+   "roi": 18.9,
+   "wr": 34.9,
    "st": "val"
   },
   {
@@ -452,6 +441,17 @@
    "pl": 0.97,
    "roi": 1.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 76,
+   "r": 35,
+   "pl": 0.38,
+   "roi": 2.0,
+   "wr": 68.5,
    "st": "val"
   }
  ],
