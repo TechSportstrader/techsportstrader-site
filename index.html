@@ -193,7 +193,7 @@
     <div class="steps" style="margin-bottom:20px">
       <div class="step"><div class="n">1</div><h4>Descobrimos</h4><p>Garimpamos estratégias candidatas cruzando estatística minuto a minuto com odds ao vivo.</p></div>
       <div class="step"><div class="n">2</div><h4>Validamos</h4><p>Cada método roda com dinheiro real por meses. O P/L vem do relatório da própria plataforma — não de simulação.</p></div>
-      <div class="step"><div class="n">3</div><h4>Aprovamos</h4><p>Só entra no catálogo quem passa na régua: mais de 100 entradas reais + resultado sólido — ROI de pelo menos 1,5% <b>ou</b> lucro de pelo menos R$ 40 (sempre com P/L e ROI positivos). Win rate alto é bônus, não exigência — método de WR baixo pode ser muito lucrativo.</p></div>
+      <div class="step"><div class="n">3</div><h4>Aprovamos</h4><p>Só entra no catálogo quem passa na régua: mais de 300 entradas reais + resultado sólido — ROI de pelo menos 1,5% <b>ou</b> lucro de pelo menos R$ 40 (sempre com P/L e ROI positivos). Win rate alto é bônus, não exigência — método de WR baixo pode ser muito lucrativo.</p></div>
       <div class="step"><div class="n">4</div><h4>Entregamos</h4><p>Você recebe a configuração campo a campo + a gestão de banca, e opera na sua própria conta.</p></div>
     </div>
 
@@ -260,7 +260,7 @@
 <section id="catalogo">
   <div class="wrap">
     <h2 class="sec">Catálogo completo — transparência total</h2>
-    <p class="lead">Nossos métodos validados ficam aqui. O selo <b class="green">APROVADO</b> acende automaticamente quando o método cumpre o critério: <b>mais de 100 entradas reais + resultado sólido</b> — ROI de pelo menos 1,5% <b>ou</b> lucro acumulado de pelo menos R$ 40 (sempre com P/L e ROI positivos) (fonte: nosso monitoramento em dinheiro real, atualizado de hora em hora). Win rate NÃO é critério: acertar muito não é lucrar — um método pode vencer 99% e devolver tudo num único red, ou vencer 60% e ser muito lucrativo. O que aprova é volume real + lucro. Os demais seguem <b class="gold">em validação</b> até provarem o mesmo. Métodos com prejuízo ficam <b class="white">fora do catálogo</b>, em monitoramento — se virarem positivos, voltam para validação.</p>
+    <p class="lead">Nossos métodos validados ficam aqui. O selo <b class="green">APROVADO</b> acende automaticamente quando o método cumpre o critério: <b>mais de 300 entradas reais + resultado sólido</b> — ROI de pelo menos 1,5% <b>ou</b> lucro acumulado de pelo menos R$ 40 (sempre com P/L e ROI positivos) (fonte: nosso monitoramento em dinheiro real, atualizado de hora em hora). Win rate NÃO é critério: acertar muito não é lucrar — um método pode vencer 99% e devolver tudo num único red, ou vencer 60% e ser muito lucrativo. O que aprova é volume real + lucro. Os demais seguem <b class="gold">em validação</b> até provarem o mesmo. Métodos com prejuízo ficam <b class="white">fora do catálogo</b>, em monitoramento — se virarem positivos, voltam para validação.</p>
     <div class="filters" id="filters">
       <button class="fbtn on" data-f="todos">Todos</button>
       <button class="fbtn" data-f="ap">✅ Aprovados</button>
@@ -396,10 +396,12 @@ function abrirEscolha(){
   var m=TST_CONFIG.checkoutBot||{}, h='';
   FLAGSHIP.forEach(function(b){
     var link=m[b.n];
+    var dado=BOTS.filter(function(x){return x.n===b.n;})[0];
+    var aprovado=dado?(statusOf(dado)==='ap'):false;
     h+='<div style="display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid #2a3e60;border-radius:12px;padding:12px 14px;margin-bottom:10px">'
       +'<div><div style="color:#f4ecd6;font-weight:600">'+b.n+'</div><div style="color:#93a1b5;font-size:13px">'+b.s+' · '+b.plat+'</div><div style="color:#7d8ba3;font-size:12px">'+b.req+'</div></div>'
-      +(link?'<button class="btn btn-p" style="width:auto;padding:9px 16px;margin:0" onclick="window.open(\''+link+'\',\'_blank\')">Comprar · R$ 97</button>'
-            :'<span style="color:#93a1b5;font-size:13px;border:1px solid #2a3e60;border-radius:20px;padding:8px 14px">Em breve</span>')
+      +((link&&aprovado)?'<button class="btn btn-p" style="width:auto;padding:9px 16px;margin:0" onclick="window.open(\''+link+'\',\'_blank\')">Comprar · R$ 97</button>'
+            :'<span style="color:#93a1b5;font-size:13px;border:1px solid #2a3e60;border-radius:20px;padding:8px 14px">'+(dado&&!aprovado?'Em validação (rumo às 300 entradas)':'Em breve')+'</span>')
       +'</div>';
   });
   document.getElementById('pickerlist').innerHTML=h;
@@ -421,7 +423,7 @@ const BOTS=[
  {n:"OVERLORD",s:"Lay Over 0.5 FT · Bolsa",g:45,r:73,pl:74.23,roi:31.5,wr:38.1},
  {n:"CITADEL",s:"Lay Placar 0-3 · Bolsa",g:234,r:0,pl:375.33,roi:1.3,wr:100.0}
 ];
-const MIN_ENTRADAS=100;
+const MIN_ENTRADAS=300;
 function statusOf(b){
   const ent=b.g+b.r;
   if(b.pl<0) return "rep";
