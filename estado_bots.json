@@ -1,0 +1,398 @@
+{
+ "gerado_em": "2026-07-20T23:24",
+ "bots": {
+  "SNIPER HT": {
+   "st": "val",
+   "ent": 10,
+   "pl": 26.09,
+   "roi": 13.0,
+   "plat": "BotBet"
+  },
+  "MURALHA SCALP": {
+   "st": "rep",
+   "ent": 86,
+   "pl": -4.5,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "MURALHA 2.5": {
+   "st": "val",
+   "ent": 38,
+   "pl": 23.68,
+   "roi": 33.0,
+   "plat": "BotBet"
+  },
+  "APEX SHIELD": {
+   "st": "ap",
+   "ent": 461,
+   "pl": 298.94,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "IGNIÇÃO 0.5": {
+   "st": "rep",
+   "ent": 32,
+   "pl": -3.74,
+   "roi": -5.0,
+   "plat": "BotBet"
+  },
+  "BASTION": {
+   "st": "val",
+   "ent": 100,
+   "pl": 24.98,
+   "roi": 0.0,
+   "plat": "BotBet"
+  },
+  "STRIKER": {
+   "st": "ap",
+   "ent": 417,
+   "pl": 10.49,
+   "roi": 2.0,
+   "plat": "BotBet"
+  },
+  "VELOCITY": {
+   "st": "val",
+   "ent": 112,
+   "pl": 1.02,
+   "roi": 2.0,
+   "plat": "BotBet"
+  },
+  "MURALHA 1.5": {
+   "st": "val",
+   "ent": 22,
+   "pl": 1.03,
+   "roi": -5.0,
+   "plat": "BotBet"
+  },
+  "MUNDIAL BTTS": {
+   "st": "val",
+   "ent": 12,
+   "pl": 4.27,
+   "roi": 18.0,
+   "plat": "BotBet"
+  },
+  "FORTRESS LAY": {
+   "st": "ap",
+   "ent": 340,
+   "pl": 102.49,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "GLOBAL EDGE": {
+   "st": "val",
+   "ent": 27,
+   "pl": 20.3,
+   "roi": 4.0,
+   "plat": "BotBet"
+  },
+  "HIERARCHY": {
+   "st": "val",
+   "ent": 68,
+   "pl": 57.2,
+   "roi": 4.0,
+   "plat": "BotBet"
+  },
+  "INTERCEPTOR": {
+   "st": "val",
+   "ent": 59,
+   "pl": 53.29,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "SISTEMA L-20": {
+   "st": "val",
+   "ent": 15,
+   "pl": 19.7,
+   "roi": 6.0,
+   "plat": "BotBet"
+  },
+  "BTTS LAB": {
+   "st": "val",
+   "ent": 6,
+   "pl": 7.9,
+   "roi": -100.0,
+   "plat": "BotBet"
+  },
+  "QUEBRA-ZERO 80": {
+   "st": "rep",
+   "ent": 10,
+   "pl": -9.5,
+   "roi": 27.0,
+   "plat": "BotBet"
+  },
+  "SENTINELA 0x1": {
+   "st": "val",
+   "ent": 8,
+   "pl": 1.55,
+   "roi": 16.0,
+   "plat": "BotBet"
+  },
+  "BLINDADO 3-1": {
+   "st": "val",
+   "ent": 3,
+   "pl": 4.5,
+   "roi": 6.0,
+   "plat": "BotBet"
+  },
+  "MURALHA CASA-40": {
+   "st": "val",
+   "ent": 10,
+   "pl": 13.43,
+   "roi": 9.0,
+   "plat": "BotBet"
+  },
+  "MURALHA CASA-22": {
+   "st": "val",
+   "ent": 7,
+   "pl": 8.27,
+   "roi": 4.0,
+   "plat": "BotBet"
+  },
+  "LAB-VV": {
+   "st": "rep",
+   "ent": 9,
+   "pl": -9.21,
+   "roi": -100.0,
+   "plat": "BotBet"
+  },
+  "INTERCEPTOR 7-10": {
+   "st": "rep",
+   "ent": 12,
+   "pl": -9.09,
+   "roi": 13.0,
+   "plat": "BotBet"
+  },
+  "CAÇADOR 2-1": {
+   "st": "val",
+   "ent": 11,
+   "pl": 8.64,
+   "roi": 131.0,
+   "plat": "BotBet"
+  },
+  "HALF SNIPER": {
+   "st": "val",
+   "ent": 40,
+   "pl": 14.71,
+   "roi": 3.0,
+   "plat": "BotBet"
+  },
+  "DEADLOCK": {
+   "st": "val",
+   "ent": 14,
+   "pl": 6.7,
+   "roi": 27.0,
+   "plat": "BotBet"
+  },
+  "QUEBRA-ZERO": {
+   "st": "val",
+   "ent": 22,
+   "pl": 16.44,
+   "roi": 11.0,
+   "plat": "BotBet"
+  },
+  "SKIRMISH": {
+   "st": "val",
+   "ent": 10,
+   "pl": 14.95,
+   "roi": 6.0,
+   "plat": "BotBet"
+  },
+  "TRENCH": {
+   "st": "rep",
+   "ent": 149,
+   "pl": -11.63,
+   "roi": -3.0,
+   "plat": "BotBet"
+  },
+  "SPARK 0.5": {
+   "st": "rep",
+   "ent": 31,
+   "pl": -8.63,
+   "roi": -14.0,
+   "plat": "BotBet"
+  },
+  "SENTINEL 0.1": {
+   "st": "val",
+   "ent": 99,
+   "pl": 159.95,
+   "roi": 3.0,
+   "plat": "BotBet"
+  },
+  "SENTINEL 0.2": {
+   "st": "rep",
+   "ent": 30,
+   "pl": -39.57,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "TRIPWIRE": {
+   "st": "val",
+   "ent": 34,
+   "pl": 29.14,
+   "roi": 10.0,
+   "plat": "BotBet"
+  },
+  "LOWLINE": {
+   "st": "val",
+   "ent": 12,
+   "pl": 0.97,
+   "roi": 1.0,
+   "plat": "BotBet"
+  },
+  "VANGUARD": {
+   "st": "val",
+   "ent": 90,
+   "pl": 82.01,
+   "roi": 4.0,
+   "plat": "BotBet"
+  },
+  "OVERLORD": {
+   "st": "val",
+   "ent": 192,
+   "pl": 69.7,
+   "roi": 18.9,
+   "plat": "Bolsa"
+  },
+  "CITADEL": {
+   "st": "val",
+   "ent": 248,
+   "pl": 407.03,
+   "roi": 38.0,
+   "plat": "Bolsa"
+  },
+  "RAMPART": {
+   "st": "val",
+   "ent": 29,
+   "pl": 72.81,
+   "roi": 6.4,
+   "plat": "Bolsa"
+  },
+  "CAÇADOR 2-1 (Bolsa)": {
+   "st": "val",
+   "ent": 39,
+   "pl": 35.15,
+   "roi": 3.7,
+   "plat": "Bolsa"
+  },
+  "OVERLORD-A": {
+   "st": "val",
+   "ent": 83,
+   "pl": 35.69,
+   "roi": 6.7,
+   "plat": "Bolsa"
+  },
+  "MURALHA": {
+   "st": "val",
+   "ent": 108,
+   "pl": 2.28,
+   "roi": 1.5,
+   "plat": "Bolsa"
+  },
+  "GATILHO DUPLO": {
+   "st": "val",
+   "ent": 63,
+   "pl": 4.87,
+   "roi": 1.4,
+   "plat": "Bolsa"
+  },
+  "MURALHA CASA-40 (Bolsa)": {
+   "st": "val",
+   "ent": 28,
+   "pl": 21.25,
+   "roi": 1.3,
+   "plat": "Bolsa"
+  },
+  "BLINDADO 2-2": {
+   "st": "val",
+   "ent": 20,
+   "pl": 1.93,
+   "roi": 1.1,
+   "plat": "Bolsa"
+  },
+  "BLINDADO 3-1 (Bolsa)": {
+   "st": "val",
+   "ent": 12,
+   "pl": 17.4,
+   "roi": 4.2,
+   "plat": "Bolsa"
+  },
+  "MURALHA CASA-22 (Bolsa)": {
+   "st": "rep",
+   "ent": 7,
+   "pl": -27.55,
+   "roi": 0.4,
+   "plat": "Bolsa"
+  },
+  "SISTEMA L-20 (Bolsa)": {
+   "st": "rep",
+   "ent": 15,
+   "pl": -3.7,
+   "roi": 0.3,
+   "plat": "Bolsa"
+  },
+  "IGNIÇÃO 0.5 (Bolsa)": {
+   "st": "rep",
+   "ent": 131,
+   "pl": -2.97,
+   "roi": 0.3,
+   "plat": "Bolsa"
+  },
+  "SNIPER 1.5": {
+   "st": "val",
+   "ent": 2,
+   "pl": 4.05,
+   "roi": 2.1,
+   "plat": "Bolsa"
+  },
+  "VIGIA HT-C": {
+   "st": "val",
+   "ent": 51,
+   "pl": 2.31,
+   "roi": -0.0,
+   "plat": "Bolsa"
+  },
+  "MURALHA 2.5 (Bolsa)": {
+   "st": "val",
+   "ent": 45,
+   "pl": 6.58,
+   "roi": -0.2,
+   "plat": "Bolsa"
+  },
+  "VIGIA HT-A": {
+   "st": "rep",
+   "ent": 59,
+   "pl": -1.11,
+   "roi": -0.2,
+   "plat": "Bolsa"
+  },
+  "WARDEN-30": {
+   "st": "val",
+   "ent": 77,
+   "pl": 18.87,
+   "roi": -0.3,
+   "plat": "Bolsa"
+  }
+ },
+ "novos_candidatos": {
+  "BACK OVER 0.5 FT — SPARK 0.5": {
+   "ent": 32,
+   "pl": -9.42,
+   "plat": "Bolsa"
+  },
+  "Bot_69efd7b7": {
+   "ent": 35,
+   "pl": -24.99,
+   "plat": "BotBet"
+  },
+  "QUEBRA-ZERO — Lay 0x0": {
+   "ent": 60,
+   "pl": -35.96,
+   "plat": "Bolsa"
+  },
+  "STRIKER — Back Over 1.5 FT": {
+   "ent": 54,
+   "pl": -12.61,
+   "plat": "Bolsa"
+  }
+ }
+}
