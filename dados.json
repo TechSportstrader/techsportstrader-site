@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-20T23:24",
+ "gerado_em": "2026-07-21T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 248,
+   "g": 249,
    "r": 0,
-   "pl": 407.03,
+   "pl": 409.07,
    "roi": 38.0,
    "wr": 100.0,
    "st": "val"
@@ -455,201 +455,30 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-07-20 18:16:36",
-   "tm": "18:16",
-   "match": "FH vs Breidablik",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-07-20 18:16:34",
-   "tm": "18:16",
-   "match": "FH vs Breidablik",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 2.5,
-   "status": "red",
-   "pl": -1.48
-  },
-  {
-   "data": "2026-07-20 18:16:33",
-   "tm": "18:16",
-   "match": "FH vs Breidablik",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.24
-  },
-  {
-   "data": "2026-07-20 17:26:29",
-   "tm": "17:26",
-   "match": "Keflavík vs ÍA",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -2.54
-  },
-  {
-   "data": "2026-07-20 17:25:04",
-   "tm": "17:25",
-   "match": "CD San Antonio x Academia de Balompié Boliviano",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.64
-  },
-  {
-   "data": "2026-07-20 17:17:39",
-   "tm": "17:17",
-   "match": "FH Hafnarfjörður x Breidablik Kópavogur",
-   "bot": "MURALHA 1.5",
-   "mkt": "Lay Over 1.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.02
-  },
-  {
-   "data": "2026-07-20 17:06:36",
-   "tm": "17:06",
-   "match": "FH vs Breidablik",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.28
-  },
-  {
-   "data": "2026-07-20 16:53:23",
-   "tm": "16:53",
-   "match": "FH Hafnarfjörður x Breidablik Kópavogur",
-   "bot": "QUEBRA-ZERO",
-   "mkt": "Lay Placar 0x0",
-   "odd": 11.5,
-   "status": "red",
-   "pl": -11.97
-  },
-  {
-   "data": "2026-07-20 16:51:05",
-   "tm": "16:51",
-   "match": "Mushuc Runa SC x Orense SC",
-   "bot": "MURALHA CASA-22",
-   "mkt": "Lay Goleada Casa",
-   "odd": 26.0,
-   "status": "green",
-   "pl": 1.0
-  },
-  {
-   "data": "2026-07-20 16:42:24",
-   "tm": "16:42",
-   "match": "FH Hafnarfjörður x Breidablik Kópavogur",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 17.5,
-   "status": "green",
-   "pl": 1.33
-  },
-  {
-   "data": "2026-07-20 15:07:29",
-   "tm": "15:07",
-   "match": "Örgryte IS x Djurgårdens IF",
-   "bot": "MURALHA 1.5",
-   "mkt": "Lay Over 1.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 0.9
-  },
-  {
-   "data": "2026-07-20 14:56:39",
-   "tm": "14:56",
-   "match": "Super Nova vs Grobiņa",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-07-20 14:36:32",
-   "tm": "14:36",
-   "match": "KPV vs RoPS",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.0,
-   "status": "red",
-   "pl": -0.57
-  },
-  {
-   "data": "2026-07-20 14:36:32",
-   "tm": "14:36",
-   "match": "KPV vs RoPS",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 0.78
-  },
-  {
-   "data": "2026-07-20 13:56:35",
-   "tm": "13:56",
-   "match": "FS Jelgava vs Rīgas FS",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 2.5,
-   "status": "red",
-   "pl": -0.89
-  },
-  {
-   "data": "2026-07-20 13:47:15",
-   "tm": "13:47",
-   "match": "FC Corvinul Hunedoara x FK Csíkszereda Miercurea Ciuc",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.18
-  },
-  {
-   "data": "2026-07-20 12:56:34",
-   "tm": "12:56",
-   "match": "TPS vs Ilves",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.5,
-   "status": "red",
-   "pl": -4.35
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 11,
-   "r": 6,
-   "pl": -8.99,
-   "wr": 65,
-   "label": "20/07"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "21/07"
   },
   "mes": {
-   "ent": 678,
-   "g": 441,
+   "ent": 679,
+   "g": 442,
    "r": 237,
-   "pl": 190.65,
+   "pl": 192.69,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-20": {
-   "pl": -8.99,
-   "ops": 17,
-   "g": 11,
+   "pl": -6.95,
+   "ops": 18,
+   "g": 12,
    "r": 6
   },
   "2026-07-19": {
