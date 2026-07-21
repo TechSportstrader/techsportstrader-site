@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T16:00",
+ "gerado_em": "2026-07-21T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,15 +10,15 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 86,
-   "pl": -4.5,
+   "ent": 87,
+   "pl": -6.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 38,
-   "pl": 23.68,
+   "ent": 39,
+   "pl": 24.55,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 41,
-   "pl": 15.02,
+   "ent": 42,
+   "pl": 15.15,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 109,
-   "pl": 3.53,
+   "ent": 110,
+   "pl": 4.73,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 63,
-   "pl": 4.87,
+   "ent": 64,
+   "pl": 4.21,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -346,22 +346,22 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 52,
-   "pl": 3.83,
+   "ent": 53,
+   "pl": 5.39,
    "roi": -0.0,
    "plat": "Bolsa"
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 45,
-   "pl": 6.58,
+   "ent": 46,
+   "pl": 7.42,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 60,
-   "pl": 0.41,
+   "ent": 61,
+   "pl": 1.97,
    "roi": -0.2,
    "plat": "Bolsa"
   },
