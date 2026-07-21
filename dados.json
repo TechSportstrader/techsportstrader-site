@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T13:00",
+ "gerado_em": "2026-07-21T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -150,9 +150,9 @@
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 10,
+   "g": 11,
    "r": 0,
-   "pl": 26.09,
+   "pl": 27.89,
    "roi": 13.0,
    "wr": 100.0,
    "st": "val"
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 40,
+   "r": 1,
+   "pl": 15.02,
+   "roi": 3.0,
+   "wr": 97.6,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 14.95,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 39,
-   "r": 1,
-   "pl": 14.71,
-   "roi": 3.0,
-   "wr": 97.5,
    "st": "val"
   },
   {
@@ -468,6 +468,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-21 13:44:04",
+   "tm": "13:44",
+   "match": "FC Ararat-Armenia x Shamrock Rovers",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.31
+  },
+  {
+   "data": "2026-07-21 13:42:15",
+   "tm": "13:42",
+   "match": "FC Ararat-Armenia x Shamrock Rovers",
+   "bot": "SNIPER HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 1.8
+  },
+  {
    "data": "2026-07-21 09:36:40",
    "tm": "09:36",
    "match": "Jeonbuk Motors vs Daejeon Citizen",
@@ -510,27 +530,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 4,
+   "ent": 6,
+   "g": 6,
    "r": 0,
-   "pl": 10.09,
+   "pl": 12.2,
    "wr": 100,
    "label": "21/07"
   },
   "mes": {
-   "ent": 716,
-   "g": 463,
+   "ent": 718,
+   "g": 465,
    "r": 253,
-   "pl": 179.39,
+   "pl": 181.5,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 10.09,
-   "ops": 4,
-   "g": 4,
+   "pl": 12.2,
+   "ops": 6,
+   "g": 6,
    "r": 0
   },
   "2026-07-20": {
