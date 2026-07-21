@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T09:00",
+ "gerado_em": "2026-07-21T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 83,
-   "pl": 35.69,
+   "ent": 84,
+   "pl": 40.95,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 131,
-   "pl": -2.97,
+   "ent": 132,
+   "pl": -7.97,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 77,
-   "pl": 18.87,
+   "ent": 78,
+   "pl": 20.66,
    "roi": -0.3,
    "plat": "Bolsa"
   }
