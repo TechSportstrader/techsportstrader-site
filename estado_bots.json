@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T00:47",
+ "gerado_em": "2026-07-21T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -80,8 +80,8 @@
   },
   "GLOBAL EDGE": {
    "st": "val",
-   "ent": 27,
-   "pl": 20.3,
+   "ent": 28,
+   "pl": 0.35,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 14,
-   "pl": 6.7,
+   "ent": 15,
+   "pl": 8.26,
    "roi": 27.0,
    "plat": "BotBet"
   },
