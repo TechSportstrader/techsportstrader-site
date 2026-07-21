@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T18:00",
+ "gerado_em": "2026-07-21T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 33,
+   "r": 14,
+   "pl": 8.18,
+   "roi": -0.2,
+   "wr": 70.2,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -290,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 32,
-   "r": 14,
-   "pl": 7.42,
-   "roi": -0.2,
-   "wr": 69.6,
-   "st": "val"
-  },
-  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -309,6 +309,17 @@
    "pl": 6.64,
    "roi": 131.0,
    "wr": 16.7,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 30,
+   "r": 35,
+   "pl": 6.13,
+   "roi": 1.4,
+   "wr": 46.2,
    "st": "val"
   },
   {
@@ -353,17 +364,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 29,
-   "r": 35,
-   "pl": 4.21,
-   "roi": 1.4,
-   "wr": 45.3,
    "st": "val"
   },
   {
@@ -467,6 +467,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-21 18:36:31",
+   "tm": "18:36",
+   "match": "Fylkir vs Afturelding",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.76
+  },
+  {
+   "data": "2026-07-21 18:06:31",
+   "tm": "18:06",
+   "match": "Fylkir vs Afturelding",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.92
+  },
   {
    "data": "2026-07-21 17:46:48",
    "tm": "17:46",
@@ -750,27 +770,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 28,
-   "g": 23,
+   "ent": 30,
+   "g": 25,
    "r": 5,
-   "pl": 2.61,
-   "wr": 82,
+   "pl": 5.29,
+   "wr": 83,
    "label": "21/07"
   },
   "mes": {
-   "ent": 740,
-   "g": 482,
+   "ent": 742,
+   "g": 484,
    "r": 258,
-   "pl": 171.91,
+   "pl": 174.59,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 2.61,
-   "ops": 28,
-   "g": 23,
+   "pl": 5.29,
+   "ops": 30,
+   "g": 25,
    "r": 5
   },
   "2026-07-20": {
