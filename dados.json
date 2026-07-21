@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T15:00",
+ "gerado_em": "2026-07-21T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -216,9 +216,9 @@
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 12,
+   "g": 13,
    "r": 0,
-   "pl": 17.4,
+   "pl": 18.96,
    "roi": 4.2,
    "wr": 100.0,
    "st": "val"
@@ -381,11 +381,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 71,
+   "g": 72,
    "r": 37,
-   "pl": 2.28,
+   "pl": 3.53,
    "roi": 1.5,
-   "wr": 65.7,
+   "wr": 66.1,
    "st": "val"
   },
   {
@@ -468,6 +468,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-21 15:56:41",
+   "tm": "15:56",
+   "match": "IFK Göteborg vs Levadia",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
+   "data": "2026-07-21 15:06:34",
+   "tm": "15:06",
+   "match": "Sabah vs KuPS",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-07-21 13:44:04",
    "tm": "13:44",
    "match": "FC Ararat-Armenia x Shamrock Rovers",
@@ -530,27 +550,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 6,
+   "ent": 8,
+   "g": 8,
    "r": 0,
-   "pl": 12.2,
+   "pl": 15.01,
    "wr": 100,
    "label": "21/07"
   },
   "mes": {
-   "ent": 718,
-   "g": 465,
+   "ent": 720,
+   "g": 467,
    "r": 253,
-   "pl": 181.5,
+   "pl": 184.31,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 12.2,
-   "ops": 6,
-   "g": 6,
+   "pl": 15.01,
+   "ops": 8,
+   "g": 8,
    "r": 0
   },
   "2026-07-20": {
