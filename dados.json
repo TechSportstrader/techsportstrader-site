@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T16:00",
+ "gerado_em": "2026-07-21T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -172,11 +172,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 31,
+   "g": 32,
    "r": 7,
-   "pl": 23.68,
+   "pl": 24.55,
    "roi": 33.0,
-   "wr": 81.6,
+   "wr": 82.1,
    "st": "val"
   },
   {
@@ -238,9 +238,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 40,
+   "g": 41,
    "r": 1,
-   "pl": 15.02,
+   "pl": 15.15,
    "roi": 3.0,
    "wr": 97.6,
    "st": "val"
@@ -315,22 +315,33 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 31,
+   "g": 32,
    "r": 14,
-   "pl": 6.58,
+   "pl": 7.42,
    "roi": -0.2,
-   "wr": 68.9,
+   "wr": 69.6,
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 29,
-   "r": 34,
-   "pl": 4.87,
-   "roi": 1.4,
-   "wr": 46.0,
+   "g": 31,
+   "r": 22,
+   "pl": 5.39,
+   "roi": -0.0,
+   "wr": 58.5,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 73,
+   "r": 37,
+   "pl": 4.73,
+   "roi": 1.5,
+   "wr": 66.4,
    "st": "val"
   },
   {
@@ -356,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 29,
+   "r": 35,
+   "pl": 4.21,
+   "roi": 1.4,
+   "wr": 45.3,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -367,25 +389,14 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
+   "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 30,
-   "r": 22,
-   "pl": 3.83,
-   "roi": -0.0,
-   "wr": 57.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 72,
-   "r": 37,
-   "pl": 3.53,
-   "roi": 1.5,
-   "wr": 66.1,
+   "g": 35,
+   "r": 26,
+   "pl": 1.97,
+   "roi": -0.2,
+   "wr": 57.4,
    "st": "val"
   },
   {
@@ -444,17 +455,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 34,
-   "r": 26,
-   "pl": 0.41,
-   "roi": -0.2,
-   "wr": 56.7,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -467,6 +467,76 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-21 16:56:48",
+   "tm": "16:56",
+   "match": "Víkingur Reykjavík vs Hapoel Be'er Sheva",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
+   "data": "2026-07-21 16:56:48",
+   "tm": "16:56",
+   "match": "Víkingur Reykjavík vs Hapoel Be'er Sheva",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
+   "data": "2026-07-21 16:56:38",
+   "tm": "16:56",
+   "match": "Thun vs Dinamo Zagreb",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.84
+  },
+  {
+   "data": "2026-07-21 16:56:37",
+   "tm": "16:56",
+   "match": "Fenerbahçe vs Górnik Zabrze",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-07-21 16:56:37",
+   "tm": "16:56",
+   "match": "Thun vs Dinamo Zagreb",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -0.66
+  },
+  {
+   "data": "2026-07-21 16:27:06",
+   "tm": "16:27",
+   "match": "Klaksvíkar Ítróttarfelag x FK Kauno Žalgiris",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.13
+  },
+  {
+   "data": "2026-07-21 16:05:06",
+   "tm": "16:05",
+   "match": "FC Thun x GNK Dinamo Zagreb",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.87
+  },
   {
    "data": "2026-07-21 15:56:41",
    "tm": "15:56",
@@ -550,28 +620,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 8,
-   "r": 0,
-   "pl": 15.01,
-   "wr": 100,
+   "ent": 15,
+   "g": 14,
+   "r": 1,
+   "pl": 20.51,
+   "wr": 93,
    "label": "21/07"
   },
   "mes": {
-   "ent": 720,
-   "g": 467,
-   "r": 253,
-   "pl": 184.31,
+   "ent": 727,
+   "g": 473,
+   "r": 254,
+   "pl": 189.81,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 15.01,
-   "ops": 8,
-   "g": 8,
-   "r": 0
+   "pl": 20.51,
+   "ops": 15,
+   "g": 14,
+   "r": 1
   },
   "2026-07-20": {
    "pl": -25.34,
