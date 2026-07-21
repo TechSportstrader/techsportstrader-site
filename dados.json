@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T00:47",
+ "gerado_em": "2026-07-21T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -191,17 +191,6 @@
    "st": "val"
   },
   {
-   "n": "GLOBAL EDGE",
-   "s": "Lay Goleada Fora · BotBet",
-   "plat": "BotBet",
-   "g": 25,
-   "r": 2,
-   "pl": 20.3,
-   "roi": 4.0,
-   "wr": 92.6,
-   "st": "val"
-  },
-  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
@@ -301,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 13,
+   "r": 2,
+   "pl": 8.26,
+   "roi": 27.0,
+   "wr": 86.7,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,17 +309,6 @@
    "pl": 7.9,
    "roi": -100.0,
    "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 12,
-   "r": 2,
-   "pl": 6.7,
-   "roi": 27.0,
-   "wr": 85.7,
    "st": "val"
   },
   {
@@ -453,6 +442,17 @@
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
+  },
+  {
+   "n": "GLOBAL EDGE",
+   "s": "Lay Goleada Fora · BotBet",
+   "plat": "BotBet",
+   "g": 25,
+   "r": 3,
+   "pl": 0.35,
+   "roi": 4.0,
+   "wr": 89.3,
+   "st": "val"
   }
  ],
  "operacoes": [],
@@ -466,20 +466,20 @@
    "label": "21/07"
   },
   "mes": {
-   "ent": 679,
-   "g": 442,
-   "r": 237,
-   "pl": 192.69,
+   "ent": 681,
+   "g": 443,
+   "r": 238,
+   "pl": 174.3,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-20": {
-   "pl": -6.95,
-   "ops": 18,
-   "g": 12,
-   "r": 6
+   "pl": -25.34,
+   "ops": 20,
+   "g": 13,
+   "r": 7
   },
   "2026-07-19": {
    "pl": 2.81,
