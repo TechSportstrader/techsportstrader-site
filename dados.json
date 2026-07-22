@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T01:00",
+ "gerado_em": "2026-07-22T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 322,
+   "g": 323,
    "r": 97,
-   "pl": 11.79,
+   "pl": 12.25,
    "roi": 2.0,
-   "wr": 76.8,
+   "wr": 76.9,
    "st": "ap"
   },
   {
@@ -260,11 +260,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 31,
+   "g": 32,
    "r": 35,
-   "pl": 8.65,
+   "pl": 11.03,
    "roi": 1.4,
-   "wr": 47.0,
+   "wr": 47.8,
    "st": "val"
   },
   {
@@ -466,26 +466,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-22 01:36:31",
+   "tm": "01:36",
+   "match": "Toluca vs Pumas UNAM",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 2.38
+  },
+  {
+   "data": "2026-07-22 01:14:14",
+   "tm": "01:14",
+   "match": "CD Toluca x Pumas UNAM",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.46
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 2.84,
+   "wr": 100,
    "label": "22/07"
   },
   "mes": {
-   "ent": 762,
-   "g": 498,
+   "ent": 764,
+   "g": 500,
    "r": 264,
-   "pl": 194.43,
+   "pl": 197.27,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-22": {
+   "pl": 2.84,
+   "ops": 2,
+   "g": 2,
+   "r": 0
+  },
   "2026-07-21": {
    "pl": 25.13,
    "ops": 50,
