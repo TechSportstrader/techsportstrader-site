@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T00:00",
+ "gerado_em": "2026-07-22T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -216,11 +216,11 @@
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 21,
+   "g": 22,
    "r": 1,
-   "pl": 16.44,
+   "pl": 17.64,
    "roi": 11.0,
-   "wr": 95.5,
+   "wr": 95.7,
    "st": "val"
   },
   {
@@ -477,19 +477,19 @@
    "label": "22/07"
   },
   "mes": {
-   "ent": 761,
-   "g": 497,
+   "ent": 762,
+   "g": 498,
    "r": 264,
-   "pl": 193.23,
+   "pl": 194.43,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 23.93,
-   "ops": 49,
-   "g": 38,
+   "pl": 25.13,
+   "ops": 50,
+   "g": 39,
    "r": 11
   },
   "2026-07-20": {
