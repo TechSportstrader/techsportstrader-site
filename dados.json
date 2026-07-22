@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T22:00",
+ "gerado_em": "2026-07-21T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -114,6 +114,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 8,
+   "r": 32,
+   "pl": 47.15,
+   "roi": 3.7,
+   "wr": 20.0,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -122,17 +133,6 @@
    "pl": 35.94,
    "roi": 6.7,
    "wr": 41.4,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 7,
-   "r": 32,
-   "pl": 35.15,
-   "roi": 3.7,
-   "wr": 17.9,
    "st": "val"
   },
   {
@@ -205,9 +205,9 @@
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 13,
+   "g": 14,
    "r": 0,
-   "pl": 18.96,
+   "pl": 20.57,
    "roi": 4.2,
    "wr": 100.0,
    "st": "val"
@@ -411,6 +411,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 12,
+   "r": 1,
+   "pl": 1.51,
+   "roi": 9.0,
+   "wr": 92.3,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -442,20 +453,39 @@
    "roi": -5.0,
    "wr": 63.6,
    "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 11,
-   "r": 1,
-   "pl": 0.01,
-   "roi": 9.0,
-   "wr": 91.7,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-21 22:06:34",
+   "tm": "22:06",
+   "match": "Deportes Tolima vs Deportes Quindío",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 16.5,
+   "status": "green",
+   "pl": 1.61
+  },
+  {
+   "data": "2026-07-21 22:06:28",
+   "tm": "22:06",
+   "match": "Deportes Tolima vs Deportes Quindío",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 12.0
+  },
+  {
+   "data": "2026-07-21 21:42:11",
+   "tm": "21:42",
+   "match": "Universidad Católica del Ecuador x Barcelona SC Guayaquil",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
   {
    "data": "2026-07-21 21:26:36",
    "tm": "21:26",
@@ -859,27 +889,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 40,
-   "g": 30,
+   "ent": 43,
+   "g": 33,
    "r": 10,
-   "pl": 3.24,
-   "wr": 75,
+   "pl": 18.35,
+   "wr": 77,
    "label": "21/07"
   },
   "mes": {
-   "ent": 702,
-   "g": 455,
+   "ent": 705,
+   "g": 458,
    "r": 247,
-   "pl": 173.59,
+   "pl": 188.7,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 3.24,
-   "ops": 40,
-   "g": 30,
+   "pl": 18.35,
+   "ops": 43,
+   "g": 33,
    "r": 10
   },
   "2026-07-20": {
