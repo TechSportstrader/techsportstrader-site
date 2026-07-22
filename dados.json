@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T20:00",
+ "gerado_em": "2026-07-21T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 320,
+   "g": 321,
    "r": 97,
-   "pl": 10.49,
+   "pl": 11.13,
    "roi": 2.0,
-   "wr": 76.7,
+   "wr": 76.8,
    "st": "ap"
   },
   {
@@ -118,10 +118,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 36,
-   "r": 49,
-   "pl": 39.91,
+   "r": 50,
+   "pl": 37.91,
    "roi": 6.7,
-   "wr": 42.4,
+   "wr": 41.9,
    "st": "val"
   },
   {
@@ -183,11 +183,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 69,
+   "g": 70,
    "r": 10,
-   "pl": 22.66,
+   "pl": 24.38,
    "roi": -0.3,
-   "wr": 87.3,
+   "wr": 87.5,
    "st": "val"
   },
   {
@@ -323,17 +323,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 31,
-   "r": 22,
-   "pl": 5.39,
-   "roi": -0.0,
-   "wr": 58.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -389,14 +378,14 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
+   "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 36,
-   "r": 26,
-   "pl": 3.41,
-   "roi": -0.2,
-   "wr": 58.1,
+   "g": 31,
+   "r": 23,
+   "pl": 3.39,
+   "roi": -0.0,
+   "wr": 57.4,
    "st": "val"
   },
   {
@@ -419,6 +408,17 @@
    "pl": 1.55,
    "roi": 16.0,
    "wr": 87.5,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 36,
+   "r": 27,
+   "pl": 1.41,
+   "roi": -0.2,
+   "wr": 57.1,
    "st": "val"
   },
   {
@@ -467,6 +467,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-21 20:42:15",
+   "tm": "20:42",
+   "match": "Atlético Mineiro x Bahia",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.65
+  },
+  {
+   "data": "2026-07-21 20:36:36",
+   "tm": "20:36",
+   "match": "Libertad vs Delfin",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-21 20:26:38",
+   "tm": "20:26",
+   "match": "Atlético Mineiro vs Bahia",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-21 20:26:38",
+   "tm": "20:26",
+   "match": "Atlético Mineiro vs Bahia",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-21 20:16:35",
+   "tm": "20:16",
+   "match": "Libertad vs Delfin",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-21 19:26:34",
    "tm": "19:26",
@@ -780,28 +830,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 31,
-   "g": 26,
-   "r": 5,
-   "pl": 6.73,
-   "wr": 84,
+   "ent": 36,
+   "g": 28,
+   "r": 8,
+   "pl": 3.1,
+   "wr": 78,
    "label": "21/07"
   },
   "mes": {
-   "ent": 743,
-   "g": 485,
-   "r": 258,
-   "pl": 176.03,
+   "ent": 748,
+   "g": 487,
+   "r": 261,
+   "pl": 172.4,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-21": {
-   "pl": 6.73,
-   "ops": 31,
-   "g": 26,
-   "r": 5
+   "pl": 3.1,
+   "ops": 36,
+   "g": 28,
+   "r": 8
   },
   "2026-07-20": {
    "pl": -25.34,
