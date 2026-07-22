@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T14:00",
+ "gerado_em": "2026-07-22T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 47,
-   "pl": 8.18,
+   "ent": 48,
+   "pl": 6.24,
    "roi": -0.2,
    "plat": "Bolsa"
   },
