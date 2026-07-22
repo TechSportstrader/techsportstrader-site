@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T14:00",
+ "gerado_em": "2026-07-22T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -290,17 +290,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 33,
-   "r": 14,
-   "pl": 8.18,
-   "roi": -0.2,
-   "wr": 70.2,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,6 +298,17 @@
    "pl": 7.9,
    "roi": -100.0,
    "wr": 50.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 33,
+   "r": 15,
+   "pl": 6.24,
+   "roi": -0.2,
+   "wr": 68.8,
    "st": "val"
   },
   {
@@ -457,6 +457,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-22 14:26:32",
+   "tm": "14:26",
+   "match": "PKKU vs VJS",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
    "data": "2026-07-22 02:16:30",
    "tm": "02:16",
    "match": "Toluca vs Pumas UNAM",
@@ -499,28 +509,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
+   "ent": 5,
    "g": 4,
-   "r": 0,
-   "pl": 5.79,
-   "wr": 100,
+   "r": 1,
+   "pl": 3.85,
+   "wr": 80,
    "label": "22/07"
   },
   "mes": {
-   "ent": 731,
+   "ent": 732,
    "g": 483,
-   "r": 248,
-   "pl": 202.7,
+   "r": 249,
+   "pl": 200.76,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-22": {
-   "pl": 5.79,
-   "ops": 4,
+   "pl": 3.85,
+   "ops": 5,
    "g": 4,
-   "r": 0
+   "r": 1
   },
   "2026-07-21": {
    "pl": 22.61,
