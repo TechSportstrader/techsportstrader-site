@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T17:00",
+ "gerado_em": "2026-07-22T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 36,
-   "r": 51,
-   "pl": 35.94,
+   "g": 37,
+   "r": 52,
+   "pl": 37.51,
    "roi": 6.7,
-   "wr": 41.4,
+   "wr": 41.6,
    "st": "val"
   },
   {
@@ -457,6 +457,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-22 17:36:31",
+   "tm": "17:36",
+   "match": "Železničar Pančevo vs Sporting Braga",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-22 17:26:38",
+   "tm": "17:26",
+   "match": "Spartak Trnava vs CSKA 1948 Sofia",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.57
+  },
+  {
    "data": "2026-07-22 16:06:15",
    "tm": "16:06",
    "match": "Başakşehir FK x Inter Turku",
@@ -549,28 +569,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 7,
-   "r": 2,
-   "pl": 3.53,
-   "wr": 78,
+   "ent": 11,
+   "g": 8,
+   "r": 3,
+   "pl": 5.1,
+   "wr": 73,
    "label": "22/07"
   },
   "mes": {
-   "ent": 736,
-   "g": 486,
-   "r": 250,
-   "pl": 200.44,
+   "ent": 738,
+   "g": 487,
+   "r": 251,
+   "pl": 202.01,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-22": {
-   "pl": 3.53,
-   "ops": 9,
-   "g": 7,
-   "r": 2
+   "pl": 5.1,
+   "ops": 11,
+   "g": 8,
+   "r": 3
   },
   "2026-07-21": {
    "pl": 22.61,
