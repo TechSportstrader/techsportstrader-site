@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T00:00",
+ "gerado_em": "2026-07-22T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 22,
-   "pl": 16.44,
+   "ent": 23,
+   "pl": 17.64,
    "roi": 11.0,
    "plat": "BotBet"
   },
