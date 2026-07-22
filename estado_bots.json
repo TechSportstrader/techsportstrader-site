@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T21:00",
+ "gerado_em": "2026-07-21T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 418,
-   "pl": 11.13,
+   "ent": 419,
+   "pl": 11.79,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 112,
-   "pl": 1.02,
+   "st": "rep",
+   "ent": 114,
+   "pl": -0.36,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -157,15 +157,15 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 12,
-   "pl": -9.09,
+   "ent": 13,
+   "pl": -7.21,
    "roi": 13.0,
    "plat": "BotBet"
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 12,
-   "pl": 6.64,
+   "ent": 13,
+   "pl": 4.64,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 99,
-   "pl": 159.95,
+   "ent": 100,
+   "pl": 163.4,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 86,
-   "pl": 37.91,
+   "ent": 87,
+   "pl": 35.94,
    "roi": 6.7,
    "plat": "Bolsa"
   },
