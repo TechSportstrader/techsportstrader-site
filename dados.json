@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T16:00",
+ "gerado_em": "2026-07-22T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -389,17 +389,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 81,
-   "r": 36,
-   "pl": 2.25,
-   "roi": 2.0,
-   "wr": 69.2,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -453,9 +442,30 @@
    "roi": -5.0,
    "wr": 63.6,
    "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 81,
+   "r": 37,
+   "pl": 0.25,
+   "roi": 2.0,
+   "wr": 68.6,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-22 16:06:15",
+   "tm": "16:06",
+   "match": "Başakşehir FK x Inter Turku",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-22 15:26:23",
    "tm": "15:26",
@@ -539,28 +549,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
+   "ent": 9,
    "g": 7,
-   "r": 1,
-   "pl": 5.53,
-   "wr": 88,
+   "r": 2,
+   "pl": 3.53,
+   "wr": 78,
    "label": "22/07"
   },
   "mes": {
-   "ent": 735,
+   "ent": 736,
    "g": 486,
-   "r": 249,
-   "pl": 202.44,
+   "r": 250,
+   "pl": 200.44,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-22": {
-   "pl": 5.53,
-   "ops": 8,
+   "pl": 3.53,
+   "ops": 9,
    "g": 7,
-   "r": 1
+   "r": 2
   },
   "2026-07-21": {
    "pl": 22.61,
