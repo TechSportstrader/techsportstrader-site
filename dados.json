@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T17:00",
+ "gerado_em": "2026-07-23T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 325,
-   "r": 99,
-   "pl": 9.18,
+   "r": 100,
+   "pl": 7.18,
    "roi": 2.0,
-   "wr": 76.7,
+   "wr": 76.5,
    "st": "ap"
   },
   {
@@ -128,22 +128,22 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 39,
-   "r": 54,
-   "pl": 42.36,
+   "g": 40,
+   "r": 57,
+   "pl": 39.41,
    "roi": 6.7,
-   "wr": 41.9,
+   "wr": 41.2,
    "st": "val"
   },
   {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 74,
+   "g": 77,
    "r": 10,
-   "pl": 31.65,
+   "pl": 36.96,
    "roi": -0.3,
-   "wr": 88.1,
+   "wr": 88.5,
    "st": "val"
   },
   {
@@ -172,11 +172,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 32,
+   "g": 33,
    "r": 7,
-   "pl": 24.55,
+   "pl": 25.59,
    "roi": 33.0,
-   "wr": 82.1,
+   "wr": 82.5,
    "st": "val"
   },
   {
@@ -257,17 +257,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 35,
-   "r": 38,
-   "pl": 9.27,
-   "roi": 1.4,
-   "wr": 47.9,
-   "st": "val"
-  },
-  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -276,6 +265,17 @@
    "pl": 9.13,
    "roi": 10.0,
    "wr": 82.9,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 78,
+   "r": 38,
+   "pl": 8.45,
+   "roi": 1.5,
+   "wr": 67.2,
    "st": "val"
   },
   {
@@ -304,22 +304,22 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 33,
+   "g": 34,
    "r": 15,
-   "pl": 6.24,
+   "pl": 7.34,
    "roi": -0.2,
-   "wr": 68.8,
+   "wr": 69.4,
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 76,
-   "r": 38,
-   "pl": 5.91,
-   "roi": 1.5,
-   "wr": 66.7,
+   "g": 35,
+   "r": 39,
+   "pl": 7.27,
+   "roi": 1.4,
+   "wr": 47.3,
    "st": "val"
   },
   {
@@ -468,6 +468,116 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-23 17:56:38",
+   "tm": "17:56",
+   "match": "Stjarnan vs Ilves",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 1.33
+  },
+  {
+   "data": "2026-07-23 17:56:37",
+   "tm": "17:56",
+   "match": "Stjarnan vs Ilves",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-23 17:56:36",
+   "tm": "17:56",
+   "match": "Hajduk Split vs Pafos FC",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-23 17:46:46",
+   "tm": "17:46",
+   "match": "Valur vs Zrinjski",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-07-23 17:46:44",
+   "tm": "17:46",
+   "match": "Stjarnan vs Ilves",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 17:36:40",
+   "tm": "17:36",
+   "match": "Borac Banja Luka vs Petrocub",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 17:36:37",
+   "tm": "17:36",
+   "match": "NSÍ vs Koper",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 17:26:39",
+   "tm": "17:26",
+   "match": "Lugano vs Dukagjini",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.1
+  },
+  {
+   "data": "2026-07-23 17:26:39",
+   "tm": "17:26",
+   "match": "LNZ Cherkasy vs Gent",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.03
+  },
+  {
+   "data": "2026-07-23 17:26:38",
+   "tm": "17:26",
+   "match": "LNZ Cherkasy vs Gent",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.2,
+   "status": "green",
+   "pl": 1.92
+  },
+  {
+   "data": "2026-07-23 17:26:37",
+   "tm": "17:26",
+   "match": "Lugano vs Dukagjini",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.21
+  },
+  {
    "data": "2026-07-23 16:46:36",
    "tm": "16:46",
    "match": "St. Gallen vs Benfica",
@@ -476,6 +586,26 @@
    "odd": 2.2,
    "status": "red",
    "pl": -2.71
+  },
+  {
+   "data": "2026-07-23 16:40:06",
+   "tm": "16:40",
+   "match": "FC Lugano x Dukagjini",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 16:32:16",
+   "tm": "16:32",
+   "match": "FC Lugano x Dukagjini",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.04
   },
   {
    "data": "2026-07-23 15:56:48",
@@ -700,28 +830,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 13,
-   "r": 10,
-   "pl": -13.44,
-   "wr": 57,
+   "ent": 36,
+   "g": 21,
+   "r": 15,
+   "pl": -10.4,
+   "wr": 58,
    "label": "23/07"
   },
   "mes": {
-   "ent": 820,
-   "g": 537,
-   "r": 283,
-   "pl": 201.57,
+   "ent": 833,
+   "g": 545,
+   "r": 288,
+   "pl": 204.61,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -13.44,
-   "ops": 23,
-   "g": 13,
-   "r": 10
+   "pl": -10.4,
+   "ops": 36,
+   "g": 21,
+   "r": 15
   },
   "2026-07-22": {
    "pl": 20.58,
