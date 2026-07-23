@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T21:00",
+ "gerado_em": "2026-07-22T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 87,
-   "pl": -6.11,
+   "ent": 88,
+   "pl": -4.53,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 421,
-   "pl": 12.68,
+   "ent": 422,
+   "pl": 10.68,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 118,
-   "pl": 0.25,
+   "ent": 119,
+   "pl": 1.12,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 67,
-   "pl": 11.03,
+   "ent": 68,
+   "pl": 12.14,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -359,9 +359,9 @@
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
-   "st": "rep",
-   "ent": 64,
-   "pl": -0.59,
+   "st": "val",
+   "ent": 65,
+   "pl": 1.08,
    "roi": -0.2,
    "plat": "Bolsa"
   },
