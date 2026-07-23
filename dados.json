@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T01:00",
+ "gerado_em": "2026-07-23T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -19,10 +19,10 @@
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
    "g": 321,
-   "r": 20,
-   "pl": 105.22,
+   "r": 21,
+   "pl": 103.18,
    "roi": 1.0,
-   "wr": 94.1,
+   "wr": 93.9,
    "st": "ap"
   },
   {
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 250,
+   "g": 251,
    "r": 0,
-   "pl": 410.92,
+   "pl": 413.25,
    "roi": 38.0,
    "wr": 100.0,
    "st": "val"
@@ -136,14 +136,14 @@
    "st": "val"
   },
   {
-   "n": "TRIPWIRE",
-   "s": "Lay Goleada Visitante · BotBet",
-   "plat": "BotBet",
-   "g": 29,
-   "r": 5,
-   "pl": 29.14,
-   "roi": 10.0,
-   "wr": 85.3,
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 73,
+   "r": 10,
+   "pl": 29.48,
+   "roi": -0.3,
+   "wr": 88.0,
    "st": "val"
   },
   {
@@ -155,17 +155,6 @@
    "pl": 27.89,
    "roi": 13.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 72,
-   "r": 10,
-   "pl": 27.76,
-   "roi": -0.3,
-   "wr": 87.8,
    "st": "val"
   },
   {
@@ -194,9 +183,9 @@
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 16,
+   "g": 17,
    "r": 0,
-   "pl": 21.27,
+   "pl": 22.53,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -260,11 +249,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 34,
+   "g": 35,
    "r": 35,
-   "pl": 13.0,
+   "pl": 13.96,
    "roi": 1.4,
-   "wr": 49.3,
+   "wr": 50.0,
    "st": "val"
   },
   {
@@ -276,6 +265,17 @@
    "pl": 9.54,
    "roi": 27.0,
    "wr": 87.5,
+   "st": "val"
+  },
+  {
+   "n": "TRIPWIRE",
+   "s": "Lay Goleada Visitante · BotBet",
+   "plat": "BotBet",
+   "g": 29,
+   "r": 6,
+   "pl": 9.13,
+   "roi": 10.0,
+   "wr": 82.9,
    "st": "val"
   },
   {
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 75,
+   "r": 37,
+   "pl": 7.3,
+   "roi": 1.5,
+   "wr": 67.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -309,17 +320,6 @@
    "pl": 6.24,
    "roi": -0.2,
    "wr": 68.8,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 73,
-   "r": 37,
-   "pl": 4.73,
-   "roi": 1.5,
-   "wr": 66.4,
    "st": "val"
   },
   {
@@ -468,6 +468,66 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-23 01:46:37",
+   "tm": "01:46",
+   "match": "SJ Earthquakes vs Orlando City",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 44.0,
+   "status": "green",
+   "pl": 2.33
+  },
+  {
+   "data": "2026-07-23 01:36:36",
+   "tm": "01:36",
+   "match": "Portland Timbers vs Dallas",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 1.38
+  },
+  {
+   "data": "2026-07-23 01:36:36",
+   "tm": "01:36",
+   "match": "LA Galaxy vs St. Louis City",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 0.96
+  },
+  {
+   "data": "2026-07-23 01:09:05",
+   "tm": "01:09",
+   "match": "San Jose Earthquakes x Orlando City SC",
+   "bot": "TRIPWIRE",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 2.5,
+   "status": "red",
+   "pl": -20.0
+  },
+  {
+   "data": "2026-07-23 01:06:38",
+   "tm": "01:06",
+   "match": "Colorado Rapids vs San Diego",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-23 01:06:37",
+   "tm": "01:06",
+   "match": "Colorado Rapids vs San Diego",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 1.19
+  },
+  {
    "data": "2026-07-23 00:36:35",
    "tm": "00:36",
    "match": "Portland Timbers vs Dallas",
@@ -476,38 +536,48 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 00:02:08",
+   "tm": "00:02",
+   "match": "Portland Timbers x FC Dallas",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 18.5,
+   "status": "green",
+   "pl": 1.26
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 0,
-   "r": 1,
-   "pl": -2.0,
-   "wr": 0,
+   "ent": 8,
+   "g": 6,
+   "r": 2,
+   "pl": -13.16,
+   "wr": 75,
    "label": "23/07"
   },
   "mes": {
-   "ent": 797,
-   "g": 524,
-   "r": 273,
-   "pl": 215.05,
+   "ent": 805,
+   "g": 530,
+   "r": 275,
+   "pl": 201.85,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -2.0,
-   "ops": 1,
-   "g": 0,
-   "r": 1
+   "pl": -13.16,
+   "ops": 8,
+   "g": 6,
+   "r": 2
   },
   "2026-07-22": {
-   "pl": 22.62,
-   "ops": 34,
+   "pl": 20.58,
+   "ops": 35,
    "g": 26,
-   "r": 8
+   "r": 9
   },
   "2026-07-21": {
    "pl": 25.13,
