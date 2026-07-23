@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T22:00",
+ "gerado_em": "2026-07-22T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 320,
+   "g": 321,
    "r": 20,
-   "pl": 102.49,
+   "pl": 105.22,
    "roi": 1.0,
    "wr": 94.1,
    "st": "ap"
@@ -118,10 +118,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 8,
-   "r": 32,
-   "pl": 47.15,
+   "r": 33,
+   "pl": 45.15,
    "roi": 3.7,
-   "wr": 20.0,
+   "wr": 19.5,
    "st": "val"
   },
   {
@@ -169,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 71,
+   "r": 10,
+   "pl": 26.04,
+   "roi": -0.3,
+   "wr": 87.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -177,17 +188,6 @@
    "pl": 24.55,
    "roi": 33.0,
    "wr": 82.1,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 70,
-   "r": 10,
-   "pl": 24.38,
-   "roi": -0.3,
-   "wr": 87.5,
    "st": "val"
   },
   {
@@ -323,17 +323,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 2,
-   "r": 11,
-   "pl": 4.64,
-   "roi": 131.0,
-   "wr": 15.4,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -397,6 +386,17 @@
    "pl": 2.93,
    "roi": 9.0,
    "wr": 92.9,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 2,
+   "r": 12,
+   "pl": 2.64,
+   "roi": 131.0,
+   "wr": 14.3,
    "st": "val"
   },
   {
@@ -468,6 +468,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-22 22:36:50",
+   "tm": "22:36",
+   "match": "New England vs Toronto",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.66
+  },
+  {
+   "data": "2026-07-22 22:36:38",
+   "tm": "22:36",
+   "match": "Goiás vs Sport Recife",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-22 21:36:56",
    "tm": "21:36",
    "match": "New England vs Toronto",
@@ -486,6 +506,26 @@
    "odd": 1.6,
    "status": "green",
    "pl": 1.11
+  },
+  {
+   "data": "2026-07-22 21:04:05",
+   "tm": "21:04",
+   "match": "Goiás x Sport Recife",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-22 20:47:05",
+   "tm": "20:47",
+   "match": "Inter Miami CF x Chicago Fire",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 2.73
   },
   {
    "data": "2026-07-22 20:46:15",
@@ -650,28 +690,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 18,
-   "g": 13,
-   "r": 5,
-   "pl": 7.53,
-   "wr": 72,
+   "ent": 22,
+   "g": 15,
+   "r": 7,
+   "pl": 7.92,
+   "wr": 68,
    "label": "22/07"
   },
   "mes": {
-   "ent": 780,
-   "g": 511,
-   "r": 269,
-   "pl": 201.96,
-   "wr": 66,
+   "ent": 784,
+   "g": 513,
+   "r": 271,
+   "pl": 202.35,
+   "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-22": {
-   "pl": 7.53,
-   "ops": 18,
-   "g": 13,
-   "r": 5
+   "pl": 7.92,
+   "ops": 22,
+   "g": 15,
+   "r": 7
   },
   "2026-07-21": {
    "pl": 25.13,
