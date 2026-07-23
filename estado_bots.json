@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T16:00",
+ "gerado_em": "2026-07-23T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 120,
-   "pl": 2.22,
+   "ent": 121,
+   "pl": 0.22,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 15,
-   "pl": -18.62,
+   "ent": 16,
+   "pl": -33.64,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 113,
-   "pl": 8.62,
+   "ent": 114,
+   "pl": 5.91,
    "roi": 1.5,
    "plat": "Bolsa"
   },
