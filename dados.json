@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T14:00",
+ "gerado_em": "2026-07-23T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 38,
-   "r": 52,
-   "pl": 41.36,
+   "r": 54,
+   "pl": 37.36,
    "roi": 6.7,
-   "wr": 42.2,
+   "wr": 41.3,
    "st": "val"
   },
   {
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 33,
+   "r": 2,
+   "pl": 15.97,
+   "roi": 1.3,
+   "wr": 94.3,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -235,25 +246,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 32,
-   "r": 2,
-   "pl": 14.61,
-   "roi": 1.3,
-   "wr": 94.1,
-   "st": "val"
-  },
-  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 35,
-   "r": 36,
-   "pl": 11.96,
+   "r": 37,
+   "pl": 9.96,
    "roi": 1.4,
-   "wr": 49.3,
+   "wr": 48.6,
    "st": "val"
   },
   {
@@ -468,6 +468,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-23 14:56:50",
+   "tm": "14:56",
+   "match": "Dunajská Streda vs Velez",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 14:56:43",
+   "tm": "14:56",
+   "match": "Paide vs Zira",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 14:56:40",
+   "tm": "14:56",
+   "match": "Flora vs The New Saints",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 14:56:39",
+   "tm": "14:56",
+   "match": "Flora vs The New Saints",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
    "data": "2026-07-23 13:26:39",
    "tm": "13:26",
    "match": "Malisheva vs Hibernian",
@@ -560,28 +600,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 6,
-   "r": 3,
-   "pl": -15.16,
-   "wr": 67,
+   "ent": 13,
+   "g": 7,
+   "r": 6,
+   "pl": -19.8,
+   "wr": 54,
    "label": "23/07"
   },
   "mes": {
-   "ent": 806,
-   "g": 530,
-   "r": 276,
-   "pl": 199.85,
+   "ent": 810,
+   "g": 531,
+   "r": 279,
+   "pl": 195.21,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -15.16,
-   "ops": 9,
-   "g": 6,
-   "r": 3
+   "pl": -19.8,
+   "ops": 13,
+   "g": 7,
+   "r": 6
   },
   "2026-07-22": {
    "pl": 20.58,
