@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T16:00",
+ "gerado_em": "2026-07-23T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -279,17 +279,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 76,
-   "r": 37,
-   "pl": 8.62,
-   "roi": 1.5,
-   "wr": 67.3,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -320,6 +309,17 @@
    "pl": 6.24,
    "roi": -0.2,
    "wr": 68.8,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 76,
+   "r": 38,
+   "pl": 5.91,
+   "roi": 1.5,
+   "wr": 66.7,
    "st": "val"
   },
   {
@@ -422,17 +422,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 83,
-   "r": 37,
-   "pl": 2.22,
-   "roi": 2.0,
-   "wr": 69.2,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -464,9 +453,30 @@
    "roi": -5.0,
    "wr": 63.6,
    "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 83,
+   "r": 38,
+   "pl": 0.22,
+   "roi": 2.0,
+   "wr": 68.6,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-23 16:46:36",
+   "tm": "16:46",
+   "match": "St. Gallen vs Benfica",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -2.71
+  },
   {
    "data": "2026-07-23 15:56:48",
    "tm": "15:56",
@@ -514,6 +524,16 @@
    "bot": "STRIKER",
    "mkt": "Back Over 1.5 FT",
    "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 15:15:06",
+   "tm": "15:15",
+   "match": "BATE Borisov x FC Sion",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
    "status": "red",
    "pl": -2.0
   },
@@ -680,28 +700,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
+   "ent": 23,
    "g": 13,
-   "r": 8,
-   "pl": -8.73,
-   "wr": 62,
+   "r": 10,
+   "pl": -13.44,
+   "wr": 57,
    "label": "23/07"
   },
   "mes": {
-   "ent": 818,
+   "ent": 820,
    "g": 537,
-   "r": 281,
-   "pl": 206.28,
-   "wr": 66,
+   "r": 283,
+   "pl": 201.57,
+   "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -8.73,
-   "ops": 21,
+   "pl": -13.44,
+   "ops": 23,
    "g": 13,
-   "r": 8
+   "r": 10
   },
   "2026-07-22": {
    "pl": 20.58,
