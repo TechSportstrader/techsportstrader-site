@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T00:00",
+ "gerado_em": "2026-07-23T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -106,11 +106,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 55,
+   "g": 56,
    "r": 4,
-   "pl": 53.29,
+   "pl": 54.8,
    "roi": 1.0,
-   "wr": 93.2,
+   "wr": 93.3,
    "st": "val"
   },
   {
@@ -312,17 +312,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 32,
-   "r": 23,
-   "pl": 5.24,
-   "roi": -0.0,
-   "wr": 58.2,
-   "st": "val"
-  },
-  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -386,6 +375,17 @@
    "pl": 3.48,
    "roi": 4.0,
    "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 32,
+   "r": 24,
+   "pl": 3.24,
+   "roi": -0.0,
+   "wr": 57.1,
    "st": "val"
   },
   {
@@ -466,30 +466,47 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-23 00:36:35",
+   "tm": "00:36",
+   "match": "Portland Timbers vs Dallas",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "23/07"
   },
   "mes": {
-   "ent": 795,
-   "g": 523,
-   "r": 272,
-   "pl": 215.54,
+   "ent": 797,
+   "g": 524,
+   "r": 273,
+   "pl": 215.05,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-23": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-07-22": {
-   "pl": 21.11,
-   "ops": 33,
-   "g": 25,
+   "pl": 22.62,
+   "ops": 34,
+   "g": 26,
    "r": 8
   },
   "2026-07-21": {
