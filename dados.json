@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T13:00",
+ "gerado_em": "2026-07-23T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -250,10 +250,10 @@
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 35,
-   "r": 35,
-   "pl": 13.96,
+   "r": 36,
+   "pl": 11.96,
    "roi": 1.4,
-   "wr": 50.0,
+   "wr": 49.3,
    "st": "val"
   },
   {
@@ -468,6 +468,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-23 13:26:39",
+   "tm": "13:26",
+   "match": "Malisheva vs Hibernian",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-23 01:46:37",
    "tm": "01:46",
    "match": "SJ Earthquakes vs Orlando City",
@@ -550,28 +560,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
+   "ent": 9,
    "g": 6,
-   "r": 2,
-   "pl": -13.16,
-   "wr": 75,
+   "r": 3,
+   "pl": -15.16,
+   "wr": 67,
    "label": "23/07"
   },
   "mes": {
-   "ent": 805,
+   "ent": 806,
    "g": 530,
-   "r": 275,
-   "pl": 201.85,
+   "r": 276,
+   "pl": 199.85,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -13.16,
-   "ops": 8,
+   "pl": -15.16,
+   "ops": 9,
    "g": 6,
-   "r": 2
+   "r": 3
   },
   "2026-07-22": {
    "pl": 20.58,
