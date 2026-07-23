@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T15:00",
+ "gerado_em": "2026-07-23T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 321,
+   "g": 322,
    "r": 21,
-   "pl": 103.18,
+   "pl": 105.35,
    "roi": 1.0,
    "wr": 93.9,
    "st": "ap"
@@ -30,19 +30,19 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 325,
-   "r": 98,
-   "pl": 11.18,
+   "r": 99,
+   "pl": 9.18,
    "roi": 2.0,
-   "wr": 76.8,
+   "wr": 76.7,
    "st": "ap"
   },
   {
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 251,
+   "g": 252,
    "r": 0,
-   "pl": 413.25,
+   "pl": 415.1,
    "roi": 38.0,
    "wr": 100.0,
    "st": "val"
@@ -128,22 +128,22 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 38,
+   "g": 39,
    "r": 54,
-   "pl": 37.36,
+   "pl": 42.36,
    "roi": 6.7,
-   "wr": 41.3,
+   "wr": 41.9,
    "st": "val"
   },
   {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 73,
+   "g": 74,
    "r": 10,
-   "pl": 29.48,
+   "pl": 31.65,
    "roi": -0.3,
-   "wr": 88.0,
+   "wr": 88.1,
    "st": "val"
   },
   {
@@ -216,9 +216,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 11,
+   "g": 12,
    "r": 0,
-   "pl": 16.14,
+   "pl": 17.39,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -246,17 +246,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 35,
-   "r": 37,
-   "pl": 9.96,
-   "roi": 1.4,
-   "wr": 48.6,
-   "st": "val"
-  },
-  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -268,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 35,
+   "r": 38,
+   "pl": 9.27,
+   "roi": 1.4,
+   "wr": 47.9,
+   "st": "val"
+  },
+  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -276,6 +276,17 @@
    "pl": 9.13,
    "roi": 10.0,
    "wr": 82.9,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 76,
+   "r": 37,
+   "pl": 8.62,
+   "roi": 1.5,
+   "wr": 67.3,
    "st": "val"
   },
   {
@@ -298,17 +309,6 @@
    "pl": 7.9,
    "roi": -100.0,
    "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 75,
-   "r": 37,
-   "pl": 7.3,
-   "roi": 1.5,
-   "wr": 67.0,
    "st": "val"
   },
   {
@@ -468,6 +468,66 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-23 15:56:48",
+   "tm": "15:56",
+   "match": "Hammarby vs Anderlecht",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -0.69
+  },
+  {
+   "data": "2026-07-23 15:56:46",
+   "tm": "15:56",
+   "match": "Zimbru vs Noah",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.6,
+   "status": "green",
+   "pl": 2.17
+  },
+  {
+   "data": "2026-07-23 15:56:34",
+   "tm": "15:56",
+   "match": "Hammarby vs Anderlecht",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-07-23 15:26:38",
+   "tm": "15:26",
+   "match": "AEK Larnaca vs Beitar Jerusalem",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-07-23 15:15:15",
+   "tm": "15:15",
+   "match": "GAIS x FC Nordsjælland",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 15:06:36",
+   "tm": "15:06",
+   "match": "Qarabağ vs CSKA Sofia",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.0
+  },
+  {
    "data": "2026-07-23 14:56:50",
    "tm": "14:56",
    "match": "Dunajská Streda vs Velez",
@@ -508,6 +568,16 @@
    "pl": 1.36
   },
   {
+   "data": "2026-07-23 14:35:06",
+   "tm": "14:35",
+   "match": "FC Santa Coloma x SK Rapid Wien",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-07-23 13:26:39",
    "tm": "13:26",
    "match": "Malisheva vs Hibernian",
@@ -516,6 +586,16 @@
    "odd": 1.9,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 13:08:11",
+   "tm": "13:08",
+   "match": "Qarabağ FK x CSKA Sofia",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 2.17
   },
   {
    "data": "2026-07-23 01:46:37",
@@ -600,28 +680,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 7,
-   "r": 6,
-   "pl": -19.8,
-   "wr": 54,
+   "ent": 21,
+   "g": 13,
+   "r": 8,
+   "pl": -8.73,
+   "wr": 62,
    "label": "23/07"
   },
   "mes": {
-   "ent": 810,
-   "g": 531,
-   "r": 279,
-   "pl": 195.21,
+   "ent": 818,
+   "g": 537,
+   "r": 281,
+   "pl": 206.28,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -19.8,
-   "ops": 13,
-   "g": 7,
-   "r": 6
+   "pl": -8.73,
+   "ops": 21,
+   "g": 13,
+   "r": 8
   },
   "2026-07-22": {
    "pl": 20.58,
