@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T17:00",
+ "gerado_em": "2026-07-23T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 39,
-   "pl": 24.55,
+   "ent": 40,
+   "pl": 25.59,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 424,
-   "pl": 9.18,
+   "ent": 425,
+   "pl": 7.18,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,22 +276,22 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 93,
-   "pl": 42.36,
+   "ent": 97,
+   "pl": 39.41,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 114,
-   "pl": 5.91,
+   "ent": 116,
+   "pl": 8.45,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 73,
-   "pl": 9.27,
+   "ent": 74,
+   "pl": 7.27,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 136,
-   "pl": -16.94,
+   "ent": 138,
+   "pl": -14.99,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 48,
-   "pl": 6.24,
+   "ent": 49,
+   "pl": 7.34,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 84,
-   "pl": 31.65,
+   "ent": 87,
+   "pl": 36.96,
    "roi": -0.3,
    "plat": "Bolsa"
   }
