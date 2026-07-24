@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T23:00",
+ "gerado_em": "2026-07-24T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 458,
+   "g": 459,
    "r": 5,
-   "pl": 301.58,
+   "pl": 303.06,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -51,9 +51,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 97,
+   "g": 98,
    "r": 3,
-   "pl": 163.4,
+   "pl": 167.57,
    "roi": 3.0,
    "wr": 97.0,
    "st": "val"
@@ -147,6 +147,17 @@
    "st": "val"
   },
   {
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 95,
+   "r": 7,
+   "pl": 28.19,
+   "roi": 0.0,
+   "wr": 93.1,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -155,17 +166,6 @@
    "pl": 27.89,
    "roi": 13.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 94,
-   "r": 7,
-   "pl": 26.61,
-   "roi": 0.0,
-   "wr": 93.1,
    "st": "val"
   },
   {
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 34,
+   "r": 2,
+   "pl": 17.47,
+   "roi": 1.3,
+   "wr": 94.4,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 17.39,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 33,
-   "r": 2,
-   "pl": 15.97,
-   "roi": 1.3,
-   "wr": 94.3,
    "st": "val"
   },
   {
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 8,
+   "r": 0,
+   "pl": 9.07,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -287,17 +298,6 @@
    "pl": 8.45,
    "roi": 1.5,
    "wr": 67.2,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 7,
-   "r": 0,
-   "pl": 8.27,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -342,6 +342,17 @@
    "pl": 5.82,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 14,
+   "r": 1,
+   "pl": 4.51,
+   "roi": 9.0,
+   "wr": 93.3,
    "st": "val"
   },
   {
@@ -411,17 +422,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 13,
-   "r": 1,
-   "pl": 2.93,
-   "roi": 9.0,
-   "wr": 92.9,
-   "st": "val"
-  },
-  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -430,17 +430,6 @@
    "pl": 2.55,
    "roi": -0.2,
    "wr": 57.6,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 84,
-   "r": 38,
-   "pl": 1.1,
-   "roi": 2.0,
-   "wr": 68.9,
    "st": "val"
   },
   {
@@ -466,563 +455,72 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-07-23 22:36:36",
-   "tm": "22:36",
-   "match": "Cuiabá vs Atlético GO",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.6,
-   "status": "red",
-   "pl": -10.0
-  },
-  {
-   "data": "2026-07-23 21:56:33",
-   "tm": "21:56",
-   "match": "Cuiabá vs Atlético GO",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 21:36:55",
-   "tm": "21:36",
-   "match": "Belgrano vs Rosario Central",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-23 20:44:05",
-   "tm": "20:44",
-   "match": "Athletic Club x São Bernardo",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.88
-  },
-  {
-   "data": "2026-07-23 20:36:34",
-   "tm": "20:36",
-   "match": "Leones del Norte vs Guayaquil City",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 20:26:38",
-   "tm": "20:26",
-   "match": "Botafogo vs Vitória",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.27
-  },
-  {
-   "data": "2026-07-23 19:46:05",
-   "tm": "19:46",
-   "match": "Leones del Norte x Guayaquil City",
-   "bot": "CAÇADOR 2-1",
-   "mkt": "Back Placar 2x1",
-   "odd": 6.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 19:43:15",
-   "tm": "19:43",
-   "match": "Athletic Club x São Bernardo",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-07-23 19:38:06",
-   "tm": "19:38",
-   "match": "Sarmiento x Argentinos Juniors",
-   "bot": "SENTINELA 0x1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.8,
-   "status": "green",
-   "pl": 2.08
-  },
-  {
-   "data": "2026-07-23 19:12:05",
-   "tm": "19:12",
-   "match": "Leones del Norte x Guayaquil City",
-   "bot": "BLINDADO 3-1",
-   "mkt": "Lay Placar 3x1",
-   "odd": 20.0,
-   "status": "green",
-   "pl": 1.32
-  },
-  {
-   "data": "2026-07-23 19:09:15",
-   "tm": "19:09",
-   "match": "Orense SC x Aucas",
-   "bot": "CAÇADOR 2-1",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "green",
-   "pl": 18.0
-  },
-  {
-   "data": "2026-07-23 18:52:05",
-   "tm": "18:52",
-   "match": "Leones del Norte x Guayaquil City",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 50.0,
-   "status": "green",
-   "pl": 1.63
-  },
-  {
-   "data": "2026-07-23 18:37:17",
-   "tm": "18:37",
-   "match": "Leones del Norte x Guayaquil City",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 19.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-07-23 17:56:38",
-   "tm": "17:56",
-   "match": "Stjarnan vs Ilves",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "green",
-   "pl": 1.33
-  },
-  {
-   "data": "2026-07-23 17:56:37",
-   "tm": "17:56",
-   "match": "Stjarnan vs Ilves",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-07-23 17:56:36",
-   "tm": "17:56",
-   "match": "Hajduk Split vs Pafos FC",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-23 17:46:46",
-   "tm": "17:46",
-   "match": "Valur vs Zrinjski",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.98
-  },
-  {
-   "data": "2026-07-23 17:46:44",
-   "tm": "17:46",
-   "match": "Stjarnan vs Ilves",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 17:36:40",
-   "tm": "17:36",
-   "match": "Borac Banja Luka vs Petrocub",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 2.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 17:36:37",
-   "tm": "17:36",
-   "match": "NSÍ vs Koper",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 17:26:39",
-   "tm": "17:26",
-   "match": "Lugano vs Dukagjini",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.1
-  },
-  {
-   "data": "2026-07-23 17:26:39",
-   "tm": "17:26",
-   "match": "LNZ Cherkasy vs Gent",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 3.03
-  },
-  {
-   "data": "2026-07-23 17:26:38",
-   "tm": "17:26",
-   "match": "LNZ Cherkasy vs Gent",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.2,
-   "status": "green",
-   "pl": 1.92
-  },
-  {
-   "data": "2026-07-23 17:26:37",
-   "tm": "17:26",
-   "match": "Lugano vs Dukagjini",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.21
-  },
-  {
-   "data": "2026-07-23 16:46:36",
-   "tm": "16:46",
-   "match": "St. Gallen vs Benfica",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "red",
-   "pl": -2.71
-  },
-  {
-   "data": "2026-07-23 16:40:06",
-   "tm": "16:40",
-   "match": "FC Lugano x Dukagjini",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 16:32:16",
-   "tm": "16:32",
-   "match": "FC Lugano x Dukagjini",
-   "bot": "MURALHA 2.5",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.04
-  },
-  {
-   "data": "2026-07-23 15:56:48",
-   "tm": "15:56",
-   "match": "Hammarby vs Anderlecht",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -0.69
-  },
-  {
-   "data": "2026-07-23 15:56:46",
-   "tm": "15:56",
-   "match": "Zimbru vs Noah",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.6,
-   "status": "green",
-   "pl": 2.17
-  },
-  {
-   "data": "2026-07-23 15:56:34",
-   "tm": "15:56",
-   "match": "Hammarby vs Anderlecht",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-23 15:26:38",
-   "tm": "15:26",
-   "match": "AEK Larnaca vs Beitar Jerusalem",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.6,
-   "status": "green",
-   "pl": 1.32
-  },
-  {
-   "data": "2026-07-23 15:15:15",
-   "tm": "15:15",
-   "match": "GAIS x FC Nordsjælland",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 15:15:06",
-   "tm": "15:15",
-   "match": "BATE Borisov x FC Sion",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 15:06:36",
-   "tm": "15:06",
-   "match": "Qarabağ vs CSKA Sofia",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 5.0
-  },
-  {
-   "data": "2026-07-23 14:56:50",
-   "tm": "14:56",
-   "match": "Dunajská Streda vs Velez",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 14:56:43",
-   "tm": "14:56",
-   "match": "Paide vs Zira",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 14:56:40",
-   "tm": "14:56",
-   "match": "Flora vs The New Saints",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 14:56:39",
-   "tm": "14:56",
-   "match": "Flora vs The New Saints",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 12.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-07-23 14:35:06",
-   "tm": "14:35",
-   "match": "FC Santa Coloma x SK Rapid Wien",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 21.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-07-23 13:26:39",
-   "tm": "13:26",
-   "match": "Malisheva vs Hibernian",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.9,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 13:08:11",
-   "tm": "13:08",
-   "match": "Qarabağ FK x CSKA Sofia",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 2.17
-  },
-  {
-   "data": "2026-07-23 01:46:37",
-   "tm": "01:46",
-   "match": "SJ Earthquakes vs Orlando City",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 44.0,
-   "status": "green",
-   "pl": 2.33
-  },
-  {
-   "data": "2026-07-23 01:36:36",
-   "tm": "01:36",
-   "match": "Portland Timbers vs Dallas",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "green",
-   "pl": 1.38
-  },
-  {
-   "data": "2026-07-23 01:36:36",
-   "tm": "01:36",
-   "match": "LA Galaxy vs St. Louis City",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.96
-  },
-  {
-   "data": "2026-07-23 01:09:05",
-   "tm": "01:09",
-   "match": "San Jose Earthquakes x Orlando City SC",
-   "bot": "TRIPWIRE",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 2.5,
-   "status": "red",
-   "pl": -20.0
-  },
-  {
-   "data": "2026-07-23 01:06:38",
-   "tm": "01:06",
-   "match": "Colorado Rapids vs San Diego",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-07-23 01:06:37",
-   "tm": "01:06",
-   "match": "Colorado Rapids vs San Diego",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 1.19
-  },
-  {
-   "data": "2026-07-23 00:36:35",
-   "tm": "00:36",
-   "match": "Portland Timbers vs Dallas",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-23 00:02:08",
-   "tm": "00:02",
-   "match": "Portland Timbers x FC Dallas",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 18.5,
-   "status": "green",
-   "pl": 1.26
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 49,
-   "g": 30,
-   "r": 19,
-   "pl": 3.22,
-   "wr": 61,
-   "label": "23/07"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "24/07"
   },
   "mes": {
-   "ent": 846,
-   "g": 554,
-   "r": 292,
-   "pl": 218.23,
-   "wr": 65,
+   "ent": 792,
+   "g": 519,
+   "r": 273,
+   "pl": 230.31,
+   "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": 3.22,
-   "ops": 49,
-   "g": 30,
-   "r": 19
+   "pl": 15.45,
+   "ops": 53,
+   "g": 35,
+   "r": 18
   },
   "2026-07-22": {
-   "pl": 20.58,
-   "ops": 35,
-   "g": 26,
-   "r": 9
+   "pl": 19.35,
+   "ops": 30,
+   "g": 22,
+   "r": 8
   },
   "2026-07-21": {
-   "pl": 25.13,
-   "ops": 50,
-   "g": 39,
-   "r": 11
+   "pl": 25.15,
+   "ops": 47,
+   "g": 37,
+   "r": 10
   },
   "2026-07-20": {
-   "pl": -25.34,
-   "ops": 20,
-   "g": 13,
+   "pl": -25.98,
+   "ops": 19,
+   "g": 12,
    "r": 7
   },
   "2026-07-19": {
-   "pl": 4.29,
-   "ops": 43,
-   "g": 23,
-   "r": 20
+   "pl": 6.21,
+   "ops": 39,
+   "g": 21,
+   "r": 18
   },
   "2026-07-18": {
-   "pl": 17.43,
-   "ops": 77,
-   "g": 51,
-   "r": 26
+   "pl": 18.89,
+   "ops": 69,
+   "g": 46,
+   "r": 23
   },
   "2026-07-17": {
-   "pl": 19.45,
-   "ops": 49,
-   "g": 35,
-   "r": 14
+   "pl": 20.95,
+   "ops": 44,
+   "g": 32,
+   "r": 12
   },
   "2026-07-16": {
-   "pl": 18.98,
-   "ops": 48,
-   "g": 34,
+   "pl": 17.98,
+   "ops": 47,
+   "g": 33,
    "r": 14
   },
   "2026-07-15": {
@@ -1038,148 +536,148 @@
    "r": 15
   },
   "2026-07-13": {
-   "pl": 27.61,
-   "ops": 18,
-   "g": 12,
-   "r": 6
-  },
-  "2026-07-12": {
-   "pl": 53.37,
-   "ops": 56,
-   "g": 39,
-   "r": 17
-  },
-  "2026-07-11": {
-   "pl": -3.31,
-   "ops": 56,
-   "g": 35,
-   "r": 21
-  },
-  "2026-07-10": {
-   "pl": 11.31,
-   "ops": 30,
-   "g": 18,
-   "r": 12
-  },
-  "2026-07-09": {
-   "pl": -14.59,
-   "ops": 27,
-   "g": 13,
-   "r": 14
-  },
-  "2026-07-08": {
-   "pl": 22.75,
-   "ops": 16,
-   "g": 14,
-   "r": 2
-  },
-  "2026-07-07": {
-   "pl": 11.35,
-   "ops": 20,
-   "g": 14,
-   "r": 6
-  },
-  "2026-07-06": {
-   "pl": 4.43,
-   "ops": 22,
-   "g": 16,
-   "r": 6
-  },
-  "2026-07-05": {
-   "pl": 22.68,
-   "ops": 49,
-   "g": 33,
-   "r": 16
-  },
-  "2026-07-04": {
-   "pl": -57.72,
-   "ops": 55,
-   "g": 27,
-   "r": 28
-  },
-  "2026-07-03": {
-   "pl": 48.63,
-   "ops": 32,
-   "g": 25,
-   "r": 7
-  },
-  "2026-07-02": {
-   "pl": 22.87,
-   "ops": 24,
-   "g": 16,
-   "r": 8
-  },
-  "2026-07-01": {
-   "pl": 8.75,
-   "ops": 24,
-   "g": 18,
-   "r": 6
-  },
-  "2026-06-30": {
-   "pl": 1.3,
-   "ops": 12,
-   "g": 7,
-   "r": 5
-  },
-  "2026-06-29": {
-   "pl": 14.0,
-   "ops": 15,
-   "g": 10,
-   "r": 5
-  },
-  "2026-06-28": {
-   "pl": 25.66,
-   "ops": 54,
-   "g": 34,
-   "r": 20
-  },
-  "2026-06-27": {
-   "pl": 13.19,
-   "ops": 30,
-   "g": 20,
-   "r": 10
-  },
-  "2026-06-26": {
-   "pl": 8.9,
-   "ops": 22,
-   "g": 13,
-   "r": 9
-  },
-  "2026-06-25": {
-   "pl": 16.54,
-   "ops": 15,
-   "g": 12,
-   "r": 3
-  },
-  "2026-06-24": {
-   "pl": 2.48,
+   "pl": 29.61,
    "ops": 17,
    "g": 12,
    "r": 5
   },
-  "2026-06-23": {
-   "pl": 27.83,
-   "ops": 16,
+  "2026-07-12": {
+   "pl": 51.86,
+   "ops": 52,
+   "g": 36,
+   "r": 16
+  },
+  "2026-07-11": {
+   "pl": -0.91,
+   "ops": 52,
+   "g": 33,
+   "r": 19
+  },
+  "2026-07-10": {
+   "pl": 10.53,
+   "ops": 29,
+   "g": 17,
+   "r": 12
+  },
+  "2026-07-09": {
+   "pl": -13.26,
+   "ops": 25,
+   "g": 12,
+   "r": 13
+  },
+  "2026-07-08": {
+   "pl": 20.71,
+   "ops": 14,
+   "g": 12,
+   "r": 2
+  },
+  "2026-07-07": {
+   "pl": 10.34,
+   "ops": 19,
    "g": 13,
+   "r": 6
+  },
+  "2026-07-06": {
+   "pl": 6.36,
+   "ops": 18,
+   "g": 14,
+   "r": 4
+  },
+  "2026-07-05": {
+   "pl": 21.18,
+   "ops": 47,
+   "g": 31,
+   "r": 16
+  },
+  "2026-07-04": {
+   "pl": -59.53,
+   "ops": 53,
+   "g": 25,
+   "r": 28
+  },
+  "2026-07-03": {
+   "pl": 51.59,
+   "ops": 29,
+   "g": 24,
+   "r": 5
+  },
+  "2026-07-02": {
+   "pl": 20.02,
+   "ops": 21,
+   "g": 13,
+   "r": 8
+  },
+  "2026-07-01": {
+   "pl": 7.44,
+   "ops": 22,
+   "g": 16,
+   "r": 6
+  },
+  "2026-06-30": {
+   "pl": 0.61,
+   "ops": 11,
+   "g": 6,
+   "r": 5
+  },
+  "2026-06-29": {
+   "pl": 15.0,
+   "ops": 13,
+   "g": 9,
+   "r": 4
+  },
+  "2026-06-28": {
+   "pl": 29.19,
+   "ops": 49,
+   "g": 32,
+   "r": 17
+  },
+  "2026-06-27": {
+   "pl": 13.21,
+   "ops": 26,
+   "g": 17,
+   "r": 9
+  },
+  "2026-06-26": {
+   "pl": 8.16,
+   "ops": 21,
+   "g": 12,
+   "r": 9
+  },
+  "2026-06-25": {
+   "pl": 17.35,
+   "ops": 13,
+   "g": 11,
+   "r": 2
+  },
+  "2026-06-24": {
+   "pl": 0.23,
+   "ops": 14,
+   "g": 9,
+   "r": 5
+  },
+  "2026-06-23": {
+   "pl": 26.31,
+   "ops": 15,
+   "g": 12,
    "r": 3
   },
   "2026-06-22": {
-   "pl": -0.02,
-   "ops": 23,
+   "pl": 1.98,
+   "ops": 22,
    "g": 13,
-   "r": 10
+   "r": 9
   },
   "2026-06-21": {
-   "pl": -17.83,
-   "ops": 33,
-   "g": 23,
-   "r": 10
+   "pl": -17.46,
+   "ops": 30,
+   "g": 21,
+   "r": 9
   },
   "2026-06-20": {
-   "pl": -2.39,
-   "ops": 40,
-   "g": 24,
-   "r": 16
+   "pl": -1.53,
+   "ops": 38,
+   "g": 23,
+   "r": 15
   },
   "2026-06-19": {
    "pl": 9.73,
@@ -1194,70 +692,70 @@
    "r": 1
   },
   "2026-06-17": {
-   "pl": 7.3,
-   "ops": 8,
-   "g": 7,
+   "pl": 6.58,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-06-16": {
-   "pl": 21.76,
-   "ops": 16,
-   "g": 13,
+   "pl": 19.67,
+   "ops": 14,
+   "g": 11,
    "r": 3
   },
   "2026-06-15": {
-   "pl": 12.78,
-   "ops": 16,
-   "g": 12,
-   "r": 4
+   "pl": 14.01,
+   "ops": 14,
+   "g": 11,
+   "r": 3
   },
   "2026-06-14": {
-   "pl": 31.08,
-   "ops": 29,
-   "g": 22,
+   "pl": 27.45,
+   "ops": 25,
+   "g": 18,
    "r": 7
   },
   "2026-06-13": {
-   "pl": -7.25,
-   "ops": 23,
+   "pl": -5.25,
+   "ops": 22,
    "g": 13,
-   "r": 10
+   "r": 9
   },
   "2026-06-12": {
-   "pl": -24.08,
-   "ops": 13,
-   "g": 8,
+   "pl": -26.21,
+   "ops": 12,
+   "g": 7,
    "r": 5
   },
   "2026-06-11": {
-   "pl": -1.51,
-   "ops": 4,
+   "pl": 2.49,
+   "ops": 2,
    "g": 2,
-   "r": 2
+   "r": 0
   },
   "2026-06-10": {
-   "pl": 4.96,
-   "ops": 9,
-   "g": 6,
-   "r": 3
+   "pl": 7.92,
+   "ops": 6,
+   "g": 5,
+   "r": 1
   },
   "2026-06-09": {
-   "pl": 1.31,
-   "ops": 13,
-   "g": 7,
+   "pl": -1.14,
+   "ops": 11,
+   "g": 5,
    "r": 6
   },
   "2026-06-08": {
-   "pl": -3.36,
-   "ops": 9,
-   "g": 4,
+   "pl": -4.39,
+   "ops": 8,
+   "g": 3,
    "r": 5
   },
   "2026-06-07": {
-   "pl": 22.53,
-   "ops": 23,
+   "pl": 24.53,
+   "ops": 22,
    "g": 18,
-   "r": 5
+   "r": 4
   },
   "2026-06-06": {
    "pl": -4.71,
@@ -1266,9 +764,9 @@
    "r": 11
   },
   "2026-06-05": {
-   "pl": 4.89,
-   "ops": 12,
-   "g": 7,
+   "pl": 3.78,
+   "ops": 11,
+   "g": 6,
    "r": 5
   },
   "2026-06-04": {
@@ -1290,33 +788,33 @@
    "r": 0
   },
   "2026-06-01": {
-   "pl": -1.54,
-   "ops": 11,
-   "g": 6,
+   "pl": -2.23,
+   "ops": 10,
+   "g": 5,
    "r": 5
   },
   "2026-05-31": {
-   "pl": 14.01,
-   "ops": 37,
-   "g": 25,
-   "r": 12
+   "pl": 16.34,
+   "ops": 30,
+   "g": 21,
+   "r": 9
   },
   "2026-05-30": {
-   "pl": 15.24,
-   "ops": 41,
-   "g": 27,
-   "r": 14
+   "pl": 12.63,
+   "ops": 35,
+   "g": 22,
+   "r": 13
   },
   "2026-05-29": {
-   "pl": 41.44,
-   "ops": 26,
-   "g": 22,
+   "pl": 38.52,
+   "ops": 24,
+   "g": 20,
    "r": 4
   },
   "2026-05-28": {
-   "pl": 11.9,
-   "ops": 5,
-   "g": 5,
+   "pl": 11.16,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-05-27": {
