@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T18:00",
+ "gerado_em": "2026-07-24T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,11 +128,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 83,
+   "g": 84,
    "r": 11,
-   "pl": 37.01,
+   "pl": 38.68,
    "roi": -0.3,
-   "wr": 88.3,
+   "wr": 88.4,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 9,
+   "r": 1,
+   "pl": 5.3,
+   "roi": 16.0,
+   "wr": 90.0,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -389,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 8,
-   "r": 1,
-   "pl": 3.63,
-   "roi": 16.0,
-   "wr": 88.9,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -414,11 +414,11 @@
    "n": "SISTEMA L-20 (Bolsa)",
    "s": "Lay (misto) · Bolsa",
    "plat": "Bolsa",
-   "g": 18,
+   "g": 19,
    "r": 1,
-   "pl": 1.83,
+   "pl": 3.4,
    "roi": 0.3,
-   "wr": 94.7,
+   "wr": 95.0,
    "st": "val"
   },
   {
@@ -456,6 +456,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-24 18:06:33",
+   "tm": "18:06",
+   "match": "2 de Mayo vs Rubio Ñú",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-24 18:06:28",
+   "tm": "18:06",
+   "match": "2 de Mayo vs Rubio Ñú",
+   "bot": "SISTEMA L-20 (Bolsa)",
+   "mkt": "Lay (misto)",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.57
+  },
   {
    "data": "2026-07-24 17:56:35",
    "tm": "17:56",
@@ -605,6 +625,16 @@
    "odd": 10.5,
    "status": "green",
    "pl": 1.33
+  },
+  {
+   "data": "2026-07-24 16:29:06",
+   "tm": "16:29",
+   "match": "CS 2 de Mayo x Rubio Ñu",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-24 16:27:10",
@@ -929,27 +959,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
-   "g": 34,
+   "ent": 50,
+   "g": 37,
    "r": 13,
-   "pl": 37.59,
-   "wr": 72,
+   "pl": 42.5,
+   "wr": 74,
    "label": "24/07"
   },
   "mes": {
-   "ent": 840,
-   "g": 557,
+   "ent": 843,
+   "g": 560,
    "r": 283,
-   "pl": 270.73,
+   "pl": 275.64,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-24": {
-   "pl": 37.59,
-   "ops": 47,
-   "g": 34,
+   "pl": 42.5,
+   "ops": 50,
+   "g": 37,
    "r": 13
   },
   "2026-07-23": {
