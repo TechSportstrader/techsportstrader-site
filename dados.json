@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T21:00",
+ "gerado_em": "2026-07-23T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 323,
+   "g": 324,
    "r": 21,
-   "pl": 106.6,
+   "pl": 108.12,
    "roi": 1.0,
    "wr": 93.9,
    "st": "ap"
@@ -125,25 +125,25 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 78,
+   "r": 10,
+   "pl": 38.63,
+   "roi": -0.3,
+   "wr": 88.6,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 40,
-   "r": 57,
-   "pl": 39.41,
+   "r": 58,
+   "pl": 37.41,
    "roi": 6.7,
-   "wr": 41.2,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 77,
-   "r": 10,
-   "pl": 36.96,
-   "roi": -0.3,
-   "wr": 88.5,
+   "wr": 40.8,
    "st": "val"
   },
   {
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 8,
+   "r": 1,
+   "pl": 3.63,
+   "roi": 16.0,
+   "wr": 88.9,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -422,14 +433,14 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 7,
-   "r": 1,
-   "pl": 1.55,
-   "roi": 16.0,
-   "wr": 87.5,
+   "g": 84,
+   "r": 38,
+   "pl": 1.1,
+   "roi": 2.0,
+   "wr": 68.9,
    "st": "val"
   },
   {
@@ -453,20 +464,39 @@
    "roi": -5.0,
    "wr": 63.6,
    "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 83,
-   "r": 38,
-   "pl": 0.22,
-   "roi": 2.0,
-   "wr": 68.6,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-23 21:56:33",
+   "tm": "21:56",
+   "match": "Cuiabá vs Atlético GO",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 21:36:55",
+   "tm": "21:36",
+   "match": "Belgrano vs Rosario Central",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-23 20:44:05",
+   "tm": "20:44",
+   "match": "Athletic Club x São Bernardo",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.88
+  },
   {
    "data": "2026-07-23 20:36:34",
    "tm": "20:36",
@@ -496,6 +526,26 @@
    "odd": 6.8,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 19:43:15",
+   "tm": "19:43",
+   "match": "Athletic Club x São Bernardo",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
+   "data": "2026-07-23 19:38:06",
+   "tm": "19:38",
+   "match": "Sarmiento x Argentinos Juniors",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.8,
+   "status": "green",
+   "pl": 2.08
   },
   {
    "data": "2026-07-23 19:12:05",
@@ -900,28 +950,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 43,
-   "g": 26,
-   "r": 17,
-   "pl": 9.07,
-   "wr": 60,
+   "ent": 48,
+   "g": 30,
+   "r": 18,
+   "pl": 13.22,
+   "wr": 62,
    "label": "23/07"
   },
   "mes": {
-   "ent": 840,
-   "g": 550,
-   "r": 290,
-   "pl": 224.08,
-   "wr": 65,
+   "ent": 845,
+   "g": 554,
+   "r": 291,
+   "pl": 228.23,
+   "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": 9.07,
-   "ops": 43,
-   "g": 26,
-   "r": 17
+   "pl": 13.22,
+   "ops": 48,
+   "g": 30,
+   "r": 18
   },
   "2026-07-22": {
    "pl": 20.58,
