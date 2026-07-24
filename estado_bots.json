@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T14:00",
+ "gerado_em": "2026-07-24T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 92,
-   "pl": -3.59,
+   "ent": 93,
+   "pl": -1.55,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 464,
-   "pl": 303.06,
+   "ent": 465,
+   "pl": 304.22,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 123,
-   "pl": -0.9,
+   "ent": 124,
+   "pl": -0.28,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 16,
-   "pl": 18.64,
+   "ent": 17,
+   "pl": 16.64,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 252,
-   "pl": 415.1,
+   "ent": 253,
+   "pl": 417.8,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 43,
-   "pl": 41.15,
+   "ent": 44,
+   "pl": 39.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -303,9 +303,9 @@
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
-   "st": "val",
-   "ent": 21,
-   "pl": 3.49,
+   "st": "rep",
+   "ent": 22,
+   "pl": -1.51,
    "roi": 1.1,
    "plat": "Bolsa"
   },
