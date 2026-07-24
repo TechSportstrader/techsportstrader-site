@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T22:00",
+ "gerado_em": "2026-07-23T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 88,
-   "pl": 38.63,
+   "ent": 89,
+   "pl": 28.63,
    "roi": -0.3,
    "plat": "Bolsa"
   }
