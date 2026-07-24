@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T20:00",
+ "gerado_em": "2026-07-23T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 457,
+   "g": 458,
    "r": 5,
-   "pl": 299.95,
+   "pl": 301.58,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 322,
+   "g": 323,
    "r": 21,
-   "pl": 105.35,
+   "pl": 106.6,
    "roi": 1.0,
    "wr": 93.9,
    "st": "ap"
@@ -118,10 +118,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 8,
-   "r": 34,
-   "pl": 43.15,
+   "r": 35,
+   "pl": 41.15,
    "roi": 3.7,
-   "wr": 19.0,
+   "wr": 18.6,
    "st": "val"
   },
   {
@@ -210,6 +210,17 @@
    "pl": 18.73,
    "roi": 11.0,
    "wr": 95.8,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 3,
+   "r": 13,
+   "pl": 18.64,
+   "roi": 131.0,
+   "wr": 18.8,
    "st": "val"
   },
   {
@@ -326,11 +337,22 @@
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
-   "g": 3,
+   "g": 4,
    "r": 0,
-   "pl": 4.5,
+   "pl": 5.82,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 33,
+   "r": 24,
+   "pl": 4.51,
+   "roi": -0.0,
+   "wr": 57.9,
    "st": "val"
   },
   {
@@ -378,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 32,
-   "r": 24,
-   "pl": 3.24,
-   "roi": -0.0,
-   "wr": 57.1,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -397,17 +408,6 @@
    "pl": 2.93,
    "roi": 9.0,
    "wr": 92.9,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 2,
-   "r": 12,
-   "pl": 2.64,
-   "roi": 131.0,
-   "wr": 14.3,
    "st": "val"
   },
   {
@@ -467,6 +467,76 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-23 20:36:34",
+   "tm": "20:36",
+   "match": "Leones del Norte vs Guayaquil City",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 20:26:38",
+   "tm": "20:26",
+   "match": "Botafogo vs Vitória",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.27
+  },
+  {
+   "data": "2026-07-23 19:46:05",
+   "tm": "19:46",
+   "match": "Leones del Norte x Guayaquil City",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 6.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-23 19:12:05",
+   "tm": "19:12",
+   "match": "Leones del Norte x Guayaquil City",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-07-23 19:09:15",
+   "tm": "19:09",
+   "match": "Orense SC x Aucas",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 18.0
+  },
+  {
+   "data": "2026-07-23 18:52:05",
+   "tm": "18:52",
+   "match": "Leones del Norte x Guayaquil City",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.63
+  },
+  {
+   "data": "2026-07-23 18:37:17",
+   "tm": "18:37",
+   "match": "Leones del Norte x Guayaquil City",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 1.25
+  },
   {
    "data": "2026-07-23 17:56:38",
    "tm": "17:56",
@@ -830,28 +900,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 36,
-   "g": 21,
-   "r": 15,
-   "pl": -10.4,
-   "wr": 58,
+   "ent": 43,
+   "g": 26,
+   "r": 17,
+   "pl": 9.07,
+   "wr": 60,
    "label": "23/07"
   },
   "mes": {
-   "ent": 833,
-   "g": 545,
-   "r": 288,
-   "pl": 204.61,
+   "ent": 840,
+   "g": 550,
+   "r": 290,
+   "pl": 224.08,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": -10.4,
-   "ops": 36,
-   "g": 21,
-   "r": 15
+   "pl": 9.07,
+   "ops": 43,
+   "g": 26,
+   "r": 17
   },
   "2026-07-22": {
    "pl": 20.58,
