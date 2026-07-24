@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T17:00",
+ "gerado_em": "2026-07-24T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 428,
-   "pl": 8.7,
+   "ent": 430,
+   "pl": 7.11,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 18,
-   "pl": 24.0,
+   "ent": 20,
+   "pl": 26.44,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 4,
-   "pl": 5.82,
+   "ent": 5,
+   "pl": 7.38,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 25,
-   "pl": 20.55,
+   "ent": 26,
+   "pl": 21.88,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 44,
-   "pl": 39.15,
+   "ent": 45,
+   "pl": 57.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 101,
-   "pl": 31.61,
+   "ent": 103,
+   "pl": 27.63,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 76,
-   "pl": 4.02,
+   "ent": 77,
+   "pl": 4.85,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 14,
-   "pl": 20.57,
+   "ent": 15,
+   "pl": 22.13,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "val",
-   "ent": 18,
-   "pl": 0.61,
+   "ent": 19,
+   "pl": 1.83,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 92,
-   "pl": 33.62,
+   "ent": 94,
+   "pl": 37.01,
    "roi": -0.3,
    "plat": "Bolsa"
   }
