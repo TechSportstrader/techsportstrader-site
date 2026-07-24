@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T23:00",
+ "gerado_em": "2026-07-24T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 463,
-   "pl": 301.58,
+   "ent": 464,
+   "pl": 303.06,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 101,
-   "pl": 26.61,
+   "ent": 102,
+   "pl": 28.19,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 122,
-   "pl": 1.1,
+   "st": "rep",
+   "ent": 123,
+   "pl": -0.9,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -136,15 +136,15 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 14,
-   "pl": 2.93,
+   "ent": 15,
+   "pl": 4.51,
    "roi": 9.0,
    "plat": "BotBet"
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 7,
-   "pl": 8.27,
+   "ent": 8,
+   "pl": 9.07,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 100,
-   "pl": 163.4,
+   "ent": 101,
+   "pl": 167.57,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 35,
-   "pl": 15.97,
+   "ent": 36,
+   "pl": 17.47,
    "roi": 1.3,
    "plat": "Bolsa"
   },
