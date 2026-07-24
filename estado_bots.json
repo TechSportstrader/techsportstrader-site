@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T19:00",
+ "gerado_em": "2026-07-24T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 94,
-   "pl": -3.55,
+   "ent": 95,
+   "pl": -5.55,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 430,
-   "pl": 7.11,
+   "ent": 431,
+   "pl": 7.95,
    "roi": 2.0,
    "plat": "BotBet"
   },
