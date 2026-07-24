@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T17:00",
+ "gerado_em": "2026-07-24T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 328,
-   "r": 100,
-   "pl": 8.7,
+   "g": 329,
+   "r": 101,
+   "pl": 7.11,
    "roi": 2.0,
-   "wr": 76.6,
+   "wr": 76.5,
    "st": "ap"
   },
   {
@@ -103,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 9,
+   "r": 36,
+   "pl": 57.15,
+   "roi": 3.7,
+   "wr": 20.0,
+   "st": "val"
+  },
+  {
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -114,36 +125,14 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 8,
-   "r": 36,
-   "pl": 39.15,
-   "roi": 3.7,
-   "wr": 18.2,
-   "st": "val"
-  },
-  {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 81,
+   "g": 83,
    "r": 11,
-   "pl": 33.62,
+   "pl": 37.01,
    "roi": -0.3,
-   "wr": 88.0,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 40,
-   "r": 61,
-   "pl": 31.61,
-   "roi": 6.7,
-   "wr": 39.6,
+   "wr": 88.3,
    "st": "val"
   },
   {
@@ -169,6 +158,28 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 63,
+   "pl": 27.63,
+   "roi": 6.7,
+   "wr": 38.8,
+   "st": "val"
+  },
+  {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 20,
+   "r": 0,
+   "pl": 26.44,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -180,23 +191,12 @@
    "st": "val"
   },
   {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 18,
-   "r": 0,
-   "pl": 24.0,
-   "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 14,
+   "g": 15,
    "r": 0,
-   "pl": 20.57,
+   "pl": 22.13,
    "roi": 4.2,
    "wr": 100.0,
    "st": "val"
@@ -205,11 +205,11 @@
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 24,
+   "g": 25,
    "r": 1,
-   "pl": 20.55,
+   "pl": 21.88,
    "roi": 11.0,
-   "wr": 96.0,
+   "wr": 96.2,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 3-1",
+   "s": "Lay Placar 3x1 · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 0,
+   "pl": 7.38,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -334,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "BLINDADO 3-1",
-   "s": "Lay Placar 3x1 · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 0,
-   "pl": 5.82,
-   "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -353,6 +353,17 @@
    "pl": 5.45,
    "roi": -0.0,
    "wr": 58.3,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 36,
+   "r": 41,
+   "pl": 4.85,
+   "roi": 1.4,
+   "wr": 46.8,
    "st": "val"
   },
   {
@@ -378,17 +389,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 35,
-   "r": 41,
-   "pl": 4.02,
-   "roi": 1.4,
-   "wr": 46.1,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -408,6 +408,17 @@
    "pl": 3.48,
    "roi": 4.0,
    "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "SISTEMA L-20 (Bolsa)",
+   "s": "Lay (misto) · Bolsa",
+   "plat": "Bolsa",
+   "g": 18,
+   "r": 1,
+   "pl": 1.83,
+   "roi": 0.3,
+   "wr": 94.7,
    "st": "val"
   },
   {
@@ -433,17 +444,6 @@
    "st": "val"
   },
   {
-   "n": "SISTEMA L-20 (Bolsa)",
-   "s": "Lay (misto) · Bolsa",
-   "plat": "Bolsa",
-   "g": 17,
-   "r": 1,
-   "pl": 0.61,
-   "roi": 0.3,
-   "wr": 94.4,
-   "st": "val"
-  },
-  {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -456,6 +456,96 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-24 17:56:35",
+   "tm": "17:56",
+   "match": "St Patrick's vs Dundalk",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
+   "data": "2026-07-24 17:46:36",
+   "tm": "17:46",
+   "match": "Treaty United vs Athlone Town",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-24 17:36:41",
+   "tm": "17:36",
+   "match": "Pogoń Szczecin vs Legia Warszawa",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-24 17:36:35",
+   "tm": "17:36",
+   "match": "Pogoń Szczecin vs Legia Warszawa",
+   "bot": "SISTEMA L-20 (Bolsa)",
+   "mkt": "Lay (misto)",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-24 17:26:35",
+   "tm": "17:26",
+   "match": "St Patrick's vs Dundalk",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.83
+  },
+  {
+   "data": "2026-07-24 17:16:38",
+   "tm": "17:16",
+   "match": "Winterthur vs Yverdon Sport",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-07-24 17:16:38",
+   "tm": "17:16",
+   "match": "Arda vs Slavia Sofia",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-07-24 17:09:20",
+   "tm": "17:09",
+   "match": "St. Patrick's Athletic x Dundalk FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.41
+  },
+  {
+   "data": "2026-07-24 17:06:31",
+   "tm": "17:06",
+   "match": "Nyíregyháza Spartacus vs Újpest",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 18.0
+  },
   {
    "data": "2026-07-24 16:56:38",
    "tm": "16:56",
@@ -485,6 +575,36 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-24 16:42:04",
+   "tm": "16:42",
+   "match": "FC Argeș Pitești x FC Petrolul Ploiești",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-24 16:41:16",
+   "tm": "16:41",
+   "match": "St. Patrick's Athletic x Dundalk FC",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
+   "data": "2026-07-24 16:32:11",
+   "tm": "16:32",
+   "match": "St. Patrick's Athletic x Dundalk FC",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.33
   },
   {
    "data": "2026-07-24 16:27:10",
@@ -585,6 +705,26 @@
    "odd": 2.4,
    "status": "green",
    "pl": 1.39
+  },
+  {
+   "data": "2026-07-24 15:54:05",
+   "tm": "15:54",
+   "match": "Pogoń Szczecin x Legia Warszawa",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-24 15:37:11",
+   "tm": "15:37",
+   "match": "FC Winterthur x Yverdon-Sport FC",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 18.5,
+   "status": "green",
+   "pl": 1.22
   },
   {
    "data": "2026-07-24 15:36:32",
@@ -789,28 +929,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 33,
-   "g": 23,
-   "r": 10,
-   "pl": 12.83,
-   "wr": 70,
+   "ent": 47,
+   "g": 34,
+   "r": 13,
+   "pl": 37.59,
+   "wr": 72,
    "label": "24/07"
   },
   "mes": {
-   "ent": 826,
-   "g": 546,
-   "r": 280,
-   "pl": 245.97,
+   "ent": 840,
+   "g": 557,
+   "r": 283,
+   "pl": 270.73,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-24": {
-   "pl": 12.83,
-   "ops": 33,
-   "g": 23,
-   "r": 10
+   "pl": 37.59,
+   "ops": 47,
+   "g": 34,
+   "r": 13
   },
   "2026-07-23": {
    "pl": 18.34,
