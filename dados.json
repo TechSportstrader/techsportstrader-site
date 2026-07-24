@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T19:00",
+ "gerado_em": "2026-07-24T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 329,
+   "g": 330,
    "r": 101,
-   "pl": 7.11,
+   "pl": 7.95,
    "roi": 2.0,
-   "wr": 76.5,
+   "wr": 76.6,
    "st": "ap"
   },
   {
@@ -456,6 +456,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-24 19:35:06",
+   "tm": "19:35",
+   "match": "Cerro Porteño x Sportivo Trinidense",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.84
+  },
   {
    "data": "2026-07-24 18:06:33",
    "tm": "18:06",
@@ -959,27 +969,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 50,
-   "g": 37,
+   "ent": 51,
+   "g": 38,
    "r": 13,
-   "pl": 42.5,
-   "wr": 74,
+   "pl": 43.34,
+   "wr": 75,
    "label": "24/07"
   },
   "mes": {
-   "ent": 843,
-   "g": 560,
+   "ent": 844,
+   "g": 561,
    "r": 283,
-   "pl": 275.64,
+   "pl": 276.48,
    "wr": 66,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-24": {
-   "pl": 42.5,
-   "ops": 50,
-   "g": 37,
+   "pl": 43.34,
+   "ops": 51,
+   "g": 38,
    "r": 13
   },
   "2026-07-23": {
