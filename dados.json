@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-23T22:00",
+ "gerado_em": "2026-07-23T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 78,
-   "r": 10,
-   "pl": 38.63,
-   "roi": -0.3,
-   "wr": 88.6,
-   "st": "val"
-  },
-  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -144,6 +133,17 @@
    "pl": 37.41,
    "roi": 6.7,
    "wr": 40.8,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 78,
+   "r": 11,
+   "pl": 28.63,
+   "roi": -0.3,
+   "wr": 87.6,
    "st": "val"
   },
   {
@@ -467,6 +467,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-23 22:36:36",
+   "tm": "22:36",
+   "match": "Cuiabá vs Atlético GO",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "red",
+   "pl": -10.0
+  },
   {
    "data": "2026-07-23 21:56:33",
    "tm": "21:56",
@@ -950,28 +960,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 48,
+   "ent": 49,
    "g": 30,
-   "r": 18,
-   "pl": 13.22,
-   "wr": 62,
+   "r": 19,
+   "pl": 3.22,
+   "wr": 61,
    "label": "23/07"
   },
   "mes": {
-   "ent": 845,
+   "ent": 846,
    "g": 554,
-   "r": 291,
-   "pl": 228.23,
-   "wr": 66,
+   "r": 292,
+   "pl": 218.23,
+   "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-23": {
-   "pl": 13.22,
-   "ops": 48,
+   "pl": 3.22,
+   "ops": 49,
    "g": 30,
-   "r": 18
+   "r": 19
   },
   "2026-07-22": {
    "pl": 20.58,
