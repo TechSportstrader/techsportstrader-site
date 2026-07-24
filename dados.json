@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T13:00",
+ "gerado_em": "2026-07-24T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -356,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 33,
-   "r": 24,
-   "pl": 4.51,
-   "roi": -0.0,
-   "wr": 57.9,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -422,14 +411,14 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
+   "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 38,
-   "r": 28,
-   "pl": 2.55,
-   "roi": -0.2,
-   "wr": 57.6,
+   "g": 33,
+   "r": 25,
+   "pl": 2.51,
+   "roi": -0.0,
+   "wr": 56.9,
    "st": "val"
   },
   {
@@ -453,9 +442,40 @@
    "roi": -5.0,
    "wr": 63.6,
    "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 38,
+   "r": 29,
+   "pl": 0.55,
+   "roi": -0.2,
+   "wr": 56.7,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-24 13:36:40",
+   "tm": "13:36",
+   "match": "Rosenborg vs Manchester United",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-24 13:36:40",
+   "tm": "13:36",
+   "match": "Jaro vs SJK",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-24 09:16:34",
    "tm": "09:16",
@@ -469,28 +489,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 3,
    "g": 0,
-   "r": 1,
-   "pl": -1.8,
+   "r": 3,
+   "pl": -5.8,
    "wr": 0,
    "label": "24/07"
   },
   "mes": {
-   "ent": 793,
+   "ent": 795,
    "g": 519,
-   "r": 274,
-   "pl": 228.51,
+   "r": 276,
+   "pl": 224.51,
    "wr": 65,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-24": {
-   "pl": -1.8,
-   "ops": 1,
+   "pl": -5.8,
+   "ops": 3,
    "g": 0,
-   "r": 1
+   "r": 3
   },
   "2026-07-23": {
    "pl": 15.45,
