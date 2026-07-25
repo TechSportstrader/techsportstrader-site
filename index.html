@@ -277,7 +277,7 @@
     <h2 class="sec">Como funciona</h2>
     <p class="lead">Você opera na sua própria conta. A gente entrega a configuração validada + a gestão de banca. Sem acesso ao nosso motor, sem suas credenciais com a gente.</p>
     <div class="steps">
-      <div class="step"><div class="n">1</div><h4>Escolhe o plano</h4><p>Compra única. Você leva 1 e-book à sua escolha (R$ 97) ou o Arsenal com todos os aprovados (R$ 397) + a gestão de banca.</p></div>
+      <div class="step"><div class="n">1</div><h4>Escolhe o plano</h4><p>Compra única. Você leva 1 e-book à sua escolha (R$ 97) ou o Arsenal com todos os aprovados (R$ 245) + a gestão de banca.</p></div>
       <div class="step"><div class="n">2</div><h4>Recebe o material</h4><p>PDF personalizado com a config campo a campo da plataforma (BotBet ou Bolsa) + acesso à comunidade.</p></div>
       <div class="step"><div class="n">3</div><h4>Configura na sua conta</h4><p>É copiar e colar cada campo. A responsabilidade/stake vem como % da sua banca.</p></div>
       <div class="step"><div class="n">4</div><h4>Opera com disciplina</h4><p>A estratégia roda 24h na nuvem. Você revê a stake toda semana conforme a banca. Disciplina > ansiedade.</p></div>
@@ -306,9 +306,9 @@
       <div class="plan">
         <div class="tag">MELHOR CUSTO</div>
         <h3>Arsenal — todos</h3>
-        <div class="price">R$ 397</div>
-        <div class="from">de R$ 485</div>
-        <ul><li><b>Todos os e-books aprovados</b> do catálogo</li><li>Economia frente à compra avulsa</li><li>Estratégias de BotBet e Bolsa — precisa de conta nas duas</li></ul>
+        <div class="price">R$ 245</div>
+        <div class="from">de R$ 291 no avulso</div>
+        <ul><li><b>Todos os e-books aprovados</b> do catálogo</li><li>Economia frente à compra avulsa</li><li>Estratégias de BotBet — requer conta no BotBet</li></ul>
         <button class="btn btn-s" onclick="buy('combo')">Levar todos</button>
       </div>
     </div>
@@ -377,7 +377,7 @@
 var TST_CONFIG = {
   preLaunch: false,                                  // catálogo no ar: botões abrem checkout
   waitlistUrl: 'https://discord.gg/WtbGC6rFqJ', // convite da conta da marca (Tech Sports Trade)
-  checkout: { unitario:'https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b', combo:'https://pay.kirvano.com/219aa5dc-2e0d-4365-8c08-5d55e69c0a21', dupla:'', esquadrao:'', arsenal:'' }, // combo = Arsenal (todos)
+  checkout: { unitario:'https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b', combo:'https://pay.kirvano.com/ce87a166-af12-4ac5-bae9-01961946c6a0', dupla:'', esquadrao:'', arsenal:'' }, // combo = Arsenal (3 aprovados: STRIKER+FORTRESS+APEX)
   checkoutBot: {                                      // link de checkout POR bot (cole conforme cadastrar na Kirvano)
     "STRIKER":"https://pay.kirvano.com/8e9bb07b-cd66-48ce-a992-90a3b3755b4b",
     "FORTRESS LAY":"https://pay.kirvano.com/9632acbb-0e75-401f-a602-275d09addb94", "APEX SHIELD":"https://pay.kirvano.com/be67f059-ad14-43ac-962a-eaf1c4e6b5f3", "CITADEL":"https://pay.kirvano.com/0db34cbf-0675-4ea3-b580-20a0781bdf21", "OVERLORD":"https://pay.kirvano.com/0fa7e2c3-b3f4-4b69-9815-fa2578a75d6e"
@@ -388,9 +388,7 @@ function buy(plan){ var u=TST_CONFIG.checkout&&TST_CONFIG.checkout[plan]; if(u){
 var FLAGSHIP=[
  {n:"STRIKER",s:"Back Over 1.5 FT",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
  {n:"FORTRESS LAY",s:"Lay Goleada Casa",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
- {n:"APEX SHIELD",s:"Lay Goleada Visitante",plat:"BotBet",req:"Requer BotBet Premium (à parte)"},
- {n:"CITADEL",s:"Lay Placar 0-3",plat:"Bolsa",req:"Rodar é grátis na Bolsa de Aposta"},
- {n:"OVERLORD",s:"Lay Over 0.5 FT",plat:"Bolsa",req:"Rodar é grátis na Bolsa de Aposta"}
+ {n:"APEX SHIELD",s:"Lay Goleada Visitante",plat:"BotBet",req:"Requer BotBet Premium (à parte)"}
 ];
 function abrirEscolha(){
   var m=TST_CONFIG.checkoutBot||{}, h='';
@@ -415,13 +413,15 @@ function go(t){
 }
 document.querySelectorAll('.tab').forEach(x=>x.addEventListener('click',()=>go(x.dataset.t)));
 
-/* dados reais (relatório BotBet, 28/06/2026) */
+/* Fallback só para o caso de o dados.json não carregar — o site troca este
+   array pelo dado AO VIVO assim que o dados.json chega (ver fetch mais abaixo).
+   Números atualizados em 21/07/2026 para o fallback não mostrar dado velho. */
 const BOTS=[
- {n:"STRIKER",s:"Back Over 1.5 FT · BotBet",g:286,r:82,pl:16.29,roi:2.2,wr:77.7},
- {n:"APEX SHIELD",s:"Lay Goleada Visitante · BotBet",g:441,r:5,pl:278.91,roi:0.8,wr:98.9},
- {n:"FORTRESS LAY",s:"Lay Goleada Casa · BotBet",g:310,r:17,pl:146.88,roi:1.5,wr:94.8},
- {n:"OVERLORD",s:"Lay Over 0.5 FT · Bolsa",g:45,r:73,pl:74.23,roi:31.5,wr:38.1},
- {n:"CITADEL",s:"Lay Placar 0-3 · Bolsa",g:234,r:0,pl:375.33,roi:1.3,wr:100.0}
+ {n:'STRIKER',s:'Back Over 1.5 FT · BotBet',g:330,r:102,pl:5.95,roi:2.0,wr:76.4},
+ {n:'APEX SHIELD',s:'Lay Goleada Visitante · BotBet',g:466,r:5,pl:311.49,roi:1.0,wr:98.9},
+ {n:'FORTRESS LAY',s:'Lay Goleada Casa · BotBet',g:324,r:21,pl:108.12,roi:1.0,wr:93.9},
+ {n:'OVERLORD',s:'Lay Over 0.5 FT · Bolsa',g:67,r:125,pl:69.7,roi:18.9,wr:34.9},
+ {n:'CITADEL',s:'Lay Placar 0-3 · Bolsa',g:253,r:0,pl:417.8,roi:38.0,wr:100.0}
 ];
 const MIN_ENTRADAS=300;
 function statusOf(b){
