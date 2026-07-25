@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T18:00",
+ "gerado_em": "2026-07-25T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 39,
-   "pl": -5.29,
+   "ent": 40,
+   "pl": -4.61,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 44,
-   "pl": 16.12,
+   "ent": 45,
+   "pl": 16.42,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 49,
-   "pl": 65.15,
+   "ent": 50,
+   "pl": 63.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 112,
-   "pl": 31.48,
+   "ent": 113,
+   "pl": 29.5,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 152,
-   "pl": -19.18,
+   "ent": 154,
+   "pl": -22.21,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 67,
-   "pl": 4.73,
+   "ent": 68,
+   "pl": 6.17,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 103,
-   "pl": 18.09,
+   "ent": 104,
+   "pl": 19.76,
    "roi": -0.3,
    "plat": "Bolsa"
   }
