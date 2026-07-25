@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T22:00",
+ "gerado_em": "2026-07-24T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 464,
+   "g": 465,
    "r": 5,
-   "pl": 309.47,
+   "pl": 310.48,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -173,10 +173,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 40,
-   "r": 63,
-   "pl": 27.63,
+   "r": 64,
+   "pl": 25.9,
    "roi": 6.7,
-   "wr": 38.8,
+   "wr": 38.5,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 37,
+   "r": 41,
+   "pl": 5.65,
+   "roi": 1.4,
+   "wr": 47.4,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -364,17 +375,6 @@
    "pl": 5.3,
    "roi": 16.0,
    "wr": 90.0,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 36,
-   "r": 41,
-   "pl": 4.85,
-   "roi": 1.4,
-   "wr": 46.8,
    "st": "val"
   },
   {
@@ -468,6 +468,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-24 22:56:36",
+   "tm": "22:56",
+   "match": "Mineros de Zacatecas vs Correcaminos UAT",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.8
+  },
+  {
+   "data": "2026-07-24 22:36:33",
+   "tm": "22:36",
+   "match": "Antigua GFC vs Marquense",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.73
+  },
+  {
    "data": "2026-07-24 21:06:36",
    "tm": "21:06",
    "match": "Vélez Sarsfield vs Instituto",
@@ -496,6 +516,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.85
+  },
+  {
+   "data": "2026-07-24 20:11:06",
+   "tm": "20:11",
+   "match": "Club Aurora x Academia de Balompié Boliviano",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.01
   },
   {
    "data": "2026-07-24 19:51:08",
@@ -1036,62 +1066,32 @@
    "odd": 16.0,
    "status": "green",
    "pl": 1.47
-  },
-  {
-   "data": "2026-07-24 13:11:11",
-   "tm": "13:11",
-   "match": "Tampere United x Inter Turku/2",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 80.0,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-07-24 13:10:06",
-   "tm": "13:10",
-   "match": "UTA Arad x SC Oțelul Galați",
-   "bot": "CAÇADOR 2-1",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-24 13:06:24",
-   "tm": "13:06",
-   "match": "Vejle x AB",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.25
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 62,
-   "g": 47,
-   "r": 15,
-   "pl": 49.88,
-   "wr": 76,
+   "ent": 65,
+   "g": 49,
+   "r": 16,
+   "pl": 49.96,
+   "wr": 75,
    "label": "24/07"
   },
   "mes": {
-   "ent": 916,
-   "g": 611,
-   "r": 305,
-   "pl": 280.05,
+   "ent": 919,
+   "g": 613,
+   "r": 306,
+   "pl": 280.13,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-24": {
-   "pl": 49.88,
-   "ops": 62,
-   "g": 47,
-   "r": 15
+   "pl": 49.96,
+   "ops": 65,
+   "g": 49,
+   "r": 16
   },
   "2026-07-23": {
    "pl": 15.22,
