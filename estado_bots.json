@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T11:00",
+ "gerado_em": "2026-07-25T12:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 95,
-   "pl": -5.55,
+   "ent": 96,
+   "pl": -3.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -115,8 +115,8 @@
   },
   "QUEBRA-ZERO 80": {
    "st": "rep",
-   "ent": 11,
-   "pl": -11.47,
+   "ent": 12,
+   "pl": -6.34,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -255,15 +255,15 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 254,
-   "pl": 419.65,
+   "ent": 255,
+   "pl": 421.5,
    "roi": 38.0,
    "plat": "Bolsa"
   },
   "RAMPART": {
    "st": "val",
-   "ent": 29,
-   "pl": 72.81,
+   "ent": 30,
+   "pl": 76.73,
    "roi": 6.4,
    "plat": "Bolsa"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 105,
-   "pl": 23.9,
+   "ent": 106,
+   "pl": 29.78,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 120,
-   "pl": 10.15,
+   "ent": 121,
+   "pl": 11.35,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 145,
-   "pl": -14.44,
+   "ent": 146,
+   "pl": -19.44,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 98,
-   "pl": 32.2,
+   "ent": 99,
+   "pl": 33.87,
    "roi": -0.3,
    "plat": "Bolsa"
   }
