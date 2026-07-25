@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T01:00",
+ "gerado_em": "2026-07-25T02:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 431,
-   "pl": 7.95,
+   "ent": 432,
+   "pl": 5.95,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 90,
-   "pl": 82.01,
+   "ent": 91,
+   "pl": 61.99,
    "roi": 4.0,
    "plat": "BotBet"
   },
