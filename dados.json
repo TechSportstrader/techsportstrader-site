@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T18:00",
+ "gerado_em": "2026-07-25T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -85,10 +85,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 10,
-   "r": 39,
-   "pl": 65.15,
+   "r": 40,
+   "pl": 63.15,
    "roi": 3.7,
-   "wr": 20.4,
+   "wr": 20.0,
    "st": "val"
   },
   {
@@ -140,10 +140,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 43,
-   "r": 69,
-   "pl": 31.48,
+   "r": 70,
+   "pl": 29.5,
    "roi": 6.7,
-   "wr": 38.4,
+   "wr": 38.1,
    "st": "val"
   },
   {
@@ -213,6 +213,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 90,
+   "r": 14,
+   "pl": 19.76,
+   "roi": -0.3,
+   "wr": 86.5,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -224,25 +235,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 89,
-   "r": 14,
-   "pl": 18.09,
-   "roi": -0.3,
-   "wr": 86.4,
-   "st": "val"
-  },
-  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 43,
+   "g": 44,
    "r": 1,
-   "pl": 16.12,
+   "pl": 16.42,
    "roi": 3.0,
-   "wr": 97.7,
+   "wr": 97.8,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 28,
+   "pl": 6.17,
+   "roi": -0.0,
+   "wr": 58.8,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -364,17 +375,6 @@
    "pl": 6.02,
    "roi": 0.3,
    "wr": 95.5,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 28,
-   "pl": 4.73,
-   "roi": -0.0,
-   "wr": 58.2,
    "st": "val"
   },
   {
@@ -445,6 +445,56 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-25 18:56:33",
+   "tm": "18:56",
+   "match": "ADC Juan Pablo II vs Cienciano",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-07-25 18:16:36",
+   "tm": "18:16",
+   "match": "ADC Juan Pablo II vs Cienciano",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.44
+  },
+  {
+   "data": "2026-07-25 18:06:41",
+   "tm": "18:06",
+   "match": "Atlético Rafaela vs Nueva Chicago",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-25 18:06:30",
+   "tm": "18:06",
+   "match": "Curicó Unido vs San Luis",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-25 18:03:05",
+   "tm": "18:03",
+   "match": "CD Juan Pablo II x Cienciano",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.3
+  },
   {
    "data": "2026-07-25 17:36:39",
    "tm": "17:36",
@@ -994,82 +1044,32 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.34
-  },
-  {
-   "data": "2026-07-25 10:47:27",
-   "tm": "10:47",
-   "match": "Esbjerg FB x Kolding IF",
-   "bot": "MURALHA CASA-22",
-   "mkt": "Lay Goleada Casa",
-   "odd": 23.0,
-   "status": "green",
-   "pl": 1.29
-  },
-  {
-   "data": "2026-07-25 10:36:43",
-   "tm": "10:36",
-   "match": "Liaoning Tieren FC vs Qingdao West Coast",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "red",
-   "pl": -10.0
-  },
-  {
-   "data": "2026-07-25 10:36:42",
-   "tm": "10:36",
-   "match": "Shanghai Port vs Shanghai Shenhua",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.9,
-   "status": "red",
-   "pl": -2.08
-  },
-  {
-   "data": "2026-07-25 09:46:36",
-   "tm": "09:46",
-   "match": "Pohang Steelers vs Jeonbuk Motors",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-25 09:36:45",
-   "tm": "09:36",
-   "match": "Liaoning Tieren FC vs Qingdao West Coast",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.42
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 67,
-   "g": 48,
-   "r": 19,
-   "pl": 25.13,
-   "wr": 72,
+   "ent": 72,
+   "g": 51,
+   "r": 21,
+   "pl": 24.56,
+   "wr": 71,
    "label": "25/07"
   },
   "mes": {
-   "ent": 893,
-   "g": 603,
-   "r": 290,
-   "pl": 285.74,
-   "wr": 68,
+   "ent": 898,
+   "g": 606,
+   "r": 292,
+   "pl": 285.17,
+   "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-25": {
-   "pl": 25.13,
-   "ops": 67,
-   "g": 48,
-   "r": 19
+   "pl": 24.56,
+   "ops": 72,
+   "g": 51,
+   "r": 21
   },
   "2026-07-24": {
    "pl": 31.21,
