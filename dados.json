@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T19:00",
+ "gerado_em": "2026-07-25T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 334,
+   "g": 336,
    "r": 103,
-   "pl": 5.91,
+   "pl": 7.4,
    "roi": 2.0,
-   "wr": 76.4,
+   "wr": 76.5,
    "st": "ap"
   },
   {
@@ -246,17 +246,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 87,
-   "r": 40,
-   "pl": 14.73,
-   "roi": 1.5,
-   "wr": 68.5,
-   "st": "val"
-  },
-  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -276,6 +265,17 @@
    "pl": 13.66,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 87,
+   "r": 41,
+   "pl": 12.37,
+   "roi": 1.5,
+   "wr": 68.0,
    "st": "val"
   },
   {
@@ -445,6 +445,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-25 19:56:37",
+   "tm": "19:56",
+   "match": "Santos vs Chapecoense",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -2.36
+  },
+  {
+   "data": "2026-07-25 19:44:06",
+   "tm": "19:44",
+   "match": "Sportivo Ameliano x Nacional Asunción",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
+   "data": "2026-07-25 19:37:15",
+   "tm": "19:37",
+   "match": "Santos x Chapecoense",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.44
+  },
   {
    "data": "2026-07-25 18:56:33",
    "tm": "18:56",
@@ -1014,62 +1044,32 @@
    "odd": 22.0,
    "status": "green",
    "pl": 1.21
-  },
-  {
-   "data": "2026-07-25 11:46:35",
-   "tm": "11:46",
-   "match": "Jagiellonia Białystok vs Korona Kielce",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-07-25 11:05:38",
-   "tm": "11:05",
-   "match": "Degerfors IF x Djurgårdens IF",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-25 10:56:39",
-   "tm": "10:56",
-   "match": "Värnamo vs Brage",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.34
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 72,
-   "g": 51,
-   "r": 21,
-   "pl": 24.56,
+   "ent": 75,
+   "g": 53,
+   "r": 22,
+   "pl": 23.69,
    "wr": 71,
    "label": "25/07"
   },
   "mes": {
-   "ent": 898,
-   "g": 606,
-   "r": 292,
-   "pl": 285.17,
+   "ent": 901,
+   "g": 608,
+   "r": 293,
+   "pl": 284.3,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-25": {
-   "pl": 24.56,
-   "ops": 72,
-   "g": 51,
-   "r": 21
+   "pl": 23.69,
+   "ops": 75,
+   "g": 53,
+   "r": 22
   },
   "2026-07-24": {
    "pl": 31.21,
