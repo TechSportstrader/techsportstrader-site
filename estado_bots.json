@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T02:00",
+ "gerado_em": "2026-07-25T03:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "val",
-   "ent": 20,
-   "pl": 3.4,
+   "ent": 21,
+   "pl": 4.92,
    "roi": 0.3,
    "plat": "Bolsa"
   },
