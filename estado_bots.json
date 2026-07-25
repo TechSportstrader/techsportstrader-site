@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T10:00",
+ "gerado_em": "2026-07-25T10:31",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 143,
-   "pl": -16.39,
+   "ent": 144,
+   "pl": -15.44,
    "roi": 0.3,
    "plat": "Bolsa"
   },
