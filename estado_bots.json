@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T23:00",
+ "gerado_em": "2026-07-25T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 470,
-   "pl": 310.48,
+   "ent": 471,
+   "pl": 311.49,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 130,
-   "pl": 0.25,
+   "ent": 132,
+   "pl": 3.35,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,29 +276,29 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 104,
-   "pl": 25.9,
+   "ent": 105,
+   "pl": 23.9,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 118,
-   "pl": 11.04,
+   "ent": 119,
+   "pl": 12.23,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 78,
-   "pl": 5.65,
+   "ent": 79,
+   "pl": 8.03,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 38,
-   "pl": 20.26,
+   "ent": 39,
+   "pl": 21.51,
    "roi": 1.3,
    "plat": "Bolsa"
   },
