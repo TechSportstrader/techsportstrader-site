@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T17:00",
+ "gerado_em": "2026-07-25T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 467,
+   "g": 468,
    "r": 5,
-   "pl": 312.74,
+   "pl": 314.1,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 333,
+   "g": 334,
    "r": 103,
-   "pl": 5.47,
+   "pl": 5.91,
    "roi": 2.0,
    "wr": 76.4,
    "st": "ap"
@@ -128,11 +128,22 @@
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 23,
+   "g": 24,
    "r": 0,
-   "pl": 30.84,
+   "pl": 31.89,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 43,
+   "r": 69,
+   "pl": 31.48,
+   "roi": 6.7,
+   "wr": 38.4,
    "st": "val"
   },
   {
@@ -158,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 41,
+   "r": 2,
+   "pl": 27.23,
+   "roi": 1.3,
+   "wr": 95.3,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -166,28 +188,6 @@
    "pl": 25.59,
    "roi": 33.0,
    "wr": 82.5,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 41,
-   "r": 68,
-   "pl": 24.5,
-   "roi": 6.7,
-   "wr": 37.6,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 2,
-   "pl": 24.31,
-   "roi": 1.3,
-   "wr": 95.1,
    "st": "val"
   },
   {
@@ -216,22 +216,22 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 12,
+   "g": 13,
    "r": 0,
-   "pl": 17.39,
+   "pl": 19.06,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 86,
-   "r": 39,
-   "pl": 16.45,
-   "roi": 1.5,
-   "wr": 68.8,
+   "g": 89,
+   "r": 14,
+   "pl": 18.09,
+   "roi": -0.3,
+   "wr": 86.4,
    "st": "val"
   },
   {
@@ -246,14 +246,14 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 88,
-   "r": 14,
-   "pl": 15.87,
-   "roi": -0.3,
-   "wr": 86.3,
+   "g": 87,
+   "r": 40,
+   "pl": 14.73,
+   "roi": 1.5,
+   "wr": 68.5,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
-   "g": 14,
+   "g": 15,
    "r": 2,
-   "pl": 9.54,
+   "pl": 10.86,
    "roi": 27.0,
-   "wr": 87.5,
+   "wr": 88.2,
    "st": "val"
   },
   {
@@ -422,6 +422,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 2-2",
+   "s": "Lay Placar 2x2 · Bolsa",
+   "plat": "Bolsa",
+   "g": 19,
+   "r": 5,
+   "pl": 1.13,
+   "roi": 1.1,
+   "wr": 79.2,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -435,6 +446,106 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-25 17:36:39",
+   "tm": "17:36",
+   "match": "Sporting CP vs Monaco",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 1.26
+  },
+  {
+   "data": "2026-07-25 17:26:36",
+   "tm": "17:26",
+   "match": "San Pedro vs Xelajú",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-25 17:26:35",
+   "tm": "17:26",
+   "match": "Luzern vs Thun",
+   "bot": "BLINDADO 2-2",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.8,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-07-25 17:22:05",
+   "tm": "17:22",
+   "match": "Club Always Ready x CD San Antonio",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.44
+  },
+  {
+   "data": "2026-07-25 17:16:39",
+   "tm": "17:16",
+   "match": "Lech Poznań vs Cracovia Kraków",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.41
+  },
+  {
+   "data": "2026-07-25 17:16:38",
+   "tm": "17:16",
+   "match": "Lokomotiv Sofia 1929 vs Levski Sofia",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.5,
+   "status": "green",
+   "pl": 2.22
+  },
+  {
+   "data": "2026-07-25 17:16:33",
+   "tm": "17:16",
+   "match": "Maribor vs Grosuplje",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-07-25 17:06:41",
+   "tm": "17:06",
+   "match": "OFK Beograd vs Radnik Surdulica",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.57
+  },
+  {
+   "data": "2026-07-25 17:06:41",
+   "tm": "17:06",
+   "match": "Longford Town vs Wexford Youths",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.8,
+   "status": "red",
+   "pl": -2.98
+  },
+  {
+   "data": "2026-07-25 17:06:33",
+   "tm": "17:06",
+   "match": "Haugesund vs Bryne",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-25 16:56:34",
    "tm": "16:56",
    "match": "Standard Liège vs Juventus",
@@ -443,6 +554,16 @@
    "odd": 6.8,
    "status": "red",
    "pl": -9.67
+  },
+  {
+   "data": "2026-07-25 16:44:06",
+   "tm": "16:44",
+   "match": "FC Luzern x FC Thun",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.8,
+   "status": "green",
+   "pl": 1.32
   },
   {
    "data": "2026-07-25 16:26:34",
@@ -493,6 +614,36 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.25
+  },
+  {
+   "data": "2026-07-25 15:43:12",
+   "tm": "15:43",
+   "match": "FK Železiarne Podbrezová x MFK Zemplín Michalovce",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-07-25 15:31:07",
+   "tm": "15:31",
+   "match": "Standard Liège x Juventus",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 22.0,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
+   "data": "2026-07-25 15:23:21",
+   "tm": "15:23",
+   "match": "FC Zbrojovka Brno x AC Sparta Praha",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-25 15:06:39",
@@ -893,108 +1044,38 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.42
-  },
-  {
-   "data": "2026-07-25 09:36:38",
-   "tm": "09:36",
-   "match": "Daegu vs Suwon",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-25 08:36:30",
-   "tm": "08:36",
-   "match": "Qingdao Hainiu vs Tianjin Jinmen Tiger",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 21.0,
-   "status": "green",
-   "pl": 1.1
-  },
-  {
-   "data": "2026-07-25 08:16:36",
-   "tm": "08:16",
-   "match": "Busan I'Park vs Suwon Bluewings",
-   "bot": "VIGIA HT-C",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-25 07:39:15",
-   "tm": "07:39",
-   "match": "Qingdao Hainiu x Tianjin Jinmen Tiger",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 48.0,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-07-25 02:16:33",
-   "tm": "02:16",
-   "match": "Tijuana vs León",
-   "bot": "SISTEMA L-20 (Bolsa)",
-   "mkt": "Lay (misto)",
-   "odd": 15.5,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-07-25 00:46:28",
-   "tm": "00:46",
-   "match": "FAS vs Municipal Limeño",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-25 00:34:15",
-   "tm": "00:34",
-   "match": "Vancouver FC x Cavalry FC",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 53,
-   "g": 36,
-   "r": 17,
-   "pl": 7.57,
-   "wr": 68,
+   "ent": 67,
+   "g": 48,
+   "r": 19,
+   "pl": 25.13,
+   "wr": 72,
    "label": "25/07"
   },
   "mes": {
-   "ent": 863,
-   "g": 580,
-   "r": 283,
-   "pl": 278.05,
-   "wr": 67,
+   "ent": 893,
+   "g": 603,
+   "r": 290,
+   "pl": 285.74,
+   "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-25": {
-   "pl": 7.57,
-   "ops": 53,
-   "g": 36,
-   "r": 17
+   "pl": 25.13,
+   "ops": 67,
+   "g": 48,
+   "r": 19
   },
   "2026-07-24": {
-   "pl": 34.89,
-   "ops": 61,
-   "g": 47,
-   "r": 14
+   "pl": 31.21,
+   "ops": 63,
+   "g": 48,
+   "r": 15
   },
   "2026-07-23": {
    "pl": 16.26,
@@ -1003,9 +1084,9 @@
    "r": 18
   },
   "2026-07-22": {
-   "pl": 16.65,
-   "ops": 26,
-   "g": 19,
+   "pl": 18.21,
+   "ops": 27,
+   "g": 20,
    "r": 7
   },
   "2026-07-21": {
@@ -1021,10 +1102,10 @@
    "r": 7
   },
   "2026-07-19": {
-   "pl": 8.42,
-   "ops": 36,
-   "g": 19,
-   "r": 17
+   "pl": 4.73,
+   "ops": 38,
+   "g": 20,
+   "r": 18
   },
   "2026-07-18": {
    "pl": 19.23,
@@ -1033,10 +1114,10 @@
    "r": 22
   },
   "2026-07-17": {
-   "pl": 22.86,
-   "ops": 41,
-   "g": 30,
-   "r": 11
+   "pl": 19.28,
+   "ops": 43,
+   "g": 31,
+   "r": 12
   },
   "2026-07-16": {
    "pl": 22.49,
@@ -1045,9 +1126,9 @@
    "r": 11
   },
   "2026-07-15": {
-   "pl": -11.61,
-   "ops": 18,
-   "g": 10,
+   "pl": -9.99,
+   "ops": 19,
+   "g": 11,
    "r": 8
   },
   "2026-07-14": {
@@ -1063,16 +1144,16 @@
    "r": 4
   },
   "2026-07-12": {
-   "pl": 60.82,
-   "ops": 50,
-   "g": 35,
+   "pl": 64.74,
+   "ops": 53,
+   "g": 38,
    "r": 15
   },
   "2026-07-11": {
-   "pl": 7.46,
-   "ops": 47,
+   "pl": 2.46,
+   "ops": 48,
    "g": 32,
-   "r": 15
+   "r": 16
   },
   "2026-07-10": {
    "pl": 11.94,
@@ -1087,10 +1168,10 @@
    "r": 14
   },
   "2026-07-08": {
-   "pl": 24.91,
-   "ops": 13,
+   "pl": 19.99,
+   "ops": 14,
    "g": 12,
-   "r": 1
+   "r": 2
   },
   "2026-07-07": {
    "pl": 13.77,
@@ -1105,15 +1186,15 @@
    "r": 4
   },
   "2026-07-05": {
-   "pl": 19.97,
-   "ops": 46,
-   "g": 30,
+   "pl": 21.18,
+   "ops": 47,
+   "g": 31,
    "r": 16
   },
   "2026-07-04": {
-   "pl": -61.26,
-   "ops": 49,
-   "g": 22,
+   "pl": -59.83,
+   "ops": 50,
+   "g": 23,
    "r": 27
   },
   "2026-07-03": {
@@ -1129,9 +1210,9 @@
    "r": 7
   },
   "2026-07-01": {
-   "pl": 10.2,
-   "ops": 19,
-   "g": 15,
+   "pl": 11.44,
+   "ops": 20,
+   "g": 16,
    "r": 4
   },
   "2026-06-30": {
@@ -1147,9 +1228,9 @@
    "r": 4
   },
   "2026-06-28": {
-   "pl": 22.03,
-   "ops": 44,
-   "g": 27,
+   "pl": 23.54,
+   "ops": 45,
+   "g": 28,
    "r": 17
   },
   "2026-06-27": {
@@ -1195,9 +1276,9 @@
    "r": 8
   },
   "2026-06-20": {
-   "pl": -5.02,
-   "ops": 33,
-   "g": 19,
+   "pl": 0.47,
+   "ops": 37,
+   "g": 23,
    "r": 14
   },
   "2026-06-19": {
@@ -1207,15 +1288,15 @@
    "r": 3
   },
   "2026-06-18": {
-   "pl": 5.35,
-   "ops": 7,
-   "g": 6,
+   "pl": 6.57,
+   "ops": 8,
+   "g": 7,
    "r": 1
   },
   "2026-06-17": {
-   "pl": 5.15,
-   "ops": 6,
-   "g": 5,
+   "pl": 6.58,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-06-16": {
