@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T15:00",
+ "gerado_em": "2026-07-25T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 135,
-   "pl": 0.49,
+   "st": "rep",
+   "ent": 136,
+   "pl": -1.51,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 11,
-   "pl": 12.57,
+   "ent": 12,
+   "pl": 13.66,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 124,
-   "pl": 15.19,
+   "ent": 125,
+   "pl": 16.45,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 149,
-   "pl": -22.19,
+   "ent": 151,
+   "pl": -20.13,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 65,
-   "pl": 5.49,
+   "ent": 66,
+   "pl": 6.73,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 100,
-   "pl": 35.54,
+   "ent": 101,
+   "pl": 25.54,
    "roi": -0.3,
    "plat": "Bolsa"
   }
