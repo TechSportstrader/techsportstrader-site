@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T00:00",
+ "gerado_em": "2026-07-25T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -107,10 +107,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 9,
-   "r": 36,
-   "pl": 57.15,
+   "r": 37,
+   "pl": 55.15,
    "roi": 3.7,
-   "wr": 20.0,
+   "wr": 19.6,
    "st": "val"
   },
   {
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 17,
+   "r": 1,
+   "pl": 8.83,
+   "roi": 9.0,
+   "wr": 94.4,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -342,17 +353,6 @@
    "pl": 7.34,
    "roi": -0.2,
    "wr": 69.4,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 16,
-   "r": 1,
-   "pl": 7.33,
-   "roi": 9.0,
-   "wr": 94.1,
    "st": "val"
   },
   {
@@ -466,30 +466,47 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-25 00:46:28",
+   "tm": "00:46",
+   "match": "FAS vs Municipal Limeño",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "25/07"
   },
   "mes": {
-   "ent": 926,
-   "g": 619,
-   "r": 307,
-   "pl": 287.06,
+   "ent": 928,
+   "g": 620,
+   "r": 308,
+   "pl": 286.56,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-25": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-07-24": {
-   "pl": 56.89,
-   "ops": 72,
-   "g": 55,
+   "pl": 58.39,
+   "ops": 73,
+   "g": 56,
    "r": 17
   },
   "2026-07-23": {
