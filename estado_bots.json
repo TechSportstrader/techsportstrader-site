@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T09:13",
+ "gerado_em": "2026-07-25T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 253,
-   "pl": 417.8,
+   "ent": 254,
+   "pl": 419.65,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 61,
-   "pl": 3.45,
+   "ent": 62,
+   "pl": 4.87,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 96,
-   "pl": 40.35,
+   "ent": 97,
+   "pl": 42.2,
    "roi": -0.3,
    "plat": "Bolsa"
   }
