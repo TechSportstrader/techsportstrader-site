@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T01:00",
+ "gerado_em": "2026-07-25T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 330,
-   "r": 101,
-   "pl": 7.95,
+   "r": 102,
+   "pl": 5.95,
    "roi": 2.0,
-   "wr": 76.6,
+   "wr": 76.4,
    "st": "ap"
   },
   {
@@ -59,17 +59,6 @@
    "st": "val"
   },
   {
-   "n": "VANGUARD",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 82,
-   "r": 8,
-   "pl": 82.01,
-   "roi": 4.0,
-   "wr": 91.1,
-   "st": "val"
-  },
-  {
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -89,6 +78,17 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
+   "st": "val"
+  },
+  {
+   "n": "VANGUARD",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 82,
+   "r": 9,
+   "pl": 61.99,
+   "roi": 4.0,
+   "wr": 90.1,
    "st": "val"
   },
   {
@@ -476,38 +476,48 @@
    "odd": 7.2,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-25 00:34:15",
+   "tm": "00:34",
+   "match": "Vancouver FC x Cavalry FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 0,
-   "r": 1,
-   "pl": -2.0,
+   "r": 2,
+   "pl": -4.0,
    "wr": 0,
    "label": "25/07"
   },
   "mes": {
-   "ent": 928,
+   "ent": 930,
    "g": 620,
-   "r": 308,
-   "pl": 286.56,
+   "r": 310,
+   "pl": 264.54,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-25": {
-   "pl": -2.0,
-   "ops": 1,
+   "pl": -4.0,
+   "ops": 2,
    "g": 0,
-   "r": 1
+   "r": 2
   },
   "2026-07-24": {
-   "pl": 58.39,
-   "ops": 73,
+   "pl": 38.37,
+   "ops": 74,
    "g": 56,
-   "r": 17
+   "r": 18
   },
   "2026-07-23": {
    "pl": 15.22,
