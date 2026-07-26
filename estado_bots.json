@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T22:00",
+ "gerado_em": "2026-07-25T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 41,
-   "pl": -4.3,
+   "ent": 42,
+   "pl": -5.36,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,22 +45,22 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 439,
-   "pl": 7.4,
+   "ent": 440,
+   "pl": 8.14,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 143,
-   "pl": -4.88,
+   "ent": 144,
+   "pl": -4.24,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "MURALHA 1.5": {
    "st": "val",
-   "ent": 22,
-   "pl": 1.03,
+   "ent": 23,
+   "pl": 1.81,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 345,
-   "pl": 108.12,
+   "ent": 347,
+   "pl": 79.54,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -101,22 +101,22 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 24,
-   "pl": 31.89,
+   "ent": 25,
+   "pl": 32.94,
    "roi": 6.0,
    "plat": "BotBet"
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 6,
-   "pl": 7.9,
+   "ent": 7,
+   "pl": 5.9,
    "roi": -100.0,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO 80": {
    "st": "rep",
-   "ent": 14,
-   "pl": -9.77,
+   "ent": 15,
+   "pl": -7.47,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 18,
-   "pl": 8.83,
+   "ent": 19,
+   "pl": 9.94,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 18,
-   "pl": -28.93,
+   "ent": 19,
+   "pl": -26.43,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -185,15 +185,15 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 26,
-   "pl": 21.88,
+   "ent": 27,
+   "pl": 23.76,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 13,
-   "pl": 19.06,
+   "ent": 14,
+   "pl": 20.73,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -276,22 +276,22 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 113,
-   "pl": 29.5,
+   "ent": 114,
+   "pl": 27.5,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 128,
-   "pl": 12.37,
+   "ent": 131,
+   "pl": 16.12,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 80,
-   "pl": 6.03,
+   "ent": 81,
+   "pl": 6.67,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 155,
-   "pl": -21.31,
+   "ent": 156,
+   "pl": -20.31,
    "roi": 0.3,
    "plat": "Bolsa"
   },
