@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T12:00",
+ "gerado_em": "2026-07-26T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,9 +128,9 @@
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 27,
+   "g": 28,
    "r": 0,
-   "pl": 35.37,
+   "pl": 36.42,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -169,17 +169,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 43,
-   "r": 71,
-   "pl": 27.5,
-   "roi": 6.7,
-   "wr": 37.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -188,6 +177,17 @@
    "pl": 25.59,
    "roi": 33.0,
    "wr": 82.5,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 43,
+   "r": 72,
+   "pl": 25.5,
+   "roi": 6.7,
+   "wr": 37.4,
    "st": "val"
   },
   {
@@ -227,11 +227,11 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 45,
+   "g": 46,
    "r": 1,
-   "pl": 16.82,
+   "pl": 17.02,
    "roi": 3.0,
-   "wr": 97.8,
+   "wr": 97.9,
    "st": "val"
   },
   {
@@ -334,17 +334,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 43,
-   "r": 44,
-   "pl": 7.46,
-   "roi": 1.4,
-   "wr": 49.4,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -353,6 +342,17 @@
    "pl": 7.38,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 43,
+   "r": 45,
+   "pl": 6.48,
+   "roi": 1.4,
+   "wr": 48.9,
    "st": "val"
   },
   {
@@ -370,11 +370,11 @@
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 42,
-   "r": 30,
-   "pl": 5.23,
+   "g": 43,
+   "r": 31,
+   "pl": 5.05,
    "roi": -0.0,
-   "wr": 58.3,
+   "wr": 58.1,
    "st": "val"
   },
   {
@@ -457,6 +457,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-26 12:56:39",
+   "tm": "12:56",
+   "match": "St. Mirren vs Dunfermline Athletic",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 12:56:38",
+   "tm": "12:56",
+   "match": "HJK vs TPS",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -0.98
+  },
+  {
+   "data": "2026-07-26 12:48:12",
+   "tm": "12:48",
+   "match": "Rangers x West Ham United",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.2
+  },
+  {
+   "data": "2026-07-26 12:36:35",
+   "tm": "12:36",
+   "match": "Sarpsborg 08 vs HamKam",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 12:26:34",
+   "tm": "12:26",
+   "match": "FS Třebíč vs Sokol Tasovice",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.82
+  },
+  {
    "data": "2026-07-26 11:36:38",
    "tm": "11:36",
    "match": "KuPS Ak. vs VJS",
@@ -465,6 +515,16 @@
    "odd": 1.6,
    "status": "green",
    "pl": 1.39
+  },
+  {
+   "data": "2026-07-26 11:06:06",
+   "tm": "11:06",
+   "match": "Vasas x ETO FC Győr",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 22.0,
+   "status": "green",
+   "pl": 1.05
   },
   {
    "data": "2026-07-26 10:51:16",
@@ -729,28 +789,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 27,
-   "g": 20,
-   "r": 7,
-   "pl": 4.14,
-   "wr": 74,
+   "ent": 33,
+   "g": 23,
+   "r": 10,
+   "pl": 2.23,
+   "wr": 70,
    "label": "26/07"
   },
   "mes": {
-   "ent": 978,
-   "g": 670,
-   "r": 308,
-   "pl": 281.39,
-   "wr": 69,
+   "ent": 984,
+   "g": 673,
+   "r": 311,
+   "pl": 279.48,
+   "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": 4.14,
-   "ops": 27,
-   "g": 20,
-   "r": 7
+   "pl": 2.23,
+   "ops": 33,
+   "g": 23,
+   "r": 10
   },
   "2026-07-25": {
    "pl": 16.08,
