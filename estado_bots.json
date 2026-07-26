@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T14:00",
+ "gerado_em": "2026-07-26T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 348,
-   "pl": 81.54,
+   "ent": 349,
+   "pl": 83.87,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -178,22 +178,22 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 20,
-   "pl": 14.92,
+   "ent": 21,
+   "pl": 16.31,
    "roi": 27.0,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 30,
-   "pl": 14.67,
+   "ent": 31,
+   "pl": 15.93,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 14,
-   "pl": 20.73,
+   "ent": 15,
+   "pl": 22.45,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 52,
-   "pl": 59.15,
+   "ent": 54,
+   "pl": 75.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 46,
-   "pl": 32.15,
+   "ent": 48,
+   "pl": 34.6,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 162,
-   "pl": -20.41,
+   "ent": 163,
+   "pl": -25.41,
    "roi": 0.3,
    "plat": "Bolsa"
   },
