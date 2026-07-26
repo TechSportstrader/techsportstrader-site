@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T12:00",
+ "gerado_em": "2026-07-26T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 100,
-   "pl": -2.01,
+   "ent": 101,
+   "pl": -1.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 45,
-   "pl": -5.76,
+   "ent": 47,
+   "pl": -5.02,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 27,
-   "pl": 35.37,
+   "ent": 28,
+   "pl": 36.42,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 46,
-   "pl": 16.82,
+   "ent": 47,
+   "pl": 17.02,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 114,
-   "pl": 27.5,
+   "ent": 115,
+   "pl": 25.5,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 87,
-   "pl": 7.46,
+   "ent": 88,
+   "pl": 6.48,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 160,
-   "pl": -22.86,
+   "ent": 162,
+   "pl": -20.41,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 72,
-   "pl": 5.23,
+   "ent": 74,
+   "pl": 5.05,
    "roi": -0.0,
    "plat": "Bolsa"
   },
