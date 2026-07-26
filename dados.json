@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T14:00",
+ "gerado_em": "2026-07-26T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 326,
+   "g": 327,
    "r": 22,
-   "pl": 81.54,
+   "pl": 83.87,
    "roi": 1.0,
    "wr": 93.7,
    "st": "ap"
@@ -70,6 +70,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 11,
+   "r": 43,
+   "pl": 75.15,
+   "roi": 3.7,
+   "wr": 20.4,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -103,17 +114,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 10,
-   "r": 42,
-   "pl": 59.15,
-   "roi": 3.7,
-   "wr": 19.2,
-   "st": "val"
-  },
-  {
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -139,11 +139,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 44,
+   "g": 46,
    "r": 2,
-   "pl": 32.15,
+   "pl": 34.6,
    "roi": 1.3,
-   "wr": 95.7,
+   "wr": 95.8,
    "st": "val"
   },
   {
@@ -191,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "SKIRMISH",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 15,
+   "r": 0,
+   "pl": 22.45,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -198,17 +209,6 @@
    "r": 0,
    "pl": 22.13,
    "roi": 4.2,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SKIRMISH",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 14,
-   "r": 0,
-   "pl": 20.73,
-   "roi": 6.0,
    "wr": 100.0,
    "st": "val"
   },
@@ -235,6 +235,28 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 19,
+   "r": 2,
+   "pl": 16.31,
+   "roi": 27.0,
+   "wr": 90.5,
+   "st": "val"
+  },
+  {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 29,
+   "r": 2,
+   "pl": 15.93,
+   "roi": 11.0,
+   "wr": 93.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -243,28 +265,6 @@
    "pl": 14.96,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 18,
-   "r": 2,
-   "pl": 14.92,
-   "roi": 27.0,
-   "wr": 90.0,
-   "st": "val"
-  },
-  {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 28,
-   "r": 2,
-   "pl": 14.67,
-   "roi": 11.0,
-   "wr": 93.3,
    "st": "val"
   },
   {
@@ -457,6 +457,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-26 14:56:31",
+   "tm": "14:56",
+   "match": "Auda vs FC Daugavpils",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.5,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-07-26 14:56:31",
+   "tm": "14:56",
+   "match": "Bravo vs NK Nafta",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 14:26:32",
+   "tm": "14:26",
+   "match": "Jablonec vs Sigma Olomouc",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 18.0
+  },
+  {
+   "data": "2026-07-26 14:06:34",
+   "tm": "14:06",
+   "match": "Sarpsborg 08 vs HamKam",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-07-26 13:56:41",
    "tm": "13:56",
    "match": "Sandefjord vs Bodø / Glimt",
@@ -487,6 +527,26 @@
    "pl": 0.65
   },
   {
+   "data": "2026-07-26 13:33:24",
+   "tm": "13:33",
+   "match": "Sogndal IL x Ranheim IL",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.6,
+   "status": "green",
+   "pl": 1.39
+  },
+  {
+   "data": "2026-07-26 13:27:26",
+   "tm": "13:27",
+   "match": "AC Horsens x FC Nordsjælland",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.26
+  },
+  {
    "data": "2026-07-26 13:26:41",
    "tm": "13:26",
    "match": "Karlsruher SC vs Inter",
@@ -505,6 +565,16 @@
    "odd": 32.0,
    "status": "green",
    "pl": 3.23
+  },
+  {
+   "data": "2026-07-26 13:24:25",
+   "tm": "13:24",
+   "match": "AC Horsens x FC Nordsjælland",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 14.5,
+   "status": "green",
+   "pl": 1.72
   },
   {
    "data": "2026-07-26 13:19:25",
@@ -635,6 +705,16 @@
    "odd": 16.0,
    "status": "green",
    "pl": 1.47
+  },
+  {
+   "data": "2026-07-26 12:11:25",
+   "tm": "12:11",
+   "match": "KFUM Oslo x Molde FK",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 2.33
   },
   {
    "data": "2026-07-26 12:09:25",
@@ -939,28 +1019,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 48,
-   "g": 36,
-   "r": 12,
-   "pl": 16.93,
-   "wr": 75,
+   "ent": 56,
+   "g": 43,
+   "r": 13,
+   "pl": 42.08,
+   "wr": 77,
    "label": "26/07"
   },
   "mes": {
-   "ent": 999,
-   "g": 686,
-   "r": 313,
-   "pl": 294.18,
+   "ent": 1007,
+   "g": 693,
+   "r": 314,
+   "pl": 319.33,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": 16.93,
-   "ops": 48,
-   "g": 36,
-   "r": 12
+   "pl": 42.08,
+   "ops": 56,
+   "g": 43,
+   "r": 13
   },
   "2026-07-25": {
    "pl": 16.08,
