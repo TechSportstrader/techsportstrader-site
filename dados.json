@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T01:00",
+ "gerado_em": "2026-07-26T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 325,
+   "g": 326,
    "r": 22,
-   "pl": 79.54,
+   "pl": 81.54,
    "roi": 1.0,
    "wr": 93.7,
    "st": "ap"
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 256,
+   "g": 257,
    "r": 0,
-   "pl": 423.94,
+   "pl": 425.79,
    "roi": 38.0,
    "wr": 100.0,
    "st": "val"
@@ -51,11 +51,11 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 98,
+   "g": 99,
    "r": 3,
-   "pl": 167.57,
+   "pl": 170.51,
    "roi": 3.0,
-   "wr": 97.0,
+   "wr": 97.1,
    "st": "val"
   },
   {
@@ -81,17 +81,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 10,
-   "r": 40,
-   "pl": 63.15,
-   "roi": 3.7,
-   "wr": 20.0,
-   "st": "val"
-  },
-  {
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -103,12 +92,23 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 10,
+   "r": 41,
+   "pl": 61.15,
+   "roi": 3.7,
+   "wr": 19.6,
+   "st": "val"
+  },
+  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 66,
+   "g": 67,
    "r": 3,
-   "pl": 58.8,
+   "pl": 60.05,
    "roi": 4.0,
    "wr": 95.7,
    "st": "val"
@@ -227,11 +227,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 91,
+   "g": 92,
    "r": 41,
-   "pl": 17.34,
+   "pl": 18.81,
    "roi": 1.5,
-   "wr": 68.9,
+   "wr": 69.2,
    "st": "val"
   },
   {
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 36,
+   "r": 15,
+   "pl": 9.37,
+   "roi": -0.2,
+   "wr": 70.6,
+   "st": "val"
+  },
+  {
    "n": "TRIPWIRE",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -320,17 +331,6 @@
    "pl": 8.44,
    "roi": 0.3,
    "wr": 95.8,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 35,
-   "r": 15,
-   "pl": 8.25,
-   "roi": -0.2,
-   "wr": 70.0,
    "st": "val"
   },
   {
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 44,
+   "pl": 4.11,
+   "roi": 1.4,
+   "wr": 47.6,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -397,17 +408,6 @@
    "pl": 3.48,
    "roi": 4.0,
    "wr": 89.7,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 44,
-   "pl": 3.08,
-   "roi": 1.4,
-   "wr": 47.0,
    "st": "val"
   },
   {
@@ -436,9 +436,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 14,
+   "g": 15,
    "r": 0,
-   "pl": 1.14,
+   "pl": 1.2,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -456,6 +456,66 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-26 01:56:35",
+   "tm": "01:56",
+   "match": "Auckland vs Tottenham Hotspur",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.12
+  },
+  {
+   "data": "2026-07-26 01:46:36",
+   "tm": "01:46",
+   "match": "SJ Earthquakes vs LA Galaxy",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 01:46:35",
+   "tm": "01:46",
+   "match": "SJ Earthquakes vs LA Galaxy",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-07-26 01:36:36",
+   "tm": "01:36",
+   "match": "Phoenix Rising vs Hartford Athletic",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.8,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-07-26 01:16:35",
+   "tm": "01:16",
+   "match": "SJ Earthquakes vs LA Galaxy",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.03
+  },
+  {
+   "data": "2026-07-26 01:10:10",
+   "tm": "01:10",
+   "match": "Phoenix Rising FC x Hartford Athletic",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.05
+  },
   {
    "data": "2026-07-26 00:46:38",
    "tm": "00:46",
@@ -479,33 +539,33 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
-   "r": 1,
-   "pl": -0.33,
-   "wr": 50,
+   "ent": 8,
+   "g": 6,
+   "r": 2,
+   "pl": 3.19,
+   "wr": 75,
    "label": "26/07"
   },
   "mes": {
-   "ent": 948,
-   "g": 646,
-   "r": 302,
-   "pl": 267.04,
+   "ent": 957,
+   "g": 654,
+   "r": 303,
+   "pl": 276.75,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": -0.33,
-   "ops": 2,
-   "g": 1,
-   "r": 1
+   "pl": 3.19,
+   "ops": 8,
+   "g": 6,
+   "r": 2
   },
   "2026-07-25": {
-   "pl": 6.21,
-   "ops": 113,
-   "g": 84,
+   "pl": 12.4,
+   "ops": 116,
+   "g": 87,
    "r": 29
   },
   "2026-07-24": {
