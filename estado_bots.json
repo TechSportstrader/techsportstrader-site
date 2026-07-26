@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T09:00",
+ "gerado_em": "2026-07-26T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 98,
-   "pl": -1.1,
+   "ent": 100,
+   "pl": -2.01,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 257,
-   "pl": 425.79,
+   "ent": 258,
+   "pl": 428.23,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 84,
-   "pl": 4.11,
+   "ent": 85,
+   "pl": 5.22,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 71,
-   "pl": 7.23,
+   "ent": 72,
+   "pl": 5.23,
    "roi": -0.0,
    "plat": "Bolsa"
   },
