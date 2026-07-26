@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T19:00",
+ "gerado_em": "2026-07-26T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 151,
-   "pl": -3.31,
+   "ent": 152,
+   "pl": -2.69,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 29,
-   "pl": 37.89,
+   "ent": 30,
+   "pl": 39.46,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 12,
-   "pl": -10.5,
+   "ent": 13,
+   "pl": -12.44,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 121,
-   "pl": 39.51,
+   "ent": 122,
+   "pl": 37.51,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "val",
-   "ent": 25,
-   "pl": 9.66,
+   "ent": 26,
+   "pl": 11.23,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 79,
-   "pl": -6.15,
+   "ent": 80,
+   "pl": -4.73,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 109,
-   "pl": -5.76,
+   "ent": 110,
+   "pl": -4.09,
    "roi": -0.3,
    "plat": "Bolsa"
   }
