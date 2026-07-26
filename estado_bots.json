@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T10:00",
+ "gerado_em": "2026-07-26T11:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,15 +52,15 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 146,
-   "pl": -5.47,
+   "ent": 147,
+   "pl": -4.28,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "MURALHA 1.5": {
    "st": "val",
-   "ent": 23,
-   "pl": 1.81,
+   "ent": 24,
+   "pl": 2.67,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 11,
-   "pl": -13.2,
+   "ent": 12,
+   "pl": -10.5,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 51,
-   "pl": 61.15,
+   "ent": 52,
+   "pl": 59.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 133,
-   "pl": 18.81,
+   "ent": 134,
+   "pl": 20.04,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 85,
-   "pl": 5.22,
+   "ent": 87,
+   "pl": 7.46,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "val",
-   "ent": 25,
-   "pl": 2.56,
+   "ent": 26,
+   "pl": 3.91,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 51,
-   "pl": 9.37,
+   "ent": 52,
+   "pl": 7.42,
    "roi": -0.2,
    "plat": "Bolsa"
   },
