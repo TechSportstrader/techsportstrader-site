@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T16:00",
+ "gerado_em": "2026-07-26T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 446,
-   "pl": 6.53,
+   "ent": 448,
+   "pl": 7.86,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 149,
-   "pl": -2.31,
+   "ent": 150,
+   "pl": -4.31,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 15,
-   "pl": 22.45,
+   "ent": 16,
+   "pl": 23.88,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 164,
-   "pl": -24.81,
+   "ent": 165,
+   "pl": -24.11,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 74,
-   "pl": 5.05,
+   "ent": 75,
+   "pl": 3.05,
    "roi": -0.0,
    "plat": "Bolsa"
   },
