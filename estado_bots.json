@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T17:00",
+ "gerado_em": "2026-07-26T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 474,
-   "pl": 315.18,
+   "ent": 475,
+   "pl": 316.43,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 150,
-   "pl": -4.31,
+   "ent": 151,
+   "pl": -3.31,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 13,
-   "pl": 14.96,
+   "ent": 14,
+   "pl": 15.87,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 16,
-   "pl": 23.88,
+   "ent": 17,
+   "pl": 25.67,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -226,9 +226,9 @@
    "plat": "BotBet"
   },
   "TRIPWIRE": {
-   "st": "val",
-   "ent": 35,
-   "pl": 9.13,
+   "st": "rep",
+   "ent": 36,
+   "pl": -10.87,
    "roi": 10.0,
    "plat": "BotBet"
   },
@@ -262,8 +262,8 @@
   },
   "RAMPART": {
    "st": "val",
-   "ent": 30,
-   "pl": 76.73,
+   "ent": 31,
+   "pl": 80.64,
    "roi": 6.4,
    "plat": "Bolsa"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 116,
-   "pl": 29.14,
+   "ent": 119,
+   "pl": 36.86,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 107,
-   "pl": 13.58,
+   "ent": 108,
+   "pl": 3.91,
    "roi": -0.3,
    "plat": "Bolsa"
   }
