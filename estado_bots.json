@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T03:00",
+ "gerado_em": "2026-07-26T04:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 12,
-   "pl": 13.66,
+   "ent": 13,
+   "pl": 14.96,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 91,
-   "pl": 61.99,
+   "ent": 92,
+   "pl": 64.37,
    "roi": 4.0,
    "plat": "BotBet"
   },
