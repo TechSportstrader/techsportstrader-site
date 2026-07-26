@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T02:00",
+ "gerado_em": "2026-07-26T03:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 337,
-   "r": 103,
-   "pl": 8.14,
+   "r": 104,
+   "pl": 6.14,
    "roi": 2.0,
-   "wr": 76.6,
+   "wr": 76.4,
    "st": "ap"
   },
   {
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "HIERARCHY",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 68,
+   "r": 3,
+   "pl": 62.49,
+   "roi": 4.0,
+   "wr": 95.8,
+   "st": "val"
+  },
+  {
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -100,17 +111,6 @@
    "pl": 61.15,
    "roi": 3.7,
    "wr": 19.6,
-   "st": "val"
-  },
-  {
-   "n": "HIERARCHY",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 67,
-   "r": 3,
-   "pl": 60.05,
-   "roi": 4.0,
-   "wr": 95.7,
    "st": "val"
   },
   {
@@ -191,17 +191,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 92,
-   "r": 14,
-   "pl": 23.15,
-   "roi": -0.3,
-   "wr": 86.8,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
@@ -268,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 92,
+   "r": 15,
+   "pl": 13.58,
+   "roi": -0.3,
+   "wr": 86.0,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20 (Bolsa)",
+   "s": "Lay (misto) · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 1,
+   "pl": 9.66,
+   "roi": 0.3,
+   "wr": 96.0,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -320,17 +331,6 @@
    "pl": 9.13,
    "roi": 10.0,
    "wr": 82.9,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20 (Bolsa)",
-   "s": "Lay (misto) · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 1,
-   "pl": 8.44,
-   "roi": 0.3,
-   "wr": 95.8,
    "st": "val"
   },
   {
@@ -457,6 +457,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-26 02:16:35",
+   "tm": "02:16",
+   "match": "Santos Laguna vs Atlas",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.5,
+   "status": "red",
+   "pl": -9.57
+  },
+  {
+   "data": "2026-07-26 02:16:30",
+   "tm": "02:16",
+   "match": "Santos Laguna vs Atlas",
+   "bot": "SISTEMA L-20 (Bolsa)",
+   "mkt": "Lay (misto)",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
    "data": "2026-07-26 01:56:35",
    "tm": "01:56",
    "match": "Auckland vs Tottenham Hotspur",
@@ -497,6 +517,16 @@
    "pl": 1.47
   },
   {
+   "data": "2026-07-26 01:35:05",
+   "tm": "01:35",
+   "match": "Santos Laguna x Atlas FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-26 01:16:35",
    "tm": "01:16",
    "match": "SJ Earthquakes vs LA Galaxy",
@@ -527,6 +557,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-07-26 00:28:05",
+   "tm": "00:28",
+   "match": "Santos Laguna x Atlas FC",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 9.2,
+   "status": "green",
+   "pl": 2.44
+  },
+  {
    "data": "2026-07-26 00:06:30",
    "tm": "00:06",
    "match": "Melgar vs Sporting Cristal",
@@ -539,28 +579,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 6,
-   "r": 2,
-   "pl": 3.19,
-   "wr": 75,
+   "ent": 12,
+   "g": 8,
+   "r": 4,
+   "pl": -4.72,
+   "wr": 67,
    "label": "26/07"
   },
   "mes": {
-   "ent": 957,
-   "g": 654,
-   "r": 303,
-   "pl": 276.75,
+   "ent": 961,
+   "g": 656,
+   "r": 305,
+   "pl": 268.84,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": 3.19,
-   "ops": 8,
-   "g": 6,
-   "r": 2
+   "pl": -4.72,
+   "ops": 12,
+   "g": 8,
+   "r": 4
   },
   "2026-07-25": {
    "pl": 12.4,
