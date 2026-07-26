@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T11:00",
+ "gerado_em": "2026-07-26T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 337,
+   "g": 338,
    "r": 104,
-   "pl": 6.14,
+   "pl": 6.6,
    "roi": 2.0,
-   "wr": 76.4,
+   "wr": 76.5,
    "st": "ap"
   },
   {
@@ -95,9 +95,9 @@
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 68,
+   "g": 69,
    "r": 3,
-   "pl": 62.49,
+   "pl": 63.49,
    "roi": 4.0,
    "wr": 95.8,
    "st": "val"
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 20,
+   "r": 1,
+   "pl": 12.72,
+   "roi": 9.0,
+   "wr": 95.2,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -287,17 +298,6 @@
    "pl": 12.21,
    "roi": 27.0,
    "wr": 88.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 19,
-   "r": 1,
-   "pl": 11.61,
-   "roi": 9.0,
-   "wr": 95.0,
    "st": "val"
   },
   {
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 37,
+   "r": 16,
+   "pl": 8.81,
+   "roi": -0.2,
+   "wr": 69.8,
+   "st": "val"
+  },
+  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -331,17 +342,6 @@
    "pl": 7.46,
    "roi": 1.4,
    "wr": 49.4,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 36,
-   "r": 16,
-   "pl": 7.42,
-   "roi": -0.2,
-   "wr": 69.2,
    "st": "val"
   },
   {
@@ -457,6 +457,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-26 11:36:38",
+   "tm": "11:36",
+   "match": "KuPS Ak. vs VJS",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.39
+  },
+  {
+   "data": "2026-07-26 10:51:16",
+   "tm": "10:51",
+   "match": "Raków Częstochowa x Wisła Płock",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.47
+  },
+  {
    "data": "2026-07-26 10:36:43",
    "tm": "10:36",
    "match": "Shandong Taishan vs Henan Songshan Longmen",
@@ -545,6 +565,26 @@
    "odd": 2.1,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 09:44:05",
+   "tm": "09:44",
+   "match": "Zhejiang x Dalian Yingbo FC",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
+   "data": "2026-07-26 09:41:26",
+   "tm": "09:41",
+   "match": "IF Brommapojkarna x Hammarby IF",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 1.0
   },
   {
    "data": "2026-07-26 09:36:34",
@@ -689,27 +729,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 16,
+   "ent": 27,
+   "g": 20,
    "r": 7,
-   "pl": 0.18,
-   "wr": 70,
+   "pl": 4.14,
+   "wr": 74,
    "label": "26/07"
   },
   "mes": {
-   "ent": 974,
-   "g": 666,
+   "ent": 978,
+   "g": 670,
    "r": 308,
-   "pl": 277.42,
-   "wr": 68,
+   "pl": 281.39,
+   "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": 0.18,
-   "ops": 23,
-   "g": 16,
+   "pl": 4.14,
+   "ops": 27,
+   "g": 20,
    "r": 7
   },
   "2026-07-25": {
