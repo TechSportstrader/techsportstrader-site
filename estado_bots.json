@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T08:00",
+ "gerado_em": "2026-07-26T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -332,8 +332,8 @@
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
-   "ent": 159,
-   "pl": -24.01,
+   "ent": 160,
+   "pl": -22.86,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 70,
-   "pl": 5.61,
+   "ent": 71,
+   "pl": 7.23,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 76,
-   "pl": -6.73,
+   "ent": 78,
+   "pl": -7.11,
    "roi": -0.2,
    "plat": "Bolsa"
   },
