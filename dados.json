@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T03:00",
+ "gerado_em": "2026-07-26T04:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "VANGUARD",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 83,
+   "r": 9,
+   "pl": 64.37,
+   "roi": 4.0,
+   "wr": 90.2,
+   "st": "val"
+  },
+  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -89,17 +100,6 @@
    "pl": 62.49,
    "roi": 4.0,
    "wr": 95.8,
-   "st": "val"
-  },
-  {
-   "n": "VANGUARD",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 82,
-   "r": 9,
-   "pl": 61.99,
-   "roi": 4.0,
-   "wr": 90.1,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 13,
+   "r": 0,
+   "pl": 14.96,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 14.64,
    "roi": 131.0,
    "wr": 16.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 12,
-   "r": 0,
-   "pl": 13.66,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -587,10 +587,10 @@
    "label": "26/07"
   },
   "mes": {
-   "ent": 961,
-   "g": 656,
+   "ent": 963,
+   "g": 658,
    "r": 305,
-   "pl": 268.84,
+   "pl": 272.52,
    "wr": 68,
    "label": "mês"
   }
@@ -603,9 +603,9 @@
    "r": 4
   },
   "2026-07-25": {
-   "pl": 12.4,
-   "ops": 116,
-   "g": 87,
+   "pl": 16.08,
+   "ops": 118,
+   "g": 89,
    "r": 29
   },
   "2026-07-24": {
