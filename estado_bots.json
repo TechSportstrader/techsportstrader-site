@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T13:00",
+ "gerado_em": "2026-07-26T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,22 +17,22 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 40,
-   "pl": 25.59,
+   "ent": 41,
+   "pl": 26.46,
    "roi": 33.0,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 473,
-   "pl": 314.1,
+   "ent": 474,
+   "pl": 315.18,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 47,
-   "pl": -5.02,
+   "ent": 48,
+   "pl": -4.8,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 442,
-   "pl": 6.6,
+   "ent": 446,
+   "pl": 6.53,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 147,
-   "pl": -4.28,
+   "ent": 149,
+   "pl": -2.31,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,15 +101,15 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 28,
-   "pl": 36.42,
+   "ent": 29,
+   "pl": 37.89,
    "roi": 6.0,
    "plat": "BotBet"
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 7,
-   "pl": 5.9,
+   "ent": 8,
+   "pl": 10.0,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -178,15 +178,15 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 18,
-   "pl": 12.21,
+   "ent": 20,
+   "pl": 14.92,
    "roi": 27.0,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 29,
-   "pl": 12.91,
+   "ent": 30,
+   "pl": 14.67,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 258,
-   "pl": 428.23,
+   "ent": 259,
+   "pl": 431.46,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 88,
-   "pl": 6.48,
+   "ent": 89,
+   "pl": 6.91,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 53,
-   "pl": 8.81,
+   "ent": 55,
+   "pl": 7.93,
    "roi": -0.2,
    "plat": "Bolsa"
   },
