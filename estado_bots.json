@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-25T20:00",
+ "gerado_em": "2026-07-25T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 102,
-   "pl": 28.19,
+   "ent": 103,
+   "pl": 29.97,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 141,
-   "pl": -0.88,
+   "ent": 143,
+   "pl": -4.88,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -121,9 +121,9 @@
    "plat": "BotBet"
   },
   "SENTINELA 0x1": {
-   "st": "rep",
-   "ent": 13,
-   "pl": -0.83,
+   "st": "val",
+   "ent": 14,
+   "pl": 0.84,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 45,
-   "pl": 16.42,
+   "ent": 46,
+   "pl": 16.82,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 43,
-   "pl": 27.23,
+   "ent": 45,
+   "pl": 30.48,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 104,
-   "pl": 19.76,
+   "ent": 105,
+   "pl": 21.48,
    "roi": -0.3,
    "plat": "Bolsa"
   }
