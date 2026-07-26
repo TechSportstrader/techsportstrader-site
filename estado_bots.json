@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T02:00",
+ "gerado_em": "2026-07-26T03:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 440,
-   "pl": 8.14,
+   "ent": 441,
+   "pl": 6.14,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 70,
-   "pl": 60.05,
+   "ent": 71,
+   "pl": 62.49,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "val",
-   "ent": 24,
-   "pl": 8.44,
+   "ent": 25,
+   "pl": 9.66,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 106,
-   "pl": 23.15,
+   "ent": 107,
+   "pl": 13.58,
    "roi": -0.3,
    "plat": "Bolsa"
   }
