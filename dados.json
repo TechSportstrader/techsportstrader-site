@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T09:00",
+ "gerado_em": "2026-07-26T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 257,
+   "g": 258,
    "r": 0,
-   "pl": 425.79,
+   "pl": 428.23,
    "roi": 38.0,
    "wr": 100.0,
    "st": "val"
@@ -345,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 42,
-   "r": 29,
-   "pl": 7.23,
-   "roi": -0.0,
-   "wr": 59.2,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -367,6 +356,28 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 42,
+   "r": 30,
+   "pl": 5.23,
+   "roi": -0.0,
+   "wr": 58.3,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 41,
+   "r": 44,
+   "pl": 5.22,
+   "roi": 1.4,
+   "wr": 48.2,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -375,17 +386,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 40,
-   "r": 44,
-   "pl": 4.11,
-   "roi": 1.4,
-   "wr": 47.6,
    "st": "val"
   },
   {
@@ -456,6 +456,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-26 09:56:41",
+   "tm": "09:56",
+   "match": "Young Boys vs Sion",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
+   "data": "2026-07-26 09:46:36",
+   "tm": "09:46",
+   "match": "Zhejiang Professional vs Dalian Yingbo",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 09:36:34",
+   "tm": "09:36",
+   "match": "Seoul vs Ulsan HD",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 42.0,
+   "status": "green",
+   "pl": 2.44
+  },
   {
    "data": "2026-07-26 08:56:37",
    "tm": "08:56",
@@ -589,28 +619,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 9,
-   "r": 4,
-   "pl": -3.1,
+   "ent": 16,
+   "g": 11,
+   "r": 5,
+   "pl": -1.55,
    "wr": 69,
    "label": "26/07"
   },
   "mes": {
-   "ent": 964,
-   "g": 659,
-   "r": 305,
-   "pl": 274.14,
+   "ent": 967,
+   "g": 661,
+   "r": 306,
+   "pl": 275.69,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": -3.1,
-   "ops": 13,
-   "g": 9,
-   "r": 4
+   "pl": -1.55,
+   "ops": 16,
+   "g": 11,
+   "r": 5
   },
   "2026-07-25": {
    "pl": 16.08,
