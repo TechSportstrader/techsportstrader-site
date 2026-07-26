@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T00:00",
+ "gerado_em": "2026-07-26T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -139,11 +139,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 43,
+   "g": 44,
    "r": 2,
-   "pl": 30.48,
+   "pl": 32.15,
    "roi": 1.3,
-   "wr": 95.6,
+   "wr": 95.7,
    "st": "val"
   },
   {
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 27,
+   "r": 2,
+   "pl": 12.91,
+   "roi": 11.0,
+   "wr": 93.1,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -279,25 +290,14 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 26,
-   "r": 2,
-   "pl": 11.77,
-   "roi": 11.0,
-   "wr": 92.9,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 18,
+   "g": 19,
    "r": 1,
-   "pl": 9.94,
+   "pl": 11.61,
    "roi": 9.0,
-   "wr": 94.7,
+   "wr": 95.0,
    "st": "val"
   },
   {
@@ -367,17 +367,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 43,
-   "pl": 5.08,
-   "roi": 1.4,
-   "wr": 47.6,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -408,6 +397,17 @@
    "pl": 3.48,
    "roi": 4.0,
    "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 39,
+   "r": 44,
+   "pl": 3.08,
+   "roi": 1.4,
+   "wr": 47.0,
    "st": "val"
   },
   {
@@ -455,30 +455,57 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-26 00:46:38",
+   "tm": "00:46",
+   "match": "San Diego vs Dallas",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 00:06:30",
+   "tm": "00:06",
+   "match": "Melgar vs Sporting Cristal",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 1.67
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
-   "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "ent": 2,
+   "g": 1,
+   "r": 1,
+   "pl": -0.33,
+   "wr": 50,
    "label": "26/07"
   },
   "mes": {
-   "ent": 944,
-   "g": 643,
-   "r": 301,
-   "pl": 264.56,
+   "ent": 948,
+   "g": 646,
+   "r": 302,
+   "pl": 267.04,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-26": {
+   "pl": -0.33,
+   "ops": 2,
+   "g": 1,
+   "r": 1
+  },
   "2026-07-25": {
-   "pl": 3.4,
-   "ops": 111,
-   "g": 82,
+   "pl": 6.21,
+   "ops": 113,
+   "g": 84,
    "r": 29
   },
   "2026-07-24": {
