@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T19:00",
+ "gerado_em": "2026-07-26T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -125,25 +125,25 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 30,
+   "r": 0,
+   "pl": 39.46,
+   "roi": 6.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 47,
-   "r": 74,
-   "pl": 39.51,
+   "r": 75,
+   "pl": 37.51,
    "roi": 6.7,
-   "wr": 38.8,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 29,
-   "r": 0,
-   "pl": 37.89,
-   "roi": 6.0,
-   "wr": 100.0,
+   "wr": 38.5,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20 (Bolsa)",
+   "s": "Lay (misto) · Bolsa",
+   "plat": "Bolsa",
+   "g": 25,
+   "r": 1,
+   "pl": 11.23,
+   "roi": 0.3,
+   "wr": 96.2,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -298,17 +309,6 @@
    "pl": 10.0,
    "roi": -100.0,
    "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20 (Bolsa)",
-   "s": "Lay (misto) · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 1,
-   "pl": 9.66,
-   "roi": 0.3,
-   "wr": 96.0,
    "st": "val"
   },
   {
@@ -435,6 +435,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-26 19:46:36",
+   "tm": "19:46",
+   "match": "Gimnasia y Tiro de Salta vs Deportivo Maipú",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-26 19:16:33",
+   "tm": "19:16",
+   "match": "Estudiantes vs Independiente",
+   "bot": "SISTEMA L-20 (Bolsa)",
+   "mkt": "Lay (misto)",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.57
+  },
+  {
    "data": "2026-07-26 18:56:37",
    "tm": "18:56",
    "match": "Estudiantes vs Independiente",
@@ -513,6 +533,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -1.16
+  },
+  {
+   "data": "2026-07-26 17:37:06",
+   "tm": "17:37",
+   "match": "Estudiantes de La Plata x CA Independiente",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.57
   },
   {
    "data": "2026-07-26 17:26:39",
@@ -1003,62 +1033,32 @@
    "odd": 4.6,
    "status": "green",
    "pl": 1.35
-  },
-  {
-   "data": "2026-07-26 10:36:42",
-   "tm": "10:36",
-   "match": "Chengdu Rongcheng vs Beijing Guoan",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-26 10:26:37",
-   "tm": "10:26",
-   "match": "Zhejiang Professional vs Dalian Yingbo",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -1.95
-  },
-  {
-   "data": "2026-07-26 10:26:36",
-   "tm": "10:26",
-   "match": "Chengdu Rongcheng vs Beijing Guoan",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 1.23
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 80,
-   "g": 61,
-   "r": 19,
-   "pl": 87.77,
+   "ent": 83,
+   "g": 63,
+   "r": 20,
+   "pl": 88.91,
    "wr": 76,
    "label": "26/07"
   },
   "mes": {
-   "ent": 942,
-   "g": 635,
-   "r": 307,
-   "pl": 382.71,
+   "ent": 945,
+   "g": 637,
+   "r": 308,
+   "pl": 383.85,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-26": {
-   "pl": 87.77,
-   "ops": 80,
-   "g": 61,
-   "r": 19
+   "pl": 88.91,
+   "ops": 83,
+   "g": 63,
+   "r": 20
   },
   "2026-07-25": {
    "pl": 33.28,
