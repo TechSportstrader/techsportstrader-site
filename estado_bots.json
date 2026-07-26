@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T01:00",
+ "gerado_em": "2026-07-26T02:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 145,
-   "pl": -3.47,
+   "ent": 146,
+   "pl": -5.47,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 347,
-   "pl": 79.54,
+   "ent": 348,
+   "pl": 81.54,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 69,
-   "pl": 58.8,
+   "ent": 70,
+   "pl": 60.05,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 101,
-   "pl": 167.57,
+   "ent": 102,
+   "pl": 170.51,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 14,
-   "pl": 1.14,
+   "ent": 15,
+   "pl": 1.2,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 256,
-   "pl": 423.94,
+   "ent": 257,
+   "pl": 425.79,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 50,
-   "pl": 63.15,
+   "ent": 51,
+   "pl": 61.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 132,
-   "pl": 17.34,
+   "ent": 133,
+   "pl": 18.81,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 83,
-   "pl": 3.08,
+   "ent": 84,
+   "pl": 4.11,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 50,
-   "pl": 8.25,
+   "ent": 51,
+   "pl": 9.37,
    "roi": -0.2,
    "plat": "Bolsa"
   },
