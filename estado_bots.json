@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T20:00",
+ "gerado_em": "2026-07-26T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 449,
-   "pl": 5.86,
+   "ent": 453,
+   "pl": 9.91,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 152,
-   "pl": -2.69,
+   "ent": 155,
+   "pl": -2.18,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 61,
-   "pl": 56.15,
+   "ent": 62,
+   "pl": 59.15,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 14,
-   "pl": 0.84,
+   "ent": 16,
+   "pl": 4.18,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 17,
-   "pl": 25.67,
+   "ent": 18,
+   "pl": 27.14,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 122,
-   "pl": 37.51,
+   "ent": 123,
+   "pl": 35.51,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "val",
-   "ent": 26,
-   "pl": 11.23,
+   "ent": 28,
+   "pl": 13.55,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 110,
-   "pl": -4.09,
+   "ent": 111,
+   "pl": -2.17,
    "roi": -0.3,
    "plat": "Bolsa"
   }
