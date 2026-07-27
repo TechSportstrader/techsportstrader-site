@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T15:00",
+ "gerado_em": "2026-07-27T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 476,
-   "pl": 318.06,
+   "ent": 477,
+   "pl": 319.54,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 156,
-   "pl": -4.18,
+   "ent": 157,
+   "pl": -3.51,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 32,
-   "pl": 17.36,
+   "ent": 33,
+   "pl": 5.37,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 123,
-   "pl": 35.51,
+   "ent": 124,
+   "pl": 33.56,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 20,
-   "pl": -8.42,
+   "ent": 21,
+   "pl": -12.34,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
