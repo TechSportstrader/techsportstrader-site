@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T14:00",
+ "gerado_em": "2026-07-27T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 60,
-   "pl": 77.55,
+   "ent": 61,
+   "pl": 75.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 91,
-   "pl": 7.89,
+   "ent": 92,
+   "pl": 9.43,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 15,
-   "pl": 22.13,
+   "ent": 16,
+   "pl": 23.45,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 77,
-   "pl": 2.72,
+   "ent": 78,
+   "pl": 4.34,
    "roi": -0.0,
    "plat": "Bolsa"
   },
