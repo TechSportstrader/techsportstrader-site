@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T15:00",
+ "gerado_em": "2026-07-27T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,11 +7,11 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 471,
+   "g": 472,
    "r": 5,
-   "pl": 318.06,
+   "pl": 319.54,
    "roi": 1.0,
-   "wr": 98.9,
+   "wr": 99.0,
    "st": "ap"
   },
   {
@@ -151,10 +151,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 47,
-   "r": 76,
-   "pl": 35.51,
+   "r": 77,
+   "pl": 33.56,
    "roi": 6.7,
-   "wr": 38.2,
+   "wr": 37.9,
    "st": "val"
   },
   {
@@ -232,17 +232,6 @@
    "pl": 17.51,
    "roi": 3.0,
    "wr": 97.9,
-   "st": "val"
-  },
-  {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 30,
-   "r": 2,
-   "pl": 17.36,
-   "roi": 11.0,
-   "wr": 93.8,
    "st": "val"
   },
   {
@@ -345,6 +334,17 @@
    "st": "val"
   },
   {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 30,
+   "r": 3,
+   "pl": 5.37,
+   "roi": 11.0,
+   "wr": 90.9,
+   "st": "val"
+  },
+  {
    "n": "VIGIA HT-C",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
@@ -424,6 +424,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-27 15:39:54",
+   "tm": "15:39",
+   "match": "Zagłębie Lubin vs Piast Gliwice",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.95
+  },
+  {
    "data": "2026-07-27 15:00:05",
    "tm": "15:00",
    "match": "Öster vs Varberg BoIS",
@@ -462,6 +472,26 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.54
+  },
+  {
+   "data": "2026-07-27 14:35:24",
+   "tm": "14:35",
+   "match": "BK Häcken x AIK",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 12.0,
+   "status": "red",
+   "pl": -11.99
+  },
+  {
+   "data": "2026-07-27 14:22:24",
+   "tm": "14:22",
+   "match": "BK Häcken x AIK",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-07-27 13:59:57",
@@ -506,28 +536,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 5,
-   "r": 3,
-   "pl": 1.12,
-   "wr": 62,
+   "ent": 11,
+   "g": 6,
+   "r": 5,
+   "pl": -11.34,
+   "wr": 55,
    "label": "27/07"
   },
   "mes": {
-   "ent": 949,
-   "g": 634,
-   "r": 315,
-   "pl": 386.51,
+   "ent": 952,
+   "g": 635,
+   "r": 317,
+   "pl": 374.05,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-27": {
-   "pl": 1.12,
-   "ops": 8,
-   "g": 5,
-   "r": 3
+   "pl": -11.34,
+   "ops": 11,
+   "g": 6,
+   "r": 5
   },
   "2026-07-26": {
    "pl": 96.33,
