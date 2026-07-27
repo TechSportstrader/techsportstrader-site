@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T22:00",
+ "gerado_em": "2026-07-26T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 31,
-   "pl": 15.93,
+   "ent": 32,
+   "pl": 17.36,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 58,
-   "pl": 81.55,
+   "ent": 59,
+   "pl": 79.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 75,
-   "pl": 3.05,
+   "ent": 77,
+   "pl": 2.72,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 80,
-   "pl": -4.73,
+   "ent": 81,
+   "pl": -3.06,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 111,
-   "pl": -2.17,
+   "ent": 112,
+   "pl": -0.5,
    "roi": -0.3,
    "plat": "Bolsa"
   }
