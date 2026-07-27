@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T16:00",
+ "gerado_em": "2026-07-27T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -41,10 +41,10 @@
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
    "g": 260,
-   "r": 0,
-   "pl": 433.31,
+   "r": 1,
+   "pl": 333.31,
    "roi": 38.0,
-   "wr": 100.0,
+   "wr": 99.6,
    "st": "val"
   },
   {
@@ -125,14 +125,14 @@
    "st": "val"
   },
   {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 30,
-   "r": 0,
-   "pl": 39.46,
-   "roi": 6.0,
-   "wr": 100.0,
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 48,
+   "r": 77,
+   "pl": 39.44,
+   "roi": 6.7,
+   "wr": 38.4,
    "st": "val"
   },
   {
@@ -144,17 +144,6 @@
    "pl": 35.71,
    "roi": 1.3,
    "wr": 95.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 47,
-   "r": 77,
-   "pl": 33.56,
-   "roi": 6.7,
-   "wr": 37.9,
    "st": "val"
   },
   {
@@ -216,11 +205,22 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 94,
+   "g": 97,
    "r": 42,
-   "pl": 19.15,
+   "pl": 22.7,
    "roi": 1.5,
-   "wr": 69.1,
+   "wr": 69.8,
+   "st": "val"
+  },
+  {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 30,
+   "r": 1,
+   "pl": 17.53,
+   "roi": 6.0,
+   "wr": 96.8,
    "st": "val"
   },
   {
@@ -290,17 +290,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 46,
-   "r": 46,
-   "pl": 9.43,
-   "roi": 1.4,
-   "wr": 50.0,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -309,6 +298,17 @@
    "pl": 8.81,
    "roi": -0.2,
    "wr": 69.6,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 46,
+   "r": 47,
+   "pl": 8.54,
+   "roi": 1.4,
+   "wr": 49.5,
    "st": "val"
   },
   {
@@ -424,6 +424,66 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-27 17:00:00",
+   "tm": "17:00",
+   "match": "Breidablik vs ÍBV",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -0.89
+  },
+  {
+   "data": "2026-07-27 16:59:59",
+   "tm": "16:59",
+   "match": "Breidablik vs ÍBV",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-07-27 16:59:58",
+   "tm": "16:59",
+   "match": "Galatasaray vs Venezia",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 55.0,
+   "status": "red",
+   "pl": -100.0
+  },
+  {
+   "data": "2026-07-27 16:00:13",
+   "tm": "16:00",
+   "match": "Örebro vs Oddevold",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 5.88
+  },
+  {
+   "data": "2026-07-27 16:00:11",
+   "tm": "16:00",
+   "match": "Öster vs Varberg BoIS",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.3,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
+   "data": "2026-07-27 16:00:10",
+   "tm": "16:00",
+   "match": "Örebro vs Oddevold",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 1.21
+  },
+  {
    "data": "2026-07-27 15:39:54",
    "tm": "15:39",
    "match": "Zagłębie Lubin vs Piast Gliwice",
@@ -494,6 +554,16 @@
    "pl": 1.48
   },
   {
+   "data": "2026-07-27 14:21:06",
+   "tm": "14:21",
+   "match": "Zagłębie Lubin x Piast Gliwice",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 18.0,
+   "status": "red",
+   "pl": -21.93
+  },
+  {
    "data": "2026-07-27 13:59:57",
    "tm": "13:59",
    "match": "Tukums vs Rīgas FS",
@@ -536,28 +606,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 11,
-   "g": 6,
-   "r": 5,
-   "pl": -11.34,
-   "wr": 55,
+   "ent": 18,
+   "g": 10,
+   "r": 8,
+   "pl": -124.73,
+   "wr": 56,
    "label": "27/07"
   },
   "mes": {
-   "ent": 952,
-   "g": 635,
-   "r": 317,
-   "pl": 374.05,
+   "ent": 959,
+   "g": 639,
+   "r": 320,
+   "pl": 260.66,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-27": {
-   "pl": -11.34,
-   "ops": 11,
-   "g": 6,
-   "r": 5
+   "pl": -124.73,
+   "ops": 18,
+   "g": 10,
+   "r": 8
   },
   "2026-07-26": {
    "pl": 96.33,
