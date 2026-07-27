@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T13:00",
+ "gerado_em": "2026-07-27T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -301,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 45,
-   "r": 45,
-   "pl": 9.13,
-   "roi": 1.4,
-   "wr": 50.0,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -320,6 +309,17 @@
    "pl": 8.81,
    "roi": -0.2,
    "wr": 69.6,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 45,
+   "r": 46,
+   "pl": 7.89,
+   "roi": 1.4,
+   "wr": 49.5,
    "st": "val"
   },
   {
@@ -424,6 +424,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-27 13:59:57",
+   "tm": "13:59",
+   "match": "Tukums vs Rīgas FS",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -1.24
+  },
+  {
    "data": "2026-07-27 10:06:36",
    "tm": "10:06",
    "match": "Singapore vs East Timor",
@@ -456,28 +466,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
+   "ent": 4,
    "g": 2,
-   "r": 1,
-   "pl": -0.12,
-   "wr": 67,
+   "r": 2,
+   "pl": -1.36,
+   "wr": 50,
    "label": "27/07"
   },
   "mes": {
-   "ent": 944,
+   "ent": 945,
    "g": 631,
-   "r": 313,
-   "pl": 385.27,
+   "r": 314,
+   "pl": 384.03,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-27": {
-   "pl": -0.12,
-   "ops": 3,
+   "pl": -1.36,
+   "ops": 4,
    "g": 2,
-   "r": 1
+   "r": 2
   },
   "2026-07-26": {
    "pl": 96.33,
