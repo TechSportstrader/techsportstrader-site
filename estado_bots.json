@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T23:00",
+ "gerado_em": "2026-07-27T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 475,
-   "pl": 316.43,
+   "ent": 476,
+   "pl": 318.06,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 455,
-   "pl": 11.47,
+   "ent": 456,
+   "pl": 11.97,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 18,
-   "pl": 14.64,
+   "ent": 19,
+   "pl": 12.64,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 59,
-   "pl": 79.55,
+   "ent": 60,
+   "pl": 77.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
