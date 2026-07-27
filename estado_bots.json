@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T17:00",
+ "gerado_em": "2026-07-27T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 50,
-   "pl": -4.26,
+   "ent": 51,
+   "pl": -5.3,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 456,
-   "pl": 11.97,
+   "ent": 457,
+   "pl": 12.58,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 31,
-   "pl": 17.53,
+   "ent": 32,
+   "pl": 18.95,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 33,
-   "pl": 5.37,
+   "ent": 34,
+   "pl": 6.51,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 61,
-   "pl": 75.55,
+   "ent": 62,
+   "pl": 93.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -366,9 +366,9 @@
    "plat": "Bolsa"
   },
   "WARDEN-30": {
-   "st": "rep",
-   "ent": 112,
-   "pl": -0.5,
+   "st": "val",
+   "ent": 114,
+   "pl": 3.78,
    "roi": -0.3,
    "plat": "Bolsa"
   }
