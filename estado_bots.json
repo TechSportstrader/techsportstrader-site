@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T18:00",
+ "gerado_em": "2026-07-27T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -59,8 +59,8 @@
   },
   "MURALHA 1.5": {
    "st": "val",
-   "ent": 25,
-   "pl": 3.85,
+   "ent": 26,
+   "pl": 4.81,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 350,
-   "pl": 86.0,
+   "ent": 351,
+   "pl": 88.33,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 34,
-   "pl": 6.51,
+   "ent": 35,
+   "pl": 7.65,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 125,
-   "pl": 39.44,
+   "ent": 126,
+   "pl": 45.32,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 139,
-   "pl": 22.7,
+   "ent": 140,
+   "pl": 23.92,
    "roi": 1.5,
    "plat": "Bolsa"
   },
