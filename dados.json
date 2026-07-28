@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T21:00",
+ "gerado_em": "2026-07-27T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,20 +29,20 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 351,
+   "g": 352,
    "r": 106,
-   "pl": 12.58,
+   "pl": 13.94,
    "roi": 2.0,
-   "wr": 76.8,
+   "wr": 76.9,
    "st": "ap"
   },
   {
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 260,
+   "g": 261,
    "r": 1,
-   "pl": 333.31,
+   "pl": 335.16,
    "roi": 38.0,
    "wr": 99.6,
    "st": "val"
@@ -334,6 +334,28 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 99,
+   "r": 17,
+   "pl": 7.17,
+   "roi": -0.3,
+   "wr": 85.3,
+   "st": "val"
+  },
+  {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 15,
+   "r": 2,
+   "pl": 5.85,
+   "roi": 16.0,
+   "wr": 88.2,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -378,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 14,
-   "r": 2,
-   "pl": 4.18,
-   "roi": 16.0,
-   "wr": 87.5,
-   "st": "val"
-  },
-  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -397,17 +408,6 @@
    "pl": 4.05,
    "roi": 2.1,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 97,
-   "r": 17,
-   "pl": 3.78,
-   "roi": -0.3,
-   "wr": 85.1,
    "st": "val"
   },
   {
@@ -435,6 +435,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-27 21:59:56",
+   "tm": "21:59",
+   "match": "Unión La Calera vs Everton",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-27 21:59:56",
+   "tm": "21:59",
+   "match": "Unión Española vs Recoleta",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-07-27 21:30:00",
+   "tm": "21:30",
+   "match": "Sport Recife vs Cuiabá",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
    "data": "2026-07-27 20:59:55",
    "tm": "20:59",
    "match": "Talleres Córdoba Res. vs River Plate Res.",
@@ -445,6 +475,16 @@
    "pl": 2.77
   },
   {
+   "data": "2026-07-27 20:49:15",
+   "tm": "20:49",
+   "match": "Sport Recife x Cuiabá",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
    "data": "2026-07-27 20:29:54",
    "tm": "20:29",
    "match": "Bahia W vs Botafogo W",
@@ -453,6 +493,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -1.75
+  },
+  {
+   "data": "2026-07-27 19:58:16",
+   "tm": "19:58",
+   "match": "Sport Recife x Cuiabá",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-27 18:59:05",
@@ -757,27 +807,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 32,
-   "g": 23,
+   "ent": 37,
+   "g": 28,
    "r": 9,
-   "pl": -85.06,
-   "wr": 72,
+   "pl": -76.79,
+   "wr": 76,
    "label": "27/07"
   },
   "mes": {
-   "ent": 1062,
-   "g": 728,
+   "ent": 1067,
+   "g": 733,
    "r": 334,
-   "pl": 306.9,
+   "pl": 315.17,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-27": {
-   "pl": -85.06,
-   "ops": 32,
-   "g": 23,
+   "pl": -76.79,
+   "ops": 37,
+   "g": 28,
    "r": 9
   },
   "2026-07-26": {
