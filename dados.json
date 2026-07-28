@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T20:00",
+ "gerado_em": "2026-07-27T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -92,6 +92,17 @@
    "st": "val"
   },
   {
+   "n": "HIERARCHY",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 70,
+   "r": 3,
+   "pl": 65.16,
+   "roi": 4.0,
+   "wr": 95.9,
+   "st": "val"
+  },
+  {
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -100,17 +111,6 @@
    "pl": 64.37,
    "roi": 4.0,
    "wr": 90.2,
-   "st": "val"
-  },
-  {
-   "n": "HIERARCHY",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 69,
-   "r": 3,
-   "pl": 63.49,
-   "roi": 4.0,
-   "wr": 95.8,
    "st": "val"
   },
   {
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 49,
-   "r": 77,
-   "pl": 45.32,
+   "g": 50,
+   "r": 78,
+   "pl": 46.34,
    "roi": 6.7,
-   "wr": 38.9,
+   "wr": 39.1,
    "st": "val"
   },
   {
@@ -435,6 +435,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-27 20:59:55",
+   "tm": "20:59",
+   "match": "Talleres Córdoba Res. vs River Plate Res.",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.77
+  },
+  {
+   "data": "2026-07-27 20:29:54",
+   "tm": "20:29",
+   "match": "Bahia W vs Botafogo W",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.75
+  },
+  {
+   "data": "2026-07-27 18:59:05",
+   "tm": "18:59",
+   "match": "Guayaquil City x Universidad Católica del Ecuador",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-27 18:19:56",
    "tm": "18:19",
    "match": "KA Akureyri vs Thór",
@@ -727,28 +757,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 21,
-   "r": 8,
-   "pl": -87.75,
+   "ent": 32,
+   "g": 23,
+   "r": 9,
+   "pl": -85.06,
    "wr": 72,
    "label": "27/07"
   },
   "mes": {
-   "ent": 1059,
-   "g": 726,
-   "r": 333,
-   "pl": 304.21,
+   "ent": 1062,
+   "g": 728,
+   "r": 334,
+   "pl": 306.9,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-27": {
-   "pl": -87.75,
-   "ops": 29,
-   "g": 21,
-   "r": 8
+   "pl": -85.06,
+   "ops": 32,
+   "g": 23,
+   "r": 9
   },
   "2026-07-26": {
    "pl": 72.68,
