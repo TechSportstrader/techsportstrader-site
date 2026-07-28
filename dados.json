@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T17:00",
+ "gerado_em": "2026-07-28T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -150,11 +150,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 96,
+   "g": 97,
    "r": 7,
-   "pl": 29.97,
+   "pl": 32.83,
    "roi": 0.0,
-   "wr": 93.2,
+   "wr": 93.3,
    "st": "val"
   },
   {
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 101,
+   "r": 17,
+   "pl": 10.51,
+   "roi": -0.3,
+   "wr": 85.6,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -298,17 +309,6 @@
    "pl": 9.73,
    "roi": -0.2,
    "wr": 70.2,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 100,
-   "r": 17,
-   "pl": 8.84,
-   "roi": -0.3,
-   "wr": 85.5,
    "st": "val"
   },
   {
@@ -435,6 +435,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 17:49:56",
+   "tm": "17:49",
+   "match": "Hearts vs Sturm Graz",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-28 16:59:57",
    "tm": "16:59",
    "match": "Drita vs Floriana",
@@ -463,6 +473,16 @@
    "odd": 1.6,
    "status": "green",
    "pl": 3.64
+  },
+  {
+   "data": "2026-07-28 16:12:21",
+   "tm": "16:12",
+   "match": "GNK Dinamo Zagreb x FC Thun",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 29.0,
+   "status": "green",
+   "pl": 2.86
   },
   {
    "data": "2026-07-28 16:00:01",
@@ -557,27 +577,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 8,
+   "ent": 14,
+   "g": 10,
    "r": 4,
-   "pl": 10.79,
-   "wr": 67,
+   "pl": 15.32,
+   "wr": 71,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1079,
-   "g": 741,
+   "ent": 1081,
+   "g": 743,
    "r": 338,
-   "pl": 325.96,
+   "pl": 330.49,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 10.79,
-   "ops": 12,
-   "g": 8,
+   "pl": 15.32,
+   "ops": 14,
+   "g": 10,
    "r": 4
   },
   "2026-07-27": {
