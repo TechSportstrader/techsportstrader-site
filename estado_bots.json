@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-27T21:00",
+ "gerado_em": "2026-07-27T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 457,
-   "pl": 12.58,
+   "ent": 458,
+   "pl": 13.94,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 16,
-   "pl": 4.18,
+   "ent": 17,
+   "pl": 5.85,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 261,
-   "pl": 333.31,
+   "ent": 262,
+   "pl": 335.16,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 30,
-   "pl": -7.08,
+   "ent": 32,
+   "pl": -4.19,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 114,
-   "pl": 3.78,
+   "ent": 116,
+   "pl": 7.17,
    "roi": -0.3,
    "plat": "Bolsa"
   }
