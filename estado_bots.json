@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T08:00",
+ "gerado_em": "2026-07-28T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 262,
-   "pl": 335.16,
+   "ent": 263,
+   "pl": 337.01,
    "roi": 38.0,
    "plat": "Bolsa"
   },
