@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T12:00",
+ "gerado_em": "2026-07-28T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 46,
+   "r": 33,
+   "pl": 6.01,
+   "roi": -0.0,
+   "wr": 58.2,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -375,17 +386,6 @@
    "pl": 4.81,
    "roi": -5.0,
    "wr": 69.2,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 45,
-   "r": 33,
-   "pl": 4.34,
-   "roi": -0.0,
-   "wr": 57.7,
    "st": "val"
   },
   {
@@ -435,6 +435,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 12:49:55",
+   "tm": "12:49",
+   "match": "KuPS vs Sabah",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-28 08:59:56",
    "tm": "08:59",
    "match": "Philippines vs Myanmar",
@@ -447,27 +457,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 1.85,
+   "pl": 3.52,
    "wr": 100,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1068,
-   "g": 734,
+   "ent": 1069,
+   "g": 735,
    "r": 334,
-   "pl": 317.02,
+   "pl": 318.69,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 1.85,
-   "ops": 1,
-   "g": 1,
+   "pl": 3.52,
+   "ops": 2,
+   "g": 2,
    "r": 0
   },
   "2026-07-27": {
