@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T08:00",
+ "gerado_em": "2026-07-28T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 261,
+   "g": 262,
    "r": 1,
-   "pl": 335.16,
+   "pl": 337.01,
    "roi": 38.0,
    "wr": 99.6,
    "st": "val"
@@ -433,26 +433,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-28 08:59:56",
+   "tm": "08:59",
+   "match": "Philippines vs Myanmar",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.85
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 1.85,
+   "wr": 100,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1067,
-   "g": 733,
+   "ent": 1068,
+   "g": 734,
    "r": 334,
-   "pl": 315.17,
+   "pl": 317.02,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-28": {
+   "pl": 1.85,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-07-27": {
    "pl": -76.79,
    "ops": 37,
