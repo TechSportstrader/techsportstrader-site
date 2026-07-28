@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T15:00",
+ "gerado_em": "2026-07-28T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 129,
-   "pl": 52.22,
+   "ent": 130,
+   "pl": 50.22,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 56,
-   "pl": 8.81,
+   "ent": 57,
+   "pl": 9.73,
    "roi": -0.2,
    "plat": "Bolsa"
   },
