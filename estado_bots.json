@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T17:00",
+ "gerado_em": "2026-07-28T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 103,
-   "pl": 29.97,
+   "ent": 104,
+   "pl": 32.83,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 10,
-   "pl": -24.14,
+   "ent": 11,
+   "pl": -22.74,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 117,
-   "pl": 8.84,
+   "ent": 118,
+   "pl": 10.51,
    "roi": -0.3,
    "plat": "Bolsa"
   }
