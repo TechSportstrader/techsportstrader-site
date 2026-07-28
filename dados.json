@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T13:00",
+ "gerado_em": "2026-07-28T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -194,11 +194,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 98,
+   "g": 99,
    "r": 42,
-   "pl": 23.92,
+   "pl": 25.13,
    "roi": 1.5,
-   "wr": 70.0,
+   "wr": 70.2,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 100,
+   "r": 17,
+   "pl": 8.84,
+   "roi": -0.3,
+   "wr": 85.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -331,17 +342,6 @@
    "pl": 7.38,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 99,
-   "r": 17,
-   "pl": 7.17,
-   "roi": -0.3,
-   "wr": 85.3,
    "st": "val"
   },
   {
@@ -435,6 +435,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 13:59:58",
+   "tm": "13:59",
+   "match": "KuPS vs Sabah",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-28 13:59:55",
+   "tm": "13:59",
+   "match": "KuPS vs Sabah",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 1.21
+  },
+  {
    "data": "2026-07-28 12:49:55",
    "tm": "12:49",
    "match": "KuPS vs Sabah",
@@ -457,27 +477,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 2,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 3.52,
+   "pl": 6.4,
    "wr": 100,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1069,
-   "g": 735,
+   "ent": 1071,
+   "g": 737,
    "r": 334,
-   "pl": 318.69,
+   "pl": 321.57,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 3.52,
-   "ops": 2,
-   "g": 2,
+   "pl": 6.4,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-07-27": {
