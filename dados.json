@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T16:00",
+ "gerado_em": "2026-07-28T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 13,
-   "r": 49,
-   "pl": 93.55,
+   "r": 50,
+   "pl": 91.55,
    "roi": 3.7,
-   "wr": 21.0,
+   "wr": 20.6,
    "st": "val"
   },
   {
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 51,
+   "g": 52,
    "r": 79,
-   "pl": 50.22,
+   "pl": 53.86,
    "roi": 6.7,
-   "wr": 39.2,
+   "wr": 39.7,
    "st": "val"
   },
   {
@@ -205,9 +205,9 @@
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 16,
+   "g": 17,
    "r": 0,
-   "pl": 23.45,
+   "pl": 24.8,
    "roi": 4.2,
    "wr": 100.0,
    "st": "val"
@@ -435,6 +435,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 16:59:57",
+   "tm": "16:59",
+   "match": "Drita vs Floriana",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
+   "data": "2026-07-28 16:59:57",
+   "tm": "16:59",
+   "match": "Drita vs Floriana",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 11.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-28 16:29:55",
+   "tm": "16:29",
+   "match": "CSKA 1948 Sofia vs Spartak Trnava",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.64
+  },
+  {
    "data": "2026-07-28 16:00:01",
    "tm": "16:00",
    "match": "Riga vs Vardar",
@@ -527,28 +557,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 6,
-   "r": 3,
-   "pl": 7.8,
+   "ent": 12,
+   "g": 8,
+   "r": 4,
+   "pl": 10.79,
    "wr": 67,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1076,
-   "g": 739,
-   "r": 337,
-   "pl": 322.97,
+   "ent": 1079,
+   "g": 741,
+   "r": 338,
+   "pl": 325.96,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 7.8,
-   "ops": 9,
-   "g": 6,
-   "r": 3
+   "pl": 10.79,
+   "ops": 12,
+   "g": 8,
+   "r": 4
   },
   "2026-07-27": {
    "pl": -76.79,
