@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T14:00",
+ "gerado_em": "2026-07-28T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 50,
+   "g": 51,
    "r": 78,
-   "pl": 46.34,
+   "pl": 52.22,
    "roi": 6.7,
-   "wr": 39.1,
+   "wr": 39.5,
    "st": "val"
   },
   {
@@ -312,17 +312,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 46,
-   "r": 47,
-   "pl": 8.54,
-   "roi": 1.4,
-   "wr": 49.5,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -345,14 +334,14 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 46,
-   "r": 33,
-   "pl": 6.01,
-   "roi": -0.0,
-   "wr": 58.2,
+   "r": 48,
+   "pl": 7.14,
+   "roi": 1.4,
+   "wr": 48.9,
    "st": "val"
   },
   {
@@ -411,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 46,
+   "r": 34,
+   "pl": 4.01,
+   "roi": -0.0,
+   "wr": 57.5,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -434,6 +434,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-28 15:00:02",
+   "tm": "15:00",
+   "match": "Landskrona vs Norrköping",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-28 15:00:00",
+   "tm": "15:00",
+   "match": "Lincoln Red Imps vs Mjällby",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 5.88
+  },
+  {
+   "data": "2026-07-28 14:59:59",
+   "tm": "14:59",
+   "match": "Lincoln Red Imps vs Mjällby",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -1.4
+  },
   {
    "data": "2026-07-28 13:59:58",
    "tm": "13:59",
@@ -477,28 +507,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 4,
-   "r": 0,
-   "pl": 6.4,
-   "wr": 100,
+   "ent": 7,
+   "g": 5,
+   "r": 2,
+   "pl": 8.88,
+   "wr": 71,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1071,
-   "g": 737,
-   "r": 334,
-   "pl": 321.57,
+   "ent": 1074,
+   "g": 738,
+   "r": 336,
+   "pl": 324.05,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 6.4,
-   "ops": 4,
-   "g": 4,
-   "r": 0
+   "pl": 8.88,
+   "ops": 7,
+   "g": 5,
+   "r": 2
   },
   "2026-07-27": {
    "pl": -76.79,
