@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T15:00",
+ "gerado_em": "2026-07-28T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 51,
-   "r": 78,
-   "pl": 52.22,
+   "r": 79,
+   "pl": 50.22,
    "roi": 6.7,
-   "wr": 39.5,
+   "wr": 39.2,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 40,
+   "r": 17,
+   "pl": 9.73,
+   "roi": -0.2,
+   "wr": 70.2,
+   "st": "val"
+  },
+  {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -298,17 +309,6 @@
    "pl": 8.84,
    "roi": -0.3,
    "wr": 85.5,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 39,
-   "r": 17,
-   "pl": 8.81,
-   "roi": -0.2,
-   "wr": 69.6,
    "st": "val"
   },
   {
@@ -435,6 +435,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 16:00:01",
+   "tm": "16:00",
+   "match": "Riga vs Vardar",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.92
+  },
+  {
+   "data": "2026-07-28 15:29:54",
+   "tm": "15:29",
+   "match": "Helsingborg vs United Nordic",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-28 15:00:02",
    "tm": "15:00",
    "match": "Landskrona vs Norrköping",
@@ -507,28 +527,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 5,
-   "r": 2,
-   "pl": 8.88,
-   "wr": 71,
+   "ent": 9,
+   "g": 6,
+   "r": 3,
+   "pl": 7.8,
+   "wr": 67,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1074,
-   "g": 738,
-   "r": 336,
-   "pl": 324.05,
+   "ent": 1076,
+   "g": 739,
+   "r": 337,
+   "pl": 322.97,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 8.88,
-   "ops": 7,
-   "g": 5,
-   "r": 2
+   "pl": 7.8,
+   "ops": 9,
+   "g": 6,
+   "r": 3
   },
   "2026-07-27": {
    "pl": -76.79,
