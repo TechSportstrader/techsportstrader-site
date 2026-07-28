@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T16:00",
+ "gerado_em": "2026-07-28T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 62,
-   "pl": 93.55,
+   "ent": 63,
+   "pl": 91.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 130,
-   "pl": 50.22,
+   "ent": 131,
+   "pl": 53.86,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 16,
-   "pl": 23.45,
+   "ent": 17,
+   "pl": 24.8,
    "roi": 4.2,
    "plat": "Bolsa"
   },
