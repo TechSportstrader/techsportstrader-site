@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T18:00",
+ "gerado_em": "2026-07-29T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -271,11 +271,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 103,
+   "g": 104,
    "r": 17,
-   "pl": 13.85,
+   "pl": 15.7,
    "roi": -0.3,
-   "wr": 85.8,
+   "wr": 86.0,
    "st": "val"
   },
   {
@@ -425,11 +425,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 111,
+   "g": 112,
    "r": 52,
-   "pl": 1.85,
+   "pl": 2.74,
    "roi": 2.0,
-   "wr": 68.1,
+   "wr": 68.3,
    "st": "val"
   },
   {
@@ -445,6 +445,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-29 18:09:15",
+   "tm": "18:09",
+   "match": "Defensa y Justicia x Deportivo Riestra",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.89
+  },
+  {
+   "data": "2026-07-29 18:05:54",
+   "tm": "18:05",
+   "match": "Sportivo Luqueño vs Sportivo Trinidense",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  },
   {
    "data": "2026-07-29 17:45:40",
    "tm": "17:45",
@@ -668,27 +688,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 22,
-   "g": 16,
+   "ent": 24,
+   "g": 18,
    "r": 6,
-   "pl": 11.66,
-   "wr": 73,
+   "pl": 14.39,
+   "wr": 75,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1216,
-   "g": 837,
+   "ent": 1218,
+   "g": 839,
    "r": 379,
-   "pl": 364.06,
+   "pl": 366.8,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 11.66,
-   "ops": 22,
-   "g": 16,
+   "pl": 14.39,
+   "ops": 24,
+   "g": 18,
    "r": 6
   },
   "2026-07-28": {
