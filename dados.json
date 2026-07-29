@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T20:00",
+ "gerado_em": "2026-07-28T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 353,
+   "g": 354,
    "r": 106,
-   "pl": 14.59,
+   "pl": 15.4,
    "roi": 2.0,
-   "wr": 76.9,
+   "wr": 77.0,
    "st": "ap"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 52,
-   "r": 79,
-   "pl": 53.86,
+   "r": 80,
+   "pl": 51.91,
    "roi": 6.7,
-   "wr": 39.7,
+   "wr": 39.4,
    "st": "val"
   },
   {
@@ -435,6 +435,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 20:55:12",
+   "tm": "20:55",
+   "match": "San Lorenzo vs Gimnasia y Esgrima Mendoza",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.95
+  },
+  {
+   "data": "2026-07-28 19:38:15",
+   "tm": "19:38",
+   "match": "CS 2 de Mayo x Cerro Porteño",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.82
+  },
+  {
    "data": "2026-07-28 18:19:53",
    "tm": "18:19",
    "match": "Ægir vs Njardvík",
@@ -607,28 +627,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 13,
-   "r": 4,
-   "pl": 18.31,
-   "wr": 76,
+   "ent": 19,
+   "g": 14,
+   "r": 5,
+   "pl": 17.17,
+   "wr": 74,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1084,
-   "g": 746,
-   "r": 338,
-   "pl": 333.47,
+   "ent": 1086,
+   "g": 747,
+   "r": 339,
+   "pl": 332.34,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 18.31,
-   "ops": 17,
-   "g": 13,
-   "r": 4
+   "pl": 17.17,
+   "ops": 19,
+   "g": 14,
+   "r": 5
   },
   "2026-07-27": {
    "pl": -76.79,
