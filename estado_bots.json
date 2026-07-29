@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T08:00",
+ "gerado_em": "2026-07-29T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 105,
-   "pl": 34.07,
+   "ent": 106,
+   "pl": 35.42,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 22,
-   "pl": 14.39,
+   "ent": 23,
+   "pl": 15.97,
    "roi": 9.0,
    "plat": "BotBet"
   },
