@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T22:00",
+ "gerado_em": "2026-07-28T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -62,11 +62,11 @@
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 13,
+   "g": 14,
    "r": 50,
-   "pl": 91.55,
+   "pl": 105.95,
    "roi": 3.7,
-   "wr": 20.6,
+   "wr": 21.9,
    "st": "val"
   },
   {
@@ -435,6 +435,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 22:25:08",
+   "tm": "22:25",
+   "match": "Deportes Quindío vs Deportes Tolima",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "green",
+   "pl": 14.4
+  },
+  {
    "data": "2026-07-28 21:05:13",
    "tm": "21:05",
    "match": "San Lorenzo vs Gimnasia y Esgrima Mendoza",
@@ -657,27 +667,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 22,
-   "g": 17,
+   "ent": 23,
+   "g": 18,
    "r": 5,
-   "pl": 21.24,
-   "wr": 77,
+   "pl": 35.64,
+   "wr": 78,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1089,
-   "g": 750,
+   "ent": 1090,
+   "g": 751,
    "r": 339,
-   "pl": 336.41,
+   "pl": 350.81,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 21.24,
-   "ops": 22,
-   "g": 17,
+   "pl": 35.64,
+   "ops": 23,
+   "g": 18,
    "r": 5
   },
   "2026-07-27": {
