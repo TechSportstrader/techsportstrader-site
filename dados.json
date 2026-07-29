@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T13:00",
+ "gerado_em": "2026-07-29T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 262,
+   "g": 263,
    "r": 1,
-   "pl": 337.01,
+   "pl": 339.27,
    "roi": 38.0,
    "wr": 99.6,
    "st": "val"
@@ -161,9 +161,9 @@
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 11,
+   "g": 12,
    "r": 0,
-   "pl": 27.89,
+   "pl": 30.39,
    "roi": 13.0,
    "wr": 100.0,
    "st": "val"
@@ -227,11 +227,11 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 47,
+   "g": 48,
    "r": 1,
-   "pl": 17.51,
+   "pl": 18.34,
    "roi": 3.0,
-   "wr": 97.9,
+   "wr": 98.0,
    "st": "val"
   },
   {
@@ -435,6 +435,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-29 13:43:04",
+   "tm": "13:43",
+   "match": "FK Kauno Žalgiris x Klaksvíkar Ítróttarfelag",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.84
+  },
+  {
+   "data": "2026-07-29 13:42:16",
+   "tm": "13:42",
+   "match": "FK Kauno Žalgiris x Klaksvíkar Ítróttarfelag",
+   "bot": "SNIPER HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 2.5
+  },
+  {
+   "data": "2026-07-29 13:35:12",
+   "tm": "13:35",
+   "match": "FC Sacele vs Kids Tâmpa Braşov",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 44.0,
+   "status": "green",
+   "pl": 2.26
+  },
+  {
    "data": "2026-07-29 09:05:12",
    "tm": "09:05",
    "match": "Cerezo Osaka vs Borussia Dortmund",
@@ -467,27 +497,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 3,
+   "ent": 6,
+   "g": 6,
    "r": 0,
-   "pl": 4.43,
+   "pl": 10.03,
    "wr": 100,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1098,
-   "g": 758,
+   "ent": 1101,
+   "g": 761,
    "r": 340,
-   "pl": 359.61,
+   "pl": 365.21,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 4.43,
-   "ops": 3,
-   "g": 3,
+   "pl": 10.03,
+   "ops": 6,
+   "g": 6,
    "r": 0
   },
   "2026-07-28": {
