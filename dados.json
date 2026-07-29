@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T15:00",
+ "gerado_em": "2026-07-29T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 355,
+   "g": 356,
    "r": 107,
-   "pl": 14.08,
+   "pl": 14.71,
    "roi": 2.0,
-   "wr": 76.8,
+   "wr": 76.9,
    "st": "ap"
   },
   {
@@ -435,6 +435,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-29 15:15:05",
+   "tm": "15:15",
+   "match": "FC København x Polissya Zhytomyr",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.62
+  },
+  {
    "data": "2026-07-29 14:05:27",
    "tm": "14:05",
    "match": "Kairat vs Omonia Nicosia",
@@ -507,27 +517,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 7,
+   "ent": 8,
+   "g": 8,
    "r": 0,
-   "pl": 11.33,
+   "pl": 11.95,
    "wr": 100,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1102,
-   "g": 762,
+   "ent": 1103,
+   "g": 763,
    "r": 340,
-   "pl": 366.51,
+   "pl": 367.13,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 11.33,
-   "ops": 7,
-   "g": 7,
+   "pl": 11.95,
+   "ops": 8,
+   "g": 8,
    "r": 0
   },
   "2026-07-28": {
