@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T08:00",
+ "gerado_em": "2026-07-29T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -150,11 +150,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 98,
+   "g": 99,
    "r": 7,
-   "pl": 34.07,
+   "pl": 35.42,
    "roi": 0.0,
-   "wr": 93.3,
+   "wr": 93.4,
    "st": "val"
   },
   {
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 22,
+   "r": 1,
+   "pl": 15.97,
+   "roi": 9.0,
+   "wr": 95.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -254,17 +265,6 @@
    "pl": 15.87,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 21,
-   "r": 1,
-   "pl": 14.39,
-   "roi": 9.0,
-   "wr": 95.5,
    "st": "val"
   },
   {
@@ -433,26 +433,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-29 08:26:11",
+   "tm": "08:26",
+   "match": "Cerezo Osaka x Borussia Dortmund",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 44.0,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
+   "data": "2026-07-29 07:50:20",
+   "tm": "07:50",
+   "match": "Cerezo Osaka x Borussia Dortmund",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.58
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 2.93,
+   "wr": 100,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1095,
-   "g": 755,
+   "ent": 1097,
+   "g": 757,
    "r": 340,
-   "pl": 355.18,
+   "pl": 358.11,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-29": {
+   "pl": 2.93,
+   "ops": 2,
+   "g": 2,
+   "r": 0
+  },
   "2026-07-28": {
    "pl": 40.01,
    "ops": 28,
