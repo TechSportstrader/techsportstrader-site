@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T21:00",
+ "gerado_em": "2026-07-28T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 354,
+   "g": 355,
    "r": 106,
-   "pl": 15.4,
+   "pl": 16.08,
    "roi": 2.0,
    "wr": 77.0,
    "st": "ap"
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 102,
+   "r": 17,
+   "pl": 12.18,
+   "roi": -0.3,
+   "wr": 85.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -287,17 +298,6 @@
    "pl": 10.83,
    "roi": -0.2,
    "wr": 70.7,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 101,
-   "r": 17,
-   "pl": 10.51,
-   "roi": -0.3,
-   "wr": 85.6,
    "st": "val"
   },
   {
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 16,
+   "r": 2,
+   "pl": 7.57,
+   "roi": 16.0,
+   "wr": 88.9,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -342,17 +353,6 @@
    "pl": 7.14,
    "roi": 1.4,
    "wr": 48.9,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 15,
-   "r": 2,
-   "pl": 5.85,
-   "roi": 16.0,
-   "wr": 88.2,
    "st": "val"
   },
   {
@@ -435,6 +435,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-28 21:05:13",
+   "tm": "21:05",
+   "match": "San Lorenzo vs Gimnasia y Esgrima Mendoza",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-07-28 20:55:12",
    "tm": "20:55",
    "match": "San Lorenzo vs Gimnasia y Esgrima Mendoza",
@@ -443,6 +453,26 @@
    "odd": 1.8,
    "status": "red",
    "pl": -1.95
+  },
+  {
+   "data": "2026-07-28 20:38:09",
+   "tm": "20:38",
+   "match": "Ponte Preta x Athletic Club",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.68
+  },
+  {
+   "data": "2026-07-28 19:51:05",
+   "tm": "19:51",
+   "match": "Ponte Preta x Athletic Club",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
   },
   {
    "data": "2026-07-28 19:38:15",
@@ -627,27 +657,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 19,
-   "g": 14,
+   "ent": 22,
+   "g": 17,
    "r": 5,
-   "pl": 17.17,
-   "wr": 74,
+   "pl": 21.24,
+   "wr": 77,
    "label": "28/07"
   },
   "mes": {
-   "ent": 1086,
-   "g": 747,
+   "ent": 1089,
+   "g": 750,
    "r": 339,
-   "pl": 332.34,
+   "pl": 336.41,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-28": {
-   "pl": 17.17,
-   "ops": 19,
-   "g": 14,
+   "pl": 21.24,
+   "ops": 22,
+   "g": 17,
    "r": 5
   },
   "2026-07-27": {
