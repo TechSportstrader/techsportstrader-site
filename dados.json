@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T15:00",
+ "gerado_em": "2026-07-30T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 358,
+   "g": 359,
    "r": 107,
-   "pl": 16.13,
+   "pl": 16.54,
    "roi": 2.0,
    "wr": 77.0,
    "st": "ap"
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 43,
+   "r": 17,
+   "pl": 12.89,
+   "roi": -0.2,
+   "wr": 71.7,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -287,17 +298,6 @@
    "pl": 12.64,
    "roi": 131.0,
    "wr": 15.8,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 42,
-   "r": 17,
-   "pl": 11.74,
-   "roi": -0.2,
-   "wr": 71.2,
    "st": "val"
   },
   {
@@ -456,6 +456,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-30 15:59:51",
+   "tm": "15:59",
+   "match": "Győri ETO vs Atert Bissen",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.15
+  },
+  {
+   "data": "2026-07-30 15:13:05",
+   "tm": "15:13",
+   "match": "ETO FC Győr x Atert Bissen",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.41
+  },
   {
    "data": "2026-07-30 15:00:00",
    "tm": "15:00",
@@ -619,27 +639,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 16,
-   "g": 10,
+   "ent": 18,
+   "g": 12,
    "r": 6,
-   "pl": 1.25,
-   "wr": 62,
+   "pl": 2.81,
+   "wr": 67,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1263,
-   "g": 866,
+   "ent": 1265,
+   "g": 868,
    "r": 397,
-   "pl": 377.09,
+   "pl": 378.64,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": 1.25,
-   "ops": 16,
-   "g": 10,
+   "pl": 2.81,
+   "ops": 18,
+   "g": 12,
    "r": 6
   },
   "2026-07-29": {
