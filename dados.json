@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T21:00",
+ "gerado_em": "2026-07-29T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 357,
+   "g": 358,
    "r": 107,
-   "pl": 15.65,
+   "pl": 16.13,
    "roi": 2.0,
-   "wr": 76.9,
+   "wr": 77.0,
    "st": "ap"
   },
   {
@@ -95,9 +95,9 @@
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 70,
+   "g": 71,
    "r": 3,
-   "pl": 65.16,
+   "pl": 66.76,
    "roi": 4.0,
    "wr": 95.9,
    "st": "val"
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 15,
+   "r": 0,
+   "pl": 16.93,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -254,17 +265,6 @@
    "pl": 15.97,
    "roi": 9.0,
    "wr": 95.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 14,
-   "r": 0,
-   "pl": 15.87,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -436,9 +436,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 15,
+   "g": 16,
    "r": 0,
-   "pl": 1.2,
+   "pl": 1.25,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -457,6 +457,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-29 20:44:05",
+   "tm": "20:44",
+   "match": "Mirassol x Remo",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 24.0,
+   "status": "green",
+   "pl": 1.06
+  },
+  {
    "data": "2026-07-29 20:39:11",
    "tm": "20:39",
    "match": "Vasco da Gama x Independiente Medellín",
@@ -465,6 +475,36 @@
    "odd": 1.6,
    "status": "green",
    "pl": 2.86
+  },
+  {
+   "data": "2026-07-29 20:38:05",
+   "tm": "20:38",
+   "match": "Internacional x Flamengo",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.49
+  },
+  {
+   "data": "2026-07-29 20:33:21",
+   "tm": "20:33",
+   "match": "Gimnasia y Esgrima x River Plate",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.05
+  },
+  {
+   "data": "2026-07-29 19:47:15",
+   "tm": "19:47",
+   "match": "Internacional x Flamengo",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 13.5,
+   "status": "green",
+   "pl": 1.6
   },
   {
    "data": "2026-07-29 18:09:15",
@@ -709,27 +749,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 25,
-   "g": 19,
+   "ent": 29,
+   "g": 23,
    "r": 6,
-   "pl": 17.25,
-   "wr": 76,
+   "pl": 20.45,
+   "wr": 79,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1234,
-   "g": 845,
+   "ent": 1238,
+   "g": 849,
    "r": 389,
-   "pl": 368.28,
-   "wr": 68,
+   "pl": 371.47,
+   "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 17.25,
-   "ops": 25,
-   "g": 19,
+   "pl": 20.45,
+   "ops": 29,
+   "g": 23,
    "r": 6
   },
   "2026-07-28": {
