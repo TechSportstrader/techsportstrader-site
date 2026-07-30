@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T23:00",
+ "gerado_em": "2026-07-30T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -95,11 +95,11 @@
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 71,
+   "g": 72,
    "r": 3,
-   "pl": 66.76,
+   "pl": 68.58,
    "roi": 4.0,
-   "wr": 95.9,
+   "wr": 96.0,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 52,
-   "r": 83,
-   "pl": 45.97,
+   "r": 84,
+   "pl": 43.97,
    "roi": 6.7,
-   "wr": 38.5,
+   "wr": 38.2,
    "st": "val"
   },
   {
@@ -150,11 +150,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 99,
+   "g": 100,
    "r": 7,
-   "pl": 35.42,
+   "pl": 37.05,
    "roi": 0.0,
-   "wr": 93.4,
+   "wr": 93.5,
    "st": "val"
   },
   {
@@ -205,11 +205,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 100,
+   "g": 101,
    "r": 43,
-   "pl": 23.28,
+   "pl": 24.6,
    "roi": 1.5,
-   "wr": 69.9,
+   "wr": 70.1,
    "st": "val"
   },
   {
@@ -367,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 115,
+   "r": 52,
+   "pl": 5.32,
+   "roi": 2.0,
+   "wr": 68.9,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -422,17 +433,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 113,
-   "r": 52,
-   "pl": 3.46,
-   "roi": 2.0,
-   "wr": 68.5,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -455,352 +455,31 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-07-29 22:19:40",
-   "tm": "22:19",
-   "match": "Liverpool vs Wrexham",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-29 22:02:21",
-   "tm": "22:02",
-   "match": "Louisville City FC x Birmingham Legion FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.71
-  },
-  {
-   "data": "2026-07-29 21:46:11",
-   "tm": "21:46",
-   "match": "Louisville City FC x Birmingham Legion FC",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 85.0,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-07-29 20:44:05",
-   "tm": "20:44",
-   "match": "Mirassol x Remo",
-   "bot": "MURALHA CASA-22",
-   "mkt": "Lay Goleada Casa",
-   "odd": 24.0,
-   "status": "green",
-   "pl": 1.06
-  },
-  {
-   "data": "2026-07-29 20:39:11",
-   "tm": "20:39",
-   "match": "Vasco da Gama x Independiente Medellín",
-   "bot": "QUEBRA-ZERO 80",
-   "mkt": "Lay Placar 0x0",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 2.86
-  },
-  {
-   "data": "2026-07-29 20:38:05",
-   "tm": "20:38",
-   "match": "Internacional x Flamengo",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.49
-  },
-  {
-   "data": "2026-07-29 20:33:21",
-   "tm": "20:33",
-   "match": "Gimnasia y Esgrima x River Plate",
-   "bot": "LOWLINE",
-   "mkt": "Under 3.5 FT",
-   "odd": 1.0,
-   "status": "green",
-   "pl": 0.05
-  },
-  {
-   "data": "2026-07-29 19:47:15",
-   "tm": "19:47",
-   "match": "Internacional x Flamengo",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 13.5,
-   "status": "green",
-   "pl": 1.6
-  },
-  {
-   "data": "2026-07-29 18:09:15",
-   "tm": "18:09",
-   "match": "Defensa y Justicia x Deportivo Riestra",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.89
-  },
-  {
-   "data": "2026-07-29 18:05:54",
-   "tm": "18:05",
-   "match": "Sportivo Luqueño vs Sportivo Trinidense",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-07-29 17:45:40",
-   "tm": "17:45",
-   "match": "Grindavík vs Leiknir Reykjavík",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.94
-  },
-  {
-   "data": "2026-07-29 17:45:38",
-   "tm": "17:45",
-   "match": "Ipswich Town vs Osasuna",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-29 17:27:04",
-   "tm": "17:27",
-   "match": "Sportivo Luqueño x Sportivo Trinidense",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.61
-  },
-  {
-   "data": "2026-07-29 17:12:04",
-   "tm": "17:12",
-   "match": "Sportivo Luqueño x Sportivo Trinidense",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.94
-  },
-  {
-   "data": "2026-07-29 16:36:04",
-   "tm": "16:36",
-   "match": "Fylkir vs Völsungur",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 0.91
-  },
-  {
-   "data": "2026-07-29 16:36:02",
-   "tm": "16:36",
-   "match": "Fylkir vs Völsungur",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.0,
-   "status": "red",
-   "pl": -3.06
-  },
-  {
-   "data": "2026-07-29 16:36:01",
-   "tm": "16:36",
-   "match": "Hapoel Be'er Sheva vs Víkingur Reykjavík",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "green",
-   "pl": 1.21
-  },
-  {
-   "data": "2026-07-29 16:17:05",
-   "tm": "16:17",
-   "match": "Górnik Zabrze x Fenerbahçe",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 21.0,
-   "status": "green",
-   "pl": 3.17
-  },
-  {
-   "data": "2026-07-29 16:15:52",
-   "tm": "16:15",
-   "match": "Hapoel Be'er Sheva vs Víkingur Reykjavík",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-29 16:15:48",
-   "tm": "16:15",
-   "match": "Lech Poznań vs AGF",
-   "bot": "GATILHO DUPLO",
-   "mkt": "Back Ambas Marcam",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -0.98
-  },
-  {
-   "data": "2026-07-29 16:05:49",
-   "tm": "16:05",
-   "match": "Lech Poznań vs AGF",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-07-29 15:23:05",
-   "tm": "15:23",
-   "match": "Real Betis x Olympique Lyonnais",
-   "bot": "SISTEMA L-20",
-   "mkt": "Lay (misto)",
-   "odd": 16.5,
-   "status": "green",
-   "pl": 1.42
-  },
-  {
-   "data": "2026-07-29 15:20:05",
-   "tm": "15:20",
-   "match": "FC København x Polissya Zhytomyr",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.94
-  },
-  {
-   "data": "2026-07-29 15:15:05",
-   "tm": "15:15",
-   "match": "FC København x Polissya Zhytomyr",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-07-29 14:13:15",
-   "tm": "14:13",
-   "match": "Lech Poznań x AGF",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
-  },
-  {
-   "data": "2026-07-29 14:05:27",
-   "tm": "14:05",
-   "match": "Kairat vs Omonia Nicosia",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 12.5,
-   "status": "green",
-   "pl": 1.3
-  },
-  {
-   "data": "2026-07-29 13:43:04",
-   "tm": "13:43",
-   "match": "FK Kauno Žalgiris x Klaksvíkar Ítróttarfelag",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.84
-  },
-  {
-   "data": "2026-07-29 13:42:16",
-   "tm": "13:42",
-   "match": "FK Kauno Žalgiris x Klaksvíkar Ítróttarfelag",
-   "bot": "SNIPER HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 2.5
-  },
-  {
-   "data": "2026-07-29 13:35:12",
-   "tm": "13:35",
-   "match": "FC Sacele vs Kids Tâmpa Braşov",
-   "bot": "CITADEL",
-   "mkt": "Lay Placar 0-3",
-   "odd": 44.0,
-   "status": "green",
-   "pl": 2.26
-  },
-  {
-   "data": "2026-07-29 09:05:12",
-   "tm": "09:05",
-   "match": "Cerezo Osaka vs Borussia Dortmund",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 1.5
-  },
-  {
-   "data": "2026-07-29 08:26:11",
-   "tm": "08:26",
-   "match": "Cerezo Osaka x Borussia Dortmund",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 44.0,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-07-29 07:50:20",
-   "tm": "07:50",
-   "match": "Cerezo Osaka x Borussia Dortmund",
-   "bot": "MURALHA CASA-40",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 1.58
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 32,
-   "g": 25,
-   "r": 7,
-   "pl": 20.18,
-   "wr": 78,
-   "label": "29/07"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "30/07"
   },
   "mes": {
-   "ent": 1241,
-   "g": 851,
-   "r": 390,
-   "pl": 371.2,
+   "ent": 1247,
+   "g": 856,
+   "r": 391,
+   "pl": 375.83,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 20.18,
-   "ops": 32,
-   "g": 25,
-   "r": 7
+   "pl": 24.81,
+   "ops": 38,
+   "g": 30,
+   "r": 8
   },
   "2026-07-28": {
    "pl": 46.59,
@@ -1358,12 +1037,6 @@
    "pl": 8.88,
    "ops": 7,
    "g": 7,
-   "r": 0
-  },
-  "2026-04-25": {
-   "pl": 7.17,
-   "ops": 6,
-   "g": 6,
    "r": 0
   }
  }
