@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T18:00",
+ "gerado_em": "2026-07-30T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -121,9 +121,9 @@
    "plat": "BotBet"
   },
   "SENTINELA 0x1": {
-   "st": "val",
-   "ent": 18,
-   "pl": 7.57,
+   "st": "rep",
+   "ent": 19,
+   "pl": -2.42,
    "roi": 16.0,
    "plat": "BotBet"
   },
