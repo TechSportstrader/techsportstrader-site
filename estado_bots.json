@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T17:00",
+ "gerado_em": "2026-07-30T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,15 +17,15 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 42,
-   "pl": 27.24,
+   "ent": 43,
+   "pl": 26.26,
    "roi": 33.0,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 480,
-   "pl": 323.54,
+   "ent": 481,
+   "pl": 324.62,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 108,
-   "pl": 40.21,
+   "ent": 109,
+   "pl": 41.69,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 35,
-   "pl": 22.97,
+   "ent": 36,
+   "pl": 24.35,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 17,
-   "pl": 1.34,
+   "ent": 18,
+   "pl": 1.4,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -255,8 +255,8 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 264,
-   "pl": 339.27,
+   "ent": 265,
+   "pl": 341.49,
    "roi": 38.0,
    "plat": "Bolsa"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 67,
-   "pl": 99.95,
+   "ent": 68,
+   "pl": 97.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 138,
-   "pl": 46.97,
+   "ent": 139,
+   "pl": 49.6,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 99,
-   "pl": 6.49,
+   "ent": 101,
+   "pl": 3.97,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 17,
-   "pl": 24.8,
+   "ent": 18,
+   "pl": 26.59,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 60,
-   "pl": 12.89,
+   "ent": 61,
+   "pl": 13.74,
    "roi": -0.2,
    "plat": "Bolsa"
   },
