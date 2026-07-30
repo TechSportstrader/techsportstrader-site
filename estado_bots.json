@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T21:00",
+ "gerado_em": "2026-07-29T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 464,
-   "pl": 15.65,
+   "ent": 465,
+   "pl": 16.13,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 73,
-   "pl": 65.16,
+   "ent": 74,
+   "pl": 66.76,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 14,
-   "pl": 15.87,
+   "ent": 15,
+   "pl": 16.93,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 15,
-   "pl": 1.2,
+   "ent": 16,
+   "pl": 1.25,
    "roi": 1.0,
    "plat": "BotBet"
   },
