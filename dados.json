@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T12:00",
+ "gerado_em": "2026-07-30T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -206,10 +206,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 101,
-   "r": 43,
-   "pl": 24.6,
+   "r": 44,
+   "pl": 21.46,
    "roi": 1.5,
-   "wr": 70.1,
+   "wr": 69.7,
    "st": "val"
   },
   {
@@ -345,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 46,
-   "r": 49,
-   "pl": 6.16,
-   "roi": 1.4,
-   "wr": 48.4,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -397,6 +386,17 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 46,
+   "r": 50,
+   "pl": 4.16,
+   "roi": 1.4,
+   "wr": 47.9,
    "st": "val"
   },
   {
@@ -455,26 +455,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-30 12:59:38",
+   "tm": "12:59",
+   "match": "Atlètic Club d'Escaldes vs Vaduz",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 12:59:37",
+   "tm": "12:59",
+   "match": "Tobol vs Panevėžys",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -3.14
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 2,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 2,
+   "pl": -5.14,
    "wr": 0,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1247,
+   "ent": 1249,
    "g": 856,
-   "r": 391,
-   "pl": 375.83,
+   "r": 393,
+   "pl": 370.69,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-30": {
+   "pl": -5.14,
+   "ops": 2,
+   "g": 0,
+   "r": 2
+  },
   "2026-07-29": {
    "pl": 24.81,
    "ops": 38,
