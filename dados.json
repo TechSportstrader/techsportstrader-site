@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T14:00",
+ "gerado_em": "2026-07-30T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 474,
+   "g": 475,
    "r": 5,
-   "pl": 322.38,
+   "pl": 323.54,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -128,20 +128,20 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 52,
-   "r": 84,
-   "pl": 43.97,
+   "g": 53,
+   "r": 85,
+   "pl": 46.97,
    "roi": 6.7,
-   "wr": 38.2,
+   "wr": 38.4,
    "st": "val"
   },
   {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 50,
+   "g": 51,
    "r": 2,
-   "pl": 40.18,
+   "pl": 41.48,
    "roi": 1.3,
    "wr": 96.2,
    "st": "val"
@@ -202,36 +202,36 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 101,
-   "r": 44,
-   "pl": 21.46,
-   "roi": 1.5,
-   "wr": 69.7,
-   "st": "val"
-  },
-  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 32,
+   "g": 33,
    "r": 1,
-   "pl": 20.37,
+   "pl": 21.75,
    "roi": 6.0,
-   "wr": 97.0,
+   "wr": 97.1,
    "st": "val"
   },
   {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 48,
+   "g": 49,
    "r": 1,
-   "pl": 18.34,
+   "pl": 18.83,
    "roi": 3.0,
    "wr": 98.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 23,
+   "r": 1,
+   "pl": 17.12,
+   "roi": 9.0,
+   "wr": 95.8,
    "st": "val"
   },
   {
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 102,
+   "r": 46,
+   "pl": 16.91,
+   "roi": 1.5,
+   "wr": 68.9,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -254,17 +265,6 @@
    "pl": 16.31,
    "roi": 27.0,
    "wr": 90.5,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 22,
-   "r": 1,
-   "pl": 15.97,
-   "roi": 9.0,
-   "wr": 95.7,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 48,
+   "r": 50,
+   "pl": 7.23,
+   "roi": 1.4,
+   "wr": 49.0,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -356,14 +367,14 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 115,
-   "r": 52,
-   "pl": 5.32,
-   "roi": 2.0,
-   "wr": 68.9,
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 47,
+   "r": 34,
+   "pl": 5.41,
+   "roi": -0.0,
+   "wr": 58.0,
    "st": "val"
   },
   {
@@ -389,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 46,
-   "r": 50,
-   "pl": 4.16,
-   "roi": 1.4,
-   "wr": 47.9,
-   "st": "val"
-  },
-  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -411,17 +411,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 46,
-   "r": 34,
-   "pl": 4.01,
-   "roi": -0.0,
-   "wr": 57.5,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -430,6 +419,17 @@
    "pl": 3.48,
    "roi": 4.0,
    "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 115,
+   "r": 53,
+   "pl": 3.32,
+   "roi": 2.0,
+   "wr": 68.5,
    "st": "val"
   },
   {
@@ -457,6 +457,146 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-30 15:00:00",
+   "tm": "15:00",
+   "match": "Jablonec vs Varaždin",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.5,
+   "status": "green",
+   "pl": 1.3
+  },
+  {
+   "data": "2026-07-30 14:59:57",
+   "tm": "14:59",
+   "match": "Pyunik vs Debrecen",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.0
+  },
+  {
+   "data": "2026-07-30 14:59:53",
+   "tm": "14:59",
+   "match": "Ilves vs Stjarnan",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.3,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-07-30 14:43:15",
+   "tm": "14:43",
+   "match": "FC Midtjylland x Beşiktaş JK",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.48
+  },
+  {
+   "data": "2026-07-30 14:39:34",
+   "tm": "14:39",
+   "match": "Noah vs Zimbru",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -2.69
+  },
+  {
+   "data": "2026-07-30 14:39:34",
+   "tm": "14:39",
+   "match": "Auda vs FCSB",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "red",
+   "pl": -3.09
+  },
+  {
+   "data": "2026-07-30 14:29:41",
+   "tm": "14:29",
+   "match": "Auda vs FCSB",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.85
+  },
+  {
+   "data": "2026-07-30 14:29:40",
+   "tm": "14:29",
+   "match": "Levadia vs IFK Göteborg",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.4
+  },
+  {
+   "data": "2026-07-30 14:21:18",
+   "tm": "14:21",
+   "match": "Inter Turku x Başakşehir FK",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 14:19:36",
+   "tm": "14:19",
+   "match": "JIPPO vs JäPS",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 14:19:35",
+   "tm": "14:19",
+   "match": "Nõmme Kalju vs Shelbourne",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 2.22
+  },
+  {
+   "data": "2026-07-30 13:50:05",
+   "tm": "13:50",
+   "match": "Hluboka x FK Spartak Soběslav",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.15
+  },
+  {
+   "data": "2026-07-30 13:24:05",
+   "tm": "13:24",
+   "match": "Hluboka x FK Spartak Soběslav",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.38
+  },
+  {
+   "data": "2026-07-30 13:07:15",
+   "tm": "13:07",
+   "match": "Pyunik Yerevan x Debreceni VSC",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 1.16
+  },
+  {
    "data": "2026-07-30 12:59:38",
    "tm": "12:59",
    "match": "Atlètic Club d'Escaldes vs Vaduz",
@@ -479,28 +619,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 0,
-   "r": 2,
-   "pl": -5.14,
-   "wr": 0,
+   "ent": 16,
+   "g": 10,
+   "r": 6,
+   "pl": 1.25,
+   "wr": 62,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1249,
-   "g": 856,
-   "r": 393,
-   "pl": 370.69,
+   "ent": 1263,
+   "g": 866,
+   "r": 397,
+   "pl": 377.09,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": -5.14,
-   "ops": 2,
-   "g": 0,
-   "r": 2
+   "pl": 1.25,
+   "ops": 16,
+   "g": 10,
+   "r": 6
   },
   "2026-07-29": {
    "pl": 24.81,
