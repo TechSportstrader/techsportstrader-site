@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T16:00",
+ "gerado_em": "2026-07-30T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 52,
-   "pl": 101.95,
+   "r": 53,
+   "pl": 99.95,
    "roi": 3.7,
-   "wr": 21.2,
+   "wr": 20.9,
    "st": "val"
   },
   {
@@ -139,20 +139,20 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 51,
+   "g": 52,
    "r": 2,
-   "pl": 41.48,
+   "pl": 42.91,
    "roi": 1.3,
-   "wr": 96.2,
+   "wr": 96.3,
    "st": "val"
   },
   {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 100,
+   "g": 101,
    "r": 7,
-   "pl": 37.05,
+   "pl": 40.21,
    "roi": 0.0,
    "wr": 93.5,
    "st": "val"
@@ -169,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5",
+   "s": "Lay Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 35,
+   "r": 7,
+   "pl": 27.24,
+   "roi": 33.0,
+   "wr": 83.3,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -177,17 +188,6 @@
    "pl": 27.14,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5",
-   "s": "Lay Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 34,
-   "r": 7,
-   "pl": 26.46,
-   "roi": 33.0,
-   "wr": 82.9,
    "st": "val"
   },
   {
@@ -205,9 +205,9 @@
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 33,
+   "g": 34,
    "r": 1,
-   "pl": 21.75,
+   "pl": 22.97,
    "roi": 6.0,
    "wr": 97.1,
    "st": "val"
@@ -221,6 +221,17 @@
    "pl": 18.83,
    "roi": 3.0,
    "wr": 98.0,
+   "st": "val"
+  },
+  {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 20,
+   "r": 2,
+   "pl": 17.83,
+   "roi": 27.0,
+   "wr": 90.9,
    "st": "val"
   },
   {
@@ -249,22 +260,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 102,
-   "r": 46,
-   "pl": 16.91,
+   "g": 103,
+   "r": 47,
+   "pl": 16.11,
    "roi": 1.5,
-   "wr": 68.9,
-   "st": "val"
-  },
-  {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 19,
-   "r": 2,
-   "pl": 16.31,
-   "roi": 27.0,
-   "wr": 90.5,
+   "wr": 68.7,
    "st": "val"
   },
   {
@@ -349,10 +349,10 @@
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
    "g": 48,
-   "r": 50,
-   "pl": 7.23,
+   "r": 51,
+   "pl": 6.49,
    "roi": 1.4,
-   "wr": 49.0,
+   "wr": 48.5,
    "st": "val"
   },
   {
@@ -422,25 +422,25 @@
    "st": "val"
   },
   {
+   "n": "LOWLINE",
+   "s": "Under 3.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 17,
+   "r": 0,
+   "pl": 1.34,
+   "roi": 1.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 115,
-   "r": 53,
-   "pl": 3.32,
+   "r": 54,
+   "pl": 1.32,
    "roi": 2.0,
-   "wr": 68.5,
-   "st": "val"
-  },
-  {
-   "n": "LOWLINE",
-   "s": "Under 3.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 16,
-   "r": 0,
-   "pl": 1.25,
-   "roi": 1.0,
-   "wr": 100.0,
+   "wr": 68.0,
    "st": "val"
   },
   {
@@ -457,6 +457,66 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-30 16:59:47",
+   "tm": "16:59",
+   "match": "Skendija 79 vs Bravo",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 16:49:35",
+   "tm": "16:49",
+   "match": "PAOK vs Dynamo Kyiv",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -0.74
+  },
+  {
+   "data": "2026-07-30 16:49:35",
+   "tm": "16:49",
+   "match": "Panathinaikos vs Paksi SE",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.02
+  },
+  {
+   "data": "2026-07-30 16:49:33",
+   "tm": "16:49",
+   "match": "PAOK vs Dynamo Kyiv",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 1.43
+  },
+  {
+   "data": "2026-07-30 16:29:39",
+   "tm": "16:29",
+   "match": "The New Saints vs Flora",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-30 16:02:06",
+   "tm": "16:02",
+   "match": "PAOK x Dynamo Kyiv",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-07-30 15:59:51",
    "tm": "15:59",
    "match": "Győri ETO vs Atert Bissen",
@@ -467,6 +527,36 @@
    "pl": 1.15
   },
   {
+   "data": "2026-07-30 15:45:06",
+   "tm": "15:45",
+   "match": "Beitar Jerusalem x AEK Larnaca",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.3,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
+   "data": "2026-07-30 15:15:05",
+   "tm": "15:15",
+   "match": "FC Midtjylland x Beşiktaş JK",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.1
+  },
+  {
+   "data": "2026-07-30 15:13:05",
+   "tm": "15:13",
+   "match": "Pafos FC x HNK Hajduk Split",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 3.16
+  },
+  {
    "data": "2026-07-30 15:13:05",
    "tm": "15:13",
    "match": "ETO FC Győr x Atert Bissen",
@@ -475,6 +565,16 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.41
+  },
+  {
+   "data": "2026-07-30 15:06:17",
+   "tm": "15:06",
+   "match": "ETO FC Győr x Atert Bissen",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.78
   },
   {
    "data": "2026-07-30 15:00:00",
@@ -559,6 +659,16 @@
   {
    "data": "2026-07-30 14:21:18",
    "tm": "14:21",
+   "match": "FC Hradec Králové x Tromsø IL",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-07-30 14:21:18",
+   "tm": "14:21",
    "match": "Inter Turku x Başakşehir FK",
    "bot": "VELOCITY",
    "mkt": "Back Over 2.5 FT",
@@ -639,28 +749,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 18,
-   "g": 12,
-   "r": 6,
-   "pl": 2.81,
-   "wr": 67,
+   "ent": 29,
+   "g": 19,
+   "r": 10,
+   "pl": 5.48,
+   "wr": 66,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1265,
-   "g": 868,
-   "r": 397,
-   "pl": 378.64,
+   "ent": 1276,
+   "g": 875,
+   "r": 401,
+   "pl": 381.31,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": 2.81,
-   "ops": 18,
-   "g": 12,
-   "r": 6
+   "pl": 5.48,
+   "ops": 29,
+   "g": 19,
+   "r": 10
   },
   "2026-07-29": {
    "pl": 24.81,
