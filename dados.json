@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T22:00",
+ "gerado_em": "2026-07-29T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -117,11 +117,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 59,
+   "g": 60,
    "r": 4,
-   "pl": 62.32,
+   "pl": 63.33,
    "roi": 1.0,
-   "wr": 93.7,
+   "wr": 93.8,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 52,
-   "r": 82,
-   "pl": 47.97,
+   "r": 83,
+   "pl": 45.97,
    "roi": 6.7,
-   "wr": 38.8,
+   "wr": 38.5,
    "st": "val"
   },
   {
@@ -425,11 +425,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 112,
+   "g": 113,
    "r": 52,
-   "pl": 2.74,
+   "pl": 3.46,
    "roi": 2.0,
-   "wr": 68.3,
+   "wr": 68.5,
    "st": "val"
   },
   {
@@ -456,6 +456,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-29 22:19:40",
+   "tm": "22:19",
+   "match": "Liverpool vs Wrexham",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-29 22:02:21",
+   "tm": "22:02",
+   "match": "Louisville City FC x Birmingham Legion FC",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.71
+  },
+  {
+   "data": "2026-07-29 21:46:11",
+   "tm": "21:46",
+   "match": "Louisville City FC x Birmingham Legion FC",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 85.0,
+   "status": "green",
+   "pl": 1.01
+  },
   {
    "data": "2026-07-29 20:44:05",
    "tm": "20:44",
@@ -749,28 +779,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 23,
-   "r": 6,
-   "pl": 20.45,
-   "wr": 79,
+   "ent": 32,
+   "g": 25,
+   "r": 7,
+   "pl": 20.18,
+   "wr": 78,
    "label": "29/07"
   },
   "mes": {
-   "ent": 1238,
-   "g": 849,
-   "r": 389,
-   "pl": 371.47,
+   "ent": 1241,
+   "g": 851,
+   "r": 390,
+   "pl": 371.2,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-29": {
-   "pl": 20.45,
-   "ops": 29,
-   "g": 23,
-   "r": 6
+   "pl": 20.18,
+   "ops": 32,
+   "g": 25,
+   "r": 7
   },
   "2026-07-28": {
    "pl": 46.59,
