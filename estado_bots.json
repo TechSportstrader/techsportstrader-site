@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T12:00",
+ "gerado_em": "2026-07-30T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 144,
-   "pl": 24.6,
+   "ent": 145,
+   "pl": 21.46,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 95,
-   "pl": 6.16,
+   "ent": 96,
+   "pl": 4.16,
    "roi": 1.4,
    "plat": "Bolsa"
   },
