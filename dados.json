@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T17:00",
+ "gerado_em": "2026-07-30T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 475,
+   "g": 476,
    "r": 5,
-   "pl": 323.54,
+   "pl": 324.62,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -40,9 +40,9 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 263,
+   "g": 264,
    "r": 1,
-   "pl": 339.27,
+   "pl": 341.49,
    "roi": 38.0,
    "wr": 99.6,
    "st": "val"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 53,
-   "pl": 99.95,
+   "r": 54,
+   "pl": 97.95,
    "roi": 3.7,
-   "wr": 20.9,
+   "wr": 20.6,
    "st": "val"
   },
   {
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 53,
+   "g": 54,
    "r": 85,
-   "pl": 46.97,
+   "pl": 49.6,
    "roi": 6.7,
-   "wr": 38.4,
+   "wr": 38.8,
    "st": "val"
   },
   {
@@ -150,11 +150,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 101,
+   "g": 102,
    "r": 7,
-   "pl": 40.21,
+   "pl": 41.69,
    "roi": 0.0,
-   "wr": 93.5,
+   "wr": 93.6,
    "st": "val"
   },
   {
@@ -166,17 +166,6 @@
    "pl": 30.39,
    "roi": 13.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5",
-   "s": "Lay Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 35,
-   "r": 7,
-   "pl": 27.24,
-   "roi": 33.0,
-   "wr": 83.3,
    "st": "val"
   },
   {
@@ -194,22 +183,33 @@
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 17,
+   "g": 18,
    "r": 0,
-   "pl": 24.8,
+   "pl": 26.59,
    "roi": 4.2,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5",
+   "s": "Lay Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 35,
+   "r": 8,
+   "pl": 26.26,
+   "roi": 33.0,
+   "wr": 81.4,
    "st": "val"
   },
   {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
-   "g": 34,
+   "g": 35,
    "r": 1,
-   "pl": 22.97,
+   "pl": 24.35,
    "roi": 6.0,
-   "wr": 97.1,
+   "wr": 97.2,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 43,
+   "g": 44,
    "r": 17,
-   "pl": 12.89,
+   "pl": 13.74,
    "roi": -0.2,
-   "wr": 71.7,
+   "wr": 72.1,
    "st": "val"
   },
   {
@@ -345,17 +345,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 48,
-   "r": 51,
-   "pl": 6.49,
-   "roi": 1.4,
-   "wr": 48.5,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -411,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 48,
+   "r": 53,
+   "pl": 3.97,
+   "roi": 1.4,
+   "wr": 47.5,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -425,9 +425,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 17,
+   "g": 18,
    "r": 0,
-   "pl": 1.34,
+   "pl": 1.4,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -456,6 +456,86 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-30 17:59:37",
+   "tm": "17:59",
+   "match": "Benfica vs St. Gallen",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -1.68
+  },
+  {
+   "data": "2026-07-30 17:49:37",
+   "tm": "17:49",
+   "match": "Koper vs NSÍ",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -0.84
+  },
+  {
+   "data": "2026-07-30 17:49:36",
+   "tm": "17:49",
+   "match": "Koper vs NSÍ",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.85
+  },
+  {
+   "data": "2026-07-30 17:49:34",
+   "tm": "17:49",
+   "match": "Koper vs NSÍ",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.79
+  },
+  {
+   "data": "2026-07-30 17:29:45",
+   "tm": "17:29",
+   "match": "Anderlecht vs Hammarby",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 17:29:43",
+   "tm": "17:29",
+   "match": "Gent vs LNZ Cherkasy",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.63
+  },
+  {
+   "data": "2026-07-30 17:09:35",
+   "tm": "17:09",
+   "match": "Ludogorets vs Hapoel Tel Aviv",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 46.0,
+   "status": "green",
+   "pl": 2.22
+  },
+  {
+   "data": "2026-07-30 17:06:04",
+   "tm": "17:06",
+   "match": "Benfica x FC St. Gallen 1879",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -0.99
+  },
   {
    "data": "2026-07-30 16:59:47",
    "tm": "16:59",
@@ -497,6 +577,16 @@
    "pl": 1.43
   },
   {
+   "data": "2026-07-30 16:45:17",
+   "tm": "16:45",
+   "match": "RSC Anderlecht x Hammarby IF",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
+  },
+  {
    "data": "2026-07-30 16:29:39",
    "tm": "16:29",
    "match": "The New Saints vs Flora",
@@ -505,6 +595,16 @@
    "odd": 2.4,
    "status": "green",
    "pl": 1.22
+  },
+  {
+   "data": "2026-07-30 16:15:05",
+   "tm": "16:15",
+   "match": "CSKA Sofia x Qarabağ FK",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.06
   },
   {
    "data": "2026-07-30 16:02:06",
@@ -527,6 +627,16 @@
    "pl": 1.15
   },
   {
+   "data": "2026-07-30 15:48:09",
+   "tm": "15:48",
+   "match": "FK Austria Wien x FK Liepaja",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
    "data": "2026-07-30 15:45:06",
    "tm": "15:45",
    "match": "Beitar Jerusalem x AEK Larnaca",
@@ -535,6 +645,16 @@
    "odd": 4.3,
    "status": "green",
    "pl": 1.52
+  },
+  {
+   "data": "2026-07-30 15:22:06",
+   "tm": "15:22",
+   "match": "CSKA Sofia x Qarabağ FK",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.38
   },
   {
    "data": "2026-07-30 15:15:05",
@@ -749,28 +869,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 19,
-   "r": 10,
-   "pl": 5.48,
+   "ent": 41,
+   "g": 27,
+   "r": 14,
+   "pl": 11.46,
    "wr": 66,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1276,
-   "g": 875,
-   "r": 401,
-   "pl": 381.31,
+   "ent": 1288,
+   "g": 883,
+   "r": 405,
+   "pl": 387.29,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": 5.48,
-   "ops": 29,
-   "g": 19,
-   "r": 10
+   "pl": 11.46,
+   "ops": 41,
+   "g": 27,
+   "r": 14
   },
   "2026-07-29": {
    "pl": 24.81,
