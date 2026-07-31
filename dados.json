@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T09:00",
+ "gerado_em": "2026-07-31T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -334,6 +334,17 @@
    "st": "val"
   },
   {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 49,
+   "r": 53,
+   "pl": 5.53,
+   "roi": 1.4,
+   "wr": 48.0,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 2-2",
    "s": "Lay Placar 2x2 · Bolsa",
    "plat": "Bolsa",
@@ -389,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 48,
-   "r": 53,
-   "pl": 3.97,
-   "roi": 1.4,
-   "wr": 47.5,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-31 09:59:33",
+   "tm": "09:59",
+   "match": "Henan Songshan Longmen vs Dalian Yingbo",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
    "data": "2026-07-31 00:59:30",
    "tm": "00:59",
    "match": "Inter vs Águila",
@@ -458,27 +468,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 2.5,
+   "pl": 4.06,
    "wr": 100,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1287,
-   "g": 880,
+   "ent": 1288,
+   "g": 881,
    "r": 407,
-   "pl": 396.9,
+   "pl": 398.46,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": 2.5,
-   "ops": 1,
-   "g": 1,
+   "pl": 4.06,
+   "ops": 2,
+   "g": 2,
    "r": 0
   },
   "2026-07-30": {
