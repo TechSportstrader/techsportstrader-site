@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T21:00",
+ "gerado_em": "2026-07-30T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 54,
-   "pl": 97.95,
+   "r": 55,
+   "pl": 95.95,
    "roi": 3.7,
-   "wr": 20.6,
+   "wr": 20.3,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 105,
+   "r": 17,
+   "pl": 17.37,
+   "roi": -0.3,
+   "wr": 86.1,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -268,17 +279,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 104,
-   "r": 17,
-   "pl": 15.7,
-   "roi": -0.3,
-   "wr": 86.0,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -294,10 +294,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 3,
-   "r": 16,
-   "pl": 12.64,
+   "r": 17,
+   "pl": 10.64,
    "roi": 131.0,
-   "wr": 15.8,
+   "wr": 15.0,
    "st": "val"
   },
   {
@@ -445,6 +445,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-30 21:39:34",
+   "tm": "21:39",
+   "match": "Corinthians vs Athletico PR",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-07-30 21:09:38",
+   "tm": "21:09",
+   "match": "Grêmio vs Club Bolívar",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-30 20:21:04",
+   "tm": "20:21",
+   "match": "Grêmio x Bolívar",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-30 20:20:04",
    "tm": "20:20",
@@ -888,28 +918,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 44,
-   "g": 30,
-   "r": 14,
-   "pl": 19.84,
-   "wr": 68,
+   "ent": 47,
+   "g": 31,
+   "r": 16,
+   "pl": 17.51,
+   "wr": 66,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1276,
-   "g": 873,
-   "r": 403,
-   "pl": 392.86,
+   "ent": 1279,
+   "g": 874,
+   "r": 405,
+   "pl": 390.53,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": 19.84,
-   "ops": 44,
-   "g": 30,
-   "r": 14
+   "pl": 17.51,
+   "ops": 47,
+   "g": 31,
+   "r": 16
   },
   "2026-07-29": {
    "pl": 24.81,
