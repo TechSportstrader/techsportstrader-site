@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T16:00",
+ "gerado_em": "2026-07-31T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 359,
+   "g": 360,
    "r": 107,
-   "pl": 16.54,
+   "pl": 17.28,
    "roi": 2.0,
-   "wr": 77.0,
+   "wr": 77.1,
    "st": "ap"
   },
   {
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 16,
+   "r": 0,
+   "pl": 18.21,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
@@ -254,17 +265,6 @@
    "pl": 17.83,
    "roi": 27.0,
    "wr": 90.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 15,
-   "r": 0,
-   "pl": 16.93,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-31 16:34:11",
+   "tm": "16:34",
+   "match": "SC Kriens x FC Winterthur",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.74
+  },
+  {
    "data": "2026-07-31 15:19:35",
    "tm": "15:19",
    "match": "HB Køge x Vejle",
@@ -454,6 +464,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-07-31 15:12:12",
+   "tm": "15:12",
+   "match": "FC Wil 1900 x Neuchâtel Xamax",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 22.0,
+   "status": "green",
+   "pl": 1.28
   },
   {
    "data": "2026-07-31 13:19:19",
@@ -498,27 +518,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 4,
+   "ent": 7,
+   "g": 6,
    "r": 1,
-   "pl": 3.84,
-   "wr": 80,
+   "pl": 5.86,
+   "wr": 86,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1291,
-   "g": 883,
+   "ent": 1293,
+   "g": 885,
    "r": 408,
-   "pl": 398.24,
+   "pl": 400.26,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": 3.84,
-   "ops": 5,
-   "g": 4,
+   "pl": 5.86,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-07-30": {
