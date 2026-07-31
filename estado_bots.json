@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T16:00",
+ "gerado_em": "2026-07-31T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 466,
-   "pl": 16.54,
+   "ent": 467,
+   "pl": 17.28,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 15,
-   "pl": 16.93,
+   "ent": 16,
+   "pl": 18.21,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 19,
-   "pl": -26.43,
+   "ent": 20,
+   "pl": -24.69,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 25,
-   "pl": -11.7,
+   "ent": 26,
+   "pl": -10.13,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
