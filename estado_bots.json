@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T17:00",
+ "gerado_em": "2026-07-31T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 52,
-   "pl": -4.76,
+   "ent": 53,
+   "pl": -4.54,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 467,
-   "pl": 17.28,
+   "ent": 469,
+   "pl": 18.46,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 172,
-   "pl": 1.43,
+   "st": "rep",
+   "ent": 173,
+   "pl": -0.57,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,15 +94,15 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 64,
-   "pl": 63.33,
+   "ent": 65,
+   "pl": 65.19,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 36,
-   "pl": 24.35,
+   "ent": 37,
+   "pl": 25.51,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -121,9 +121,9 @@
    "plat": "BotBet"
   },
   "SENTINELA 0x1": {
-   "st": "rep",
-   "ent": 20,
-   "pl": -0.75,
+   "st": "val",
+   "ent": 21,
+   "pl": 0.97,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 17,
-   "pl": -20.53,
+   "ent": 18,
+   "pl": -22.53,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 35,
-   "pl": 7.65,
+   "ent": 36,
+   "pl": 8.74,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -255,43 +255,43 @@
   },
   "CITADEL": {
    "st": "val",
-   "ent": 265,
-   "pl": 341.49,
+   "ent": 266,
+   "pl": 241.49,
    "roi": 38.0,
    "plat": "Bolsa"
   },
   "RAMPART": {
    "st": "val",
-   "ent": 31,
-   "pl": 80.64,
+   "ent": 33,
+   "pl": 88.97,
    "roi": 6.4,
    "plat": "Bolsa"
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 70,
-   "pl": 93.95,
+   "ent": 71,
+   "pl": 91.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 140,
-   "pl": 47.6,
+   "ent": 143,
+   "pl": 53.97,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 150,
-   "pl": 16.11,
+   "ent": 153,
+   "pl": 11.93,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 102,
-   "pl": 5.53,
+   "ent": 107,
+   "pl": 2.35,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 33,
-   "pl": -3.14,
+   "ent": 34,
+   "pl": -1.98,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 81,
-   "pl": 5.41,
+   "ent": 83,
+   "pl": 1.41,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 87,
-   "pl": -1.07,
+   "ent": 91,
+   "pl": -5.45,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 126,
-   "pl": 25.44,
+   "ent": 129,
+   "pl": 30.9,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 26,
-   "pl": -10.13,
+   "ent": 27,
+   "pl": -8.46,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
