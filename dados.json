@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T18:00",
+ "gerado_em": "2026-07-31T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -183,9 +183,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 18,
+   "g": 19,
    "r": 0,
-   "pl": 27.14,
+   "pl": 28.81,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -279,17 +279,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 104,
-   "r": 49,
-   "pl": 11.93,
-   "roi": 1.5,
-   "wr": 68.0,
-   "st": "val"
-  },
-  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -315,11 +304,22 @@
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 33,
+   "g": 34,
    "r": 3,
-   "pl": 8.74,
+   "pl": 9.94,
    "roi": 11.0,
-   "wr": 91.7,
+   "wr": 91.9,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 104,
+   "r": 50,
+   "pl": 8.3,
+   "roi": 1.5,
+   "wr": 67.5,
    "st": "val"
   },
   {
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-31 18:01:48",
+   "tm": "18:01",
+   "match": "Universitario de Vinto vs Guabirá",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "red",
+   "pl": -3.63
+  },
+  {
    "data": "2026-07-31 17:41:54",
    "tm": "17:41",
    "match": "Otelul vs Dinamo Bucureşti",
@@ -534,6 +544,26 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.74
+  },
+  {
+   "data": "2026-07-31 16:32:05",
+   "tm": "16:32",
+   "match": "Dundee United x Rangers",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-07-31 16:22:30",
+   "tm": "16:22",
+   "match": "Dundee United x Rangers",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-07-31 16:09:12",
@@ -768,28 +798,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 32,
-   "g": 22,
-   "r": 10,
-   "pl": -78.33,
+   "ent": 35,
+   "g": 24,
+   "r": 11,
+   "pl": -79.09,
    "wr": 69,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1226,
-   "g": 841,
-   "r": 385,
-   "pl": 309.21,
+   "ent": 1229,
+   "g": 843,
+   "r": 386,
+   "pl": 308.45,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": -78.33,
-   "ops": 32,
-   "g": 22,
-   "r": 10
+   "pl": -79.09,
+   "ops": 35,
+   "g": 24,
+   "r": 11
   },
   "2026-07-30": {
    "pl": 14.96,
