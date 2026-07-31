@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T10:00",
+ "gerado_em": "2026-07-31T11:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 55,
-   "pl": 44.06,
+   "ent": 56,
+   "pl": 45.64,
    "roi": 1.3,
    "plat": "Bolsa"
   },
