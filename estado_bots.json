@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T18:00",
+ "gerado_em": "2026-07-31T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -185,15 +185,15 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 36,
-   "pl": 8.74,
+   "ent": 37,
+   "pl": 9.94,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 18,
-   "pl": 27.14,
+   "ent": 19,
+   "pl": 28.81,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 153,
-   "pl": 11.93,
+   "ent": 154,
+   "pl": 8.3,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 27,
-   "pl": -8.46,
+   "ent": 28,
+   "pl": -12.46,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
