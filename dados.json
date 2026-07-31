@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T00:00",
+ "gerado_em": "2026-07-31T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -202,6 +202,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 109,
+   "r": 17,
+   "pl": 25.44,
+   "roi": -0.3,
+   "wr": 86.5,
+   "st": "val"
+  },
+  {
    "n": "SISTEMA L-20",
    "s": "Lay (misto) · BotBet",
    "plat": "BotBet",
@@ -210,17 +221,6 @@
    "pl": 24.35,
    "roi": 6.0,
    "wr": 97.2,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 108,
-   "r": 17,
-   "pl": 22.94,
-   "roi": -0.3,
-   "wr": 86.4,
    "st": "val"
   },
   {
@@ -444,26 +444,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-07-31 00:59:30",
+   "tm": "00:59",
+   "match": "Inter vs Águila",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.0,
+   "status": "green",
+   "pl": 2.5
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 2.5,
+   "wr": 100,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1286,
-   "g": 879,
+   "ent": 1287,
+   "g": 880,
    "r": 407,
-   "pl": 394.4,
+   "pl": 396.9,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-07-31": {
+   "pl": 2.5,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-07-30": {
    "pl": 21.38,
    "ops": 54,
