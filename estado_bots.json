@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T23:00",
+ "gerado_em": "2026-07-31T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "rep",
-   "ent": 19,
-   "pl": -2.42,
+   "ent": 20,
+   "pl": -0.75,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 24,
-   "pl": 17.12,
+   "ent": 25,
+   "pl": 18.27,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 15,
-   "pl": -16.42,
+   "ent": 17,
+   "pl": -20.53,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 69,
-   "pl": 95.95,
+   "ent": 70,
+   "pl": 93.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 54,
-   "pl": 42.91,
+   "ent": 55,
+   "pl": 44.06,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 32,
-   "pl": -4.19,
+   "ent": 33,
+   "pl": -3.14,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 122,
-   "pl": 17.37,
+   "ent": 125,
+   "pl": 22.94,
    "roi": -0.3,
    "plat": "Bolsa"
   }
