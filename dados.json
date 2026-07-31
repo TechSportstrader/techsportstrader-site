@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T13:00",
+ "gerado_em": "2026-07-31T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -227,9 +227,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 49,
+   "g": 50,
    "r": 1,
-   "pl": 18.83,
+   "pl": 19.03,
    "roi": 3.0,
    "wr": 98.0,
    "st": "val"
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-31 13:19:19",
+   "tm": "13:19",
+   "match": "FC Argeș Pitești x FK Csíkszereda Miercurea Ciuc",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.2
+  },
+  {
    "data": "2026-07-31 10:39:34",
    "tm": "10:39",
    "match": "Henan Songshan Longmen vs Dalian Yingbo",
@@ -478,27 +488,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 3,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 5.64,
+   "pl": 5.84,
    "wr": 100,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1289,
-   "g": 882,
+   "ent": 1290,
+   "g": 883,
    "r": 407,
-   "pl": 400.04,
+   "pl": 400.24,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": 5.64,
-   "ops": 3,
-   "g": 3,
+   "pl": 5.84,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-07-30": {
