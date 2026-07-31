@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-30T22:00",
+ "gerado_em": "2026-07-30T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 54,
-   "r": 85,
-   "pl": 49.6,
-   "roi": 6.7,
-   "wr": 38.8,
-   "st": "val"
-  },
-  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -144,6 +133,17 @@
    "pl": 47.97,
    "roi": 0.0,
    "wr": 93.6,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 54,
+   "r": 86,
+   "pl": 47.6,
+   "roi": 6.7,
+   "wr": 38.6,
    "st": "val"
   },
   {
@@ -445,6 +445,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-30 22:49:33",
+   "tm": "22:49",
+   "match": "Central Cordoba SdE vs Atlético Tucumán",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-07-30 21:39:34",
    "tm": "21:39",
@@ -918,28 +928,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
+   "ent": 48,
    "g": 31,
-   "r": 16,
-   "pl": 17.51,
-   "wr": 66,
+   "r": 17,
+   "pl": 15.51,
+   "wr": 65,
    "label": "30/07"
   },
   "mes": {
-   "ent": 1279,
+   "ent": 1280,
    "g": 874,
-   "r": 405,
-   "pl": 390.53,
+   "r": 406,
+   "pl": 388.53,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-30": {
-   "pl": 17.51,
-   "ops": 47,
+   "pl": 15.51,
+   "ops": 48,
    "g": 31,
-   "r": 16
+   "r": 17
   },
   "2026-07-29": {
    "pl": 24.81,
