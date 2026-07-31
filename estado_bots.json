@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T13:00",
+ "gerado_em": "2026-07-31T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 50,
-   "pl": 18.83,
+   "ent": 51,
+   "pl": 19.03,
    "roi": 3.0,
    "plat": "BotBet"
   },
