@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T19:00",
+ "gerado_em": "2026-07-31T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 53,
-   "pl": -4.54,
+   "ent": 54,
+   "pl": -4.26,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 91,
-   "pl": -5.45,
+   "ent": 92,
+   "pl": -4.01,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 28,
-   "pl": -12.46,
+   "ent": 29,
+   "pl": -10.89,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
