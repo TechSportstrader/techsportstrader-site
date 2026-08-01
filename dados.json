@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T13:00",
+ "gerado_em": "2026-08-01T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 477,
+   "g": 478,
    "r": 5,
-   "pl": 326.1,
+   "pl": 327.11,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 364,
-   "r": 107,
-   "pl": 19.6,
+   "r": 108,
+   "pl": 17.6,
    "roi": 2.0,
-   "wr": 77.3,
+   "wr": 77.1,
    "st": "ap"
   },
   {
@@ -129,10 +129,21 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 59,
-   "r": 89,
-   "pl": 60.53,
+   "r": 90,
+   "pl": 58.53,
    "roi": 6.7,
-   "wr": 39.9,
+   "wr": 39.6,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 56,
+   "r": 2,
+   "pl": 48.57,
+   "roi": 1.3,
+   "wr": 96.6,
    "st": "val"
   },
   {
@@ -144,17 +155,6 @@
    "pl": 47.97,
    "roi": 0.0,
    "wr": 93.6,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 55,
-   "r": 2,
-   "pl": 47.14,
-   "roi": 1.3,
-   "wr": 96.5,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 17,
+   "r": 0,
+   "pl": 19.55,
+   "roi": 4.0,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 19.03,
    "roi": 3.0,
    "wr": 98.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-22",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 16,
-   "r": 0,
-   "pl": 18.21,
-   "roi": 4.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -389,17 +389,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 52,
-   "r": 56,
-   "pl": 3.27,
-   "roi": 1.4,
-   "wr": 48.1,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -408,6 +397,17 @@
    "pl": 1.4,
    "roi": 1.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 52,
+   "r": 57,
+   "pl": 1.27,
+   "roi": 1.4,
+   "wr": 47.7,
    "st": "val"
   },
   {
@@ -423,6 +423,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-01 13:58:12",
+   "tm": "13:58",
+   "match": "Norrköping vs Helsingborg",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 1.43
+  },
+  {
+   "data": "2026-08-01 13:58:10",
+   "tm": "13:58",
+   "match": "Norrköping vs Helsingborg",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 13:48:06",
+   "tm": "13:48",
+   "match": "Slovácko vs SK Artis Brno",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-01 12:58:17",
    "tm": "12:58",
@@ -454,6 +484,26 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-01 12:12:07",
+   "tm": "12:12",
+   "match": "1. FC Slovácko x SK Artis Brno",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 80.0,
+   "status": "green",
+   "pl": 1.01
+  },
+  {
+   "data": "2026-08-01 12:09:26",
+   "tm": "12:09",
+   "match": "Fredrikstad FK x Sandefjord Fotball",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-01 11:58:10",
    "tm": "11:58",
    "match": "Atlético Madrid vs Manchester United",
@@ -462,6 +512,16 @@
    "odd": 7.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 11:41:06",
+   "tm": "11:41",
+   "match": "Tranmere Rovers x Rochdale",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 25.0,
+   "status": "green",
+   "pl": 1.34
   },
   {
    "data": "2026-08-01 11:18:04",
@@ -636,28 +696,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
-   "g": 15,
-   "r": 6,
-   "pl": 19.0,
-   "wr": 71,
+   "ent": 27,
+   "g": 18,
+   "r": 9,
+   "pl": 16.78,
+   "wr": 67,
    "label": "01/08"
   },
   "mes": {
-   "ent": 21,
-   "g": 15,
-   "r": 6,
-   "pl": 19.0,
-   "wr": 71,
+   "ent": 27,
+   "g": 18,
+   "r": 9,
+   "pl": 16.78,
+   "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-01": {
-   "pl": 19.0,
-   "ops": 21,
-   "g": 15,
-   "r": 6
+   "pl": 16.78,
+   "ops": 27,
+   "g": 18,
+   "r": 9
   },
   "2026-07-31": {
    "pl": -65.38,
