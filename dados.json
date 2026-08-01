@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T19:00",
+ "gerado_em": "2026-08-01T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 481,
+   "g": 482,
    "r": 5,
-   "pl": 331.03,
+   "pl": 332.51,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 365,
+   "g": 366,
    "r": 108,
-   "pl": 18.09,
+   "pl": 18.52,
    "roi": 2.0,
    "wr": 77.2,
    "st": "ap"
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 62,
-   "pl": 81.95,
+   "r": 63,
+   "pl": 79.95,
    "roi": 3.7,
-   "wr": 18.4,
+   "wr": 18.2,
    "st": "val"
   },
   {
@@ -106,11 +106,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 62,
+   "g": 63,
    "r": 4,
-   "pl": 66.98,
+   "pl": 68.23,
    "roi": 1.0,
-   "wr": 93.9,
+   "wr": 94.0,
    "st": "val"
   },
   {
@@ -161,11 +161,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 117,
+   "g": 118,
    "r": 17,
-   "pl": 39.86,
+   "pl": 41.86,
    "roi": -0.3,
-   "wr": 87.3,
+   "wr": 87.4,
    "st": "val"
   },
   {
@@ -312,14 +312,14 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 3,
-   "r": 18,
-   "pl": 8.64,
-   "roi": 131.0,
-   "wr": 14.3,
+   "g": 22,
+   "r": 3,
+   "pl": 7.65,
+   "roi": 16.0,
+   "wr": 88.0,
    "st": "val"
   },
   {
@@ -331,6 +331,17 @@
    "pl": 6.9,
    "roi": 1.1,
    "wr": 82.1,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 3,
+   "r": 19,
+   "pl": 6.64,
+   "roi": 131.0,
+   "wr": 13.6,
    "st": "val"
   },
   {
@@ -353,17 +364,6 @@
    "pl": 6.16,
    "roi": 4.0,
    "wr": 90.0,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 21,
-   "r": 3,
-   "pl": 5.98,
-   "roi": 16.0,
-   "wr": 87.5,
    "st": "val"
   },
   {
@@ -424,6 +424,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-01 19:48:03",
+   "tm": "19:48",
+   "match": "Atlético Grau vs Sport Boys",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 19:30:16",
+   "tm": "19:30",
+   "match": "CD San Antonio x Blooming",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
+   "data": "2026-08-01 19:28:03",
+   "tm": "19:28",
+   "match": "Vasco da Gama vs Fluminense",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.0,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
+   "data": "2026-08-01 18:52:16",
+   "tm": "18:52",
+   "match": "Club Atlético Grau x Sport Boys",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-08-01 18:46:05",
+   "tm": "18:46",
+   "match": "Club Atlético Grau x Sport Boys",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-01 17:58:02",
    "tm": "17:58",
    "match": "Manta vs Mushuc Runa",
@@ -432,6 +482,16 @@
    "odd": 4.5,
    "status": "green",
    "pl": 1.43
+  },
+  {
+   "data": "2026-08-01 17:50:05",
+   "tm": "17:50",
+   "match": "Vasco da Gama x Fluminense",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-08-01 17:38:01",
@@ -482,6 +542,16 @@
    "odd": 14.0,
    "status": "green",
    "pl": 1.15
+  },
+  {
+   "data": "2026-08-01 16:22:06",
+   "tm": "16:22",
+   "match": "CDT Real Oruro x Club Independiente Petrolero",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 48.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-01 16:09:06",
@@ -952,72 +1022,32 @@
    "odd": 23.0,
    "status": "green",
    "pl": 1.19
-  },
-  {
-   "data": "2026-08-01 09:38:08",
-   "tm": "09:38",
-   "match": "Jeonbuk Motors vs Seoul",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-08-01 09:08:09",
-   "tm": "09:08",
-   "match": "Pohang Steelers vs Gimcheon Sangmu",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -1.98
-  },
-  {
-   "data": "2026-08-01 06:52:14",
-   "tm": "06:52",
-   "match": "Chelsea x Tottenham Hotspur",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 10.5,
-   "status": "green",
-   "pl": 2.12
-  },
-  {
-   "data": "2026-08-01 00:26:14",
-   "tm": "00:26",
-   "match": "Atlético San Luis x Club Tijuana",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 57,
-   "g": 46,
-   "r": 11,
-   "pl": 35.07,
-   "wr": 81,
+   "ent": 64,
+   "g": 51,
+   "r": 13,
+   "pl": 37.9,
+   "wr": 80,
    "label": "01/08"
   },
   "mes": {
-   "ent": 57,
-   "g": 46,
-   "r": 11,
-   "pl": 35.07,
-   "wr": 81,
+   "ent": 64,
+   "g": 51,
+   "r": 13,
+   "pl": 37.9,
+   "wr": 80,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-01": {
-   "pl": 35.07,
-   "ops": 57,
-   "g": 46,
-   "r": 11
+   "pl": 37.9,
+   "ops": 64,
+   "g": 51,
+   "r": 13
   },
   "2026-07-31": {
    "pl": -65.38,
