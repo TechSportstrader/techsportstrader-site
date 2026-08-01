@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T11:00",
+ "gerado_em": "2026-08-01T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -51,9 +51,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 99,
+   "g": 100,
    "r": 3,
-   "pl": 170.51,
+   "pl": 173.29,
    "roi": 3.0,
    "wr": 97.1,
    "st": "val"
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 60,
-   "pl": 85.95,
+   "r": 61,
+   "pl": 83.95,
    "roi": 3.7,
-   "wr": 18.9,
+   "wr": 18.7,
    "st": "val"
   },
   {
@@ -392,11 +392,11 @@
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
-   "g": 51,
+   "g": 52,
    "r": 56,
-   "pl": 2.35,
+   "pl": 3.27,
    "roi": 1.4,
-   "wr": 47.7,
+   "wr": 48.1,
    "st": "val"
   },
   {
@@ -423,6 +423,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-01 11:58:10",
+   "tm": "11:58",
+   "match": "Atlético Madrid vs Manchester United",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 11:18:04",
+   "tm": "11:18",
+   "match": "Atlético Madrid vs Manchester United",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 0.92
+  },
   {
    "data": "2026-08-01 10:58:12",
    "tm": "10:58",
@@ -492,6 +512,16 @@
    "odd": 9.0,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 10:07:26",
+   "tm": "10:07",
+   "match": "BK Häcken x Kalmar FF",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 2.78
   },
   {
    "data": "2026-08-01 10:04:07",
@@ -566,28 +596,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 14,
-   "g": 11,
-   "r": 3,
-   "pl": 15.87,
-   "wr": 79,
+   "ent": 17,
+   "g": 13,
+   "r": 4,
+   "pl": 17.57,
+   "wr": 76,
    "label": "01/08"
   },
   "mes": {
-   "ent": 14,
-   "g": 11,
-   "r": 3,
-   "pl": 15.87,
-   "wr": 79,
+   "ent": 17,
+   "g": 13,
+   "r": 4,
+   "pl": 17.57,
+   "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-01": {
-   "pl": 15.87,
-   "ops": 14,
-   "g": 11,
-   "r": 3
+   "pl": 17.57,
+   "ops": 17,
+   "g": 13,
+   "r": 4
   },
   "2026-07-31": {
    "pl": -65.38,
