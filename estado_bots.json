@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T13:00",
+ "gerado_em": "2026-08-01T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 104,
-   "pl": -7.12,
+   "ent": 106,
+   "pl": -8.19,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 482,
-   "pl": 326.1,
+   "ent": 483,
+   "pl": 327.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 471,
-   "pl": 19.6,
+   "ent": 472,
+   "pl": 17.6,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 16,
-   "pl": 18.21,
+   "ent": 17,
+   "pl": 19.55,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 148,
-   "pl": 60.53,
+   "ent": 149,
+   "pl": 58.53,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,15 +290,15 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 108,
-   "pl": 3.27,
+   "ent": 109,
+   "pl": 1.27,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 57,
-   "pl": 47.14,
+   "ent": 58,
+   "pl": 48.57,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 12,
-   "pl": -21.07,
+   "ent": 13,
+   "pl": -19.94,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 34,
-   "pl": -14.72,
+   "ent": 35,
+   "pl": -18.72,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
