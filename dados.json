@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T00:00",
+ "gerado_em": "2026-08-01T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -106,11 +106,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 61,
+   "g": 62,
    "r": 4,
-   "pl": 65.19,
+   "pl": 66.98,
    "roi": 1.0,
-   "wr": 93.8,
+   "wr": 93.9,
    "st": "val"
   },
   {
@@ -465,9 +465,9 @@
  },
  "calendario": {
   "2026-07-31": {
-   "pl": -71.17,
-   "ops": 47,
-   "g": 33,
+   "pl": -69.38,
+   "ops": 48,
+   "g": 34,
    "r": 14
   },
   "2026-07-30": {
