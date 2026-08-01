@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T23:00",
+ "gerado_em": "2026-08-01T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 470,
-   "pl": 19.18,
+   "ent": 471,
+   "pl": 19.6,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 37,
-   "pl": 25.51,
+   "ent": 38,
+   "pl": 26.98,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 5,
-   "pl": 7.38,
+   "ent": 6,
+   "pl": 8.77,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 20,
-   "pl": 10.64,
+   "ent": 21,
+   "pl": 8.64,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 72,
-   "pl": 89.95,
+   "ent": 73,
+   "pl": 87.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 18,
-   "pl": 26.59,
+   "ent": 19,
+   "pl": 28.06,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 129,
-   "pl": 30.9,
+   "ent": 130,
+   "pl": 32.57,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 29,
-   "pl": -10.89,
+   "ent": 30,
+   "pl": -9.38,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
