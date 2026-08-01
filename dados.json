@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T12:00",
+ "gerado_em": "2026-08-01T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 61,
-   "pl": 83.95,
+   "r": 62,
+   "pl": 81.95,
    "roi": 3.7,
-   "wr": 18.7,
+   "wr": 18.4,
    "st": "val"
   },
   {
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 58,
-   "r": 88,
-   "pl": 58.68,
+   "g": 59,
+   "r": 89,
+   "pl": 60.53,
    "roi": 6.7,
-   "wr": 39.7,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -227,11 +227,11 @@
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 25,
+   "g": 26,
    "r": 1,
-   "pl": 19.7,
+   "pl": 21.28,
    "roi": 9.0,
-   "wr": 96.2,
+   "wr": 96.3,
    "st": "val"
   },
   {
@@ -424,6 +424,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-01 12:58:17",
+   "tm": "12:58",
+   "match": "Alloa Athletic vs East Fife",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.85
+  },
+  {
+   "data": "2026-08-01 12:58:10",
+   "tm": "12:58",
+   "match": "Falkirk vs St. Mirren",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-01 12:18:05",
+   "tm": "12:18",
+   "match": "Haverfordwest County vs Airbus UK",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-01 11:58:10",
    "tm": "11:58",
    "match": "Atlético Madrid vs Manchester United",
@@ -442,6 +472,16 @@
    "odd": 1.5,
    "status": "green",
    "pl": 0.92
+  },
+  {
+   "data": "2026-08-01 11:00:12",
+   "tm": "11:00",
+   "match": "Orlando Pirates x Milford FC",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.58
   },
   {
    "data": "2026-08-01 10:58:12",
@@ -596,28 +636,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 13,
-   "r": 4,
-   "pl": 17.57,
-   "wr": 76,
+   "ent": 21,
+   "g": 15,
+   "r": 6,
+   "pl": 19.0,
+   "wr": 71,
    "label": "01/08"
   },
   "mes": {
-   "ent": 17,
-   "g": 13,
-   "r": 4,
-   "pl": 17.57,
-   "wr": 76,
+   "ent": 21,
+   "g": 15,
+   "r": 6,
+   "pl": 19.0,
+   "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-01": {
-   "pl": 17.57,
-   "ops": 17,
-   "g": 13,
-   "r": 4
+   "pl": 19.0,
+   "ops": 21,
+   "g": 15,
+   "r": 6
   },
   "2026-07-31": {
    "pl": -65.38,
