@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T09:00",
+ "gerado_em": "2026-08-01T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 143,
-   "pl": 53.97,
+   "ent": 145,
+   "pl": 55.63,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 19,
-   "pl": 28.06,
+   "ent": 20,
+   "pl": 29.25,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 130,
-   "pl": 32.57,
+   "ent": 131,
+   "pl": 34.42,
    "roi": -0.3,
    "plat": "Bolsa"
   }
