@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T20:00",
+ "gerado_em": "2026-07-31T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 362,
+   "g": 363,
    "r": 107,
-   "pl": 18.46,
+   "pl": 19.18,
    "roi": 2.0,
    "wr": 77.2,
    "st": "ap"
@@ -446,6 +446,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-07-31 19:50:15",
+   "tm": "19:50",
+   "match": "The Strongest x Club Aurora",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.71
+  },
+  {
    "data": "2026-07-31 18:01:48",
    "tm": "18:01",
    "match": "Universitario de Vinto vs Guabirá",
@@ -798,27 +808,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 35,
-   "g": 24,
+   "ent": 36,
+   "g": 25,
    "r": 11,
-   "pl": -79.09,
+   "pl": -78.37,
    "wr": 69,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1229,
-   "g": 843,
+   "ent": 1230,
+   "g": 844,
    "r": 386,
-   "pl": 308.45,
+   "pl": 309.17,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": -79.09,
-   "ops": 35,
-   "g": 24,
+   "pl": -78.37,
+   "ops": 36,
+   "g": 25,
    "r": 11
   },
   "2026-07-30": {
