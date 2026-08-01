@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T09:00",
+ "gerado_em": "2026-08-01T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 56,
-   "r": 87,
-   "pl": 53.97,
+   "g": 57,
+   "r": 88,
+   "pl": 55.63,
    "roi": 6.7,
-   "wr": 39.2,
+   "wr": 39.3,
    "st": "val"
   },
   {
@@ -161,11 +161,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 113,
+   "g": 114,
    "r": 17,
-   "pl": 32.57,
+   "pl": 34.42,
    "roi": -0.3,
-   "wr": 86.9,
+   "wr": 87.0,
    "st": "val"
   },
   {
@@ -180,6 +180,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 3-1 (Bolsa)",
+   "s": "Lay Placar 3x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 20,
+   "r": 0,
+   "pl": 29.25,
+   "roi": 4.2,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -187,17 +198,6 @@
    "r": 0,
    "pl": 28.81,
    "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 3-1 (Bolsa)",
-   "s": "Lay Placar 3x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 19,
-   "r": 0,
-   "pl": 28.06,
-   "roi": 4.2,
    "wr": 100.0,
    "st": "val"
   },
@@ -435,6 +435,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-01 09:38:12",
+   "tm": "09:38",
+   "match": "Jeonbuk Motors vs Seoul",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.64
+  },
+  {
+   "data": "2026-08-01 09:38:09",
+   "tm": "09:38",
+   "match": "Gangwon vs Bucheon 1995",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 23.0,
+   "status": "green",
+   "pl": 1.19
+  },
+  {
+   "data": "2026-08-01 09:38:08",
+   "tm": "09:38",
+   "match": "Jeonbuk Motors vs Seoul",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-08-01 09:08:09",
+   "tm": "09:08",
+   "match": "Pohang Steelers vs Gimcheon Sangmu",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
    "data": "2026-08-01 08:38:08",
    "tm": "08:38",
    "match": "Tianjin Jinmen Tiger vs Yunnan Yukun",
@@ -477,28 +517,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 3,
-   "r": 1,
-   "pl": 2.9,
+   "ent": 8,
+   "g": 6,
+   "r": 2,
+   "pl": 7.6,
    "wr": 75,
    "label": "01/08"
   },
   "mes": {
-   "ent": 4,
-   "g": 3,
-   "r": 1,
-   "pl": 2.9,
+   "ent": 8,
+   "g": 6,
+   "r": 2,
+   "pl": 7.6,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-01": {
-   "pl": 2.9,
-   "ops": 4,
-   "g": 3,
-   "r": 1
+   "pl": 7.6,
+   "ops": 8,
+   "g": 6,
+   "r": 2
   },
   "2026-07-31": {
    "pl": -69.38,
