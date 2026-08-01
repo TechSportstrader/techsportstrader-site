@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T22:00",
+ "gerado_em": "2026-07-31T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "CITADEL",
    "s": "Lay Placar 0-3 · Bolsa",
    "plat": "Bolsa",
-   "g": 264,
+   "g": 265,
    "r": 2,
-   "pl": 241.49,
+   "pl": 245.34,
    "roi": 38.0,
-   "wr": 99.2,
+   "wr": 99.3,
    "st": "val"
   },
   {
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 14,
-   "r": 57,
-   "pl": 91.95,
+   "r": 58,
+   "pl": 89.95,
    "roi": 3.7,
-   "wr": 19.7,
+   "wr": 19.4,
    "st": "val"
   },
   {
@@ -150,11 +150,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 54,
+   "g": 55,
    "r": 2,
-   "pl": 45.64,
+   "pl": 47.14,
    "roi": 1.3,
-   "wr": 96.4,
+   "wr": 96.5,
    "st": "val"
   },
   {
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 25,
+   "r": 1,
+   "pl": 19.7,
+   "roi": 9.0,
+   "wr": 96.2,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 19.03,
    "roi": 3.0,
    "wr": 98.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 24,
-   "r": 1,
-   "pl": 18.27,
-   "roi": 9.0,
-   "wr": 96.0,
    "st": "val"
   },
   {
@@ -445,6 +445,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-07-31 22:41:46",
+   "tm": "22:41",
+   "match": "New York City vs Toronto",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-07-31 22:01:48",
+   "tm": "22:01",
+   "match": "Real Tomayapo vs ABB",
+   "bot": "CITADEL",
+   "mkt": "Lay Placar 0-3",
+   "odd": 27.0,
+   "status": "green",
+   "pl": 3.85
+  },
+  {
+   "data": "2026-07-31 22:01:45",
+   "tm": "22:01",
+   "match": "Real Tomayapo vs ABB",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 11.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-07-31 21:22:04",
+   "tm": "21:22",
+   "match": "New York City FC x Toronto FC",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 1.43
+  },
   {
    "data": "2026-07-31 19:50:15",
    "tm": "19:50",
@@ -808,28 +848,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 36,
-   "g": 25,
-   "r": 11,
-   "pl": -78.37,
-   "wr": 69,
+   "ent": 40,
+   "g": 28,
+   "r": 12,
+   "pl": -73.59,
+   "wr": 70,
    "label": "31/07"
   },
   "mes": {
-   "ent": 1230,
-   "g": 844,
-   "r": 386,
-   "pl": 309.17,
+   "ent": 1234,
+   "g": 847,
+   "r": 387,
+   "pl": 313.95,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-07-31": {
-   "pl": -78.37,
-   "ops": 36,
-   "g": 25,
-   "r": 11
+   "pl": -73.59,
+   "ops": 40,
+   "g": 28,
+   "r": 12
   },
   "2026-07-30": {
    "pl": 14.96,
