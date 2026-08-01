@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T11:00",
+ "gerado_em": "2026-08-01T12:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 19,
-   "pl": -24.58,
+   "ent": 20,
+   "pl": -22.31,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 102,
-   "pl": 170.51,
+   "ent": 103,
+   "pl": 173.29,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 74,
-   "pl": 85.95,
+   "ent": 75,
+   "pl": 83.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 107,
-   "pl": 2.35,
+   "ent": 108,
+   "pl": 3.27,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 33,
-   "pl": -10.71,
+   "ent": 34,
+   "pl": -14.72,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
