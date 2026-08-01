@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T00:00",
+ "gerado_em": "2026-08-01T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 65,
-   "pl": 65.19,
+   "ent": 66,
+   "pl": 66.98,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 30,
-   "pl": -9.38,
+   "ent": 31,
+   "pl": -13.37,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
