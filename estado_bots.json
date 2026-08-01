@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T15:00",
+ "gerado_em": "2026-08-01T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 484,
-   "pl": 328.47,
+   "ent": 485,
+   "pl": 329.95,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 175,
-   "pl": -0.98,
+   "ent": 176,
+   "pl": -0.38,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 38,
-   "pl": 26.98,
+   "ent": 39,
+   "pl": 28.2,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 20,
-   "pl": -22.31,
+   "ent": 21,
+   "pl": -18.74,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 18,
-   "pl": 1.4,
+   "ent": 19,
+   "pl": 1.45,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 158,
-   "pl": 11.35,
+   "ent": 159,
+   "pl": 12.61,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -324,9 +324,9 @@
    "plat": "Bolsa"
   },
   "SISTEMA L-20 (Bolsa)": {
-   "st": "rep",
-   "ent": 34,
-   "pl": -1.98,
+   "st": "val",
+   "ent": 36,
+   "pl": 0.78,
    "roi": 0.3,
    "plat": "Bolsa"
   },
