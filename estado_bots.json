@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T19:00",
+ "gerado_em": "2026-08-01T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 486,
-   "pl": 331.03,
+   "ent": 487,
+   "pl": 332.51,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 55,
-   "pl": -5.38,
+   "ent": 56,
+   "pl": -5.1,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 473,
-   "pl": 18.09,
+   "ent": 474,
+   "pl": 18.52,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 66,
-   "pl": 66.98,
+   "ent": 67,
+   "pl": 68.23,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 24,
-   "pl": 5.98,
+   "ent": 25,
+   "pl": 7.65,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 21,
-   "pl": 8.64,
+   "ent": 22,
+   "pl": 6.64,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 76,
-   "pl": 81.95,
+   "ent": 77,
+   "pl": 79.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 37,
-   "pl": -21.22,
+   "ent": 38,
+   "pl": -20.12,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 134,
-   "pl": 39.86,
+   "ent": 135,
+   "pl": 41.86,
    "roi": -0.3,
    "plat": "Bolsa"
   }
