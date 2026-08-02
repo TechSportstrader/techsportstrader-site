@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T22:00",
+ "gerado_em": "2026-08-01T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 353,
-   "pl": 93.45,
+   "ent": 354,
+   "pl": 94.75,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 76,
-   "pl": 70.91,
+   "ent": 77,
+   "pl": 73.47,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 22,
-   "pl": 17.83,
+   "ent": 24,
+   "pl": 7.71,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -227,8 +227,8 @@
   },
   "TRIPWIRE": {
    "st": "rep",
-   "ent": 37,
-   "pl": -30.04,
+   "ent": 38,
+   "pl": -27.99,
    "roi": 10.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 77,
-   "pl": 79.95,
+   "ent": 78,
+   "pl": 77.95,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 151,
-   "pl": 64.02,
+   "ent": 152,
+   "pl": 62.02,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -303,16 +303,16 @@
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
-   "st": "val",
-   "ent": 28,
-   "pl": 6.9,
+   "st": "rep",
+   "ent": 30,
+   "pl": -3.1,
    "roi": 1.1,
    "plat": "Bolsa"
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 20,
-   "pl": 29.25,
+   "ent": 21,
+   "pl": 30.68,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -346,15 +346,15 @@
   },
   "VIGIA HT-C": {
    "st": "rep",
-   "ent": 86,
-   "pl": -1.29,
+   "ent": 87,
+   "pl": -3.29,
    "roi": -0.0,
    "plat": "Bolsa"
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 63,
-   "pl": 16.34,
+   "ent": 64,
+   "pl": 14.41,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 137,
-   "pl": 45.3,
+   "ent": 138,
+   "pl": 47.63,
    "roi": -0.3,
    "plat": "Bolsa"
   }
