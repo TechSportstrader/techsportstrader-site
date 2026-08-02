@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-01T21:00",
+ "gerado_em": "2026-08-01T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 103,
-   "pl": 173.29,
+   "ent": 104,
+   "pl": 176.15,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 61,
-   "pl": 51.99,
+   "ent": 62,
+   "pl": 49.7,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -387,6 +387,11 @@
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "ent": 37,
    "pl": -15.53,
+   "plat": "BotBet"
+  },
+  "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
+   "ent": 20,
+   "pl": 26.92,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
