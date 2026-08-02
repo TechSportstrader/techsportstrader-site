@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T02:00",
+ "gerado_em": "2026-08-02T03:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -129,8 +129,8 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 6,
-   "pl": 8.77,
+   "ent": 7,
+   "pl": 10.12,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 41,
-   "pl": 1.68,
+   "ent": 42,
+   "pl": 3.62,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 78,
-   "pl": 77.95,
+   "ent": 79,
+   "pl": 95.15,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "val",
-   "ent": 21,
-   "pl": 30.68,
+   "ent": 22,
+   "pl": 32.15,
    "roi": 4.2,
    "plat": "Bolsa"
   },
