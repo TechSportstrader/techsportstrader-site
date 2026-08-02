@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T02:00",
+ "gerado_em": "2026-08-02T03:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -59,6 +59,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 15,
+   "r": 64,
+   "pl": 95.15,
+   "roi": 3.7,
+   "wr": 19.0,
+   "st": "val"
+  },
+  {
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -67,17 +78,6 @@
    "pl": 92.22,
    "roi": 6.4,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 14,
-   "r": 64,
-   "pl": 77.95,
-   "roi": 3.7,
-   "wr": 17.9,
    "st": "val"
   },
   {
@@ -169,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 3-1 (Bolsa)",
+   "s": "Lay Placar 3x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 22,
+   "r": 0,
+   "pl": 32.15,
+   "roi": 4.2,
+   "wr": 100.0,
+   "st": "val"
+  },
+  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -176,17 +187,6 @@
    "r": 0,
    "pl": 31.8,
    "roi": 6.0,
-   "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 3-1 (Bolsa)",
-   "s": "Lay Placar 3x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 21,
-   "r": 0,
-   "pl": 30.68,
-   "roi": 4.2,
    "wr": 100.0,
    "st": "val"
   },
@@ -271,9 +271,9 @@
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
-   "g": 6,
+   "g": 7,
    "r": 0,
-   "pl": 8.77,
+   "pl": 10.12,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 38,
+   "r": 4,
+   "pl": 3.62,
+   "roi": 11.0,
+   "wr": 90.5,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -386,17 +397,6 @@
    "pl": 3.4,
    "roi": -5.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 37,
-   "r": 4,
-   "pl": 1.68,
-   "roi": 11.0,
-   "wr": 90.2,
    "st": "val"
   },
   {
@@ -424,6 +424,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-02 02:08:05",
+   "tm": "02:08",
+   "match": "Cruz Azul vs Atlante",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-08-02 02:08:04",
+   "tm": "02:08",
+   "match": "Portland Timbers vs Seattle Sounders",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.6,
+   "status": "green",
+   "pl": 17.2
+  },
+  {
    "data": "2026-08-02 01:19:05",
    "tm": "01:19",
    "match": "LA Galaxy x FC Dallas",
@@ -444,6 +464,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-02 00:48:04",
+   "tm": "00:48",
+   "match": "Cruz Azul x Atlante FC",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
    "data": "2026-08-02 00:38:12",
    "tm": "00:38",
    "match": "Alajuelense vs Escorpiones Belén",
@@ -452,6 +482,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -1.43
+  },
+  {
+   "data": "2026-08-02 00:37:05",
+   "tm": "00:37",
+   "match": "Cruz Azul x Atlante FC",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 7.4,
+   "status": "green",
+   "pl": 1.94
   },
   {
    "data": "2026-08-02 00:19:05",
@@ -506,27 +546,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 2,
+   "ent": 12,
+   "g": 6,
    "r": 6,
-   "pl": -24.99,
-   "wr": 25,
+   "pl": -3.03,
+   "wr": 50,
    "label": "02/08"
   },
   "mes": {
-   "ent": 95,
-   "g": 68,
+   "ent": 99,
+   "g": 72,
    "r": 27,
-   "pl": 20.32,
-   "wr": 72,
+   "pl": 42.28,
+   "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -24.99,
-   "ops": 8,
-   "g": 2,
+   "pl": -3.03,
+   "ops": 12,
+   "g": 6,
    "r": 6
   },
   "2026-08-01": {
