@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T19:00",
+ "gerado_em": "2026-08-02T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 64,
-   "pl": -6.75,
+   "ent": 65,
+   "pl": -6.52,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 189,
-   "pl": 0.32,
+   "ent": 190,
+   "pl": 0.98,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 356,
-   "pl": 66.35,
+   "ent": 357,
+   "pl": 67.7,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 25,
-   "pl": 7.65,
+   "ent": 26,
+   "pl": 9.65,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 21,
-   "pl": 24.17,
+   "ent": 22,
+   "pl": 25.47,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 22,
-   "pl": 33.47,
+   "ent": 24,
+   "pl": 36.81,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -227,8 +227,8 @@
   },
   "TRIPWIRE": {
    "st": "rep",
-   "ent": 39,
-   "pl": -25.25,
+   "ent": 40,
+   "pl": -45.24,
    "roi": 10.0,
    "plat": "BotBet"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 143,
-   "pl": 44.46,
+   "ent": 144,
+   "pl": 46.18,
    "roi": -0.3,
    "plat": "Bolsa"
   }
