@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T16:00",
+ "gerado_em": "2026-08-02T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 490,
-   "pl": 336.2,
+   "ent": 491,
+   "pl": 337.56,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 62,
-   "pl": -7.31,
+   "ent": 64,
+   "pl": -6.75,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 481,
-   "pl": 20.35,
+   "ent": 482,
+   "pl": 20.76,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 187,
-   "pl": -3.04,
+   "ent": 188,
+   "pl": -1.2,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 354,
-   "pl": 94.75,
+   "ent": 355,
+   "pl": 96.36,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "val",
-   "ent": 44,
-   "pl": 11.32,
+   "ent": 45,
+   "pl": 12.51,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 21,
-   "pl": -18.74,
+   "ent": 23,
+   "pl": -22.77,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 53,
-   "pl": 20.5,
+   "ent": 54,
+   "pl": 21.9,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 96,
-   "pl": -5.2,
+   "ent": 97,
+   "pl": -3.64,
    "roi": -0.2,
    "plat": "Bolsa"
   },
