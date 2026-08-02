@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T13:00",
+ "gerado_em": "2026-08-02T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 111,
-   "pl": 50.26,
+   "ent": 112,
+   "pl": 51.08,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 182,
-   "pl": -6.93,
+   "ent": 185,
+   "pl": -4.63,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -80,15 +80,15 @@
   },
   "GLOBAL EDGE": {
    "st": "val",
-   "ent": 30,
-   "pl": 6.16,
+   "ent": 31,
+   "pl": 8.66,
    "roi": 4.0,
    "plat": "BotBet"
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 77,
-   "pl": 73.47,
+   "ent": 78,
+   "pl": 53.43,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 51,
-   "pl": 19.03,
+   "ent": 52,
+   "pl": 19.8,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -227,8 +227,8 @@
   },
   "TRIPWIRE": {
    "st": "rep",
-   "ent": 38,
-   "pl": -27.99,
+   "ent": 39,
+   "pl": -25.25,
    "roi": 10.0,
    "plat": "BotBet"
   },
@@ -276,22 +276,22 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 155,
-   "pl": 56.65,
+   "ent": 156,
+   "pl": 54.65,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 163,
-   "pl": 10.62,
+   "ent": 164,
+   "pl": 11.85,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 113,
-   "pl": 5.85,
+   "ent": 114,
+   "pl": 3.85,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 20,
-   "pl": 26.92,
+   "ent": 21,
+   "pl": 27.98,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
