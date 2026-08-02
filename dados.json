@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T09:00",
+ "gerado_em": "2026-08-02T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 61,
-   "r": 93,
-   "pl": 58.65,
+   "r": 94,
+   "pl": 56.65,
    "roi": 6.7,
-   "wr": 39.6,
+   "wr": 39.4,
    "st": "val"
   },
   {
@@ -424,6 +424,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-02 09:08:08",
+   "tm": "09:08",
+   "match": "Daejeon Citizen vs Gwangju",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-02 02:08:05",
    "tm": "02:08",
    "match": "Cruz Azul vs Atlante",
@@ -546,28 +556,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
+   "ent": 13,
    "g": 6,
-   "r": 6,
-   "pl": -3.03,
-   "wr": 50,
+   "r": 7,
+   "pl": -5.03,
+   "wr": 46,
    "label": "02/08"
   },
   "mes": {
-   "ent": 99,
+   "ent": 100,
    "g": 72,
-   "r": 27,
-   "pl": 42.28,
-   "wr": 73,
+   "r": 28,
+   "pl": 40.28,
+   "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -3.03,
-   "ops": 12,
+   "pl": -5.03,
+   "ops": 13,
    "g": 6,
-   "r": 6
+   "r": 7
   },
   "2026-08-01": {
    "pl": 45.32,
