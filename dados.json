@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T11:00",
+ "gerado_em": "2026-08-02T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -161,11 +161,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 121,
+   "g": 123,
    "r": 18,
-   "pl": 37.63,
+   "pl": 41.07,
    "roi": -0.3,
-   "wr": 87.1,
+   "wr": 87.2,
    "st": "val"
   },
   {
@@ -279,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 40,
+   "r": 2,
+   "pl": 8.93,
+   "roi": 6.0,
+   "wr": 95.2,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 7.65,
    "roi": 16.0,
    "wr": 88.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 39,
-   "r": 2,
-   "pl": 7.36,
-   "roi": 6.0,
-   "wr": 95.1,
    "st": "val"
   },
   {
@@ -423,6 +423,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-02 11:08:05",
+   "tm": "11:08",
+   "match": "FC Union Berlin vs Cagliari",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-02 11:08:05",
+   "tm": "11:08",
+   "match": "Shenzhen Peng City vs Chongqing Tonglianglong FC",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
   {
    "data": "2026-08-02 10:58:19",
    "tm": "10:58",
@@ -552,6 +572,16 @@
    "odd": 12.0,
    "status": "green",
    "pl": 1.09
+  },
+  {
+   "data": "2026-08-02 09:24:15",
+   "tm": "09:24",
+   "match": "1. FC Union Berlin x Cagliari",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.57
   },
   {
    "data": "2026-08-02 09:08:08",
@@ -696,27 +726,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 27,
-   "g": 19,
+   "ent": 30,
+   "g": 22,
    "r": 8,
-   "pl": 10.24,
-   "wr": 70,
+   "pl": 15.25,
+   "wr": 73,
    "label": "02/08"
   },
   "mes": {
-   "ent": 114,
-   "g": 85,
+   "ent": 117,
+   "g": 88,
    "r": 29,
-   "pl": 55.55,
+   "pl": 60.56,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": 10.24,
-   "ops": 27,
-   "g": 19,
+   "pl": 15.25,
+   "ops": 30,
+   "g": 22,
    "r": 8
   },
   "2026-08-01": {
