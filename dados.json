@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T01:00",
+ "gerado_em": "2026-08-02T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -257,17 +257,6 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 37,
-   "r": 3,
-   "pl": 13.69,
-   "roi": 11.0,
-   "wr": 92.5,
-   "st": "val"
-  },
-  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -279,17 +268,6 @@
    "st": "val"
   },
   {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 4,
-   "pl": 10.0,
-   "roi": -100.0,
-   "wr": 50.0,
-   "st": "val"
-  },
-  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -298,6 +276,17 @@
    "pl": 8.77,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 4,
+   "r": 5,
+   "pl": 8.0,
+   "roi": -100.0,
+   "wr": 44.4,
    "st": "val"
   },
   {
@@ -323,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 39,
+   "r": 2,
+   "pl": 7.36,
+   "roi": 6.0,
+   "wr": 95.1,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -331,17 +331,6 @@
    "pl": 6.64,
    "roi": 131.0,
    "wr": 13.6,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 38,
-   "r": 2,
-   "pl": 6.2,
-   "roi": 6.0,
-   "wr": 95.0,
    "st": "val"
   },
   {
@@ -400,14 +389,14 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO 80",
+   "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 9,
-   "r": 14,
-   "pl": 2.03,
-   "roi": 27.0,
-   "wr": 39.1,
+   "g": 37,
+   "r": 4,
+   "pl": 1.68,
+   "roi": 11.0,
+   "wr": 90.2,
    "st": "val"
   },
   {
@@ -420,9 +409,40 @@
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
+  },
+  {
+   "n": "QUEBRA-ZERO 80",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 9,
+   "r": 15,
+   "pl": 0.09,
+   "roi": 27.0,
+   "wr": 37.5,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-02 01:19:05",
+   "tm": "01:19",
+   "match": "LA Galaxy x FC Dallas",
+   "bot": "QUEBRA-ZERO 80",
+   "mkt": "Lay Placar 0x0",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
+   "data": "2026-08-02 00:49:05",
+   "tm": "00:49",
+   "match": "LA Galaxy x FC Dallas",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.0,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-02 00:38:12",
    "tm": "00:38",
@@ -432,6 +452,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -1.43
+  },
+  {
+   "data": "2026-08-02 00:19:05",
+   "tm": "00:19",
+   "match": "LA Galaxy x FC Dallas",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 8.8,
+   "status": "red",
+   "pl": -12.01
   },
   {
    "data": "2026-08-02 00:18:07",
@@ -462,32 +492,42 @@
    "odd": 1.5,
    "status": "red",
    "pl": -1.94
+  },
+  {
+   "data": "2026-08-02 00:05:05",
+   "tm": "00:05",
+   "match": "LA Galaxy x FC Dallas",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 1.16
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 1,
-   "r": 3,
-   "pl": -10.2,
+   "ent": 8,
+   "g": 2,
+   "r": 6,
+   "pl": -24.99,
    "wr": 25,
    "label": "02/08"
   },
   "mes": {
-   "ent": 91,
-   "g": 67,
-   "r": 24,
-   "pl": 35.12,
-   "wr": 74,
+   "ent": 95,
+   "g": 68,
+   "r": 27,
+   "pl": 20.32,
+   "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -10.2,
-   "ops": 4,
-   "g": 1,
-   "r": 3
+   "pl": -24.99,
+   "ops": 8,
+   "g": 2,
+   "r": 6
   },
   "2026-08-01": {
    "pl": 45.32,
