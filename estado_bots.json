@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T12:00",
+ "gerado_em": "2026-08-02T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 106,
-   "pl": -8.19,
+   "ent": 107,
+   "pl": -10.19,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 488,
-   "pl": 333.76,
+   "ent": 489,
+   "pl": 335.12,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 60,
-   "pl": -7.97,
+   "ent": 61,
+   "pl": -7.63,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 477,
-   "pl": 20.71,
+   "ent": 478,
+   "pl": 18.71,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 92,
-   "pl": 64.37,
+   "ent": 93,
+   "pl": 44.37,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 161,
-   "pl": 11.83,
+   "ent": 163,
+   "pl": 10.62,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 112,
-   "pl": 5.03,
+   "ent": 113,
+   "pl": 5.85,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 141,
-   "pl": 41.07,
+   "ent": 142,
+   "pl": 42.74,
    "roi": -0.3,
    "plat": "Bolsa"
   }
