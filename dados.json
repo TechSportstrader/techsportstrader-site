@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T10:00",
+ "gerado_em": "2026-08-02T11:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 482,
+   "g": 483,
    "r": 5,
-   "pl": 332.51,
+   "pl": 333.76,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 367,
+   "g": 369,
    "r": 108,
-   "pl": 19.6,
+   "pl": 20.71,
    "roi": 2.0,
-   "wr": 77.3,
+   "wr": 77.4,
    "st": "ap"
   },
   {
@@ -139,9 +139,9 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 59,
+   "g": 60,
    "r": 3,
-   "pl": 49.7,
+   "pl": 51.06,
    "roi": 1.3,
    "wr": 95.2,
    "st": "val"
@@ -150,11 +150,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 103,
+   "g": 104,
    "r": 7,
-   "pl": 47.97,
+   "pl": 50.26,
    "roi": 0.0,
-   "wr": 93.6,
+   "wr": 93.7,
    "st": "val"
   },
   {
@@ -202,6 +202,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 30,
+   "r": 1,
+   "pl": 27.12,
+   "roi": 9.0,
+   "wr": 96.8,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -213,23 +224,12 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 29,
-   "r": 1,
-   "pl": 25.54,
-   "roi": 9.0,
-   "wr": 96.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 17,
+   "g": 19,
    "r": 0,
-   "pl": 19.55,
+   "pl": 22.18,
    "roi": 4.0,
    "wr": 100.0,
    "st": "val"
@@ -260,11 +260,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 108,
-   "r": 51,
-   "pl": 12.61,
+   "g": 109,
+   "r": 52,
+   "pl": 11.83,
    "roi": 1.5,
-   "wr": 67.9,
+   "wr": 67.7,
    "st": "val"
   },
   {
@@ -356,6 +356,28 @@
    "st": "val"
   },
   {
+   "n": "QUEBRA-ZERO",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 39,
+   "r": 4,
+   "pl": 4.71,
+   "roi": 11.0,
+   "wr": 90.7,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 1.5",
+   "s": "Lay Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 19,
+   "r": 9,
+   "pl": 4.28,
+   "roi": -5.0,
+   "wr": 67.9,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -378,51 +400,159 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO",
+   "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 38,
-   "r": 4,
-   "pl": 3.62,
-   "roi": 11.0,
-   "wr": 90.5,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 1.5",
-   "s": "Lay Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 18,
-   "r": 9,
-   "pl": 3.4,
-   "roi": -5.0,
-   "wr": 66.7,
+   "g": 10,
+   "r": 15,
+   "pl": 3.79,
+   "roi": 27.0,
+   "wr": 40.0,
    "st": "val"
   },
   {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 19,
+   "g": 20,
    "r": 0,
-   "pl": 1.45,
+   "pl": 1.61,
    "roi": 1.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "QUEBRA-ZERO 80",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 9,
-   "r": 15,
-   "pl": 0.09,
-   "roi": 27.0,
-   "wr": 37.5,
    "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-02 10:58:19",
+   "tm": "10:58",
+   "match": "Nordsjælland vs Randers FC",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 1.4
+  },
+  {
+   "data": "2026-08-02 10:58:15",
+   "tm": "10:58",
+   "match": "IFK Göteborg vs Degerfors",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-08-02 10:48:06",
+   "tm": "10:48",
+   "match": "FC Midtjylland vs Horsens",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.18
+  },
+  {
+   "data": "2026-08-02 10:42:24",
+   "tm": "10:42",
+   "match": "FC Nordsjælland x Randers FC",
+   "bot": "QUEBRA-ZERO 80",
+   "mkt": "Lay Placar 0x0",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.7
+  },
+  {
+   "data": "2026-08-02 10:14:25",
+   "tm": "10:14",
+   "match": "FC Nordsjælland x Randers FC",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.16
+  },
+  {
+   "data": "2026-08-02 10:10:25",
+   "tm": "10:10",
+   "match": "FC Nordsjælland x Randers FC",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 36.0,
+   "status": "green",
+   "pl": 2.29
+  },
+  {
+   "data": "2026-08-02 10:10:24",
+   "tm": "10:10",
+   "match": "IF Brommapojkarna x Malmö FF",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.59
+  },
+  {
+   "data": "2026-08-02 10:05:41",
+   "tm": "10:05",
+   "match": "FC Nordsjælland x Randers FC",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.88
+  },
+  {
+   "data": "2026-08-02 10:05:36",
+   "tm": "10:05",
+   "match": "IFK Göteborg x Degerfors IF",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.52
+  },
+  {
+   "data": "2026-08-02 09:44:24",
+   "tm": "09:44",
+   "match": "Vendsyssel FF x Hobro",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 28.0,
+   "status": "green",
+   "pl": 1.04
+  },
+  {
+   "data": "2026-08-02 09:44:11",
+   "tm": "09:44",
+   "match": "FC Vaduz x FC St. Gallen 1879",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 23.0,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
+   "data": "2026-08-02 09:41:24",
+   "tm": "09:41",
+   "match": "IFK Göteborg x Degerfors IF",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.58
+  },
+  {
+   "data": "2026-08-02 09:37:25",
+   "tm": "09:37",
+   "match": "FC Nordsjælland x Randers FC",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.09
+  },
   {
    "data": "2026-08-02 09:08:08",
    "tm": "09:08",
@@ -432,6 +562,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-02 09:06:25",
+   "tm": "09:06",
+   "match": "IFK Göteborg x Degerfors IF",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-02 02:08:05",
@@ -556,28 +696,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 6,
-   "r": 7,
-   "pl": -5.03,
-   "wr": 46,
+   "ent": 27,
+   "g": 19,
+   "r": 8,
+   "pl": 10.24,
+   "wr": 70,
    "label": "02/08"
   },
   "mes": {
-   "ent": 100,
-   "g": 72,
-   "r": 28,
-   "pl": 40.28,
-   "wr": 72,
+   "ent": 114,
+   "g": 85,
+   "r": 29,
+   "pl": 55.55,
+   "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -5.03,
-   "ops": 13,
-   "g": 6,
-   "r": 7
+   "pl": 10.24,
+   "ops": 27,
+   "g": 19,
+   "r": 8
   },
   "2026-08-01": {
    "pl": 45.32,
