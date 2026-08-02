@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T14:00",
+ "gerado_em": "2026-08-02T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 484,
+   "g": 485,
    "r": 5,
-   "pl": 335.12,
+   "pl": 336.2,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 369,
+   "g": 370,
    "r": 109,
-   "pl": 18.71,
+   "pl": 19.31,
    "roi": 2.0,
    "wr": 77.2,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 15,
-   "r": 64,
-   "pl": 95.15,
+   "r": 65,
+   "pl": 93.15,
    "roi": 3.7,
-   "wr": 19.0,
+   "wr": 18.8,
    "st": "val"
   },
   {
@@ -106,11 +106,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 61,
-   "r": 95,
-   "pl": 54.65,
+   "g": 62,
+   "r": 97,
+   "pl": 54.71,
    "roi": 6.7,
-   "wr": 39.1,
+   "wr": 39.0,
    "st": "val"
   },
   {
@@ -227,9 +227,9 @@
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 19,
+   "g": 21,
    "r": 0,
-   "pl": 22.18,
+   "pl": 24.17,
    "roi": 4.0,
    "wr": 100.0,
    "st": "val"
@@ -249,11 +249,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 46,
-   "r": 18,
-   "pl": 14.41,
+   "g": 47,
+   "r": 19,
+   "pl": 13.74,
    "roi": -0.2,
-   "wr": 71.9,
+   "wr": 71.2,
    "st": "val"
   },
   {
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 42,
+   "r": 2,
+   "pl": 11.32,
+   "roi": 6.0,
+   "wr": 95.5,
+   "st": "val"
+  },
+  {
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
@@ -276,17 +287,6 @@
    "pl": 10.12,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 40,
-   "r": 2,
-   "pl": 8.93,
-   "roi": 6.0,
-   "wr": 95.2,
    "st": "val"
   },
   {
@@ -334,17 +334,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 3,
-   "r": 19,
-   "pl": 6.64,
-   "roi": 131.0,
-   "wr": 13.6,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -353,6 +342,17 @@
    "pl": 4.71,
    "roi": 11.0,
    "wr": 90.7,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 3,
+   "r": 20,
+   "pl": 4.64,
+   "roi": 131.0,
+   "wr": 13.0,
    "st": "val"
   },
   {
@@ -424,6 +424,76 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-02 14:58:14",
+   "tm": "14:58",
+   "match": "Vaprus vs Levadia",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.28
+  },
+  {
+   "data": "2026-08-02 14:38:15",
+   "tm": "14:38",
+   "match": "Flora vs Harju Jalgpallikool",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
+   "data": "2026-08-02 14:38:14",
+   "tm": "14:38",
+   "match": "PSV vs AZ",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.95
+  },
+  {
+   "data": "2026-08-02 14:38:13",
+   "tm": "14:38",
+   "match": "Bohemians 1905 vs Hradec Králové",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.0
+  },
+  {
+   "data": "2026-08-02 14:28:05",
+   "tm": "14:28",
+   "match": "Hibernian vs Motherwell",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-02 14:08:08",
+   "tm": "14:08",
+   "match": "Śląsk Wrocław vs Raków Częstochowa",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-02 14:05:12",
+   "tm": "14:05",
+   "match": "St. Patrick's Athletic x Derry City",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.61
+  },
+  {
    "data": "2026-08-02 13:58:25",
    "tm": "13:58",
    "match": "Zemplín Michalovce vs Žilina",
@@ -452,6 +522,16 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.77
+  },
+  {
+   "data": "2026-08-02 13:37:06",
+   "tm": "13:37",
+   "match": "Hibernian x Motherwell",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-02 13:28:08",
@@ -484,6 +564,26 @@
    "pl": 1.67
   },
   {
+   "data": "2026-08-02 12:54:07",
+   "tm": "12:54",
+   "match": "Śląsk Wrocław x Raków Częstochowa",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.29
+  },
+  {
+   "data": "2026-08-02 12:48:24",
+   "tm": "12:48",
+   "match": "Aalesunds FK x Tromsø IL",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 34.0,
+   "status": "green",
+   "pl": 1.06
+  },
+  {
    "data": "2026-08-02 12:48:08",
    "tm": "12:48",
    "match": "Grasshopper vs Lugano",
@@ -504,6 +604,26 @@
    "pl": 0.82
   },
   {
+   "data": "2026-08-02 12:41:07",
+   "tm": "12:41",
+   "match": "SC Austria Lustenau x SV Ried",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 30.0,
+   "status": "green",
+   "pl": 0.93
+  },
+  {
+   "data": "2026-08-02 12:37:17",
+   "tm": "12:37",
+   "match": "Hibernian x Motherwell",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
    "data": "2026-08-02 12:28:07",
    "tm": "12:28",
    "match": "ÍA vs Víkingur Reykjavík",
@@ -512,6 +632,16 @@
    "odd": 2.1,
    "status": "red",
    "pl": -2.37
+  },
+  {
+   "data": "2026-08-02 12:21:06",
+   "tm": "12:21",
+   "match": "SC Austria Lustenau x SV Ried",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 1.1
   },
   {
    "data": "2026-08-02 12:18:24",
@@ -866,28 +996,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 44,
-   "g": 30,
-   "r": 14,
-   "pl": -22.83,
-   "wr": 68,
+   "ent": 57,
+   "g": 38,
+   "r": 19,
+   "pl": -21.37,
+   "wr": 67,
    "label": "02/08"
   },
   "mes": {
-   "ent": 131,
-   "g": 96,
-   "r": 35,
-   "pl": 22.49,
-   "wr": 73,
+   "ent": 144,
+   "g": 104,
+   "r": 40,
+   "pl": 23.94,
+   "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -22.83,
-   "ops": 44,
-   "g": 30,
-   "r": 14
+   "pl": -21.37,
+   "ops": 57,
+   "g": 38,
+   "r": 19
   },
   "2026-08-01": {
    "pl": 45.32,
