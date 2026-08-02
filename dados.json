@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T16:00",
+ "gerado_em": "2026-08-02T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 485,
+   "g": 486,
    "r": 5,
-   "pl": 336.2,
+   "pl": 337.56,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 332,
+   "g": 333,
    "r": 22,
-   "pl": 94.75,
+   "pl": 96.36,
    "roi": 1.0,
    "wr": 93.8,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 372,
+   "g": 373,
    "r": 109,
-   "pl": 20.35,
+   "pl": 20.76,
    "roi": 2.0,
-   "wr": 77.3,
+   "wr": 77.4,
    "st": "ap"
   },
   {
@@ -238,9 +238,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 52,
+   "g": 53,
    "r": 1,
-   "pl": 20.5,
+   "pl": 21.9,
    "roi": 3.0,
    "wr": 98.1,
    "st": "val"
@@ -257,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "SISTEMA L-20",
+   "s": "Lay (misto) · BotBet",
+   "plat": "BotBet",
+   "g": 43,
+   "r": 2,
+   "pl": 12.51,
+   "roi": 6.0,
+   "wr": 95.6,
+   "st": "val"
+  },
+  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -265,17 +276,6 @@
    "pl": 11.85,
    "roi": 1.5,
    "wr": 67.7,
-   "st": "val"
-  },
-  {
-   "n": "SISTEMA L-20",
-   "s": "Lay (misto) · BotBet",
-   "plat": "BotBet",
-   "g": 42,
-   "r": 2,
-   "pl": 11.32,
-   "roi": 6.0,
-   "wr": 95.5,
    "st": "val"
   },
   {
@@ -424,6 +424,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-02 16:26:06",
+   "tm": "16:26",
+   "match": "GKS Katowice x Radomiak Radom",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
+   "data": "2026-08-02 16:00:09",
+   "tm": "16:00",
+   "match": "Asociación Deportiva Tarma x Deportivo Garcilaso",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 1.4
+  },
+  {
    "data": "2026-08-02 15:58:09",
    "tm": "15:58",
    "match": "SK Rapid vs Rheindorf Altach",
@@ -484,6 +504,16 @@
    "pl": -1.05
   },
   {
+   "data": "2026-08-02 15:07:06",
+   "tm": "15:07",
+   "match": "FK Pardubice x FK Jablonec",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
    "data": "2026-08-02 14:58:14",
    "tm": "14:58",
    "match": "Vaprus vs Levadia",
@@ -532,6 +562,26 @@
    "odd": 8.0,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-02 14:23:31",
+   "tm": "14:23",
+   "match": "SK Brann x Rosenborg BK",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.61
+  },
+  {
+   "data": "2026-08-02 14:23:11",
+   "tm": "14:23",
+   "match": "KFC Komárno x FC Spartak Trnava",
+   "bot": "SISTEMA L-20",
+   "mkt": "Lay (misto)",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 1.19
   },
   {
    "data": "2026-08-02 14:13:06",
@@ -972,81 +1022,31 @@
    "odd": 9.6,
    "status": "green",
    "pl": 17.2
-  },
-  {
-   "data": "2026-08-02 01:19:05",
-   "tm": "01:19",
-   "match": "LA Galaxy x FC Dallas",
-   "bot": "QUEBRA-ZERO 80",
-   "mkt": "Lay Placar 0x0",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -1.94
-  },
-  {
-   "data": "2026-08-02 00:49:05",
-   "tm": "00:49",
-   "match": "LA Galaxy x FC Dallas",
-   "bot": "BTTS LAB",
-   "mkt": "Ambas Marcam",
-   "odd": 3.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-02 00:48:04",
-   "tm": "00:48",
-   "match": "Cruz Azul x Atlante FC",
-   "bot": "BLINDADO 3-1",
-   "mkt": "Lay Placar 3x1",
-   "odd": 19.5,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-08-02 00:38:12",
-   "tm": "00:38",
-   "match": "Alajuelense vs Escorpiones Belén",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -1.43
-  },
-  {
-   "data": "2026-08-02 00:37:05",
-   "tm": "00:37",
-   "match": "Cruz Azul x Atlante FC",
-   "bot": "QUEBRA-ZERO",
-   "mkt": "Lay Placar 0x0",
-   "odd": 7.4,
-   "status": "green",
-   "pl": 1.94
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 65,
-   "g": 45,
+   "ent": 70,
+   "g": 50,
    "r": 20,
-   "pl": -14.61,
-   "wr": 69,
+   "pl": -8.63,
+   "wr": 71,
    "label": "02/08"
   },
   "mes": {
-   "ent": 152,
-   "g": 111,
+   "ent": 157,
+   "g": 116,
    "r": 41,
-   "pl": 30.71,
-   "wr": 73,
+   "pl": 36.68,
+   "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-02": {
-   "pl": -14.61,
-   "ops": 65,
-   "g": 45,
+   "pl": -8.63,
+   "ops": 70,
+   "g": 50,
    "r": 20
   },
   "2026-08-01": {
