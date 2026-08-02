@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T09:00",
+ "gerado_em": "2026-08-02T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 181,
-   "pl": -4.93,
+   "ent": 182,
+   "pl": -6.93,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 154,
-   "pl": 58.65,
+   "ent": 155,
+   "pl": 56.65,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 13,
-   "pl": -19.94,
+   "ent": 14,
+   "pl": -18.35,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "rep",
-   "ent": 87,
-   "pl": -3.29,
+   "ent": 88,
+   "pl": -1.85,
    "roi": -0.0,
    "plat": "Bolsa"
   },
