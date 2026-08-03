@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T09:00",
+ "gerado_em": "2026-08-03T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -150,11 +150,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 64,
+   "g": 65,
    "r": 4,
-   "pl": 41.44,
+   "pl": 43.02,
    "roi": 1.3,
-   "wr": 94.1,
+   "wr": 94.2,
    "st": "val"
   },
   {
@@ -400,26 +400,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-03 09:35:20",
+   "tm": "09:35",
+   "match": "Cambodia vs East Timor",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.58
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 1.58,
+   "wr": 100,
    "label": "03/08"
   },
   "mes": {
-   "ent": 195,
-   "g": 143,
+   "ent": 196,
+   "g": 144,
    "r": 52,
-   "pl": 22.04,
+   "pl": 23.62,
    "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-03": {
+   "pl": 1.58,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-02": {
    "pl": -44.05,
    "ops": 110,
