@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T18:00",
+ "gerado_em": "2026-08-03T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 335,
+   "g": 336,
    "r": 23,
-   "pl": 68.94,
+   "pl": 70.17,
    "roi": 1.0,
    "wr": 93.6,
    "st": "ap"
@@ -103,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 64,
+   "r": 101,
+   "pl": 56.42,
+   "roi": 6.7,
+   "wr": 38.8,
+   "st": "val"
+  },
+  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -122,17 +133,6 @@
    "pl": 53.43,
    "roi": 4.0,
    "wr": 94.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 63,
-   "r": 101,
-   "pl": 52.42,
-   "roi": 6.7,
-   "wr": 38.4,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-03 18:05:22",
+   "tm": "18:05",
+   "match": "Železničar Pančevo vs Mladost Lučani",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.0
+  },
+  {
    "data": "2026-08-03 17:35:22",
    "tm": "17:35",
    "match": "York City vs Crawley Town",
@@ -448,6 +458,16 @@
    "bot": "MURALHA",
    "mkt": "Lay Over 2.5 FT",
    "odd": 1.8,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-08-03 17:03:05",
+   "tm": "17:03",
+   "match": "Sarmiento x Independiente Rivadavia",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 19.5,
    "status": "green",
    "pl": 1.23
   },
@@ -614,27 +634,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 21,
-   "g": 15,
+   "ent": 23,
+   "g": 17,
    "r": 6,
-   "pl": 41.56,
-   "wr": 71,
+   "pl": 46.79,
+   "wr": 74,
    "label": "03/08"
   },
   "mes": {
-   "ent": 216,
-   "g": 158,
+   "ent": 218,
+   "g": 160,
    "r": 58,
-   "pl": 63.61,
+   "pl": 68.84,
    "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-03": {
-   "pl": 41.56,
-   "ops": 21,
-   "g": 15,
+   "pl": 46.79,
+   "ops": 23,
+   "g": 17,
    "r": 6
   },
   "2026-08-02": {
