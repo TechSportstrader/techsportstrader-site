@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T16:00",
+ "gerado_em": "2026-08-03T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 107,
-   "pl": -10.19,
+   "ent": 108,
+   "pl": -8.66,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 483,
-   "pl": 21.24,
+   "ent": 484,
+   "pl": 21.8,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,15 +94,15 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 67,
-   "pl": 68.23,
+   "ent": 68,
+   "pl": 69.48,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 47,
-   "pl": -7.17,
+   "ent": 48,
+   "pl": -5.6,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 24,
-   "pl": -24.77,
+   "ent": 25,
+   "pl": -26.77,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 168,
-   "pl": 12.97,
+   "ent": 169,
+   "pl": 14.18,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 42,
-   "pl": -61.7,
+   "ent": 43,
+   "pl": -60.13,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 146,
-   "pl": 37.85,
+   "ent": 148,
+   "pl": 41.19,
    "roi": -0.3,
    "plat": "Bolsa"
   }
