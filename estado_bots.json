@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T20:00",
+ "gerado_em": "2026-08-02T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 190,
-   "pl": 0.98,
+   "st": "rep",
+   "ent": 191,
+   "pl": -1.02,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 357,
-   "pl": 67.7,
+   "ent": 358,
+   "pl": 68.94,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 35,
-   "pl": 15.96,
+   "ent": 36,
+   "pl": 17.63,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 23,
-   "pl": 4.64,
+   "ent": 24,
+   "pl": 17.44,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -269,22 +269,22 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 82,
-   "pl": 89.15,
+   "ent": 83,
+   "pl": 103.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 161,
-   "pl": 58.42,
+   "ent": 162,
+   "pl": 56.42,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 165,
-   "pl": 13.07,
+   "ent": 166,
+   "pl": 14.02,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 40,
-   "pl": -10.63,
+   "ent": 41,
+   "pl": -9.09,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
