@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T14:00",
+ "gerado_em": "2026-08-03T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 491,
+   "g": 492,
    "r": 5,
-   "pl": 343.81,
+   "pl": 345.44,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -62,11 +62,11 @@
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 16,
+   "g": 17,
    "r": 68,
-   "pl": 101.55,
+   "pl": 119.55,
    "roi": 3.7,
-   "wr": 19.0,
+   "wr": 20.0,
    "st": "val"
   },
   {
@@ -180,6 +180,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 20,
+   "pl": 34.24,
+   "roi": 131.0,
+   "wr": 20.0,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 18.7,
    "roi": 9.0,
    "wr": 94.6,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 20,
-   "pl": 17.44,
-   "roi": 131.0,
-   "wr": 16.7,
    "st": "val"
   },
   {
@@ -402,6 +402,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-03 14:35:23",
+   "tm": "14:35",
+   "match": "Universitatea Cluj vs Botoşani",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 18.0
+  },
+  {
+   "data": "2026-08-03 13:14:15",
+   "tm": "13:14",
+   "match": "FC Universitatea Cluj x FC Botoșani",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.4,
+   "status": "green",
+   "pl": 16.8
+  },
+  {
+   "data": "2026-08-03 12:40:08",
+   "tm": "12:40",
+   "match": "FC Universitatea Cluj x FC Botoșani",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.63
+  },
+  {
    "data": "2026-08-03 09:35:20",
    "tm": "09:35",
    "match": "Cambodia vs East Timor",
@@ -414,27 +444,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 1.58,
+   "pl": 38.01,
    "wr": 100,
    "label": "03/08"
   },
   "mes": {
-   "ent": 196,
-   "g": 144,
+   "ent": 199,
+   "g": 147,
    "r": 52,
-   "pl": 23.62,
-   "wr": 73,
+   "pl": 60.05,
+   "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-03": {
-   "pl": 1.58,
-   "ops": 1,
-   "g": 1,
+   "pl": 38.01,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-08-02": {
