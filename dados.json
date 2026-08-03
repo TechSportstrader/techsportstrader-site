@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T17:00",
+ "gerado_em": "2026-08-03T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 492,
+   "g": 493,
    "r": 5,
-   "pl": 345.44,
+   "pl": 346.52,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 375,
+   "g": 376,
    "r": 109,
-   "pl": 21.8,
+   "pl": 22.24,
    "roi": 2.0,
    "wr": 77.5,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 17,
-   "r": 68,
-   "pl": 119.55,
+   "r": 69,
+   "pl": 117.55,
    "roi": 3.7,
-   "wr": 20.0,
+   "wr": 19.8,
    "st": "val"
   },
   {
@@ -184,10 +184,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 5,
-   "r": 20,
-   "pl": 34.24,
+   "r": 21,
+   "pl": 32.24,
    "roi": 131.0,
-   "wr": 20.0,
+   "wr": 19.2,
    "st": "val"
   },
   {
@@ -249,11 +249,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 115,
+   "g": 116,
    "r": 54,
-   "pl": 14.18,
+   "pl": 15.41,
    "roi": 1.5,
-   "wr": 68.0,
+   "wr": 68.2,
    "st": "val"
   },
   {
@@ -276,6 +276,17 @@
    "pl": 11.32,
    "roi": 16.0,
    "wr": 88.9,
+   "st": "val"
+  },
+  {
+   "n": "BLINDADO 3-1 (Bolsa)",
+   "s": "Lay Placar 3x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 1,
+   "pl": 10.08,
+   "roi": 4.2,
+   "wr": 96.0,
    "st": "val"
   },
   {
@@ -323,28 +334,6 @@
    "st": "val"
   },
   {
-   "n": "BLINDADO 3-1 (Bolsa)",
-   "s": "Lay Placar 3x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 22,
-   "r": 1,
-   "pl": 7.15,
-   "roi": 4.2,
-   "wr": 95.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 1.5",
-   "s": "Lay Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 19,
-   "r": 9,
-   "pl": 4.28,
-   "roi": -5.0,
-   "wr": 67.9,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -378,14 +367,14 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 56,
-   "r": 60,
-   "pl": 1.93,
-   "roi": 1.4,
-   "wr": 48.3,
+   "n": "MURALHA 1.5",
+   "s": "Lay Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 19,
+   "r": 10,
+   "pl": 3.14,
+   "roi": -5.0,
+   "wr": 65.5,
    "st": "val"
   },
   {
@@ -398,9 +387,100 @@
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 56,
+   "r": 61,
+   "pl": 0.83,
+   "roi": 1.4,
+   "wr": 47.9,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-03 17:35:22",
+   "tm": "17:35",
+   "match": "York City vs Crawley Town",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.1
+  },
+  {
+   "data": "2026-08-03 17:35:20",
+   "tm": "17:35",
+   "match": "York City vs Crawley Town",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-08-03 17:35:19",
+   "tm": "17:35",
+   "match": "York City vs Crawley Town",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-03 17:25:27",
+   "tm": "17:25",
+   "match": "FCSB vs Farul Constanța",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.61
+  },
+  {
+   "data": "2026-08-03 17:25:25",
+   "tm": "17:25",
+   "match": "Celtic vs Dundee",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-08-03 16:36:04",
+   "tm": "16:36",
+   "match": "York City x Crawley Town",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
+   "data": "2026-08-03 16:35:05",
+   "tm": "16:35",
+   "match": "York City x Crawley Town",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-03 16:34:06",
+   "tm": "16:34",
+   "match": "Celtic x Dundee FC",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.14
+  },
   {
    "data": "2026-08-03 16:05:24",
    "tm": "16:05",
@@ -440,6 +520,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-03 15:36:05",
+   "tm": "15:36",
+   "match": "FCSB x FCV Farul Constanța",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
   },
   {
    "data": "2026-08-03 15:25:21",
@@ -524,28 +614,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 10,
-   "r": 2,
-   "pl": 42.13,
-   "wr": 83,
+   "ent": 21,
+   "g": 15,
+   "r": 6,
+   "pl": 41.56,
+   "wr": 71,
    "label": "03/08"
   },
   "mes": {
-   "ent": 207,
-   "g": 153,
-   "r": 54,
-   "pl": 64.17,
-   "wr": 74,
+   "ent": 216,
+   "g": 158,
+   "r": 58,
+   "pl": 63.61,
+   "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-03": {
-   "pl": 42.13,
-   "ops": 12,
-   "g": 10,
-   "r": 2
+   "pl": 41.56,
+   "ops": 21,
+   "g": 15,
+   "r": 6
   },
   "2026-08-02": {
    "pl": -44.05,
