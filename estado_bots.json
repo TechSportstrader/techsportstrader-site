@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-02T21:00",
+ "gerado_em": "2026-08-02T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 482,
-   "pl": 20.76,
+   "ent": 483,
+   "pl": 21.24,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -100,9 +100,9 @@
    "plat": "BotBet"
   },
   "SISTEMA L-20": {
-   "st": "val",
-   "ent": 45,
-   "pl": 12.51,
+   "st": "rep",
+   "ent": 46,
+   "pl": -8.69,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 26,
-   "pl": 9.65,
+   "ent": 27,
+   "pl": 11.32,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 23,
-   "pl": -22.77,
+   "ent": 24,
+   "pl": -24.77,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 24,
-   "pl": 36.81,
+   "ent": 25,
+   "pl": 38.6,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 94,
-   "pl": 46.04,
+   "ent": 95,
+   "pl": 50.21,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 83,
-   "pl": 103.55,
+   "ent": 84,
+   "pl": 101.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 41,
-   "pl": -39.7,
+   "ent": 42,
+   "pl": -61.7,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 98,
-   "pl": -2.14,
+   "ent": 99,
+   "pl": -0.25,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 41,
-   "pl": -9.09,
+   "ent": 42,
+   "pl": -7.55,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
