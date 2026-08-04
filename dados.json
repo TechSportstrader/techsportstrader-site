@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T18:00",
+ "gerado_em": "2026-08-04T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 493,
+   "g": 494,
    "r": 5,
-   "pl": 346.52,
+   "pl": 347.77,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -501,6 +501,16 @@
    "pl": -20.02
   },
   {
+   "data": "2026-08-04 16:08:06",
+   "tm": "16:08",
+   "match": "Academia de Balompié Boliviano x CDT Real Oruro",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-08-04 15:55:22",
    "tm": "15:55",
    "match": "Olympiacos F.C. vs NEC Nijmegen",
@@ -553,27 +563,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 16,
-   "g": 13,
+   "ent": 17,
+   "g": 14,
    "r": 3,
-   "pl": -3.84,
-   "wr": 81,
+   "pl": -2.59,
+   "wr": 82,
    "label": "04/08"
   },
   "mes": {
-   "ent": 232,
-   "g": 174,
+   "ent": 233,
+   "g": 175,
    "r": 58,
-   "pl": 102.21,
+   "pl": 103.46,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-04": {
-   "pl": -3.84,
-   "ops": 16,
-   "g": 13,
+   "pl": -2.59,
+   "ops": 17,
+   "g": 14,
    "r": 3
   },
   "2026-08-03": {
