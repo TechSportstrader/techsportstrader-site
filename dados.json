@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T22:00",
+ "gerado_em": "2026-08-03T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 21,
+   "r": 4,
+   "pl": 9.1,
+   "roi": 27.0,
+   "wr": 84.0,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -320,17 +331,6 @@
    "pl": 7.8,
    "roi": 11.0,
    "wr": 91.1,
-   "st": "val"
-  },
-  {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 20,
-   "r": 4,
-   "pl": 7.71,
-   "roi": 27.0,
-   "wr": 83.3,
    "st": "val"
   },
   {
@@ -401,6 +401,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-03 22:24:08",
+   "tm": "22:24",
+   "match": "Deportes Temuco x Deportes Copiapó",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.6,
+   "status": "green",
+   "pl": 1.39
+  },
   {
    "data": "2026-08-03 21:05:20",
    "tm": "21:05",
@@ -654,27 +664,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 25,
-   "g": 18,
+   "ent": 26,
+   "g": 19,
    "r": 7,
-   "pl": 46.46,
-   "wr": 72,
+   "pl": 47.85,
+   "wr": 73,
    "label": "03/08"
   },
   "mes": {
-   "ent": 220,
-   "g": 161,
+   "ent": 221,
+   "g": 162,
    "r": 59,
-   "pl": 68.51,
+   "pl": 69.9,
    "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-03": {
-   "pl": 46.46,
-   "ops": 25,
-   "g": 18,
+   "pl": 47.85,
+   "ops": 26,
+   "g": 19,
    "r": 7
   },
   "2026-08-02": {
