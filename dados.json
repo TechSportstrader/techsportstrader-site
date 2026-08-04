@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T21:00",
+ "gerado_em": "2026-08-03T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -161,9 +161,9 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 129,
+   "g": 130,
    "r": 19,
-   "pl": 41.19,
+   "pl": 42.86,
    "roi": -0.3,
    "wr": 87.2,
    "st": "val"
@@ -180,17 +180,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 21,
-   "pl": 32.24,
-   "roi": 131.0,
-   "wr": 19.2,
-   "st": "val"
-  },
-  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -199,6 +188,17 @@
    "pl": 30.39,
    "roi": 13.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 22,
+   "pl": 30.24,
+   "roi": 131.0,
+   "wr": 18.5,
    "st": "val"
   },
   {
@@ -401,6 +401,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-03 21:05:20",
+   "tm": "21:05",
+   "match": "Vélez Sarsfield vs Independiente",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-08-03 20:10:21",
+   "tm": "20:10",
+   "match": "Caracas F.C. x Estudiantes de Mérida",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-03 18:05:22",
    "tm": "18:05",
@@ -634,28 +654,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 17,
-   "r": 6,
-   "pl": 46.79,
-   "wr": 74,
+   "ent": 25,
+   "g": 18,
+   "r": 7,
+   "pl": 46.46,
+   "wr": 72,
    "label": "03/08"
   },
   "mes": {
-   "ent": 218,
-   "g": 160,
-   "r": 58,
-   "pl": 68.84,
+   "ent": 220,
+   "g": 161,
+   "r": 59,
+   "pl": 68.51,
    "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-03": {
-   "pl": 46.79,
-   "ops": 23,
-   "g": 17,
-   "r": 6
+   "pl": 46.46,
+   "ops": 25,
+   "g": 18,
+   "r": 7
   },
   "2026-08-02": {
    "pl": -44.05,
