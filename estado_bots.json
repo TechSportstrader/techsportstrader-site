@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-03T20:00",
+ "gerado_em": "2026-08-03T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 192,
-   "pl": -3.02,
+   "ent": 193,
+   "pl": -0.96,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 48,
-   "pl": -5.6,
+   "ent": 49,
+   "pl": -4.22,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 26,
-   "pl": -28.77,
+   "ent": 27,
+   "pl": -30.77,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 43,
-   "pl": -60.13,
+   "ent": 44,
+   "pl": -58.76,
    "roi": 0.3,
    "plat": "Bolsa"
   },
