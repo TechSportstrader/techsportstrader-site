@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T17:00",
+ "gerado_em": "2026-08-04T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "HIERARCHY",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 74,
-   "r": 4,
-   "pl": 53.43,
-   "roi": 4.0,
-   "wr": 94.9,
-   "st": "val"
-  },
-  {
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -191,6 +180,17 @@
    "st": "val"
   },
   {
+   "n": "HIERARCHY",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 74,
+   "r": 5,
+   "pl": 33.41,
+   "roi": 4.0,
+   "wr": 93.7,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -205,11 +205,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 35,
+   "g": 36,
    "r": 8,
-   "pl": 26.26,
+   "pl": 27.1,
    "roi": 33.0,
-   "wr": 81.4,
+   "wr": 81.8,
    "st": "val"
   },
   {
@@ -249,11 +249,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 118,
+   "g": 119,
    "r": 55,
-   "pl": 14.46,
+   "pl": 15.77,
    "roi": 1.5,
-   "wr": 68.2,
+   "wr": 68.4,
    "st": "val"
   },
   {
@@ -370,9 +370,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 20,
+   "g": 21,
    "r": 0,
-   "pl": 1.61,
+   "pl": 1.66,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -390,6 +390,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-04 17:35:22",
+   "tm": "17:35",
+   "match": "Thór vs Breidablik",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "green",
+   "pl": 1.31
+  },
+  {
+   "data": "2026-08-04 17:03:06",
+   "tm": "17:03",
+   "match": "Ipswich Town x Le Havre",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.05
+  },
   {
    "data": "2026-08-04 16:55:26",
    "tm": "16:55",
@@ -441,6 +461,16 @@
    "pl": 1.72
   },
   {
+   "data": "2026-08-04 16:42:25",
+   "tm": "16:42",
+   "match": "Þór Akureyri x Breidablik Kópavogur",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.84
+  },
+  {
    "data": "2026-08-04 16:32:05",
    "tm": "16:32",
    "match": "Ipswich Town x Le Havre",
@@ -459,6 +489,16 @@
    "odd": 2.6,
    "status": "red",
    "pl": -3.64
+  },
+  {
+   "data": "2026-08-04 16:09:25",
+   "tm": "16:09",
+   "match": "Þór Akureyri x Breidablik Kópavogur",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 12.0,
+   "status": "red",
+   "pl": -20.02
   },
   {
    "data": "2026-08-04 15:55:22",
@@ -513,28 +553,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 10,
-   "r": 2,
-   "pl": 13.98,
-   "wr": 83,
+   "ent": 16,
+   "g": 13,
+   "r": 3,
+   "pl": -3.84,
+   "wr": 81,
    "label": "04/08"
   },
   "mes": {
-   "ent": 228,
-   "g": 171,
-   "r": 57,
-   "pl": 120.03,
+   "ent": 232,
+   "g": 174,
+   "r": 58,
+   "pl": 102.21,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-04": {
-   "pl": 13.98,
-   "ops": 12,
-   "g": 10,
-   "r": 2
+   "pl": -3.84,
+   "ops": 16,
+   "g": 13,
+   "r": 3
   },
   "2026-08-03": {
    "pl": 75.92,
