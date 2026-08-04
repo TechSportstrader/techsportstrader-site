@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T16:00",
+ "gerado_em": "2026-08-04T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 68,
-   "pl": -8.19,
+   "ent": 69,
+   "pl": -9.33,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 55,
-   "pl": 22.57,
+   "ent": 56,
+   "pl": 23.07,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -184,9 +184,9 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "val",
-   "ent": 45,
-   "pl": 7.8,
+   "st": "rep",
+   "ent": 46,
+   "pl": -3.85,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,22 +276,22 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 166,
-   "pl": 54.42,
+   "ent": 168,
+   "pl": 62.9,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 171,
-   "pl": 16.89,
+   "ent": 173,
+   "pl": 14.46,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
-   "st": "val",
-   "ent": 117,
-   "pl": 0.83,
+   "st": "rep",
+   "ent": 118,
+   "pl": -1.17,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "rep",
-   "ent": 88,
-   "pl": -1.85,
+   "ent": 89,
+   "pl": -3.85,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 150,
-   "pl": 44.53,
+   "ent": 152,
+   "pl": 47.92,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 22,
-   "pl": 29.04,
+   "ent": 23,
+   "pl": 30.39,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
