@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T18:00",
+ "gerado_em": "2026-08-04T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 498,
-   "pl": 346.52,
+   "ent": 499,
+   "pl": 347.77,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 69,
-   "pl": -9.33,
+   "ent": 70,
+   "pl": -9.11,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 50,
-   "pl": -2.93,
+   "ent": 51,
+   "pl": -1.77,
    "roi": 6.0,
    "plat": "BotBet"
   },
