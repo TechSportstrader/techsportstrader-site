@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T17:00",
+ "gerado_em": "2026-08-04T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 43,
-   "pl": 26.26,
+   "ent": 44,
+   "pl": 27.1,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 193,
-   "pl": -0.96,
+   "ent": 194,
+   "pl": -0.23,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 78,
-   "pl": 53.43,
+   "ent": 79,
+   "pl": 33.41,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 20,
-   "pl": 1.61,
+   "ent": 21,
+   "pl": 1.66,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 173,
-   "pl": 14.46,
+   "ent": 174,
+   "pl": 15.77,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 23,
-   "pl": 30.39,
+   "ent": 24,
+   "pl": 31.52,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
