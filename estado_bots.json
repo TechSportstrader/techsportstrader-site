@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T15:00",
+ "gerado_em": "2026-08-05T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 504,
-   "pl": 353.51,
+   "ent": 505,
+   "pl": 354.99,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 122,
-   "pl": -2.18,
+   "ent": 123,
+   "pl": -4.18,
    "roi": 1.4,
    "plat": "Bolsa"
   },
