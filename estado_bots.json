@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T17:00",
+ "gerado_em": "2026-08-05T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 196,
-   "pl": 1.16,
+   "st": "rep",
+   "ent": 197,
+   "pl": -0.84,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 123,
-   "pl": -4.18,
+   "ent": 124,
+   "pl": -2.68,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 47,
-   "pl": -5.72,
+   "ent": 48,
+   "pl": -9.01,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
