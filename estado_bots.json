@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T21:00",
+ "gerado_em": "2026-08-04T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 499,
-   "pl": 347.77,
+   "ent": 500,
+   "pl": 348.85,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 359,
-   "pl": 70.17,
+   "ent": 360,
+   "pl": 72.9,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 28,
-   "pl": 49.24,
+   "ent": 29,
+   "pl": 63.24,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 95,
-   "pl": 50.21,
+   "ent": 96,
+   "pl": 53.07,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 43,
-   "pl": -6.01,
+   "ent": 44,
+   "pl": -4.41,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
