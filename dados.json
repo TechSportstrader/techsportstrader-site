@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T13:00",
+ "gerado_em": "2026-08-05T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 497,
+   "g": 498,
    "r": 5,
-   "pl": 350.87,
+   "pl": 352.03,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -249,11 +249,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 47,
+   "g": 48,
    "r": 19,
-   "pl": 13.74,
+   "pl": 14.6,
    "roi": -0.2,
-   "wr": 71.2,
+   "wr": 71.6,
    "st": "val"
   },
   {
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-05 13:25:19",
+   "tm": "13:25",
+   "match": "Paulesti vs Tunari",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.86
+  },
+  {
+   "data": "2026-08-05 12:07:11",
+   "tm": "12:07",
+   "match": "OLS Oulu x TPV",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 1.16
+  },
+  {
    "data": "2026-08-05 01:45:21",
    "tm": "01:45",
    "match": "Vancouver Whitecaps vs Atlante",
@@ -434,27 +454,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 2,
+   "ent": 5,
+   "g": 4,
    "r": 1,
-   "pl": 0.58,
-   "wr": 67,
+   "pl": 2.6,
+   "wr": 80,
    "label": "05/08"
   },
   "mes": {
-   "ent": 272,
-   "g": 205,
+   "ent": 274,
+   "g": 207,
    "r": 67,
-   "pl": 131.67,
-   "wr": 75,
+   "pl": 133.69,
+   "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 0.58,
-   "ops": 3,
-   "g": 2,
+   "pl": 2.6,
+   "ops": 5,
+   "g": 4,
    "r": 1
   },
   "2026-08-04": {
