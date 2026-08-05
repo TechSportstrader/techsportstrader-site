@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T22:00",
+ "gerado_em": "2026-08-04T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 377,
+   "g": 378,
    "r": 109,
-   "pl": 22.96,
+   "pl": 23.42,
    "roi": 2.0,
    "wr": 77.6,
    "st": "ap"
@@ -246,17 +246,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 119,
-   "r": 55,
-   "pl": 15.77,
-   "roi": 1.5,
-   "wr": 68.4,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -265,6 +254,17 @@
    "pl": 13.74,
    "roi": -0.2,
    "wr": 71.2,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 119,
+   "r": 56,
+   "pl": 13.44,
+   "roi": 1.5,
+   "wr": 68.0,
    "st": "val"
   },
   {
@@ -392,11 +392,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 132,
+   "g": 133,
    "r": 63,
-   "pl": 0.39,
+   "pl": 1.16,
    "roi": 2.0,
-   "wr": 67.7,
+   "wr": 67.9,
    "st": "val"
   },
   {
@@ -412,6 +412,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-04 22:45:19",
+   "tm": "22:45",
+   "match": "Guabirá vs Real Tomayapo",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "red",
+   "pl": -2.33
+  },
+  {
+   "data": "2026-08-04 22:33:05",
+   "tm": "22:33",
+   "match": "Guabirá x CD Real Tomayapo",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.77
+  },
+  {
+   "data": "2026-08-04 22:27:04",
+   "tm": "22:27",
+   "match": "Guabirá x CD Real Tomayapo",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.46
+  },
   {
    "data": "2026-08-04 20:45:19",
    "tm": "20:45",
@@ -685,28 +715,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 27,
-   "g": 23,
-   "r": 4,
-   "pl": 20.92,
-   "wr": 85,
+   "ent": 30,
+   "g": 25,
+   "r": 5,
+   "pl": 19.82,
+   "wr": 83,
    "label": "04/08"
   },
   "mes": {
-   "ent": 273,
-   "g": 202,
-   "r": 71,
-   "pl": 125.06,
+   "ent": 276,
+   "g": 204,
+   "r": 72,
+   "pl": 123.96,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-04": {
-   "pl": 20.92,
-   "ops": 27,
-   "g": 23,
-   "r": 4
+   "pl": 19.82,
+   "ops": 30,
+   "g": 25,
+   "r": 5
   },
   "2026-08-03": {
    "pl": 74.89,
