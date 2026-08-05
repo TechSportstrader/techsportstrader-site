@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T00:00",
+ "gerado_em": "2026-08-05T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 108,
-   "pl": -8.66,
+   "ent": 109,
+   "pl": -7.49,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -289,16 +289,16 @@
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
-   "st": "val",
-   "ent": 119,
-   "pl": 0.09,
+   "st": "rep",
+   "ent": 120,
+   "pl": -1.91,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 70,
-   "pl": 44.13,
+   "ent": 71,
+   "pl": 45.24,
    "roi": 1.3,
    "plat": "Bolsa"
   },
