@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T14:00",
+ "gerado_em": "2026-08-05T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 498,
+   "g": 499,
    "r": 5,
-   "pl": 352.03,
+   "pl": 353.51,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -249,11 +249,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 48,
+   "g": 49,
    "r": 19,
-   "pl": 14.6,
+   "pl": 15.88,
    "roi": -0.2,
-   "wr": 71.6,
+   "wr": 72.1,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-05 14:25:21",
+   "tm": "14:25",
+   "match": "SalPa vs JJK",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.28
+  },
+  {
    "data": "2026-08-05 13:25:19",
    "tm": "13:25",
    "match": "Paulesti vs Tunari",
@@ -410,6 +420,16 @@
    "odd": 1.7,
    "status": "green",
    "pl": 0.86
+  },
+  {
+   "data": "2026-08-05 12:47:21",
+   "tm": "12:47",
+   "match": "RoPS x FC Jazz",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-05 12:07:11",
@@ -454,27 +474,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 4,
+   "ent": 7,
+   "g": 6,
    "r": 1,
-   "pl": 2.6,
-   "wr": 80,
+   "pl": 5.36,
+   "wr": 86,
    "label": "05/08"
   },
   "mes": {
-   "ent": 274,
-   "g": 207,
+   "ent": 276,
+   "g": 209,
    "r": 67,
-   "pl": 133.69,
+   "pl": 136.45,
    "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 2.6,
-   "ops": 5,
-   "g": 4,
+   "pl": 5.36,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-08-04": {
