@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T18:00",
+ "gerado_em": "2026-08-05T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 68,
+   "r": 103,
+   "pl": 70.98,
+   "roi": 6.7,
+   "wr": 39.8,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -100,17 +111,6 @@
    "pl": 69.48,
    "roi": 1.0,
    "wr": 94.1,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 67,
-   "r": 103,
-   "pl": 65.27,
-   "roi": 6.7,
-   "wr": 39.4,
    "st": "val"
   },
   {
@@ -391,6 +391,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-05 18:05:20",
+   "tm": "18:05",
+   "match": "Gualberto Villarroel SJ vs San Antonio Bulo Bulo",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.71
+  },
+  {
    "data": "2026-08-05 16:55:22",
    "tm": "16:55",
    "match": "Estudiantes RC Res. vs Lanús Res.",
@@ -513,27 +523,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 9,
+   "ent": 13,
+   "g": 10,
    "r": 3,
-   "pl": 9.25,
-   "wr": 75,
+   "pl": 14.96,
+   "wr": 77,
    "label": "05/08"
   },
   "mes": {
-   "ent": 258,
-   "g": 196,
+   "ent": 259,
+   "g": 197,
    "r": 62,
-   "pl": 138.61,
+   "pl": 144.32,
    "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 9.25,
-   "ops": 12,
-   "g": 9,
+   "pl": 14.96,
+   "ops": 13,
+   "g": 10,
    "r": 3
   },
   "2026-08-04": {
