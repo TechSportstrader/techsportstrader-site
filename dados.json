@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-04T21:00",
+ "gerado_em": "2026-08-04T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 494,
+   "g": 495,
    "r": 5,
-   "pl": 347.77,
+   "pl": 348.85,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 336,
+   "g": 337,
    "r": 23,
-   "pl": 70.17,
+   "pl": 72.9,
    "roi": 1.0,
    "wr": 93.6,
    "st": "ap"
@@ -103,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 7,
+   "r": 22,
+   "pl": 63.24,
+   "roi": 131.0,
+   "wr": 24.1,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -128,22 +139,11 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 85,
+   "g": 86,
    "r": 10,
-   "pl": 50.21,
+   "pl": 53.07,
    "roi": 4.0,
-   "wr": 89.5,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 6,
-   "r": 22,
-   "pl": 49.24,
-   "roi": 131.0,
-   "wr": 21.4,
+   "wr": 89.6,
    "st": "val"
   },
   {
@@ -443,6 +443,36 @@
    "pl": 0.62
   },
   {
+   "data": "2026-08-04 20:02:10",
+   "tm": "20:02",
+   "match": "Juventude x Atlético Mineiro",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 8.0,
+   "status": "green",
+   "pl": 2.86
+  },
+  {
+   "data": "2026-08-04 19:33:10",
+   "tm": "19:33",
+   "match": "Universidad Central x Monagas",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "green",
+   "pl": 14.0
+  },
+  {
+   "data": "2026-08-04 19:29:05",
+   "tm": "19:29",
+   "match": "Club Independiente Petrolero x Club Aurora",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 2.73
+  },
+  {
    "data": "2026-08-04 19:10:16",
    "tm": "19:10",
    "match": "Carabobo FC x Trujillanos FC",
@@ -451,6 +481,16 @@
    "odd": 11.0,
    "status": "green",
    "pl": 1.5
+  },
+  {
+   "data": "2026-08-04 19:07:11",
+   "tm": "19:07",
+   "match": "Universidad Central x Monagas",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
   },
   {
    "data": "2026-08-04 17:35:22",
@@ -645,27 +685,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 19,
+   "ent": 27,
+   "g": 23,
    "r": 4,
-   "pl": 0.25,
-   "wr": 83,
+   "pl": 20.92,
+   "wr": 85,
    "label": "04/08"
   },
   "mes": {
-   "ent": 269,
-   "g": 198,
+   "ent": 273,
+   "g": 202,
    "r": 71,
-   "pl": 104.39,
+   "pl": 125.06,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-04": {
-   "pl": 0.25,
-   "ops": 23,
-   "g": 19,
+   "pl": 20.92,
+   "ops": 27,
+   "g": 23,
    "r": 4
   },
   "2026-08-03": {
