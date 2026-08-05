@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T15:00",
+ "gerado_em": "2026-08-05T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 499,
+   "g": 500,
    "r": 5,
-   "pl": 353.51,
+   "pl": 354.99,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -422,6 +422,16 @@
    "pl": 0.86
   },
   {
+   "data": "2026-08-05 13:22:13",
+   "tm": "13:22",
+   "match": "VJS x PK Keski-Uusimaa",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
+  },
+  {
    "data": "2026-08-05 12:47:21",
    "tm": "12:47",
    "match": "RoPS x FC Jazz",
@@ -474,27 +484,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 6,
+   "ent": 8,
+   "g": 7,
    "r": 1,
-   "pl": 5.36,
-   "wr": 86,
+   "pl": 6.84,
+   "wr": 88,
    "label": "05/08"
   },
   "mes": {
-   "ent": 276,
-   "g": 209,
+   "ent": 277,
+   "g": 210,
    "r": 67,
-   "pl": 136.45,
+   "pl": 137.93,
    "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 5.36,
-   "ops": 7,
-   "g": 6,
+   "pl": 6.84,
+   "ops": 8,
+   "g": 7,
    "r": 1
   },
   "2026-08-04": {
