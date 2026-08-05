@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T01:00",
+ "gerado_em": "2026-08-05T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 496,
+   "g": 497,
    "r": 5,
-   "pl": 349.86,
+   "pl": 350.87,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 379,
-   "r": 109,
-   "pl": 23.9,
+   "r": 110,
+   "pl": 21.9,
    "roi": 2.0,
-   "wr": 77.7,
+   "wr": 77.5,
    "st": "ap"
   },
   {
@@ -282,11 +282,11 @@
    "n": "BLINDADO 3-1 (Bolsa)",
    "s": "Lay Placar 3x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 24,
+   "g": 25,
    "r": 1,
-   "pl": 10.08,
+   "pl": 11.55,
    "roi": 4.2,
-   "wr": 96.0,
+   "wr": 96.2,
    "st": "val"
   },
   {
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-05 01:45:21",
+   "tm": "01:45",
+   "match": "Vancouver Whitecaps vs Atlante",
+   "bot": "BLINDADO 3-1 (Bolsa)",
+   "mkt": "Lay Placar 3x1",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-08-05 00:53:15",
+   "tm": "00:53",
+   "match": "Vancouver Whitecaps x Atlante FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-05 00:25:23",
    "tm": "00:25",
    "match": "Millonarios vs Deportivo Pasto",
@@ -414,33 +434,33 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
-   "r": 0,
-   "pl": 1.11,
-   "wr": 100,
+   "ent": 3,
+   "g": 2,
+   "r": 1,
+   "pl": 0.58,
+   "wr": 67,
    "label": "05/08"
   },
   "mes": {
-   "ent": 269,
-   "g": 203,
-   "r": 66,
-   "pl": 131.19,
+   "ent": 272,
+   "g": 205,
+   "r": 67,
+   "pl": 131.67,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 1.11,
-   "ops": 1,
-   "g": 1,
-   "r": 0
+   "pl": 0.58,
+   "ops": 3,
+   "g": 2,
+   "r": 1
   },
   "2026-08-04": {
-   "pl": 24.42,
-   "ops": 32,
-   "g": 28,
+   "pl": 25.43,
+   "ops": 33,
+   "g": 29,
    "r": 4
   },
   "2026-08-03": {
