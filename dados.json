@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T16:00",
+ "gerado_em": "2026-08-05T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 337,
+   "g": 338,
    "r": 23,
-   "pl": 72.9,
+   "pl": 74.94,
    "roi": 1.0,
    "wr": 93.6,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 17,
-   "r": 69,
-   "pl": 117.55,
+   "r": 70,
+   "pl": 115.55,
    "roi": 3.7,
-   "wr": 19.8,
+   "wr": 19.5,
    "st": "val"
   },
   {
@@ -103,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 67,
+   "r": 103,
+   "pl": 65.27,
+   "roi": 6.7,
+   "wr": 39.4,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -111,17 +122,6 @@
    "pl": 63.24,
    "roi": 131.0,
    "wr": 24.1,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 66,
-   "r": 102,
-   "pl": 62.9,
-   "roi": 6.7,
-   "wr": 39.3,
    "st": "val"
   },
   {
@@ -402,6 +402,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-05 16:55:22",
+   "tm": "16:55",
+   "match": "Estudiantes RC Res. vs Lanús Res.",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 4.26
+  },
+  {
+   "data": "2026-08-05 16:45:23",
+   "tm": "16:45",
+   "match": "Ferencvárosi vs Górnik Zabrze",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.89
+  },
+  {
+   "data": "2026-08-05 16:05:23",
+   "tm": "16:05",
+   "match": "Brann vs Apollon",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-05 14:25:21",
    "tm": "14:25",
    "match": "SalPa vs JJK",
@@ -410,6 +440,16 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.28
+  },
+  {
+   "data": "2026-08-05 14:06:13",
+   "tm": "14:06",
+   "match": "SK Brann x Apollon Limassol",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 2.04
   },
   {
    "data": "2026-08-05 13:25:19",
@@ -484,28 +524,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 7,
-   "r": 1,
-   "pl": 6.84,
-   "wr": 88,
+   "ent": 12,
+   "g": 9,
+   "r": 3,
+   "pl": 9.25,
+   "wr": 75,
    "label": "05/08"
   },
   "mes": {
-   "ent": 277,
-   "g": 210,
-   "r": 67,
-   "pl": 137.93,
-   "wr": 76,
+   "ent": 281,
+   "g": 212,
+   "r": 69,
+   "pl": 140.34,
+   "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 6.84,
-   "ops": 8,
-   "g": 7,
-   "r": 1
+   "pl": 9.25,
+   "ops": 12,
+   "g": 9,
+   "r": 3
   },
   "2026-08-04": {
    "pl": 25.43,
