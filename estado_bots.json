@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T01:00",
+ "gerado_em": "2026-08-06T02:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 47,
-   "pl": -1.78,
+   "ent": 48,
+   "pl": -0.45,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 172,
-   "pl": 68.98,
+   "ent": 173,
+   "pl": 74.24,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 19,
-   "pl": -12.33,
+   "ent": 20,
+   "pl": -11.2,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 155,
-   "pl": 41.64,
+   "ent": 156,
+   "pl": 43.77,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 48,
-   "pl": -9.01,
+   "ent": 49,
+   "pl": -12.93,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
