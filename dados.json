@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T23:00",
+ "gerado_em": "2026-08-06T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 500,
+   "g": 501,
    "r": 5,
-   "pl": 354.99,
+   "pl": 356.47,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 379,
+   "g": 381,
    "r": 110,
-   "pl": 21.9,
+   "pl": 23.05,
    "roi": 2.0,
-   "wr": 77.5,
+   "wr": 77.6,
    "st": "ap"
   },
   {
@@ -81,17 +81,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 68,
-   "r": 103,
-   "pl": 70.98,
-   "roi": 6.7,
-   "wr": 39.8,
-   "st": "val"
-  },
-  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -111,6 +100,17 @@
    "pl": 69.48,
    "roi": 1.0,
    "wr": 94.1,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 68,
+   "r": 104,
+   "pl": 68.98,
+   "roi": 6.7,
+   "wr": 39.5,
    "st": "val"
   },
   {
@@ -139,22 +139,11 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 87,
+   "g": 88,
    "r": 10,
-   "pl": 54.12,
+   "pl": 57.57,
    "roi": 4.0,
-   "wr": 89.7,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 133,
-   "r": 19,
-   "pl": 47.92,
-   "roi": -0.3,
-   "wr": 87.5,
+   "wr": 89.8,
    "st": "val"
   },
   {
@@ -166,6 +155,17 @@
    "pl": 45.24,
    "roi": 1.3,
    "wr": 94.4,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 135,
+   "r": 20,
+   "pl": 41.64,
+   "roi": -0.3,
+   "wr": 87.1,
    "st": "val"
   },
   {
@@ -257,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 26,
+   "r": 3,
+   "pl": 14.71,
+   "roi": 16.0,
+   "wr": 89.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -265,17 +276,6 @@
    "pl": 13.44,
    "roi": 1.5,
    "wr": 68.0,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 25,
-   "r": 3,
-   "pl": 12.99,
-   "roi": 16.0,
-   "wr": 89.3,
    "st": "val"
   },
   {
@@ -293,11 +293,11 @@
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
-   "g": 21,
+   "g": 22,
    "r": 4,
-   "pl": 9.1,
+   "pl": 10.57,
    "roi": 27.0,
-   "wr": 84.0,
+   "wr": 84.6,
    "st": "val"
   },
   {
@@ -389,162 +389,31 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-05 18:05:20",
-   "tm": "18:05",
-   "match": "Gualberto Villarroel SJ vs San Antonio Bulo Bulo",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 5.71
-  },
-  {
-   "data": "2026-08-05 16:55:22",
-   "tm": "16:55",
-   "match": "Estudiantes RC Res. vs Lanús Res.",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 4.26
-  },
-  {
-   "data": "2026-08-05 16:45:23",
-   "tm": "16:45",
-   "match": "Ferencvárosi vs Górnik Zabrze",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.89
-  },
-  {
-   "data": "2026-08-05 16:05:23",
-   "tm": "16:05",
-   "match": "Brann vs Apollon",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-05 14:25:21",
-   "tm": "14:25",
-   "match": "SalPa vs JJK",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.28
-  },
-  {
-   "data": "2026-08-05 14:06:13",
-   "tm": "14:06",
-   "match": "SK Brann x Apollon Limassol",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 2.04
-  },
-  {
-   "data": "2026-08-05 13:25:19",
-   "tm": "13:25",
-   "match": "Paulesti vs Tunari",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 0.86
-  },
-  {
-   "data": "2026-08-05 13:22:13",
-   "tm": "13:22",
-   "match": "VJS x PK Keski-Uusimaa",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
-  },
-  {
-   "data": "2026-08-05 12:47:21",
-   "tm": "12:47",
-   "match": "RoPS x FC Jazz",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "green",
-   "pl": 1.48
-  },
-  {
-   "data": "2026-08-05 12:07:11",
-   "tm": "12:07",
-   "match": "OLS Oulu x TPV",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 70.0,
-   "status": "green",
-   "pl": 1.16
-  },
-  {
-   "data": "2026-08-05 01:45:21",
-   "tm": "01:45",
-   "match": "Vancouver Whitecaps vs Atlante",
-   "bot": "BLINDADO 3-1 (Bolsa)",
-   "mkt": "Lay Placar 3x1",
-   "odd": 18.0,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-08-05 00:53:15",
-   "tm": "00:53",
-   "match": "Vancouver Whitecaps x Atlante FC",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-05 00:25:23",
-   "tm": "00:25",
-   "match": "Millonarios vs Deportivo Pasto",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 14.5,
-   "status": "green",
-   "pl": 1.11
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 10,
-   "r": 3,
-   "pl": 14.96,
-   "wr": 77,
-   "label": "05/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "06/08"
   },
   "mes": {
-   "ent": 259,
-   "g": 197,
-   "r": 62,
-   "pl": 144.32,
+   "ent": 269,
+   "g": 205,
+   "r": 64,
+   "pl": 145.31,
    "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-05": {
-   "pl": 14.96,
-   "ops": 13,
-   "g": 10,
-   "r": 3
+   "pl": 15.95,
+   "ops": 23,
+   "g": 18,
+   "r": 5
   },
   "2026-08-04": {
    "pl": 23.31,
@@ -1108,12 +977,6 @@
    "pl": 11.94,
    "ops": 7,
    "g": 7,
-   "r": 0
-  },
-  "2026-05-02": {
-   "pl": 1.69,
-   "ops": 1,
-   "g": 1,
    "r": 0
   }
  }
