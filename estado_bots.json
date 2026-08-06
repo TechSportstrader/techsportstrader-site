@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T15:00",
+ "gerado_em": "2026-08-06T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 72,
-   "pl": -8.47,
+   "ent": 73,
+   "pl": -8.27,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 494,
-   "pl": 25.39,
+   "ent": 496,
+   "pl": 26.85,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 200,
-   "pl": 2.24,
+   "ent": 203,
+   "pl": 2.23,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -80,8 +80,8 @@
   },
   "GLOBAL EDGE": {
    "st": "val",
-   "ent": 31,
-   "pl": 8.66,
+   "ent": 32,
+   "pl": 10.88,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 173,
-   "pl": 74.24,
+   "ent": 175,
+   "pl": 70.26,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 71,
-   "pl": 45.24,
+   "ent": 72,
+   "pl": 46.6,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 49,
-   "pl": -12.93,
+   "ent": 50,
+   "pl": -11.5,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
