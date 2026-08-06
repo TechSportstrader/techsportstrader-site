@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T17:00",
+ "gerado_em": "2026-08-06T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 44,
-   "pl": 27.1,
+   "ent": 46,
+   "pl": 29.0,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -38,22 +38,22 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 116,
-   "pl": 59.71,
+   "ent": 117,
+   "pl": 63.42,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 499,
-   "pl": 20.85,
+   "ent": 506,
+   "pl": 16.9,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 205,
-   "pl": 1.03,
+   "st": "rep",
+   "ent": 207,
+   "pl": -0.36,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 362,
-   "pl": 76.64,
+   "ent": 363,
+   "pl": 79.06,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 29,
-   "pl": -34.77,
+   "ent": 30,
+   "pl": -36.75,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 29,
-   "pl": 63.24,
+   "ent": 30,
+   "pl": 61.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -184,9 +184,9 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "rep",
-   "ent": 48,
-   "pl": -0.45,
+   "st": "val",
+   "ent": 49,
+   "pl": 0.64,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 175,
-   "pl": 70.26,
+   "ent": 176,
+   "pl": 68.28,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 175,
-   "pl": 13.44,
+   "ent": 177,
+   "pl": 15.86,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -346,22 +346,22 @@
   },
   "VIGIA HT-C": {
    "st": "rep",
-   "ent": 90,
-   "pl": -2.59,
+   "ent": 91,
+   "pl": -0.9,
    "roi": -0.0,
    "plat": "Bolsa"
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 68,
-   "pl": 15.88,
+   "ent": 71,
+   "pl": 16.29,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
-   "st": "rep",
-   "ent": 101,
-   "pl": -0.79,
+   "st": "val",
+   "ent": 102,
+   "pl": 0.9,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 24,
-   "pl": 31.52,
+   "ent": 26,
+   "pl": 34.25,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
