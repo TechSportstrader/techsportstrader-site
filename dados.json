@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T00:00",
+ "gerado_em": "2026-08-06T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 381,
+   "g": 382,
    "r": 110,
-   "pl": 23.05,
+   "pl": 23.53,
    "roi": 2.0,
    "wr": 77.6,
    "st": "ap"
@@ -389,26 +389,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-06 00:27:04",
+   "tm": "00:27",
+   "match": "CD Toluca x Seattle Sounders FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.48
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 0.48,
+   "wr": 100,
    "label": "06/08"
   },
   "mes": {
-   "ent": 269,
-   "g": 205,
+   "ent": 270,
+   "g": 206,
    "r": 64,
-   "pl": 145.31,
+   "pl": 145.78,
    "wr": 76,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-06": {
+   "pl": 0.48,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-05": {
    "pl": 15.95,
    "ops": 23,
