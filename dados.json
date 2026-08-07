@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T16:00",
+ "gerado_em": "2026-08-07T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 392,
-   "r": 117,
-   "pl": 16.07,
+   "r": 119,
+   "pl": 12.07,
    "roi": 2.0,
-   "wr": 77.0,
+   "wr": 76.7,
    "st": "ap"
   },
   {
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "INTERCEPTOR",
+   "s": "Lay Goleada Visitante · BotBet",
+   "plat": "BotBet",
+   "g": 65,
+   "r": 4,
+   "pl": 71.11,
+   "roi": 1.0,
+   "wr": 94.2,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -92,13 +103,13 @@
    "st": "val"
   },
   {
-   "n": "INTERCEPTOR",
-   "s": "Lay Goleada Visitante · BotBet",
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 64,
-   "r": 4,
-   "pl": 69.48,
-   "roi": 1.0,
+   "g": 111,
+   "r": 7,
+   "pl": 68.75,
+   "roi": 0.0,
    "wr": 94.1,
    "st": "val"
   },
@@ -111,17 +122,6 @@
    "pl": 67.84,
    "roi": 6.7,
    "wr": 38.9,
-   "st": "val"
-  },
-  {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 110,
-   "r": 7,
-   "pl": 63.42,
-   "roi": 0.0,
-   "wr": 94.0,
    "st": "val"
   },
   {
@@ -139,11 +139,11 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 88,
+   "g": 89,
    "r": 10,
-   "pl": 57.57,
+   "pl": 59.39,
    "roi": 4.0,
-   "wr": 89.8,
+   "wr": 89.9,
    "st": "val"
   },
   {
@@ -161,22 +161,11 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 27,
+   "g": 28,
    "r": 0,
-   "pl": 41.59,
+   "pl": 43.11,
    "roi": 6.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 139,
-   "r": 21,
-   "pl": 38.88,
-   "roi": -0.3,
-   "wr": 86.9,
    "st": "val"
   },
   {
@@ -202,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 139,
+   "r": 22,
+   "pl": 30.31,
+   "roi": -0.3,
+   "wr": 86.3,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -224,6 +224,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 57,
+   "r": 1,
+   "pl": 24.98,
+   "roi": 3.0,
+   "wr": 98.3,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 24.81,
    "roi": 9.0,
    "wr": 95.1,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 56,
-   "r": 1,
-   "pl": 24.18,
-   "roi": 3.0,
-   "wr": 98.2,
    "st": "val"
   },
   {
@@ -312,17 +312,6 @@
    "st": "val"
   },
   {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 6,
-   "pl": 6.0,
-   "roi": -100.0,
-   "wr": 40.0,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -342,6 +331,17 @@
    "pl": 4.05,
    "roi": 2.1,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 4,
+   "r": 7,
+   "pl": 4.0,
+   "roi": -100.0,
+   "wr": 36.4,
    "st": "val"
   },
   {
@@ -402,6 +402,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-07 16:29:12",
+   "tm": "16:29",
+   "match": "Derry City x Sligo Rovers",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.8
+  },
+  {
+   "data": "2026-08-07 16:05:32",
+   "tm": "16:05",
+   "match": "Sandefjord vs KFUM",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.2,
+   "status": "red",
+   "pl": -8.57
+  },
+  {
+   "data": "2026-08-07 15:37:07",
+   "tm": "15:37",
+   "match": "SCR Altach x WSG Tirol",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 5.33
+  },
+  {
    "data": "2026-08-07 15:25:22",
    "tm": "15:25",
    "match": "St. Pölten vs Austria Wien II",
@@ -410,6 +440,66 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.23
+  },
+  {
+   "data": "2026-08-07 15:24:06",
+   "tm": "15:24",
+   "match": "FC Zbrojovka Brno x FC Slovan Liberec",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 15:13:24",
+   "tm": "15:13",
+   "match": "Sønderjyske Fodbold x Viborg FF",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.63
+  },
+  {
+   "data": "2026-08-07 15:11:25",
+   "tm": "15:11",
+   "match": "Sønderjyske Fodbold x Viborg FF",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 15:08:25",
+   "tm": "15:08",
+   "match": "Sandefjord Fotball x KFUM Oslo",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 14:46:25",
+   "tm": "14:46",
+   "match": "Sønderjyske Fodbold x Viborg FF",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.82
+  },
+  {
+   "data": "2026-08-07 14:29:25",
+   "tm": "14:29",
+   "match": "Sønderjyske Fodbold x Viborg FF",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 17.5,
+   "status": "green",
+   "pl": 1.52
   },
   {
    "data": "2026-08-07 14:25:25",
@@ -524,28 +614,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 7,
-   "r": 5,
-   "pl": -6.12,
-   "wr": 58,
+   "ent": 21,
+   "g": 12,
+   "r": 9,
+   "pl": -9.59,
+   "wr": 57,
    "label": "07/08"
   },
   "mes": {
-   "ent": 386,
-   "g": 288,
-   "r": 98,
-   "pl": 170.16,
-   "wr": 75,
+   "ent": 395,
+   "g": 293,
+   "r": 102,
+   "pl": 166.69,
+   "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -6.12,
-   "ops": 12,
-   "g": 7,
-   "r": 5
+   "pl": -9.59,
+   "ops": 21,
+   "g": 12,
+   "r": 9
   },
   "2026-08-06": {
    "pl": 31.24,
