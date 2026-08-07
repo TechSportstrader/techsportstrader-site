@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T17:00",
+ "gerado_em": "2026-08-07T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 78,
-   "pl": -10.71,
+   "ent": 79,
+   "pl": -10.35,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 511,
-   "pl": 12.07,
+   "ent": 513,
+   "pl": 10.68,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 22,
-   "pl": 25.47,
+   "ent": 23,
+   "pl": 26.32,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 52,
-   "pl": -22.39,
+   "ent": 54,
+   "pl": -19.16,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 180,
-   "pl": 67.84,
+   "ent": 181,
+   "pl": 71.41,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 75,
-   "pl": 50.78,
+   "ent": 76,
+   "pl": 52.43,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -310,9 +310,9 @@
    "plat": "Bolsa"
   },
   "BLINDADO 3-1 (Bolsa)": {
-   "st": "val",
-   "ent": 28,
-   "pl": 14.19,
+   "st": "rep",
+   "ent": 29,
+   "pl": -10.81,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 161,
-   "pl": 30.31,
+   "ent": 162,
+   "pl": 31.98,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 28,
-   "pl": 36.98,
+   "ent": 29,
+   "pl": 38.04,
    "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
