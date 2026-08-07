@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T09:00",
+ "gerado_em": "2026-08-07T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -107,10 +107,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 69,
-   "r": 108,
-   "pl": 66.28,
+   "r": 109,
+   "pl": 64.28,
    "roi": 6.7,
-   "wr": 39.0,
+   "wr": 38.8,
    "st": "val"
   },
   {
@@ -413,6 +413,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-07 09:35:20",
+   "tm": "09:35",
+   "match": "Yongin City vs Busan I'Park",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-07 08:55:21",
    "tm": "08:55",
    "match": "Hwaseong vs Seoul E.",
@@ -425,28 +435,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 1,
-   "r": 0,
-   "pl": 1.28,
-   "wr": 100,
+   "r": 1,
+   "pl": -0.72,
+   "wr": 50,
    "label": "07/08"
   },
   "mes": {
-   "ent": 384,
+   "ent": 385,
    "g": 287,
-   "r": 97,
-   "pl": 176.95,
+   "r": 98,
+   "pl": 174.95,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": 1.28,
-   "ops": 1,
+   "pl": -0.72,
+   "ops": 2,
    "g": 1,
-   "r": 0
+   "r": 1
   },
   "2026-08-06": {
    "pl": 34.63,
