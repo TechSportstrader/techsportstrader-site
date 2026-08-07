@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T19:00",
+ "gerado_em": "2026-08-07T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -356,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 60,
-   "r": 45,
-   "pl": 2.43,
-   "roi": -0.2,
-   "wr": 57.1,
-   "st": "val"
-  },
-  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
@@ -387,9 +376,30 @@
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 60,
+   "r": 46,
+   "pl": 0.43,
+   "roi": -0.2,
+   "wr": 56.6,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-07 19:58:20",
+   "tm": "19:58",
+   "match": "Unión Española vs Antofagasta",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-07 18:18:16",
    "tm": "18:18",
@@ -673,28 +683,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 28,
+   "ent": 29,
    "g": 18,
-   "r": 10,
-   "pl": -1.57,
-   "wr": 64,
+   "r": 11,
+   "pl": -3.57,
+   "wr": 62,
    "label": "07/08"
   },
   "mes": {
-   "ent": 393,
+   "ent": 394,
    "g": 291,
-   "r": 102,
-   "pl": 188.58,
+   "r": 103,
+   "pl": 186.58,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -1.57,
-   "ops": 28,
+   "pl": -3.57,
+   "ops": 29,
    "g": 18,
-   "r": 10
+   "r": 11
   },
   "2026-08-06": {
    "pl": 28.6,
