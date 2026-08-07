@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T14:00",
+ "gerado_em": "2026-08-07T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -81,17 +81,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 70,
-   "r": 109,
-   "pl": 69.84,
-   "roi": 6.7,
-   "wr": 39.1,
-   "st": "val"
-  },
-  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -111,6 +100,17 @@
    "pl": 69.48,
    "roi": 1.0,
    "wr": 94.1,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 70,
+   "r": 110,
+   "pl": 67.84,
+   "roi": 6.7,
+   "wr": 38.9,
    "st": "val"
   },
   {
@@ -279,25 +279,25 @@
    "st": "val"
   },
   {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 23,
-   "r": 4,
-   "pl": 12.24,
-   "roi": 27.0,
-   "wr": 85.2,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
-   "g": 29,
+   "g": 30,
    "r": 3,
-   "pl": 10.88,
+   "pl": 13.65,
    "roi": 4.0,
-   "wr": 90.6,
+   "wr": 90.9,
+   "st": "val"
+  },
+  {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 24,
+   "r": 4,
+   "pl": 13.59,
+   "roi": 27.0,
+   "wr": 85.7,
    "st": "val"
   },
   {
@@ -413,6 +413,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-07 14:25:25",
+   "tm": "14:25",
+   "match": "Etar vs Marek",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 13:49:06",
+   "tm": "13:49",
+   "match": "MTK Budapest x Puskás Akadémia",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.7,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
    "data": "2026-08-07 13:35:20",
    "tm": "13:35",
    "match": "Prostějov vs Karviná",
@@ -441,6 +461,16 @@
    "odd": 1.6,
    "status": "green",
    "pl": 1.28
+  },
+  {
+   "data": "2026-08-07 13:19:17",
+   "tm": "13:19",
+   "match": "MTK Budapest x Puskás Akadémia",
+   "bot": "GLOBAL EDGE",
+   "mkt": "Lay Goleada Fora",
+   "odd": 6.2,
+   "status": "green",
+   "pl": 2.77
   },
   {
    "data": "2026-08-07 11:55:20",
@@ -515,28 +545,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 10,
-   "g": 6,
-   "r": 4,
-   "pl": -3.9,
-   "wr": 60,
+   "ent": 13,
+   "g": 8,
+   "r": 5,
+   "pl": -1.78,
+   "wr": 62,
    "label": "07/08"
   },
   "mes": {
-   "ent": 393,
-   "g": 292,
-   "r": 101,
-   "pl": 171.77,
+   "ent": 396,
+   "g": 294,
+   "r": 102,
+   "pl": 173.89,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -3.9,
-   "ops": 10,
-   "g": 6,
-   "r": 4
+   "pl": -1.78,
+   "ops": 13,
+   "g": 8,
+   "r": 5
   },
   "2026-08-06": {
    "pl": 34.63,
