@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T22:00",
+ "gerado_em": "2026-08-06T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 504,
+   "g": 505,
    "r": 5,
-   "pl": 360.07,
+   "pl": 361.23,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 390,
+   "g": 391,
    "r": 116,
-   "pl": 16.9,
+   "pl": 17.66,
    "roi": 2.0,
    "wr": 77.1,
    "st": "ap"
@@ -260,11 +260,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 121,
+   "g": 122,
    "r": 56,
-   "pl": 15.86,
+   "pl": 17.16,
    "roi": 1.5,
-   "wr": 68.4,
+   "wr": 68.5,
    "st": "val"
   },
   {
@@ -424,6 +424,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-06 22:45:21",
+   "tm": "22:45",
+   "match": "New York City vs Santos Laguna",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 1.3
+  },
+  {
+   "data": "2026-08-06 21:54:04",
+   "tm": "21:54",
+   "match": "New York City FC x Santos Laguna",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.76
+  },
+  {
    "data": "2026-08-06 21:35:22",
    "tm": "21:35",
    "match": "New York City vs Santos Laguna",
@@ -462,6 +482,16 @@
    "odd": 7.0,
    "status": "green",
    "pl": 1.67
+  },
+  {
+   "data": "2026-08-06 20:49:05",
+   "tm": "20:49",
+   "match": "New York City FC x Santos Laguna",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 1.16
   },
   {
    "data": "2026-08-06 20:41:24",
@@ -992,61 +1022,31 @@
    "odd": 1.3,
    "status": "green",
    "pl": 0.56
-  },
-  {
-   "data": "2026-08-06 15:05:08",
-   "tm": "15:05",
-   "match": "IFK Göteborg x KAA Gent",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-06 15:04:07",
-   "tm": "15:04",
-   "match": "Riga FC x ETO FC Győr",
-   "bot": "MURALHA CASA-40",
-   "mkt": "Lay Goleada Casa",
-   "odd": 10.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-06 15:04:06",
-   "tm": "15:04",
-   "match": "Riga FC x ETO FC Győr",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 78,
-   "g": 58,
+   "ent": 81,
+   "g": 61,
    "r": 20,
-   "pl": 32.63,
-   "wr": 74,
+   "pl": 35.85,
+   "wr": 75,
    "label": "06/08"
   },
   "mes": {
-   "ent": 388,
-   "g": 290,
+   "ent": 391,
+   "g": 293,
    "r": 98,
-   "pl": 161.95,
+   "pl": 165.17,
    "wr": 75,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-06": {
-   "pl": 32.63,
-   "ops": 78,
-   "g": 58,
+   "pl": 35.85,
+   "ops": 81,
+   "g": 61,
    "r": 20
   },
   "2026-08-05": {
