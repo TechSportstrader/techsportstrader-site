@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-06T22:00",
+ "gerado_em": "2026-08-06T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 509,
-   "pl": 360.07,
+   "ent": 510,
+   "pl": 361.23,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 75,
-   "pl": -7.81,
+   "ent": 76,
+   "pl": -9.81,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 506,
-   "pl": 16.9,
+   "ent": 507,
+   "pl": 17.66,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 177,
-   "pl": 15.86,
+   "ent": 178,
+   "pl": 17.16,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 26,
-   "pl": 34.25,
+   "ent": 28,
+   "pl": 36.98,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO — Lay 0x0": {
