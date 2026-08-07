@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T10:00",
+ "gerado_em": "2026-08-07T11:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 70,
+   "r": 109,
+   "pl": 69.84,
+   "roi": 6.7,
+   "wr": 39.1,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -100,17 +111,6 @@
    "pl": 69.48,
    "roi": 1.0,
    "wr": 94.1,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 69,
-   "r": 109,
-   "pl": 64.28,
-   "roi": 6.7,
-   "wr": 38.8,
    "st": "val"
   },
   {
@@ -158,17 +158,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 139,
-   "r": 20,
-   "pl": 48.88,
-   "roi": -0.3,
-   "wr": 87.4,
-   "st": "val"
-  },
-  {
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -177,6 +166,17 @@
    "pl": 41.59,
    "roi": 6.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 139,
+   "r": 21,
+   "pl": 38.88,
+   "roi": -0.3,
+   "wr": 86.9,
    "st": "val"
   },
   {
@@ -246,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 123,
+   "r": 56,
+   "pl": 18.7,
+   "roi": 1.5,
+   "wr": 68.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -254,17 +265,6 @@
    "pl": 17.33,
    "roi": -0.2,
    "wr": 72.2,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 122,
-   "r": 56,
-   "pl": 17.16,
-   "roi": 1.5,
-   "wr": 68.5,
    "st": "val"
   },
   {
@@ -413,6 +413,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-07 10:55:20",
+   "tm": "10:55",
+   "match": "FC Bayern München vs Aston Villa",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 1.54
+  },
+  {
+   "data": "2026-08-07 10:05:26",
+   "tm": "10:05",
+   "match": "Hwaseong vs Seoul E.",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.56
+  },
+  {
+   "data": "2026-08-07 10:05:25",
+   "tm": "10:05",
+   "match": "Gyeongnam vs Daegu",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "red",
+   "pl": -10.0
+  },
+  {
    "data": "2026-08-07 09:35:20",
    "tm": "09:35",
    "match": "Yongin City vs Busan I'Park",
@@ -435,28 +465,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
-   "r": 1,
-   "pl": -0.72,
-   "wr": 50,
+   "ent": 5,
+   "g": 3,
+   "r": 2,
+   "pl": -3.62,
+   "wr": 60,
    "label": "07/08"
   },
   "mes": {
-   "ent": 385,
-   "g": 287,
-   "r": 98,
-   "pl": 174.95,
-   "wr": 75,
+   "ent": 388,
+   "g": 289,
+   "r": 99,
+   "pl": 172.05,
+   "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -0.72,
-   "ops": 2,
-   "g": 1,
-   "r": 1
+   "pl": -3.62,
+   "ops": 5,
+   "g": 3,
+   "r": 2
   },
   "2026-08-06": {
    "pl": 34.63,
