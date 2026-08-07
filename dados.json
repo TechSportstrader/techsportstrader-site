@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T18:00",
+ "gerado_em": "2026-08-07T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -169,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 141,
+   "r": 22,
+   "pl": 33.65,
+   "roi": -0.3,
+   "wr": 86.5,
+   "st": "val"
+  },
+  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -188,17 +199,6 @@
    "pl": 33.19,
    "roi": 13.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 140,
-   "r": 22,
-   "pl": 31.98,
-   "roi": -0.3,
-   "wr": 86.4,
    "st": "val"
   },
   {
@@ -390,6 +390,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-07 18:18:16",
+   "tm": "18:18",
+   "match": "Estoril vs Famalicão",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
   {
    "data": "2026-08-07 17:58:18",
    "tm": "17:58",
@@ -663,27 +673,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 27,
-   "g": 17,
+   "ent": 28,
+   "g": 18,
    "r": 10,
-   "pl": -3.24,
-   "wr": 63,
+   "pl": -1.57,
+   "wr": 64,
    "label": "07/08"
   },
   "mes": {
-   "ent": 392,
-   "g": 290,
+   "ent": 393,
+   "g": 291,
    "r": 102,
-   "pl": 186.91,
+   "pl": 188.58,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -3.24,
-   "ops": 27,
-   "g": 17,
+   "pl": -1.57,
+   "ops": 28,
+   "g": 18,
    "r": 10
   },
   "2026-08-06": {
