@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T08:00",
+ "gerado_em": "2026-08-07T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "val",
-   "ent": 92,
-   "pl": 0.8,
+   "ent": 93,
+   "pl": 2.08,
    "roi": -0.0,
    "plat": "Bolsa"
   },
