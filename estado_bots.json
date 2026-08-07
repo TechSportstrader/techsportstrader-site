@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T19:00",
+ "gerado_em": "2026-08-07T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 31,
-   "pl": -38.75,
+   "ent": 32,
+   "pl": -35.11,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -346,8 +346,8 @@
   },
   "VIGIA HT-C": {
    "st": "rep",
-   "ent": 96,
-   "pl": -0.64,
+   "ent": 97,
+   "pl": -2.64,
    "roi": -0.0,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 105,
-   "pl": 2.43,
+   "ent": 106,
+   "pl": 0.43,
    "roi": -0.2,
    "plat": "Bolsa"
   },
