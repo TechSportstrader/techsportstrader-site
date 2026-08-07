@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T13:00",
+ "gerado_em": "2026-08-07T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -323,17 +323,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 60,
-   "r": 44,
-   "pl": 4.43,
-   "roi": -0.2,
-   "wr": 57.7,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -378,14 +367,14 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-C",
+   "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 53,
-   "r": 40,
-   "pl": 2.08,
-   "roi": -0.0,
-   "wr": 57.0,
+   "g": 60,
+   "r": 45,
+   "pl": 2.43,
+   "roi": -0.2,
+   "wr": 57.1,
    "st": "val"
   },
   {
@@ -409,9 +398,50 @@
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
+  },
+  {
+   "n": "VIGIA HT-C",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 54,
+   "r": 41,
+   "pl": 1.36,
+   "roi": -0.0,
+   "wr": 56.8,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-07 13:35:20",
+   "tm": "13:35",
+   "match": "Prostějov vs Karviná",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 13:35:20",
+   "tm": "13:35",
+   "match": "Prostějov vs Karviná",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 13:25:23",
+   "tm": "13:25",
+   "match": "KuPS Ak. vs Inter Turku II",
+   "bot": "VIGIA HT-C",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.28
+  },
   {
    "data": "2026-08-07 11:55:20",
    "tm": "11:55",
@@ -485,28 +515,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 5,
-   "r": 2,
-   "pl": -1.18,
-   "wr": 71,
+   "ent": 10,
+   "g": 6,
+   "r": 4,
+   "pl": -3.9,
+   "wr": 60,
    "label": "07/08"
   },
   "mes": {
-   "ent": 390,
-   "g": 291,
-   "r": 99,
-   "pl": 174.49,
-   "wr": 75,
+   "ent": 393,
+   "g": 292,
+   "r": 101,
+   "pl": 171.77,
+   "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -1.18,
-   "ops": 7,
-   "g": 5,
-   "r": 2
+   "pl": -3.9,
+   "ops": 10,
+   "g": 6,
+   "r": 4
   },
   "2026-08-06": {
    "pl": 34.63,
