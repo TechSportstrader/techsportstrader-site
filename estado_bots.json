@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T12:00",
+ "gerado_em": "2026-08-08T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 113,
-   "pl": -3.07,
+   "ent": 114,
+   "pl": -1.95,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -31,22 +31,22 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 79,
-   "pl": -10.35,
+   "ent": 80,
+   "pl": -10.11,
    "roi": -5.0,
    "plat": "BotBet"
   },
   "BASTION": {
    "st": "val",
-   "ent": 118,
-   "pl": 68.75,
+   "ent": 119,
+   "pl": 70.8,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 519,
-   "pl": 11.57,
+   "ent": 522,
+   "pl": 13.02,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 33,
-   "pl": -37.11,
+   "ent": 34,
+   "pl": -34.03,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 31,
-   "pl": 4.92,
+   "ent": 32,
+   "pl": 6.27,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 187,
-   "pl": 64.4,
+   "ent": 190,
+   "pl": 58.44,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 78,
-   "pl": 54.7,
+   "ent": 79,
+   "pl": 56.28,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 165,
-   "pl": 25.32,
+   "ent": 168,
+   "pl": 18.89,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,14 +385,19 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 55,
-   "pl": -3.69,
+   "ent": 57,
+   "pl": -0.7,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
    "ent": 31,
    "pl": 40.57,
    "plat": "BotBet"
+  },
+  "Lab M3 - Lay Goleada casa - odd 4 a 5": {
+   "ent": 20,
+   "pl": 11.18,
+   "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
    "ent": 21,
