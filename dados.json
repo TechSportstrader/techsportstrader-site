@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T09:00",
+ "gerado_em": "2026-08-08T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 510,
+   "g": 511,
    "r": 5,
-   "pl": 368.84,
+   "pl": 369.92,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 395,
+   "g": 396,
    "r": 121,
-   "pl": 9.98,
+   "pl": 10.42,
    "roi": 2.0,
    "wr": 76.6,
    "st": "ap"
@@ -118,10 +118,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 71,
-   "r": 113,
-   "pl": 66.1,
+   "r": 114,
+   "pl": 64.1,
    "roi": 6.7,
-   "wr": 38.6,
+   "wr": 38.4,
    "st": "val"
   },
   {
@@ -140,10 +140,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 23,
-   "pl": 61.26,
+   "r": 24,
+   "pl": 59.26,
    "roi": 131.0,
-   "wr": 23.3,
+   "wr": 22.6,
    "st": "val"
   },
   {
@@ -380,6 +380,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-08 09:28:17",
+   "tm": "09:28",
+   "match": "Pohang Steelers vs Ulsan HD",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 09:12:06",
+   "tm": "09:12",
+   "match": "Karlsruher SC x Arminia Bielefeld",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
    "data": "2026-08-08 08:48:21",
    "tm": "08:48",
    "match": "Tegevajaro Miyazaki vs Yokohama",
@@ -398,6 +418,26 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.72
+  },
+  {
+   "data": "2026-08-08 08:08:06",
+   "tm": "08:08",
+   "match": "Nagoya Grampus x Shimizu S-Pulse",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 07:09:16",
+   "tm": "07:09",
+   "match": "Nagoya Grampus x Shimizu S-Pulse",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
   },
   {
    "data": "2026-08-08 00:08:18",
@@ -422,28 +462,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 2,
-   "r": 2,
-   "pl": -1.06,
+   "ent": 8,
+   "g": 4,
+   "r": 4,
+   "pl": -3.55,
    "wr": 50,
    "label": "08/08"
   },
   "mes": {
-   "ent": 402,
-   "g": 296,
-   "r": 106,
-   "pl": 177.14,
-   "wr": 74,
+   "ent": 406,
+   "g": 298,
+   "r": 108,
+   "pl": 174.65,
+   "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-08": {
-   "pl": -1.06,
-   "ops": 4,
-   "g": 2,
-   "r": 2
+   "pl": -3.55,
+   "ops": 8,
+   "g": 4,
+   "r": 4
   },
   "2026-08-07": {
    "pl": -3.51,
