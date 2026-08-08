@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T21:00",
+ "gerado_em": "2026-08-07T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 17,
-   "r": 72,
-   "pl": 111.55,
+   "r": 74,
+   "pl": 107.55,
    "roi": 3.7,
-   "wr": 19.1,
+   "wr": 18.7,
    "st": "val"
   },
   {
@@ -78,17 +78,6 @@
    "pl": 92.22,
    "roi": 6.4,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 71,
-   "r": 110,
-   "pl": 71.41,
-   "roi": 6.7,
-   "wr": 39.2,
    "st": "val"
   },
   {
@@ -111,6 +100,17 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 71,
+   "r": 111,
+   "pl": 69.55,
+   "roi": 6.7,
+   "wr": 39.0,
    "st": "val"
   },
   {
@@ -359,11 +359,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 143,
+   "g": 144,
    "r": 67,
-   "pl": 2.33,
+   "pl": 3.72,
    "roi": 2.0,
-   "wr": 68.1,
+   "wr": 68.2,
    "st": "val"
   },
   {
@@ -390,6 +390,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-07 21:38:22",
+   "tm": "21:38",
+   "match": "Operário PR vs São Bernardo",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 21:18:17",
+   "tm": "21:18",
+   "match": "Ituzaingó vs Deportivo Camioneros",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.86
+  },
+  {
+   "data": "2026-08-07 21:08:20",
+   "tm": "21:08",
+   "match": "Cerro Largo vs Juventud",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 21:04:07",
+   "tm": "21:04",
+   "match": "Rosario Central x Aldosivi",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.39
+  },
   {
    "data": "2026-08-07 20:58:16",
    "tm": "20:58",
@@ -733,28 +773,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 34,
-   "g": 22,
-   "r": 12,
-   "pl": -9.11,
-   "wr": 65,
+   "ent": 38,
+   "g": 23,
+   "r": 15,
+   "pl": -13.58,
+   "wr": 61,
    "label": "07/08"
   },
   "mes": {
-   "ent": 399,
-   "g": 295,
-   "r": 104,
-   "pl": 181.04,
-   "wr": 74,
+   "ent": 403,
+   "g": 296,
+   "r": 107,
+   "pl": 176.57,
+   "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -9.11,
-   "ops": 34,
-   "g": 22,
-   "r": 12
+   "pl": -13.58,
+   "ops": 38,
+   "g": 23,
+   "r": 15
   },
   "2026-08-06": {
    "pl": 28.6,
