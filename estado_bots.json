@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T08:00",
+ "gerado_em": "2026-08-08T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 211,
-   "pl": 3.72,
+   "ent": 212,
+   "pl": 4.44,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 183,
-   "pl": 68.1,
+   "ent": 184,
+   "pl": 66.1,
    "roi": 6.7,
    "plat": "Bolsa"
   },
