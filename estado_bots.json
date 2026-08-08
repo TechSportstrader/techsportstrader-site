@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T16:00",
+ "gerado_em": "2026-08-08T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 48,
-   "pl": 31.07,
+   "ent": 49,
+   "pl": 29.08,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 81,
-   "pl": -9.9,
+   "ent": 83,
+   "pl": -9.12,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 527,
-   "pl": 5.64,
+   "ent": 528,
+   "pl": 6.06,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 212,
-   "pl": 4.44,
+   "ent": 213,
+   "pl": 6.38,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 31,
-   "pl": 6.4,
+   "ent": 32,
+   "pl": 8.25,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 29,
-   "pl": 44.54,
+   "ent": 30,
+   "pl": 46.06,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 96,
-   "pl": 97.55,
+   "ent": 97,
+   "pl": 95.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 192,
-   "pl": 59.49,
+   "ent": 194,
+   "pl": 55.49,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -385,13 +385,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 58,
-   "pl": 0.97,
+   "ent": 59,
+   "pl": 2.51,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 31,
-   "pl": 40.57,
+   "ent": 32,
+   "pl": 42.09,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
