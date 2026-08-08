@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T00:00",
+ "gerado_em": "2026-08-08T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 509,
+   "g": 510,
    "r": 5,
-   "pl": 367.21,
+   "pl": 368.84,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -103,17 +103,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 71,
-   "r": 111,
-   "pl": 69.55,
-   "roi": 6.7,
-   "wr": 39.0,
-   "st": "val"
-  },
-  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -122,6 +111,17 @@
    "pl": 68.75,
    "roi": 0.0,
    "wr": 94.1,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 71,
+   "r": 112,
+   "pl": 68.1,
+   "roi": 6.7,
+   "wr": 38.8,
    "st": "val"
   },
   {
@@ -213,6 +213,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 142,
+   "r": 23,
+   "pl": 25.32,
+   "roi": -0.3,
+   "wr": 86.1,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -232,17 +243,6 @@
    "pl": 24.81,
    "roi": 9.0,
    "wr": 95.1,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 141,
-   "r": 23,
-   "pl": 23.65,
-   "roi": -0.3,
-   "wr": 86.0,
    "st": "val"
   },
   {
@@ -378,30 +378,57 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-08 00:08:18",
+   "tm": "00:08",
+   "match": "Universitario vs Sporting Cristal",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.45
+  },
+  {
+   "data": "2026-08-08 00:08:16",
+   "tm": "00:08",
+   "match": "Tigres UANL vs Minnesota United",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
-   "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "ent": 2,
+   "g": 1,
+   "r": 1,
+   "pl": 0.22,
+   "wr": 50,
    "label": "08/08"
   },
   "mes": {
-   "ent": 397,
-   "g": 293,
-   "r": 104,
-   "pl": 176.57,
+   "ent": 400,
+   "g": 295,
+   "r": 105,
+   "pl": 178.42,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-08": {
+   "pl": 0.22,
+   "ops": 2,
+   "g": 1,
+   "r": 1
+  },
   "2026-08-07": {
-   "pl": -5.14,
-   "ops": 44,
-   "g": 29,
+   "pl": -3.51,
+   "ops": 45,
+   "g": 30,
    "r": 15
   },
   "2026-08-06": {
