@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T11:00",
+ "gerado_em": "2026-08-08T12:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 517,
-   "pl": 371.0,
+   "ent": 518,
+   "pl": 372.36,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 365,
-   "pl": 82.32,
+   "ent": 366,
+   "pl": 84.86,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -94,15 +94,15 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 69,
-   "pl": 71.11,
+   "ent": 70,
+   "pl": 72.27,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 59,
-   "pl": -37.09,
+   "ent": 60,
+   "pl": -35.87,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -171,15 +171,15 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 58,
-   "pl": 24.98,
+   "ent": 59,
+   "pl": 25.81,
    "roi": 3.0,
    "plat": "BotBet"
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 30,
-   "pl": 3.57,
+   "ent": 31,
+   "pl": 4.92,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 186,
-   "pl": 66.4,
+   "ent": 187,
+   "pl": 64.4,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 77,
-   "pl": 53.63,
+   "ent": 78,
+   "pl": 54.7,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 109,
-   "pl": -2.14,
+   "ent": 110,
+   "pl": -0.68,
    "roi": -0.2,
    "plat": "Bolsa"
   },
