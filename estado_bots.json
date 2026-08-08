@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T20:00",
+ "gerado_em": "2026-08-07T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 511,
-   "pl": 362.59,
+   "ent": 512,
+   "pl": 364.22,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,15 +52,15 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 209,
-   "pl": 1.67,
+   "ent": 210,
+   "pl": 2.33,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "MURALHA 1.5": {
    "st": "val",
-   "ent": 29,
-   "pl": 3.14,
+   "ent": 30,
+   "pl": 4.02,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 179,
-   "pl": 18.7,
+   "ent": 180,
+   "pl": 19.99,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 163,
-   "pl": 33.65,
+   "ent": 164,
+   "pl": 23.65,
    "roi": -0.3,
    "plat": "Bolsa"
   }
