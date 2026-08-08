@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T00:00",
+ "gerado_em": "2026-08-08T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 514,
-   "pl": 367.21,
+   "ent": 515,
+   "pl": 368.84,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 182,
-   "pl": 69.55,
+   "ent": 183,
+   "pl": 68.1,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 164,
-   "pl": 23.65,
+   "ent": 165,
+   "pl": 25.32,
    "roi": -0.3,
    "plat": "Bolsa"
   }
