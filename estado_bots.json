@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T23:00",
+ "gerado_em": "2026-08-08T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 513,
-   "pl": 365.58,
+   "ent": 514,
+   "pl": 367.21,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 515,
-   "pl": 9.56,
+   "ent": 516,
+   "pl": 9.98,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -290,15 +290,15 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 127,
-   "pl": -2.66,
+   "ent": 128,
+   "pl": -4.66,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 76,
-   "pl": 52.43,
+   "ent": 77,
+   "pl": 53.63,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 30,
-   "pl": 39.44,
+   "ent": 31,
+   "pl": 40.57,
    "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
