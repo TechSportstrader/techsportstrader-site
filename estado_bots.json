@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T21:00",
+ "gerado_em": "2026-08-07T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 210,
-   "pl": 2.33,
+   "ent": 211,
+   "pl": 3.72,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 89,
-   "pl": 111.55,
+   "ent": 91,
+   "pl": 107.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 181,
-   "pl": 71.41,
+   "ent": 182,
+   "pl": 69.55,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -385,13 +385,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 52,
-   "pl": -8.23,
+   "ent": 53,
+   "pl": -6.6,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 29,
-   "pl": 38.04,
+   "ent": 30,
+   "pl": 39.44,
    "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
