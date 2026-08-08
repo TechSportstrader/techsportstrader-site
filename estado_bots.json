@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T13:00",
+ "gerado_em": "2026-08-08T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,15 +10,15 @@
   },
   "MURALHA SCALP": {
    "st": "rep",
-   "ent": 114,
-   "pl": -1.95,
+   "ent": 115,
+   "pl": -0.82,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 47,
-   "pl": 30.09,
+   "ent": 48,
+   "pl": 31.07,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 522,
-   "pl": 13.02,
+   "ent": 525,
+   "pl": 9.64,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BLINDADO 3-1": {
    "st": "rep",
-   "ent": 11,
-   "pl": -10.33,
+   "ent": 12,
+   "pl": -8.72,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 34,
-   "pl": -34.03,
+   "ent": 35,
+   "pl": -30.39,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -185,15 +185,15 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 54,
-   "pl": -19.16,
+   "ent": 56,
+   "pl": -16.0,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 28,
-   "pl": 43.11,
+   "ent": 29,
+   "pl": 44.54,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 95,
-   "pl": 99.55,
+   "ent": 96,
+   "pl": 97.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 190,
-   "pl": 58.44,
+   "ent": 191,
+   "pl": 56.44,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 130,
-   "pl": -1.17,
+   "ent": 131,
+   "pl": -0.08,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -304,15 +304,15 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 36,
-   "pl": -7.35,
+   "ent": 37,
+   "pl": -6.1,
    "roi": 1.1,
    "plat": "Bolsa"
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "rep",
-   "ent": 29,
-   "pl": -10.81,
+   "ent": 30,
+   "pl": -9.2,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 75,
-   "pl": 20.6,
+   "ent": 76,
+   "pl": 18.72,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 168,
-   "pl": 18.89,
+   "ent": 169,
+   "pl": 20.68,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 20,
-   "pl": 11.18,
+   "ent": 21,
+   "pl": 12.32,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
