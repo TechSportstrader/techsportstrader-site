@@ -1,17 +1,17 @@
 {
- "gerado_em": "2026-08-08T15:00",
+ "gerado_em": "2026-08-08T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
-   "ent": 13,
-   "pl": 33.19,
+   "ent": 14,
+   "pl": 35.19,
    "roi": 13.0,
    "plat": "BotBet"
   },
   "MURALHA SCALP": {
-   "st": "rep",
-   "ent": 115,
-   "pl": -0.82,
+   "st": "val",
+   "ent": 116,
+   "pl": 0.03,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 80,
-   "pl": -10.11,
+   "ent": 81,
+   "pl": -9.9,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 526,
-   "pl": 7.64,
+   "ent": 527,
+   "pl": 5.64,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 60,
-   "pl": -35.87,
+   "ent": 61,
+   "pl": -34.68,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -143,50 +143,50 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 23,
-   "pl": 26.32,
+   "ent": 24,
+   "pl": 27.67,
    "roi": 4.0,
    "plat": "BotBet"
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 35,
-   "pl": -30.39,
+   "ent": 36,
+   "pl": -32.57,
    "roi": -100.0,
    "plat": "BotBet"
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 22,
-   "pl": -20.05,
+   "ent": 23,
+   "pl": -35.05,
    "roi": 13.0,
    "plat": "BotBet"
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 31,
-   "pl": 59.26,
+   "ent": 32,
+   "pl": 57.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 59,
-   "pl": 25.81,
+   "ent": 60,
+   "pl": 26.34,
    "roi": 3.0,
    "plat": "BotBet"
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 32,
-   "pl": 6.27,
+   "ent": 33,
+   "pl": 1.14,
    "roi": 27.0,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 56,
-   "pl": -16.0,
+   "ent": 57,
+   "pl": -14.91,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 191,
-   "pl": 56.44,
+   "ent": 192,
+   "pl": 59.49,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 37,
-   "pl": -6.1,
+   "ent": 38,
+   "pl": -11.1,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 171,
-   "pl": 24.12,
+   "ent": 172,
+   "pl": 25.84,
    "roi": -0.3,
    "plat": "Bolsa"
   }
