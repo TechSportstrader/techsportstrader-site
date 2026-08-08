@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T14:00",
+ "gerado_em": "2026-08-08T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 343,
+   "g": 344,
    "r": 23,
-   "pl": 84.86,
+   "pl": 87.47,
    "roi": 1.0,
    "wr": 93.7,
    "st": "ap"
@@ -30,10 +30,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 402,
-   "r": 123,
-   "pl": 9.64,
+   "r": 124,
+   "pl": 7.64,
    "roi": 2.0,
-   "wr": 76.6,
+   "wr": 76.4,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 66,
+   "g": 67,
    "r": 4,
-   "pl": 72.27,
+   "pl": 73.45,
    "roi": 1.0,
-   "wr": 94.3,
+   "wr": 94.4,
    "st": "val"
   },
   {
@@ -136,6 +136,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 76,
+   "r": 4,
+   "pl": 57.39,
+   "roi": 1.3,
+   "wr": 95.0,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -144,17 +155,6 @@
    "pl": 56.44,
    "roi": 6.7,
    "wr": 37.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 75,
-   "r": 4,
-   "pl": 56.28,
-   "roi": 1.3,
-   "wr": 94.9,
    "st": "val"
   },
   {
@@ -238,11 +238,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 145,
+   "g": 147,
    "r": 24,
-   "pl": 20.68,
+   "pl": 24.12,
    "roi": -0.3,
-   "wr": 85.8,
+   "wr": 86.0,
    "st": "val"
   },
   {
@@ -380,6 +380,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-08 14:58:21",
+   "tm": "14:58",
+   "match": "Sivasspor vs Esenler Erokspor",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-08 14:58:20",
+   "tm": "14:58",
+   "match": "Lokomotiv Sofia 1929 vs CSKA 1948 Sofia",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-08 14:08:17",
+   "tm": "14:08",
+   "match": "Grazer AK vs Austria Lustenau",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.5,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
+   "data": "2026-08-08 13:39:26",
+   "tm": "13:39",
+   "match": "Mjällby AIF x IF Elfsborg",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.18
+  },
+  {
    "data": "2026-08-08 13:38:24",
    "tm": "13:38",
    "match": "VfB Stuttgart vs Everton",
@@ -395,6 +435,16 @@
    "match": "KäPa vs EIF",
    "bot": "OVERLORD-A",
    "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 13:35:26",
+   "tm": "13:35",
+   "match": "Mjällby AIF x IF Elfsborg",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
    "odd": 1.3,
    "status": "red",
    "pl": -2.0
@@ -498,6 +548,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -1.96
+  },
+  {
+   "data": "2026-08-08 12:36:14",
+   "tm": "12:36",
+   "match": "Pogoń Szczecin x Motor Lublin",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.5,
+   "status": "green",
+   "pl": 2.61
   },
   {
    "data": "2026-08-08 12:19:09",
@@ -852,28 +912,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
-   "g": 28,
-   "r": 19,
-   "pl": -13.63,
-   "wr": 60,
+   "ent": 53,
+   "g": 33,
+   "r": 20,
+   "pl": -7.29,
+   "wr": 62,
    "label": "08/08"
   },
   "mes": {
-   "ent": 445,
-   "g": 322,
-   "r": 123,
-   "pl": 164.57,
-   "wr": 72,
+   "ent": 451,
+   "g": 327,
+   "r": 124,
+   "pl": 170.91,
+   "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-08": {
-   "pl": -13.63,
-   "ops": 47,
-   "g": 28,
-   "r": 19
+   "pl": -7.29,
+   "ops": 53,
+   "g": 33,
+   "r": 20
   },
   "2026-08-07": {
    "pl": -3.51,
