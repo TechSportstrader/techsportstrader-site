@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T08:00",
+ "gerado_em": "2026-08-08T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -118,10 +118,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 71,
-   "r": 112,
-   "pl": 68.1,
+   "r": 113,
+   "pl": 66.1,
    "roi": 6.7,
-   "wr": 38.8,
+   "wr": 38.6,
    "st": "val"
   },
   {
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 145,
+   "r": 67,
+   "pl": 4.44,
+   "roi": 2.0,
+   "wr": 68.4,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -356,17 +367,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 144,
-   "r": 67,
-   "pl": 3.72,
-   "roi": 2.0,
-   "wr": 68.2,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -379,6 +379,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-08 08:48:21",
+   "tm": "08:48",
+   "match": "Tegevajaro Miyazaki vs Yokohama",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 08:14:06",
+   "tm": "08:14",
+   "match": "Kashiwa Reysol x Mito Hollyhock",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.72
+  },
   {
    "data": "2026-08-08 00:08:18",
    "tm": "00:08",
@@ -402,28 +422,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
-   "r": 1,
-   "pl": 0.22,
+   "ent": 4,
+   "g": 2,
+   "r": 2,
+   "pl": -1.06,
    "wr": 50,
    "label": "08/08"
   },
   "mes": {
-   "ent": 400,
-   "g": 295,
-   "r": 105,
-   "pl": 178.42,
+   "ent": 402,
+   "g": 296,
+   "r": 106,
+   "pl": 177.14,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-08": {
-   "pl": 0.22,
-   "ops": 2,
-   "g": 1,
-   "r": 1
+   "pl": -1.06,
+   "ops": 4,
+   "g": 2,
+   "r": 2
   },
   "2026-08-07": {
    "pl": -3.51,
