@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T18:00",
+ "gerado_em": "2026-08-08T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 85,
-   "pl": -9.95,
+   "ent": 86,
+   "pl": -9.65,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 531,
-   "pl": 7.98,
+   "ent": 532,
+   "pl": 5.98,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -164,15 +164,15 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 32,
-   "pl": 57.26,
+   "ent": 33,
+   "pl": 55.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 61,
-   "pl": 26.66,
+   "ent": 62,
+   "pl": 27.03,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 98,
-   "pl": 93.55,
+   "ent": 99,
+   "pl": 91.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 173,
-   "pl": 27.63,
+   "ent": 174,
+   "pl": 29.3,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 60,
-   "pl": 4.29,
+   "ent": 61,
+   "pl": 5.62,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
