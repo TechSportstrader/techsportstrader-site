@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T20:00",
+ "gerado_em": "2026-08-07T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 506,
+   "g": 507,
    "r": 5,
-   "pl": 362.59,
+   "pl": 364.22,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -169,17 +169,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 141,
-   "r": 22,
-   "pl": 33.65,
-   "roi": -0.3,
-   "wr": 86.5,
-   "st": "val"
-  },
-  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -246,6 +235,28 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 141,
+   "r": 23,
+   "pl": 23.65,
+   "roi": -0.3,
+   "wr": 86.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 124,
+   "r": 56,
+   "pl": 19.99,
+   "roi": 1.5,
+   "wr": 68.9,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -254,17 +265,6 @@
    "pl": 19.5,
    "roi": -0.2,
    "wr": 73.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 123,
-   "r": 56,
-   "pl": 18.7,
-   "roi": 1.5,
-   "wr": 68.7,
    "st": "val"
   },
   {
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 1.5",
+   "s": "Lay Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 20,
+   "r": 10,
+   "pl": 4.02,
+   "roi": -5.0,
+   "wr": 66.7,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -345,25 +356,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 1.5",
-   "s": "Lay Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 19,
-   "r": 10,
-   "pl": 3.14,
-   "roi": -5.0,
-   "wr": 65.5,
-   "st": "val"
-  },
-  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 142,
+   "g": 143,
    "r": 67,
-   "pl": 1.67,
+   "pl": 2.33,
    "roi": 2.0,
-   "wr": 67.9,
+   "wr": 68.1,
    "st": "val"
   },
   {
@@ -391,6 +391,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-07 20:58:16",
+   "tm": "20:58",
+   "match": "Comunicaciones vs Villa San Carlos",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "red",
+   "pl": -10.0
+  },
+  {
+   "data": "2026-08-07 20:18:19",
+   "tm": "20:18",
+   "match": "ABB vs Guabirá",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.29
+  },
+  {
    "data": "2026-08-07 19:58:20",
    "tm": "19:58",
    "match": "Unión Española vs Antofagasta",
@@ -399,6 +419,36 @@
    "odd": 1.8,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-07 19:41:05",
+   "tm": "19:41",
+   "match": "Rubio Ñu x Recoleta FC",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.66
+  },
+  {
+   "data": "2026-08-07 19:20:15",
+   "tm": "19:20",
+   "match": "Academia de Balompié Boliviano x Guabirá",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.88
+  },
+  {
+   "data": "2026-08-07 18:30:15",
+   "tm": "18:30",
+   "match": "Academia de Balompié Boliviano x Guabirá",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.63
   },
   {
    "data": "2026-08-07 18:18:16",
@@ -683,28 +733,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 18,
-   "r": 11,
-   "pl": -3.57,
-   "wr": 62,
+   "ent": 34,
+   "g": 22,
+   "r": 12,
+   "pl": -9.11,
+   "wr": 65,
    "label": "07/08"
   },
   "mes": {
-   "ent": 394,
-   "g": 291,
-   "r": 103,
-   "pl": 186.58,
+   "ent": 399,
+   "g": 295,
+   "r": 104,
+   "pl": 181.04,
    "wr": 74,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-07": {
-   "pl": -3.57,
-   "ops": 29,
-   "g": 18,
-   "r": 11
+   "pl": -9.11,
+   "ops": 34,
+   "g": 22,
+   "r": 12
   },
   "2026-08-06": {
    "pl": 28.6,
