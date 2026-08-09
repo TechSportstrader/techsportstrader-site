@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T12:00",
+ "gerado_em": "2026-08-09T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 520,
+   "g": 521,
    "r": 5,
-   "pl": 381.92,
+   "pl": 383.17,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 18,
-   "r": 82,
-   "pl": 109.55,
+   "r": 83,
+   "pl": 107.55,
    "roi": 3.7,
-   "wr": 18.0,
+   "wr": 17.8,
    "st": "val"
   },
   {
@@ -114,6 +114,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 76,
+   "r": 127,
+   "pl": 56.87,
+   "roi": 6.7,
+   "wr": 37.4,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -122,17 +133,6 @@
    "pl": 55.26,
    "roi": 131.0,
    "wr": 21.2,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 75,
-   "r": 127,
-   "pl": 52.43,
-   "roi": 6.7,
-   "wr": 37.1,
    "st": "val"
   },
   {
@@ -359,9 +359,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 23,
+   "g": 24,
    "r": 0,
-   "pl": 1.76,
+   "pl": 1.83,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -378,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 66,
-   "r": 69,
-   "pl": 0.61,
-   "roi": 1.4,
-   "wr": 48.9,
-   "st": "val"
-  },
-  {
    "n": "MURALHA SCALP",
    "s": "Lay 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -398,9 +387,70 @@
    "roi": 1.0,
    "wr": 63.9,
    "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 67,
+   "r": 70,
+   "pl": 0.2,
+   "roi": 1.4,
+   "wr": 48.9,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-09 12:58:32",
+   "tm": "12:58",
+   "match": "Randers FC vs Lyngby Boldklub",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 12:58:29",
+   "tm": "12:58",
+   "match": "Danubio vs Cerro",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 12:58:28",
+   "tm": "12:58",
+   "match": "Motherwell vs Falkirk",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 4.44
+  },
+  {
+   "data": "2026-08-09 12:48:21",
+   "tm": "12:48",
+   "match": "Zulte-Waregem vs Genk",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
+   "data": "2026-08-09 12:13:07",
+   "tm": "12:13",
+   "match": "Motherwell x Falkirk FC",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.06
+  },
   {
    "data": "2026-08-09 11:58:34",
    "tm": "11:58",
@@ -480,6 +530,16 @@
    "odd": 1.0,
    "status": "green",
    "pl": 0.05
+  },
+  {
+   "data": "2026-08-09 11:06:07",
+   "tm": "11:06",
+   "match": "Motherwell x Falkirk FC",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-09 10:58:26",
@@ -774,28 +834,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 37,
-   "g": 30,
-   "r": 7,
-   "pl": 10.4,
-   "wr": 81,
+   "ent": 43,
+   "g": 34,
+   "r": 9,
+   "pl": 13.74,
+   "wr": 79,
    "label": "09/08"
   },
   "mes": {
-   "ent": 588,
-   "g": 420,
-   "r": 168,
-   "pl": 172.72,
+   "ent": 594,
+   "g": 424,
+   "r": 170,
+   "pl": 176.07,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": 10.4,
-   "ops": 37,
-   "g": 30,
-   "r": 7
+   "pl": 13.74,
+   "ops": 43,
+   "g": 34,
+   "r": 9
   },
   "2026-08-08": {
    "pl": -12.91,
