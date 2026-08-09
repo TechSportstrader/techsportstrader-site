@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T09:00",
+ "gerado_em": "2026-08-09T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,15 +10,15 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 118,
-   "pl": 2.14,
+   "ent": 119,
+   "pl": 0.21,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 49,
-   "pl": 29.08,
+   "ent": 50,
+   "pl": 29.98,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 88,
-   "pl": -10.5,
+   "ent": 90,
+   "pl": -10.01,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 535,
-   "pl": 7.73,
+   "ent": 538,
+   "pl": 6.67,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 218,
-   "pl": 1.99,
+   "ent": 219,
+   "pl": 3.1,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 30,
-   "pl": 46.06,
+   "ent": 31,
+   "pl": 47.31,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 133,
-   "pl": 0.09,
+   "ent": 134,
+   "pl": 2.05,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -353,15 +353,15 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 76,
-   "pl": 18.72,
+   "ent": 77,
+   "pl": 19.6,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
-   "st": "val",
-   "ent": 116,
-   "pl": 1.72,
+   "st": "rep",
+   "ent": 118,
+   "pl": -2.28,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "ent": 20,
-   "pl": 11.15,
+   "ent": 21,
+   "pl": 9.18,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
