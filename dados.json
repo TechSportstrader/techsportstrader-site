@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T15:00",
+ "gerado_em": "2026-08-09T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -84,11 +84,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 68,
+   "g": 69,
    "r": 4,
-   "pl": 77.45,
+   "pl": 81.26,
    "roi": 1.0,
-   "wr": 94.4,
+   "wr": 94.5,
    "st": "val"
   },
   {
@@ -155,17 +155,6 @@
    "pl": 44.35,
    "roi": 4.0,
    "wr": 89.2,
-   "st": "val"
-  },
-  {
-   "n": "SNIPER HT",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 15,
-   "r": 0,
-   "pl": 37.19,
-   "roi": 13.0,
-   "wr": 100.0,
    "st": "val"
   },
   {
@@ -268,14 +257,25 @@
    "st": "val"
   },
   {
+   "n": "SNIPER HT",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 15,
+   "r": 1,
+   "pl": 17.19,
+   "roi": 13.0,
+   "wr": 93.8,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
-   "g": 30,
+   "g": 31,
    "r": 3,
-   "pl": 13.65,
+   "pl": 15.55,
    "roi": 4.0,
-   "wr": 90.9,
+   "wr": 91.2,
    "st": "val"
   },
   {
@@ -390,6 +390,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-09 15:42:07",
+   "tm": "15:42",
+   "match": "San Lorenzo x Huracán",
+   "bot": "SNIPER HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "red",
+   "pl": -20.0
+  },
+  {
+   "data": "2026-08-09 14:25:25",
+   "tm": "14:25",
+   "match": "AC Horsens x Brøndby IF",
+   "bot": "GLOBAL EDGE",
+   "mkt": "Lay Goleada Fora",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.9
+  },
+  {
+   "data": "2026-08-09 14:11:24",
+   "tm": "14:11",
+   "match": "AC Horsens x Brøndby IF",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 22.0,
+   "status": "green",
+   "pl": 3.81
+  },
   {
    "data": "2026-08-09 13:58:24",
    "tm": "13:58",
@@ -959,52 +989,32 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.45
-  },
-  {
-   "data": "2026-08-09 00:18:20",
-   "tm": "00:18",
-   "match": "Guadalajara vs Dallas",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 1.22
-  },
-  {
-   "data": "2026-08-09 00:17:22",
-   "tm": "00:17",
-   "match": "Monterey Bay FC x New Mexico United",
-   "bot": "MURALHA CASA-22",
-   "mkt": "Lay Goleada Casa",
-   "odd": 26.0,
-   "status": "green",
-   "pl": 1.46
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 59,
-   "g": 47,
-   "r": 12,
-   "pl": 26.44,
-   "wr": 80,
+   "ent": 62,
+   "g": 49,
+   "r": 13,
+   "pl": 12.15,
+   "wr": 79,
    "label": "09/08"
   },
   "mes": {
-   "ent": 584,
-   "g": 423,
-   "r": 161,
-   "pl": 191.02,
+   "ent": 587,
+   "g": 425,
+   "r": 162,
+   "pl": 176.73,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": 26.44,
-   "ops": 59,
-   "g": 47,
-   "r": 12
+   "pl": 12.15,
+   "ops": 62,
+   "g": 49,
+   "r": 13
   },
   "2026-08-08": {
    "pl": -17.66,
