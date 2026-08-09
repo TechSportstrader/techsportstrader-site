@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T19:00",
+ "gerado_em": "2026-08-09T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 420,
+   "g": 421,
    "r": 129,
-   "pl": 7.87,
+   "pl": 8.4,
    "roi": 2.0,
    "wr": 76.5,
    "st": "ap"
@@ -150,22 +150,22 @@
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 92,
+   "g": 93,
    "r": 11,
-   "pl": 45.68,
+   "pl": 49.25,
    "roi": 4.0,
-   "wr": 89.3,
+   "wr": 89.4,
    "st": "val"
   },
   {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 82,
+   "g": 83,
    "r": 6,
-   "pl": 35.11,
+   "pl": 36.61,
    "roi": 1.3,
-   "wr": 93.2,
+   "wr": 93.3,
    "st": "val"
   },
   {
@@ -205,11 +205,11 @@
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 41,
+   "g": 42,
    "r": 2,
-   "pl": 27.16,
+   "pl": 28.74,
    "roi": 9.0,
-   "wr": 95.3,
+   "wr": 95.5,
    "st": "val"
   },
   {
@@ -257,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 34,
+   "r": 4,
+   "pl": 18.47,
+   "roi": 16.0,
+   "wr": 89.5,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -265,17 +276,6 @@
    "pl": 17.19,
    "roi": 13.0,
    "wr": 93.8,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 33,
-   "r": 4,
-   "pl": 16.8,
-   "roi": 16.0,
-   "wr": 89.2,
    "st": "val"
   },
   {
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-09 19:48:20",
+   "tm": "19:48",
+   "match": "Defensa y Justicia vs Newell's Old Boys",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-08-09 19:26:05",
+   "tm": "19:26",
+   "match": "Real Potosí x Blooming",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.53
+  },
+  {
    "data": "2026-08-09 18:58:23",
    "tm": "18:58",
    "match": "Breidablik vs Valur",
@@ -422,6 +442,16 @@
    "pl": 1.67
   },
   {
+   "data": "2026-08-09 18:33:16",
+   "tm": "18:33",
+   "match": "Defensa y Justicia x Newell's Old Boys",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.58
+  },
+  {
    "data": "2026-08-09 18:28:23",
    "tm": "18:28",
    "match": "Breidablik vs Valur",
@@ -440,6 +470,16 @@
    "odd": 6.8,
    "status": "green",
    "pl": 1.72
+  },
+  {
+   "data": "2026-08-09 18:06:07",
+   "tm": "18:06",
+   "match": "Defensa y Justicia x Newell's Old Boys",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 3.57
   },
   {
    "data": "2026-08-09 17:38:20",
@@ -500,6 +540,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 17:09:11",
+   "tm": "17:09",
+   "match": "Trujillanos FC x Deportivo Táchira",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-08-09 17:08:20",
@@ -950,81 +1000,31 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.59
-  },
-  {
-   "data": "2026-08-09 12:45:18",
-   "tm": "12:45",
-   "match": "FC Sion x FC Vaduz",
-   "bot": "DEADLOCK",
-   "mkt": "Lay Placar 2x2",
-   "odd": 4.4,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-08-09 12:19:08",
-   "tm": "12:19",
-   "match": "Rangers x Hibernian",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 60.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-08-09 12:16:08",
-   "tm": "12:16",
-   "match": "Cruzeiro x Mirassol",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 19.5,
-   "status": "green",
-   "pl": 3.2
-  },
-  {
-   "data": "2026-08-09 12:13:07",
-   "tm": "12:13",
-   "match": "Motherwell x Falkirk FC",
-   "bot": "LOWLINE",
-   "mkt": "Under 3.5 FT",
-   "odd": 1.0,
-   "status": "green",
-   "pl": 0.06
-  },
-  {
-   "data": "2026-08-09 11:58:34",
-   "tm": "11:58",
-   "match": "Paksi SE vs Honvéd",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 99,
-   "g": 72,
+   "ent": 104,
+   "g": 77,
    "r": 27,
-   "pl": -37.63,
-   "wr": 73,
+   "pl": -28.78,
+   "wr": 74,
    "label": "09/08"
   },
   "mes": {
-   "ent": 627,
-   "g": 444,
+   "ent": 632,
+   "g": 449,
    "r": 183,
-   "pl": 124.6,
+   "pl": 133.45,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": -37.63,
-   "ops": 99,
-   "g": 72,
+   "pl": -28.78,
+   "ops": 104,
+   "g": 77,
    "r": 27
   },
   "2026-08-08": {
