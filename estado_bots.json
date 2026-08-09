@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T12:00",
+ "gerado_em": "2026-08-09T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 525,
-   "pl": 381.92,
+   "ent": 526,
+   "pl": 383.17,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 91,
-   "pl": -9.81,
+   "ent": 92,
+   "pl": -9.54,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 23,
-   "pl": 1.76,
+   "ent": 24,
+   "pl": 1.83,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 100,
-   "pl": 109.55,
+   "ent": 101,
+   "pl": 107.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 202,
-   "pl": 52.43,
+   "ent": 203,
+   "pl": 56.87,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "val",
-   "ent": 135,
-   "pl": 0.61,
+   "ent": 137,
+   "pl": 0.2,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 39,
-   "pl": 52.13,
+   "ent": 40,
+   "pl": 53.26,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
