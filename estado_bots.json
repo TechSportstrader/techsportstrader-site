@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T23:00",
+ "gerado_em": "2026-08-09T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 117,
-   "pl": 1.11,
+   "ent": 118,
+   "pl": 2.14,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 217,
-   "pl": 3.99,
+   "ent": 218,
+   "pl": 1.99,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 33,
-   "pl": 9.97,
+   "ent": 34,
+   "pl": 11.64,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 36,
-   "pl": -32.57,
+   "ent": 37,
+   "pl": -34.63,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 33,
-   "pl": 1.14,
+   "ent": 34,
+   "pl": 2.61,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 198,
-   "pl": 47.49,
+   "ent": 199,
+   "pl": 45.51,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 83,
-   "pl": 45.0,
+   "ent": 84,
+   "pl": 46.11,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 20,
-   "pl": -11.2,
+   "ent": 21,
+   "pl": -9.95,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 175,
-   "pl": 30.96,
+   "ent": 176,
+   "pl": 32.63,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,13 +385,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 63,
-   "pl": 3.2,
+   "ent": 64,
+   "pl": 4.63,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 35,
-   "pl": 46.48,
+   "ent": 37,
+   "pl": 48.79,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
