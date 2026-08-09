@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T20:00",
+ "gerado_em": "2026-08-08T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 116,
-   "pl": 0.03,
+   "ent": 117,
+   "pl": 1.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 86,
-   "pl": -9.65,
+   "ent": 87,
+   "pl": -9.45,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 21,
-   "pl": 1.66,
+   "ent": 22,
+   "pl": 1.71,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 99,
-   "pl": 91.55,
+   "ent": 100,
+   "pl": 109.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 195,
-   "pl": 53.49,
+   "ent": 196,
+   "pl": 51.49,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 38,
-   "pl": -11.1,
+   "ent": 39,
+   "pl": -16.1,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 112,
-   "pl": -1.0,
+   "ent": 113,
+   "pl": -3.0,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -390,13 +390,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 34,
-   "pl": 44.89,
+   "ent": 35,
+   "pl": 46.48,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 21,
-   "pl": 12.32,
+   "ent": 22,
+   "pl": 13.53,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
