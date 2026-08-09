@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T21:00",
+ "gerado_em": "2026-08-08T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 514,
+   "g": 516,
    "r": 5,
-   "pl": 373.84,
+   "pl": 376.95,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 406,
+   "g": 407,
    "r": 126,
-   "pl": 5.98,
+   "pl": 6.4,
    "roi": 2.0,
-   "wr": 76.3,
+   "wr": 76.4,
    "st": "ap"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 73,
-   "r": 123,
-   "pl": 51.49,
+   "r": 124,
+   "pl": 49.49,
    "roi": 6.7,
-   "wr": 37.2,
+   "wr": 37.1,
    "st": "val"
   },
   {
@@ -150,11 +150,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 76,
+   "g": 77,
    "r": 5,
-   "pl": 42.39,
+   "pl": 43.75,
    "roi": 1.3,
-   "wr": 93.8,
+   "wr": 93.9,
    "st": "val"
   },
   {
@@ -194,11 +194,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 150,
+   "g": 151,
    "r": 24,
-   "pl": 29.3,
+   "pl": 30.96,
    "roi": -0.3,
-   "wr": 86.2,
+   "wr": 86.3,
    "st": "val"
   },
   {
@@ -290,17 +290,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 148,
-   "r": 68,
-   "pl": 5.99,
-   "roi": 2.0,
-   "wr": 68.5,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -331,6 +320,17 @@
    "pl": 4.0,
    "roi": -100.0,
    "wr": 36.4,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 148,
+   "r": 69,
+   "pl": 3.99,
+   "roi": 2.0,
+   "wr": 68.2,
    "st": "val"
   },
   {
@@ -402,6 +402,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-08 21:48:17",
+   "tm": "21:48",
+   "match": "Orlando City vs León",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-08-08 21:28:15",
+   "tm": "21:28",
+   "match": "Ituano vs Barra FC",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.66
+  },
+  {
+   "data": "2026-08-08 21:08:17",
+   "tm": "21:08",
+   "match": "Ituano vs Barra FC",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 20:53:06",
+   "tm": "20:53",
+   "match": "Orlando City SC x Club León",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
    "data": "2026-08-08 20:38:19",
    "tm": "20:38",
    "match": "Botafogo SP vs América Mineiro",
@@ -412,6 +452,16 @@
    "pl": 18.0
   },
   {
+   "data": "2026-08-08 20:28:09",
+   "tm": "20:28",
+   "match": "Boca Juniors x Vélez Sarsfield",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-08 20:08:18",
    "tm": "20:08",
    "match": "Coquimbo Unido vs La Serena",
@@ -420,6 +470,16 @@
    "odd": 1.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 20:02:18",
+   "tm": "20:02",
+   "match": "Orlando City SC x Club León",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-08 20:01:05",
@@ -450,6 +510,16 @@
    "odd": 1.5,
    "status": "red",
    "pl": -1.13
+  },
+  {
+   "data": "2026-08-08 19:33:06",
+   "tm": "19:33",
+   "match": "Boca Juniors x Vélez Sarsfield",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 50.0,
+   "status": "green",
+   "pl": 1.63
   },
   {
    "data": "2026-08-08 18:15:16",
@@ -930,102 +1000,32 @@
    "odd": 6.0,
    "status": "green",
    "pl": 1.79
-  },
-  {
-   "data": "2026-08-08 13:20:06",
-   "tm": "13:20",
-   "match": "FC Lausanne-Sport x BSC Young Boys",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.13
-  },
-  {
-   "data": "2026-08-08 13:08:27",
-   "tm": "13:08",
-   "match": "Salford City vs Shrewsbury Town",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-08 13:07:08",
-   "tm": "13:07",
-   "match": "Grazer AK 1902 x SC Austria Lustenau",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-08 12:58:33",
-   "tm": "12:58",
-   "match": "Leyton Orient vs Oxford United",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-08 12:58:32",
-   "tm": "12:58",
-   "match": "Leyton Orient vs Oxford United",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-08-08 12:58:32",
-   "tm": "12:58",
-   "match": "St. Mirren vs St. Johnstone",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-08-08 12:58:32",
-   "tm": "12:58",
-   "match": "Swansea City vs Birmingham City",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "red",
-   "pl": -10.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 102,
-   "g": 63,
-   "r": 39,
-   "pl": -24.81,
+   "ent": 109,
+   "g": 68,
+   "r": 41,
+   "pl": -22.26,
    "wr": 62,
    "label": "08/08"
   },
   "mes": {
-   "ent": 530,
-   "g": 374,
-   "r": 156,
-   "pl": 150.42,
+   "ent": 537,
+   "g": 379,
+   "r": 158,
+   "pl": 152.97,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-08": {
-   "pl": -24.81,
-   "ops": 102,
-   "g": 63,
-   "r": 39
+   "pl": -22.26,
+   "ops": 109,
+   "g": 68,
+   "r": 41
   },
   "2026-08-07": {
    "pl": -4.03,
