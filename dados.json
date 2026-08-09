@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T20:00",
+ "gerado_em": "2026-08-08T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -59,6 +59,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 18,
+   "r": 82,
+   "pl": 109.55,
+   "roi": 3.7,
+   "wr": 18.0,
+   "st": "val"
+  },
+  {
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -67,17 +78,6 @@
    "pl": 92.22,
    "roi": 6.4,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 17,
-   "r": 82,
-   "pl": 91.55,
-   "roi": 3.7,
-   "wr": 17.2,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 73,
-   "r": 122,
-   "pl": 53.49,
+   "r": 123,
+   "pl": 51.49,
    "roi": 6.7,
-   "wr": 37.4,
+   "wr": 37.2,
    "st": "val"
   },
   {
@@ -348,9 +348,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 21,
+   "g": 22,
    "r": 0,
-   "pl": 1.66,
+   "pl": 1.71,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -364,6 +364,17 @@
    "pl": 1.14,
    "roi": 27.0,
    "wr": 78.8,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 75,
+   "r": 42,
+   "pl": 1.11,
+   "roi": 1.0,
+   "wr": 64.1,
    "st": "val"
   },
   {
@@ -387,20 +398,49 @@
    "roi": 1.4,
    "wr": 48.9,
    "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 74,
-   "r": 42,
-   "pl": 0.03,
-   "roi": 1.0,
-   "wr": 63.8,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-08 20:38:19",
+   "tm": "20:38",
+   "match": "Botafogo SP vs América Mineiro",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 18.0
+  },
+  {
+   "data": "2026-08-08 20:08:18",
+   "tm": "20:08",
+   "match": "Coquimbo Unido vs La Serena",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-08 20:01:05",
+   "tm": "20:01",
+   "match": "Orlando City SC x Club León",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
+   "data": "2026-08-08 19:57:06",
+   "tm": "19:57",
+   "match": "CS 2 de Mayo x Olimpia",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.05
+  },
   {
    "data": "2026-08-08 19:48:23",
    "tm": "19:48",
@@ -960,72 +1000,32 @@
    "odd": 6.8,
    "status": "red",
    "pl": -10.0
-  },
-  {
-   "data": "2026-08-08 12:53:19",
-   "tm": "12:53",
-   "match": "CS Marítimo x Casa Pia",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-08 12:38:15",
-   "tm": "12:38",
-   "match": "Airdrieonians vs East Kilbride",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-08 12:38:15",
-   "tm": "12:38",
-   "match": "Sheffield Wednesday vs Bolton Wanderers",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -1.96
-  },
-  {
-   "data": "2026-08-08 12:36:14",
-   "tm": "12:36",
-   "match": "Pogoń Szczecin x Motor Lublin",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 12.5,
-   "status": "green",
-   "pl": 2.61
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 98,
-   "g": 60,
-   "r": 38,
-   "pl": -41.94,
-   "wr": 61,
+   "ent": 102,
+   "g": 63,
+   "r": 39,
+   "pl": -24.81,
+   "wr": 62,
    "label": "08/08"
   },
   "mes": {
-   "ent": 526,
-   "g": 371,
-   "r": 155,
-   "pl": 133.3,
+   "ent": 530,
+   "g": 374,
+   "r": 156,
+   "pl": 150.42,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-08": {
-   "pl": -41.94,
-   "ops": 98,
-   "g": 60,
-   "r": 38
+   "pl": -24.81,
+   "ops": 102,
+   "g": 63,
+   "r": 39
   },
   "2026-08-07": {
    "pl": -4.03,
