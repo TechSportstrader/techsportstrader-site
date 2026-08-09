@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-08-09T15:00",
+ "gerado_em": "2026-08-09T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
-   "ent": 15,
-   "pl": 37.19,
+   "ent": 16,
+   "pl": 17.19,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -80,8 +80,8 @@
   },
   "GLOBAL EDGE": {
    "st": "val",
-   "ent": 33,
-   "pl": 13.65,
+   "ent": 34,
+   "pl": 15.55,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 72,
-   "pl": 77.45,
+   "ent": 73,
+   "pl": 81.26,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -150,8 +150,8 @@
   },
   "LAB-VV": {
    "st": "rep",
-   "ent": 41,
-   "pl": -41.91,
+   "ent": 42,
+   "pl": -43.99,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -395,13 +395,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
-   "ent": 20,
-   "pl": 12.86,
+   "ent": 21,
+   "pl": 14.44,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 41,
-   "pl": 18.3,
+   "ent": 42,
+   "pl": 19.89,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
