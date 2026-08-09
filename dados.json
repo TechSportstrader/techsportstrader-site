@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T08:00",
+ "gerado_em": "2026-08-09T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 5,
+   "r": 7,
+   "pl": 8.7,
+   "roi": -100.0,
+   "wr": 41.7,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 4.05,
    "roi": 2.1,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 4,
-   "r": 7,
-   "pl": 4.0,
-   "roi": -100.0,
-   "wr": 36.4,
    "st": "val"
   },
   {
@@ -367,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 66,
+   "r": 50,
+   "pl": 1.72,
+   "roi": -0.2,
+   "wr": 56.9,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -389,17 +400,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 65,
-   "r": 50,
-   "pl": 0.14,
-   "roi": -0.2,
-   "wr": 56.5,
-   "st": "val"
-  },
-  {
    "n": "GATILHO DUPLO",
    "s": "Back Ambas Marcam · Bolsa",
    "plat": "Bolsa",
@@ -412,6 +412,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-09 08:58:21",
+   "tm": "08:58",
+   "match": "Henan Songshan Longmen vs Qingdao West Coast",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.58
+  },
   {
    "data": "2026-08-09 07:28:15",
    "tm": "07:28",
@@ -431,6 +441,16 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.68
+  },
+  {
+   "data": "2026-08-09 06:45:15",
+   "tm": "06:45",
+   "match": "Tokyo Verdy x Kawasaki Frontale",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.4,
+   "status": "green",
+   "pl": 4.7
   },
   {
    "data": "2026-08-09 02:18:17",
@@ -485,27 +505,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 5,
+   "ent": 9,
+   "g": 7,
    "r": 2,
-   "pl": -18.27,
-   "wr": 71,
+   "pl": -11.99,
+   "wr": 78,
    "label": "09/08"
   },
   "mes": {
-   "ent": 580,
-   "g": 408,
+   "ent": 582,
+   "g": 410,
    "r": 172,
-   "pl": 146.53,
+   "pl": 152.81,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": -18.27,
-   "ops": 7,
-   "g": 5,
+   "pl": -11.99,
+   "ops": 9,
+   "g": 7,
    "r": 2
   },
   "2026-08-08": {
