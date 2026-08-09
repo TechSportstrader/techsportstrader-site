@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T13:00",
+ "gerado_em": "2026-08-09T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,11 +7,11 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 521,
+   "g": 522,
    "r": 5,
-   "pl": 383.17,
+   "pl": 384.53,
    "roi": 1.0,
-   "wr": 99.0,
+   "wr": 99.1,
    "st": "ap"
   },
   {
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 414,
-   "r": 127,
-   "pl": 8.07,
+   "g": 416,
+   "r": 128,
+   "pl": 6.97,
    "roi": 2.0,
    "wr": 76.5,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 18,
-   "r": 83,
-   "pl": 107.55,
+   "r": 85,
+   "pl": 103.55,
    "roi": 3.7,
-   "wr": 17.8,
+   "wr": 17.5,
    "st": "val"
   },
   {
@@ -84,9 +84,9 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 67,
+   "g": 68,
    "r": 4,
-   "pl": 73.45,
+   "pl": 77.45,
    "roi": 1.0,
    "wr": 94.4,
    "st": "val"
@@ -95,11 +95,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 112,
+   "g": 114,
    "r": 7,
-   "pl": 70.8,
+   "pl": 76.58,
    "roi": 0.0,
-   "wr": 94.1,
+   "wr": 94.2,
    "st": "val"
   },
   {
@@ -118,10 +118,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 76,
-   "r": 127,
-   "pl": 56.87,
+   "r": 128,
+   "pl": 55.07,
    "roi": 6.7,
-   "wr": 37.4,
+   "wr": 37.3,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 26,
-   "pl": 55.26,
+   "r": 27,
+   "pl": 53.26,
    "roi": 131.0,
-   "wr": 21.2,
+   "wr": 20.6,
    "st": "val"
   },
   {
@@ -194,11 +194,22 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 41,
+   "g": 42,
    "r": 9,
-   "pl": 29.98,
+   "pl": 30.88,
    "roi": 33.0,
-   "wr": 82.0,
+   "wr": 82.4,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 156,
+   "r": 25,
+   "pl": 29.96,
+   "roi": -0.3,
+   "wr": 86.2,
    "st": "val"
   },
   {
@@ -210,17 +221,6 @@
    "pl": 29.13,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 155,
-   "r": 25,
-   "pl": 28.11,
-   "roi": -0.3,
-   "wr": 86.1,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 30,
+   "g": 31,
    "r": 4,
-   "pl": 11.64,
+   "pl": 13.36,
    "roi": 16.0,
-   "wr": 88.2,
+   "wr": 88.6,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 28,
+   "r": 7,
+   "pl": 4.08,
+   "roi": 27.0,
+   "wr": 80.0,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -334,25 +345,14 @@
    "st": "val"
   },
   {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 27,
-   "r": 7,
-   "pl": 2.61,
-   "roi": 27.0,
-   "wr": 79.4,
-   "st": "val"
-  },
-  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 150,
+   "g": 152,
    "r": 71,
-   "pl": 1.85,
+   "pl": 3.08,
    "roi": 2.0,
-   "wr": 67.9,
+   "wr": 68.2,
    "st": "val"
   },
   {
@@ -367,6 +367,28 @@
    "st": "val"
   },
   {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 77,
+   "r": 43,
+   "pl": 1.45,
+   "roi": 1.0,
+   "wr": 64.2,
+   "st": "val"
+  },
+  {
+   "n": "GATILHO DUPLO",
+   "s": "Back Ambas Marcam · Bolsa",
+   "plat": "Bolsa",
+   "g": 68,
+   "r": 70,
+   "pl": 1.4,
+   "roi": 1.4,
+   "wr": 49.3,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -376,31 +398,129 @@
    "roi": -5.0,
    "wr": 62.5,
    "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 76,
-   "r": 43,
-   "pl": 0.21,
-   "roi": 1.0,
-   "wr": 63.9,
-   "st": "val"
-  },
-  {
-   "n": "GATILHO DUPLO",
-   "s": "Back Ambas Marcam · Bolsa",
-   "plat": "Bolsa",
-   "g": 67,
-   "r": 70,
-   "pl": 0.2,
-   "roi": 1.4,
-   "wr": 48.9,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-09 13:58:24",
+   "tm": "13:58",
+   "match": "Strømsgodset vs Egersund",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 13:58:24",
+   "tm": "13:58",
+   "match": "HamKam vs Aalesund",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 13:58:24",
+   "tm": "13:58",
+   "match": "Åsane vs Kongsvinger",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-08-09 13:48:25",
+   "tm": "13:48",
+   "match": "Ried vs SK Rapid",
+   "bot": "GATILHO DUPLO",
+   "mkt": "Back Ambas Marcam",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-08-09 13:38:17",
+   "tm": "13:38",
+   "match": "Jablonec vs Slovácko",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.8
+  },
+  {
+   "data": "2026-08-09 13:31:08",
+   "tm": "13:31",
+   "match": "Rangers x Hibernian",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-09 13:12:07",
+   "tm": "13:12",
+   "match": "SV Ried x SK Rapid Wien",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 4.0
+  },
+  {
+   "data": "2026-08-09 13:11:13",
+   "tm": "13:11",
+   "match": "Rangers x Hibernian",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 32.0,
+   "status": "green",
+   "pl": 2.58
+  },
+  {
+   "data": "2026-08-09 13:11:06",
+   "tm": "13:11",
+   "match": "SV Ried x SK Rapid Wien",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
+   "data": "2026-08-09 13:07:07",
+   "tm": "13:07",
+   "match": "FC Hradec Králové x Baník Ostrava",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.49
+  },
+  {
+   "data": "2026-08-09 13:07:07",
+   "tm": "13:07",
+   "match": "Rangers x Hibernian",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.91
+  },
+  {
+   "data": "2026-08-09 12:59:06",
+   "tm": "12:59",
+   "match": "SC Heerenveen x FC Twente",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-09 12:58:32",
    "tm": "12:58",
@@ -432,6 +552,26 @@
    "pl": 4.44
   },
   {
+   "data": "2026-08-09 12:53:07",
+   "tm": "12:53",
+   "match": "FC St. Gallen 1879 x FC Luzern",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.62
+  },
+  {
+   "data": "2026-08-09 12:50:06",
+   "tm": "12:50",
+   "match": "Lech Poznań x Piast Gliwice",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.24
+  },
+  {
    "data": "2026-08-09 12:48:21",
    "tm": "12:48",
    "match": "Zulte-Waregem vs Genk",
@@ -440,6 +580,46 @@
    "odd": 1.8,
    "status": "green",
    "pl": 1.59
+  },
+  {
+   "data": "2026-08-09 12:45:18",
+   "tm": "12:45",
+   "match": "FC Sion x FC Vaduz",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.4,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-08-09 12:40:26",
+   "tm": "12:40",
+   "match": "IFK Göteborg x Kalmar FF",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.61
+  },
+  {
+   "data": "2026-08-09 12:19:08",
+   "tm": "12:19",
+   "match": "Rangers x Hibernian",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-08-09 12:16:08",
+   "tm": "12:16",
+   "match": "Cruzeiro x Mirassol",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 3.2
   },
   {
    "data": "2026-08-09 12:13:07",
@@ -530,6 +710,16 @@
    "odd": 1.0,
    "status": "green",
    "pl": 0.05
+  },
+  {
+   "data": "2026-08-09 11:06:08",
+   "tm": "11:06",
+   "match": "Athletic Club x Criciúma",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.72
   },
   {
    "data": "2026-08-09 11:06:07",
@@ -810,52 +1000,32 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.45
-  },
-  {
-   "data": "2026-08-09 00:18:20",
-   "tm": "00:18",
-   "match": "Guadalajara vs Dallas",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 1.22
-  },
-  {
-   "data": "2026-08-09 00:17:22",
-   "tm": "00:17",
-   "match": "Monterey Bay FC x New Mexico United",
-   "bot": "MURALHA CASA-22",
-   "mkt": "Lay Goleada Casa",
-   "odd": 26.0,
-   "status": "green",
-   "pl": 1.46
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 43,
-   "g": 34,
-   "r": 9,
-   "pl": 13.74,
-   "wr": 79,
+   "ent": 62,
+   "g": 48,
+   "r": 14,
+   "pl": 25.61,
+   "wr": 77,
    "label": "09/08"
   },
   "mes": {
-   "ent": 594,
-   "g": 424,
-   "r": 170,
-   "pl": 176.07,
+   "ent": 613,
+   "g": 438,
+   "r": 175,
+   "pl": 187.93,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": 13.74,
-   "ops": 43,
-   "g": 34,
-   "r": 9
+   "pl": 25.61,
+   "ops": 62,
+   "g": 48,
+   "r": 14
   },
   "2026-08-08": {
    "pl": -12.91,
