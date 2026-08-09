@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T10:00",
+ "gerado_em": "2026-08-09T11:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 523,
-   "pl": 379.21,
+   "ent": 524,
+   "pl": 380.29,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 538,
-   "pl": 6.67,
+   "ent": 539,
+   "pl": 7.14,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 219,
-   "pl": 3.1,
+   "ent": 220,
+   "pl": 3.85,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 64,
-   "pl": -18.85,
+   "ent": 66,
+   "pl": -16.43,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 199,
-   "pl": 45.51,
+   "ent": 200,
+   "pl": 50.51,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 182,
-   "pl": 19.55,
+   "ent": 183,
+   "pl": 20.97,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 86,
-   "pl": 32.61,
+   "ent": 87,
+   "pl": 34.04,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -311,15 +311,15 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "rep",
-   "ent": 30,
-   "pl": -9.2,
+   "ent": 31,
+   "pl": -34.2,
    "roi": 4.2,
    "plat": "Bolsa"
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 21,
-   "pl": -9.95,
+   "ent": 22,
+   "pl": -8.74,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 177,
-   "pl": 23.05,
+   "ent": 179,
+   "pl": 26.44,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -390,13 +390,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 64,
-   "pl": 4.63,
+   "ent": 66,
+   "pl": 2.03,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 38,
-   "pl": 50.46,
+   "ent": 39,
+   "pl": 52.13,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
