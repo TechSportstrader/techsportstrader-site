@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T02:00",
+ "gerado_em": "2026-08-09T03:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -180,17 +180,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 152,
-   "r": 24,
-   "pl": 32.63,
-   "roi": -0.3,
-   "wr": 86.4,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -243,6 +232,17 @@
    "pl": 24.81,
    "roi": 9.0,
    "wr": 95.1,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 152,
+   "r": 25,
+   "pl": 23.05,
+   "roi": -0.3,
+   "wr": 85.9,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-09 02:18:17",
+   "tm": "02:18",
+   "match": "Toluca vs Los Angeles FC",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "red",
+   "pl": -9.58
+  },
+  {
    "data": "2026-08-09 01:18:15",
    "tm": "01:18",
    "match": "Real Salt Lake vs Atlante",
@@ -444,28 +454,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
+   "ent": 5,
    "g": 3,
-   "r": 1,
-   "pl": -11.87,
-   "wr": 75,
+   "r": 2,
+   "pl": -21.45,
+   "wr": 60,
    "label": "09/08"
   },
   "mes": {
-   "ent": 555,
+   "ent": 556,
    "g": 393,
-   "r": 162,
-   "pl": 150.46,
+   "r": 163,
+   "pl": 140.88,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-09": {
-   "pl": -11.87,
-   "ops": 4,
+   "pl": -21.45,
+   "ops": 5,
    "g": 3,
-   "r": 1
+   "r": 2
   },
   "2026-08-08": {
    "pl": -12.91,
