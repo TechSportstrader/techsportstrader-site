@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T21:00",
+ "gerado_em": "2026-08-09T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 550,
-   "pl": 8.4,
+   "ent": 551,
+   "pl": 8.82,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "ent": 21,
-   "pl": 9.18,
+   "ent": 22,
+   "pl": 7.2,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 25,
-   "pl": 17.33,
+   "ent": 26,
+   "pl": 18.36,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
