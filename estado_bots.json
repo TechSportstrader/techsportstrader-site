@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-09T22:00",
+ "gerado_em": "2026-08-09T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 528,
-   "pl": 385.69,
+   "ent": 529,
+   "pl": 387.32,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 551,
-   "pl": 8.82,
+   "ent": 552,
+   "pl": 9.24,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 234,
-   "pl": -3.6,
+   "ent": 236,
+   "pl": -2.12,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 90,
-   "pl": 37.97,
+   "ent": 91,
+   "pl": 39.12,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 53,
-   "pl": -45.96,
+   "ent": 54,
+   "pl": -44.59,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 72,
-   "pl": 10.78,
+   "ent": 74,
+   "pl": 14.22,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
