@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T15:00",
+ "gerado_em": "2026-08-10T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -9,9 +9,9 @@
    "plat": "BotBet"
   },
   "MURALHA SCALP": {
-   "st": "rep",
-   "ent": 121,
-   "pl": -0.55,
+   "st": "val",
+   "ent": 122,
+   "pl": 0.44,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 93,
-   "pl": -10.61,
+   "ent": 94,
+   "pl": -10.24,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 552,
-   "pl": 9.24,
+   "ent": 553,
+   "pl": 7.24,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 80,
-   "pl": 34.66,
+   "ent": 81,
+   "pl": 14.66,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 207,
-   "pl": 58.65,
+   "ent": 208,
+   "pl": 56.65,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 141,
-   "pl": -1.77,
+   "ent": 143,
+   "pl": -4.6,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 123,
-   "pl": 2.08,
+   "ent": 124,
+   "pl": 3.48,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
-   "ent": 21,
-   "pl": 29.15,
+   "ent": 22,
+   "pl": 8.8,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 27,
-   "pl": 19.31,
+   "ent": 28,
+   "pl": 14.31,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
