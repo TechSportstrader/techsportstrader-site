@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T18:00",
+ "gerado_em": "2026-08-10T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "rep",
-   "ent": 237,
-   "pl": -0.16,
+   "st": "val",
+   "ent": 238,
+   "pl": 0.81,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -405,8 +405,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 43,
-   "pl": 21.19,
+   "ent": 44,
+   "pl": 22.86,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
