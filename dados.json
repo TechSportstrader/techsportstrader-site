@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T17:00",
+ "gerado_em": "2026-08-10T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -117,11 +117,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 78,
+   "g": 79,
    "r": 130,
-   "pl": 56.65,
+   "pl": 62.06,
    "roi": 6.7,
-   "wr": 37.5,
+   "wr": 37.8,
    "st": "val"
   },
   {
@@ -235,25 +235,25 @@
    "st": "val"
   },
   {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 126,
-   "r": 58,
-   "pl": 18.93,
-   "roi": 1.5,
-   "wr": 68.5,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 34,
+   "g": 35,
    "r": 4,
-   "pl": 18.47,
+   "pl": 20.19,
    "roi": 16.0,
-   "wr": 89.5,
+   "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 127,
+   "r": 58,
+   "pl": 20.16,
+   "roi": 1.5,
+   "wr": 68.6,
    "st": "val"
   },
   {
@@ -391,6 +391,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-10 17:58:25",
+   "tm": "17:58",
+   "match": "Plymouth Argyle vs Exeter City",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-08-10 17:28:21",
+   "tm": "17:28",
+   "match": "Sepsi vs FCSB",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.41
+  },
+  {
    "data": "2026-08-10 16:58:22",
    "tm": "16:58",
    "match": "Jong AZ vs FC Eindhoven",
@@ -419,6 +439,16 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.4
+  },
+  {
+   "data": "2026-08-10 15:55:22",
+   "tm": "15:55",
+   "match": "Pendikspor x Batman Petrolspor",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
   },
   {
    "data": "2026-08-10 15:38:21",
@@ -503,27 +533,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 11,
-   "g": 6,
+   "ent": 14,
+   "g": 9,
    "r": 5,
-   "pl": -25.92,
-   "wr": 55,
+   "pl": -17.56,
+   "wr": 64,
    "label": "10/08"
   },
   "mes": {
-   "ent": 625,
-   "g": 449,
+   "ent": 628,
+   "g": 452,
    "r": 176,
-   "pl": 122.22,
+   "pl": 130.58,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-10": {
-   "pl": -25.92,
-   "ops": 11,
-   "g": 6,
+   "pl": -17.56,
+   "ops": 14,
+   "g": 9,
    "r": 5
   },
   "2026-08-09": {
