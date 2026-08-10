@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T13:00",
+ "gerado_em": "2026-08-10T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -191,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 162,
+   "r": 26,
+   "pl": 30.58,
+   "roi": -0.3,
+   "wr": 86.2,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -210,17 +221,6 @@
    "pl": 28.74,
    "roi": 9.0,
    "wr": 95.5,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 161,
-   "r": 26,
-   "pl": 28.73,
-   "roi": -0.3,
-   "wr": 86.1,
    "st": "val"
   },
   {
@@ -389,26 +389,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-10 13:58:20",
+   "tm": "13:58",
+   "match": "Karpaty vs LNZ Cherkasy",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 1.85,
+   "wr": 100,
    "label": "10/08"
   },
   "mes": {
-   "ent": 630,
-   "g": 448,
+   "ent": 631,
+   "g": 449,
    "r": 182,
-   "pl": 139.45,
+   "pl": 141.3,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-10": {
+   "pl": 1.85,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-09": {
    "pl": -13.52,
    "ops": 116,
