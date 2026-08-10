@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T17:00",
+ "gerado_em": "2026-08-10T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 236,
-   "pl": -2.12,
+   "ent": 237,
+   "pl": -0.16,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 38,
-   "pl": 18.47,
+   "ent": 39,
+   "pl": 20.19,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 208,
-   "pl": 56.65,
+   "ent": 209,
+   "pl": 62.06,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "val",
-   "ent": 184,
-   "pl": 18.93,
+   "ent": 185,
+   "pl": 20.16,
    "roi": 1.5,
    "plat": "Bolsa"
   },
