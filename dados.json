@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T16:00",
+ "gerado_em": "2026-08-10T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 526,
+   "g": 527,
    "r": 5,
-   "pl": 390.31,
+   "pl": 391.39,
    "roi": 1.0,
    "wr": 99.1,
    "st": "ap"
@@ -180,17 +180,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 162,
-   "r": 26,
-   "pl": 30.58,
-   "roi": -0.3,
-   "wr": 86.2,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -232,6 +221,17 @@
    "pl": 21.79,
    "roi": -0.2,
    "wr": 73.4,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 162,
+   "r": 27,
+   "pl": 20.66,
+   "roi": -0.3,
+   "wr": 85.7,
    "st": "val"
   },
   {
@@ -290,6 +290,17 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 29,
+   "r": 7,
+   "pl": 5.43,
+   "roi": 27.0,
+   "wr": 80.6,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 28,
-   "r": 7,
-   "pl": 4.08,
-   "roi": 27.0,
-   "wr": 80.0,
    "st": "val"
   },
   {
@@ -391,6 +391,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-10 16:58:22",
+   "tm": "16:58",
+   "match": "Jong AZ vs FC Eindhoven",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "red",
+   "pl": -9.92
+  },
+  {
+   "data": "2026-08-10 16:21:04",
+   "tm": "16:21",
+   "match": "Jong PSV Eindhoven x FC Volendam",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.6,
+   "status": "green",
+   "pl": 1.35
+  },
+  {
    "data": "2026-08-10 15:58:30",
    "tm": "15:58",
    "match": "Jong AZ vs FC Eindhoven",
@@ -451,6 +471,16 @@
    "pl": -20.0
   },
   {
+   "data": "2026-08-10 14:11:25",
+   "tm": "14:11",
+   "match": "IK Sirius x IF Brommapojkarna",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
    "data": "2026-08-10 13:58:20",
    "tm": "13:58",
    "match": "Karpaty vs LNZ Cherkasy",
@@ -473,28 +503,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 4,
-   "r": 4,
-   "pl": -18.43,
-   "wr": 50,
+   "ent": 11,
+   "g": 6,
+   "r": 5,
+   "pl": -25.92,
+   "wr": 55,
    "label": "10/08"
   },
   "mes": {
-   "ent": 622,
-   "g": 447,
-   "r": 175,
-   "pl": 129.71,
+   "ent": 625,
+   "g": 449,
+   "r": 176,
+   "pl": 122.22,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-10": {
-   "pl": -18.43,
-   "ops": 8,
-   "g": 4,
-   "r": 4
+   "pl": -25.92,
+   "ops": 11,
+   "g": 6,
+   "r": 5
   },
   "2026-08-09": {
    "pl": -16.35,
