@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T14:00",
+ "gerado_em": "2026-08-10T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 68,
-   "pl": -24.82,
+   "ent": 69,
+   "pl": -23.35,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 104,
-   "pl": 49.25,
+   "ent": 105,
+   "pl": 52.58,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 105,
-   "pl": 99.55,
+   "ent": 106,
+   "pl": 97.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -289,9 +289,9 @@
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
-   "st": "val",
-   "ent": 140,
-   "pl": 0.23,
+   "st": "rep",
+   "ent": 141,
+   "pl": -1.77,
    "roi": 1.4,
    "plat": "Bolsa"
   },
