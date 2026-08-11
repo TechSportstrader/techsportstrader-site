@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T17:00",
+ "gerado_em": "2026-08-11T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 52,
-   "pl": 32.28,
+   "ent": 53,
+   "pl": 33.11,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -31,8 +31,8 @@
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 95,
-   "pl": -9.92,
+   "ent": 96,
+   "pl": -9.72,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 370,
-   "pl": 91.87,
+   "ent": 371,
+   "pl": 93.29,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 70,
-   "pl": -11.15,
+   "ent": 71,
+   "pl": -10.01,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 108,
-   "pl": 113.55,
+   "ent": 109,
+   "pl": 111.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "val",
-   "ent": 188,
-   "pl": 23.99,
+   "ent": 190,
+   "pl": 29.75,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 146,
-   "pl": -3.42,
+   "ent": 147,
+   "pl": -3.9,
    "roi": 1.4,
    "plat": "Bolsa"
   },
