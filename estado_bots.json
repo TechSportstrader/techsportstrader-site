@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T15:00",
+ "gerado_em": "2026-08-11T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 554,
-   "pl": 5.24,
+   "ent": 555,
+   "pl": 5.76,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 63,
-   "pl": 28.13,
+   "ent": 64,
+   "pl": 28.97,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 145,
-   "pl": -4.28,
+   "ent": 146,
+   "pl": -3.42,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 42,
-   "pl": -11.49,
+   "ent": 43,
+   "pl": -9.93,
    "roi": 1.1,
    "plat": "Bolsa"
   },
