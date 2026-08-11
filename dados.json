@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T16:00",
+ "gerado_em": "2026-08-11T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 346,
+   "g": 347,
    "r": 23,
-   "pl": 90.51,
+   "pl": 91.87,
    "roi": 1.0,
    "wr": 93.8,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 424,
+   "g": 425,
    "r": 131,
-   "pl": 5.76,
+   "pl": 6.86,
    "roi": 2.0,
    "wr": 76.4,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 19,
-   "r": 88,
-   "pl": 115.55,
+   "r": 89,
+   "pl": 113.55,
    "roi": 3.7,
-   "wr": 17.8,
+   "wr": 17.6,
    "st": "val"
   },
   {
@@ -227,11 +227,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 162,
+   "g": 163,
    "r": 27,
-   "pl": 20.66,
+   "pl": 22.38,
    "roi": -0.3,
-   "wr": 85.7,
+   "wr": 85.8,
    "st": "val"
   },
   {
@@ -293,22 +293,22 @@
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
-   "g": 30,
+   "g": 31,
    "r": 7,
-   "pl": 6.9,
+   "pl": 8.46,
    "roi": 27.0,
-   "wr": 81.1,
+   "wr": 81.6,
    "st": "val"
   },
   {
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 72,
+   "g": 73,
    "r": 53,
-   "pl": 5.1,
+   "pl": 6.58,
    "roi": -0.2,
-   "wr": 57.6,
+   "wr": 57.9,
    "st": "val"
   },
   {
@@ -402,6 +402,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-11 16:35:50",
+   "tm": "16:35",
+   "match": "Marumo Gallants FC vs Kruger United",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-11 16:05:51",
+   "tm": "16:05",
+   "match": "Apollon vs Brann",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-11 16:05:51",
+   "tm": "16:05",
+   "match": "Slovan Bratislava vs Mjällby",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.48
+  },
+  {
+   "data": "2026-08-11 15:49:16",
+   "tm": "15:49",
+   "match": "FC CSKA 1948 Sofia x Panathinaikos FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.1
+  },
+  {
+   "data": "2026-08-11 15:18:22",
+   "tm": "15:18",
+   "match": "FK Kauno Žalgiris x GNK Dinamo Zagreb",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.2,
+   "status": "green",
+   "pl": 1.56
+  },
+  {
    "data": "2026-08-11 15:14:06",
    "tm": "15:14",
    "match": "NEC Nijmegen x Olympiacos FC",
@@ -472,6 +522,16 @@
    "pl": 0.06
   },
   {
+   "data": "2026-08-11 14:06:05",
+   "tm": "14:06",
+   "match": "Apollon Limassol x SK Brann",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 17.5,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
    "data": "2026-08-11 13:55:50",
    "tm": "13:55",
    "match": "Sabah vs AGF",
@@ -534,28 +594,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 13,
-   "g": 12,
-   "r": 1,
-   "pl": 11.17,
-   "wr": 92,
+   "ent": 19,
+   "g": 17,
+   "r": 2,
+   "pl": 16.39,
+   "wr": 89,
    "label": "11/08"
   },
   "mes": {
-   "ent": 721,
-   "g": 521,
-   "r": 200,
-   "pl": 172.53,
+   "ent": 727,
+   "g": 526,
+   "r": 201,
+   "pl": 177.75,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-11": {
-   "pl": 11.17,
-   "ops": 13,
-   "g": 12,
-   "r": 1
+   "pl": 16.39,
+   "ops": 19,
+   "g": 17,
+   "r": 2
   },
   "2026-08-10": {
    "pl": 14.78,
