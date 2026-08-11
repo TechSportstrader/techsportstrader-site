@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T23:00",
+ "gerado_em": "2026-08-11T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 527,
+   "g": 528,
    "r": 5,
-   "pl": 391.39,
+   "pl": 392.87,
    "roi": 1.0,
    "wr": 99.1,
    "st": "ap"
@@ -95,9 +95,9 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 115,
+   "g": 116,
    "r": 7,
-   "pl": 77.66,
+   "pl": 79.87,
    "roi": 0.0,
    "wr": 94.3,
    "st": "val"
@@ -161,9 +161,9 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 86,
+   "g": 87,
    "r": 6,
-   "pl": 40.42,
+   "pl": 41.53,
    "roi": 1.3,
    "wr": 93.5,
    "st": "val"
@@ -183,11 +183,11 @@
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 43,
+   "g": 44,
    "r": 2,
-   "pl": 29.99,
+   "pl": 31.1,
    "roi": 9.0,
-   "wr": 95.6,
+   "wr": 95.7,
    "st": "val"
   },
   {
@@ -293,11 +293,11 @@
    "n": "DEADLOCK",
    "s": "Lay Placar 2x2 · BotBet",
    "plat": "BotBet",
-   "g": 29,
+   "g": 30,
    "r": 7,
-   "pl": 5.43,
+   "pl": 6.9,
    "roi": 27.0,
-   "wr": 80.6,
+   "wr": 81.1,
    "st": "val"
   },
   {
@@ -367,6 +367,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 164,
+   "r": 78,
+   "pl": 1.53,
+   "roi": 2.0,
+   "wr": 67.8,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -375,17 +386,6 @@
    "pl": 0.93,
    "roi": -5.0,
    "wr": 62.5,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 163,
-   "r": 78,
-   "pl": 0.59,
-   "roi": 2.0,
-   "wr": 67.6,
    "st": "val"
   },
   {
@@ -400,281 +400,30 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-10 22:25:05",
-   "tm": "22:25",
-   "match": "Club Atlético Unión de Santa Fe x Central Córdoba",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.0
-  },
-  {
-   "data": "2026-08-10 22:08:19",
-   "tm": "22:08",
-   "match": "Paysandu vs Confiança",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "green",
-   "pl": 18.0
-  },
-  {
-   "data": "2026-08-10 21:38:20",
-   "tm": "21:38",
-   "match": "Goiás vs Londrina",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 12.5,
-   "status": "green",
-   "pl": 1.3
-  },
-  {
-   "data": "2026-08-10 20:43:15",
-   "tm": "20:43",
-   "match": "Goiás x Londrina",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-10 20:38:10",
-   "tm": "20:38",
-   "match": "Caracas F.C. x Deportivo La Guaira",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.78
-  },
-  {
-   "data": "2026-08-10 20:24:06",
-   "tm": "20:24",
-   "match": "Banfield x Club Atlético Belgrano",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-10 20:11:15",
-   "tm": "20:11",
-   "match": "Goiás x Londrina",
-   "bot": "MURALHA CASA-40",
-   "mkt": "Lay Goleada Casa",
-   "odd": 13.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-10 19:45:04",
-   "tm": "19:45",
-   "match": "Libertad x Universidad Católica del Ecuador",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 75.0,
-   "status": "green",
-   "pl": 1.08
-  },
-  {
-   "data": "2026-08-10 18:49:14",
-   "tm": "18:49",
-   "match": "Libertad x Universidad Católica del Ecuador",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 13.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-10 17:58:25",
-   "tm": "17:58",
-   "match": "Plymouth Argyle vs Exeter City",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.5,
-   "status": "green",
-   "pl": 1.23
-  },
-  {
-   "data": "2026-08-10 17:52:21",
-   "tm": "17:52",
-   "match": "Deportivo Rayo Zuliano x Estudiantes de Mérida",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.98
-  },
-  {
-   "data": "2026-08-10 17:28:21",
-   "tm": "17:28",
-   "match": "Sepsi vs FCSB",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 5.41
-  },
-  {
-   "data": "2026-08-10 17:00:10",
-   "tm": "17:00",
-   "match": "Pendikspor x Batman Petrolspor",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.96
-  },
-  {
-   "data": "2026-08-10 16:58:22",
-   "tm": "16:58",
-   "match": "Jong AZ vs FC Eindhoven",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "red",
-   "pl": -9.92
-  },
-  {
-   "data": "2026-08-10 16:21:04",
-   "tm": "16:21",
-   "match": "Jong PSV Eindhoven x FC Volendam",
-   "bot": "DEADLOCK",
-   "mkt": "Lay Placar 2x2",
-   "odd": 4.6,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-08-10 15:58:30",
-   "tm": "15:58",
-   "match": "Jong AZ vs FC Eindhoven",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.4
-  },
-  {
-   "data": "2026-08-10 15:55:22",
-   "tm": "15:55",
-   "match": "Pendikspor x Batman Petrolspor",
-   "bot": "SENTINELA 0x1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.8,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-08-10 15:38:21",
-   "tm": "15:38",
-   "match": "Beroe vs Ludogorets II",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-10 15:21:05",
-   "tm": "15:21",
-   "match": "Jong AZ Alkmaar x FC Eindhoven",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 0.99
-  },
-  {
-   "data": "2026-08-10 15:10:23",
-   "tm": "15:10",
-   "match": "Västerås SK x Djurgårdens IF",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-10 14:48:20",
-   "tm": "14:48",
-   "match": "TransINVEST Vilnius vs Panevėžys",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-10 14:21:24",
-   "tm": "14:21",
-   "match": "Västerås SK x Djurgårdens IF",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 21.0,
-   "status": "red",
-   "pl": -20.0
-  },
-  {
-   "data": "2026-08-10 14:11:25",
-   "tm": "14:11",
-   "match": "IK Sirius x IF Brommapojkarna",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 75.0,
-   "status": "green",
-   "pl": 1.08
-  },
-  {
-   "data": "2026-08-10 13:58:20",
-   "tm": "13:58",
-   "match": "Karpaty vs LNZ Cherkasy",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-08-10 13:02:05",
-   "tm": "13:02",
-   "match": "FC Botoșani x FC Corvinul Hunedoara",
-   "bot": "VANGUARD",
-   "mkt": "Lay Placar 1x0",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 3.33
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 25,
-   "g": 18,
-   "r": 7,
-   "pl": 6.46,
-   "wr": 72,
-   "label": "10/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "11/08"
   },
   "mes": {
-   "ent": 702,
-   "g": 503,
+   "ent": 708,
+   "g": 509,
    "r": 199,
-   "pl": 153.04,
+   "pl": 161.36,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-10": {
-   "pl": 6.46,
-   "ops": 25,
-   "g": 18,
+   "pl": 14.78,
+   "ops": 31,
+   "g": 24,
    "r": 7
   },
   "2026-08-09": {
@@ -1237,12 +986,6 @@
   },
   "2026-05-08": {
    "pl": 4.04,
-   "ops": 3,
-   "g": 3,
-   "r": 0
-  },
-  "2026-05-07": {
-   "pl": 4.13,
    "ops": 3,
    "g": 3,
    "r": 0
