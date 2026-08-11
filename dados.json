@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T17:00",
+ "gerado_em": "2026-08-11T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 347,
+   "g": 348,
    "r": 23,
-   "pl": 91.87,
+   "pl": 93.29,
    "roi": 1.0,
    "wr": 93.8,
    "st": "ap"
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 19,
-   "r": 89,
-   "pl": 113.55,
+   "r": 90,
+   "pl": 111.55,
    "roi": 3.7,
-   "wr": 17.6,
+   "wr": 17.4,
    "st": "val"
   },
   {
@@ -172,11 +172,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 43,
+   "g": 44,
    "r": 9,
-   "pl": 32.28,
+   "pl": 33.11,
    "roi": 33.0,
-   "wr": 82.7,
+   "wr": 83.0,
    "st": "val"
   },
   {
@@ -188,6 +188,17 @@
    "pl": 31.1,
    "roi": 9.0,
    "wr": 95.7,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 132,
+   "r": 58,
+   "pl": 29.75,
+   "roi": 1.5,
+   "wr": 69.5,
    "st": "val"
   },
   {
@@ -210,17 +221,6 @@
    "pl": 28.97,
    "roi": 3.0,
    "wr": 98.4,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 130,
-   "r": 58,
-   "pl": 23.99,
-   "roi": 1.5,
-   "wr": 69.1,
    "st": "val"
   },
   {
@@ -402,6 +402,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-11 17:16:03",
+   "tm": "17:16",
+   "match": "Celje vs Ararat-Armenia",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "green",
+   "pl": 2.89
+  },
+  {
+   "data": "2026-08-11 17:06:15",
+   "tm": "17:06",
+   "match": "Crvena Zvezda vs Hapoel Be'er Sheva",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-11 17:06:13",
+   "tm": "17:06",
+   "match": "Crvena Zvezda vs Hapoel Be'er Sheva",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 2.87
+  },
+  {
+   "data": "2026-08-11 17:04:05",
+   "tm": "17:04",
+   "match": "Olympique Lyonnais x AC Sparta Praha",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.82
+  },
+  {
    "data": "2026-08-11 16:35:50",
    "tm": "16:35",
    "match": "Marumo Gallants FC vs Kruger United",
@@ -440,6 +480,16 @@
    "odd": 1.6,
    "status": "green",
    "pl": 1.1
+  },
+  {
+   "data": "2026-08-11 15:20:06",
+   "tm": "15:20",
+   "match": "ŠK Slovan Bratislava x Mjällby AIF",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.42
   },
   {
    "data": "2026-08-11 15:18:22",
@@ -594,28 +644,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 19,
-   "g": 17,
-   "r": 2,
-   "pl": 16.39,
-   "wr": 89,
+   "ent": 24,
+   "g": 21,
+   "r": 3,
+   "pl": 22.39,
+   "wr": 88,
    "label": "11/08"
   },
   "mes": {
-   "ent": 727,
-   "g": 526,
-   "r": 201,
-   "pl": 177.75,
+   "ent": 732,
+   "g": 530,
+   "r": 202,
+   "pl": 183.75,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-11": {
-   "pl": 16.39,
-   "ops": 19,
-   "g": 17,
-   "r": 2
+   "pl": 22.39,
+   "ops": 24,
+   "g": 21,
+   "r": 3
   },
   "2026-08-10": {
    "pl": 14.78,
