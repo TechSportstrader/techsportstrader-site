@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T13:00",
+ "gerado_em": "2026-08-11T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -205,9 +205,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 61,
+   "g": 62,
    "r": 1,
-   "pl": 27.03,
+   "pl": 28.13,
    "roi": 3.0,
    "wr": 98.4,
    "st": "val"
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 72,
+   "r": 53,
+   "pl": 5.1,
+   "roi": -0.2,
+   "wr": 57.6,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -342,17 +353,6 @@
    "pl": 3.79,
    "roi": 27.0,
    "wr": 40.0,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 71,
-   "r": 53,
-   "pl": 3.48,
-   "roi": -0.2,
-   "wr": 57.3,
    "st": "val"
   },
   {
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-11 13:55:50",
+   "tm": "13:55",
+   "match": "Sabah vs AGF",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.62
+  },
+  {
+   "data": "2026-08-11 13:43:15",
+   "tm": "13:43",
+   "match": "FC Iberia 1999 x Larne FC",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 1.1
+  },
+  {
    "data": "2026-08-11 09:05:47",
    "tm": "09:05",
    "match": "Juventus vs Palermo",
@@ -424,27 +444,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 2,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 2.88,
+   "pl": 5.6,
    "wr": 100,
    "label": "11/08"
   },
   "mes": {
-   "ent": 710,
-   "g": 511,
+   "ent": 712,
+   "g": 513,
    "r": 199,
-   "pl": 164.24,
+   "pl": 166.96,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-11": {
-   "pl": 2.88,
-   "ops": 2,
-   "g": 2,
+   "pl": 5.6,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-08-10": {
