@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T20:00",
+ "gerado_em": "2026-08-10T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -95,11 +95,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 114,
+   "g": 115,
    "r": 7,
-   "pl": 76.58,
+   "pl": 77.66,
    "roi": 0.0,
-   "wr": 94.2,
+   "wr": 94.3,
    "st": "val"
   },
   {
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "HIERARCHY",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 76,
+   "r": 6,
+   "pl": 16.33,
+   "roi": 4.0,
+   "wr": 92.7,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -276,17 +287,6 @@
    "pl": 15.55,
    "roi": 4.0,
    "wr": 91.2,
-   "st": "val"
-  },
-  {
-   "n": "HIERARCHY",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 75,
-   "r": 6,
-   "pl": 14.66,
-   "roi": 4.0,
-   "wr": 92.6,
    "st": "val"
   },
   {
@@ -401,6 +401,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-10 19:45:04",
+   "tm": "19:45",
+   "match": "Libertad x Universidad Católica del Ecuador",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
+   "data": "2026-08-10 18:49:14",
+   "tm": "18:49",
+   "match": "Libertad x Universidad Católica del Ecuador",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.67
+  },
   {
    "data": "2026-08-10 17:58:25",
    "tm": "17:58",
@@ -564,27 +584,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 16,
-   "g": 11,
+   "ent": 18,
+   "g": 13,
    "r": 5,
-   "pl": -14.62,
-   "wr": 69,
+   "pl": -11.87,
+   "wr": 72,
    "label": "10/08"
   },
   "mes": {
-   "ent": 693,
-   "g": 496,
+   "ent": 695,
+   "g": 498,
    "r": 197,
-   "pl": 131.96,
+   "pl": 134.71,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-10": {
-   "pl": -14.62,
-   "ops": 16,
-   "g": 11,
+   "pl": -11.87,
+   "ops": 18,
+   "g": 13,
    "r": 5
   },
   "2026-08-09": {
