@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-10T22:00",
+ "gerado_em": "2026-08-10T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "rep",
-   "ent": 240,
-   "pl": -0.41,
+   "st": "val",
+   "ent": 241,
+   "pl": 0.59,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 106,
-   "pl": 97.55,
+   "ent": 107,
+   "pl": 115.55,
    "roi": 3.7,
    "plat": "Bolsa"
   },
