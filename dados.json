@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-12T15:00",
+ "gerado_em": "2026-08-12T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 19,
-   "r": 92,
-   "pl": 107.55,
+   "r": 93,
+   "pl": 105.55,
    "roi": 3.7,
-   "wr": 17.1,
+   "wr": 17.0,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-12 15:06:05",
+   "tm": "15:06",
+   "match": "Newcastle United vs Everton",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-12 14:56:04",
    "tm": "14:56",
    "match": "29 de Setiembre vs Sportivo San Lorenzo",
@@ -464,28 +474,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
+   "ent": 7,
    "g": 5,
-   "r": 1,
-   "pl": 2.51,
-   "wr": 83,
+   "r": 2,
+   "pl": 0.51,
+   "wr": 71,
    "label": "12/08"
   },
   "mes": {
-   "ent": 752,
+   "ent": 753,
    "g": 545,
-   "r": 207,
-   "pl": 202.15,
+   "r": 208,
+   "pl": 200.15,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-12": {
-   "pl": 2.51,
-   "ops": 6,
+   "pl": 0.51,
+   "ops": 7,
    "g": 5,
-   "r": 1
+   "r": 2
   },
   "2026-08-11": {
    "pl": 38.28,
