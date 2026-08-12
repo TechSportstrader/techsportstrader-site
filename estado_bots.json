@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T22:00",
+ "gerado_em": "2026-08-11T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 535,
-   "pl": 395.37,
+   "ent": 536,
+   "pl": 397.0,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 96,
-   "pl": -9.72,
+   "ent": 97,
+   "pl": -9.52,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 210,
-   "pl": 67.47,
+   "ent": 211,
+   "pl": 65.51,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 55,
-   "pl": -43.4,
+   "ent": 56,
+   "pl": -42.07,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 190,
-   "pl": 22.38,
+   "ent": 191,
+   "pl": 24.17,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 77,
-   "pl": 18.84,
+   "ent": 78,
+   "pl": 15.0,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
