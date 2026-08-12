@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-12T14:00",
+ "gerado_em": "2026-08-12T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 538,
-   "pl": 399.84,
+   "ent": 539,
+   "pl": 401.32,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 558,
-   "pl": 7.84,
+   "ent": 560,
+   "pl": 8.79,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "SISTEMA L-20": {
    "st": "rep",
-   "ent": 71,
-   "pl": -20.8,
+   "ent": 72,
+   "pl": -19.23,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 126,
-   "pl": 6.58,
+   "ent": 127,
+   "pl": 4.58,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 28,
-   "pl": 14.31,
+   "ent": 29,
+   "pl": 15.49,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
