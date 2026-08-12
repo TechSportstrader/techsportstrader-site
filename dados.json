@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-12T00:00",
+ "gerado_em": "2026-08-12T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 532,
+   "g": 533,
    "r": 5,
-   "pl": 398.36,
+   "pl": 399.84,
    "roi": 1.0,
    "wr": 99.1,
    "st": "ap"
@@ -29,9 +29,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 426,
+   "g": 427,
    "r": 131,
-   "pl": 7.34,
+   "pl": 7.84,
    "roi": 2.0,
    "wr": 76.5,
    "st": "ap"
@@ -400,30 +400,47 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-12 00:19:15",
+   "tm": "00:19",
+   "match": "Tigres UANL x Vancouver Whitecaps",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.5
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 0.5,
+   "wr": 100,
    "label": "12/08"
   },
   "mes": {
-   "ent": 745,
-   "g": 539,
+   "ent": 747,
+   "g": 541,
    "r": 206,
-   "pl": 198.16,
+   "pl": 200.14,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-12": {
+   "pl": 0.5,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-11": {
-   "pl": 36.8,
-   "ops": 37,
-   "g": 30,
+   "pl": 38.28,
+   "ops": 38,
+   "g": 31,
    "r": 7
   },
   "2026-08-10": {
