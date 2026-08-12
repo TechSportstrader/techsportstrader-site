@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T21:00",
+ "gerado_em": "2026-08-11T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -63,10 +63,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 19,
-   "r": 90,
-   "pl": 111.55,
+   "r": 91,
+   "pl": 109.55,
    "roi": 3.7,
-   "wr": 17.4,
+   "wr": 17.3,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-11 21:36:07",
+   "tm": "21:36",
+   "match": "Avaí vs CRB",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-11 20:56:04",
    "tm": "20:56",
    "match": "River Plate Res. vs Godoy Cruz Res.",
@@ -654,28 +664,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 25,
+   "ent": 26,
    "g": 22,
-   "r": 3,
-   "pl": 27.8,
-   "wr": 88,
+   "r": 4,
+   "pl": 25.8,
+   "wr": 85,
    "label": "11/08"
   },
   "mes": {
-   "ent": 733,
+   "ent": 734,
    "g": 531,
-   "r": 202,
-   "pl": 189.16,
+   "r": 203,
+   "pl": 187.16,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-11": {
-   "pl": 27.8,
-   "ops": 25,
+   "pl": 25.8,
+   "ops": 26,
    "g": 22,
-   "r": 3
+   "r": 4
   },
   "2026-08-10": {
    "pl": 14.78,
