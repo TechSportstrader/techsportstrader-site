@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T16:00",
+ "gerado_em": "2026-08-13T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 256,
+   "g": 257,
    "r": 180,
-   "pl": 63.57,
+   "pl": 64.79,
    "roi": 1.5,
-   "wr": 58.7,
+   "wr": 58.8,
    "st": "ap"
   },
   {
@@ -41,10 +41,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 435,
-   "r": 131,
-   "pl": 12.57,
+   "r": 132,
+   "pl": 10.57,
    "roi": 2.0,
-   "wr": 76.9,
+   "wr": 76.7,
    "st": "ap"
   },
   {
@@ -95,11 +95,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 118,
+   "g": 121,
    "r": 7,
-   "pl": 84.57,
+   "pl": 92.0,
    "roi": 0.0,
-   "wr": 94.4,
+   "wr": 94.5,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 80,
-   "r": 131,
-   "pl": 67.67,
+   "r": 132,
+   "pl": 65.79,
    "roi": 6.7,
-   "wr": 37.9,
+   "wr": 37.7,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 167,
+   "r": 28,
+   "pl": 22.49,
+   "roi": -0.3,
+   "wr": 85.6,
+   "st": "val"
+  },
+  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 21.86,
    "roi": 16.0,
    "wr": 90.0,
-   "st": "val"
-  },
-  {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 166,
-   "r": 28,
-   "pl": 20.64,
-   "roi": -0.3,
-   "wr": 85.6,
    "st": "val"
   },
   {
@@ -305,10 +305,10 @@
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
    "g": 74,
-   "r": 54,
-   "pl": 6.72,
+   "r": 55,
+   "pl": 4.72,
    "roi": -0.2,
-   "wr": 57.8,
+   "wr": 57.4,
    "st": "val"
   },
   {
@@ -356,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 173,
+   "r": 81,
+   "pl": 2.86,
+   "roi": 2.0,
+   "wr": 68.1,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -398,20 +409,79 @@
    "roi": -5.0,
    "wr": 62.5,
    "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 170,
-   "r": 81,
-   "pl": 0.76,
-   "roi": 2.0,
-   "wr": 67.7,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-13 16:56:08",
+   "tm": "16:56",
+   "match": "Skendija 79 vs Hibernian",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.4,
+   "status": "green",
+   "pl": 1.85
+  },
+  {
+   "data": "2026-08-13 16:42:43",
+   "tm": "16:42",
+   "match": "Dinamo City vs Auda",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-13 16:42:42",
+   "tm": "16:42",
+   "match": "Vestri vs ÍR",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -1.88
+  },
+  {
+   "data": "2026-08-13 16:28:05",
+   "tm": "16:28",
+   "match": "FC Sion x FC Noah",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.61
+  },
+  {
+   "data": "2026-08-13 16:23:17",
+   "tm": "16:23",
+   "match": "CSKA Sofia x Maccabi Tel Aviv",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.77
+  },
+  {
+   "data": "2026-08-13 16:02:44",
+   "tm": "16:02",
+   "match": "Beşiktaş vs Hradec Králové",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.4,
+   "status": "green",
+   "pl": 1.22
+  },
+  {
+   "data": "2026-08-13 15:49:07",
+   "tm": "15:49",
+   "match": "NSÍ Runavík x FC Lugano",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.73
+  },
   {
    "data": "2026-08-13 15:41:04",
    "tm": "15:41",
@@ -421,6 +491,16 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.42
+  },
+  {
+   "data": "2026-08-13 15:26:05",
+   "tm": "15:26",
+   "match": "Omonia Nicosia x Lincoln Red Imps",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 4.32
   },
   {
    "data": "2026-08-13 15:17:06",
@@ -441,6 +521,36 @@
    "odd": 1.3,
    "status": "green",
    "pl": 0.62
+  },
+  {
+   "data": "2026-08-13 15:10:11",
+   "tm": "15:10",
+   "match": "Górnik Zabrze x Ferencváros TC",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 46.0,
+   "status": "green",
+   "pl": 1.86
+  },
+  {
+   "data": "2026-08-13 15:10:06",
+   "tm": "15:10",
+   "match": "ML Vitebsk x FK Borac Banja Luka",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-13 15:09:05",
+   "tm": "15:09",
+   "match": "Hammarby IF x Raków Częstochowa",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-13 14:56:08",
@@ -585,28 +695,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 17,
-   "g": 14,
-   "r": 3,
-   "pl": -67.81,
-   "wr": 82,
+   "ent": 28,
+   "g": 22,
+   "r": 6,
+   "pl": -61.09,
+   "wr": 79,
    "label": "13/08"
   },
   "mes": {
-   "ent": 911,
-   "g": 642,
-   "r": 269,
-   "pl": 186.06,
+   "ent": 922,
+   "g": 650,
+   "r": 272,
+   "pl": 192.78,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": -67.81,
-   "ops": 17,
-   "g": 14,
-   "r": 3
+   "pl": -61.09,
+   "ops": 28,
+   "g": 22,
+   "r": 6
   },
   "2026-08-12": {
    "pl": 1.83,
