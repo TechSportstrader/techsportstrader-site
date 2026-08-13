@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T17:00",
+ "gerado_em": "2026-08-13T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 538,
+   "g": 539,
    "r": 6,
-   "pl": 325.98,
+   "pl": 327.23,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 349,
+   "g": 350,
    "r": 23,
-   "pl": 95.33,
+   "pl": 96.6,
    "roi": 1.0,
    "wr": 93.8,
    "st": "ap"
@@ -29,22 +29,22 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 257,
+   "g": 258,
    "r": 180,
-   "pl": 64.79,
+   "pl": 66.09,
    "roi": 1.5,
-   "wr": 58.8,
+   "wr": 58.9,
    "st": "ap"
   },
   {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 435,
+   "g": 437,
    "r": 132,
-   "pl": 10.57,
+   "pl": 11.69,
    "roi": 2.0,
-   "wr": 76.7,
+   "wr": 76.8,
    "st": "ap"
   },
   {
@@ -73,11 +73,22 @@
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 19,
+   "g": 20,
    "r": 94,
-   "pl": 104.87,
+   "pl": 118.07,
    "roi": 3.7,
-   "wr": 16.8,
+   "wr": 17.5,
+   "st": "val"
+  },
+  {
+   "n": "BASTION",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 122,
+   "r": 7,
+   "pl": 96.15,
+   "roi": 0.0,
+   "wr": 94.6,
    "st": "val"
   },
   {
@@ -92,17 +103,6 @@
    "st": "val"
   },
   {
-   "n": "BASTION",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 121,
-   "r": 7,
-   "pl": 92.0,
-   "roi": 0.0,
-   "wr": 94.5,
-   "st": "val"
-  },
-  {
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -114,6 +114,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 81,
+   "r": 132,
+   "pl": 70.79,
+   "roi": 6.7,
+   "wr": 38.0,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -122,17 +133,6 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 80,
-   "r": 132,
-   "pl": 65.79,
-   "roi": 6.7,
-   "wr": 37.7,
    "st": "val"
   },
   {
@@ -150,9 +150,9 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 95,
+   "g": 96,
    "r": 6,
-   "pl": 53.64,
+   "pl": 55.31,
    "roi": 1.3,
    "wr": 94.1,
    "st": "val"
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-22 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 32,
+   "r": 9,
+   "pl": 4.46,
+   "roi": 0.4,
+   "wr": 78.0,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -345,25 +356,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-22 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 31,
-   "r": 9,
-   "pl": 2.87,
-   "roi": 0.4,
-   "wr": 77.5,
-   "st": "val"
-  },
-  {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 173,
-   "r": 81,
-   "pl": 2.86,
+   "g": 174,
+   "r": 82,
+   "pl": 2.31,
    "roi": 2.0,
-   "wr": 68.1,
+   "wr": 68.0,
    "st": "val"
   },
   {
@@ -413,6 +413,76 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-13 17:42:38",
+   "tm": "17:42",
+   "match": "Hajduk Split vs Žalgiris",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 1.3
+  },
+  {
+   "data": "2026-08-13 17:36:10",
+   "tm": "17:36",
+   "match": "Anderlecht vs PAOK",
+   "bot": "MURALHA CASA-22 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 23.0,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
+   "data": "2026-08-13 17:36:10",
+   "tm": "17:36",
+   "match": "Rangers vs Jagiellonia Białystok",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 9.8,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-08-13 17:29:15",
+   "tm": "17:29",
+   "match": "HNK Hajduk Split x FK Žalgiris",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.45
+  },
+  {
+   "data": "2026-08-13 17:16:04",
+   "tm": "17:16",
+   "match": "Sion vs Noah",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "green",
+   "pl": 13.2
+  },
+  {
+   "data": "2026-08-13 17:15:06",
+   "tm": "17:15",
+   "match": "HNK Hajduk Split x FK Žalgiris",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.64
+  },
+  {
+   "data": "2026-08-13 17:02:42",
+   "tm": "17:02",
+   "match": "Skendija 79 vs Hibernian",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 5.0
+  },
+  {
    "data": "2026-08-13 16:56:08",
    "tm": "16:56",
    "match": "Skendija 79 vs Hibernian",
@@ -421,6 +491,16 @@
    "odd": 6.4,
    "status": "green",
    "pl": 1.85
+  },
+  {
+   "data": "2026-08-13 16:55:15",
+   "tm": "16:55",
+   "match": "Rangers x Jagiellonia Białystok",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-13 16:42:43",
@@ -441,6 +521,26 @@
    "odd": 1.3,
    "status": "red",
    "pl": -1.88
+  },
+  {
+   "data": "2026-08-13 16:42:06",
+   "tm": "16:42",
+   "match": "KAA Gent x IFK Göteborg",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 16.7,
+   "status": "green",
+   "pl": 4.15
+  },
+  {
+   "data": "2026-08-13 16:39:06",
+   "tm": "16:39",
+   "match": "ETO FC Győr x Riga FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.48
   },
   {
    "data": "2026-08-13 16:28:05",
@@ -493,6 +593,16 @@
    "pl": 0.42
   },
   {
+   "data": "2026-08-13 15:36:06",
+   "tm": "15:36",
+   "match": "Motherwell x HJK",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.27
+  },
+  {
    "data": "2026-08-13 15:26:05",
    "tm": "15:26",
    "match": "Omonia Nicosia x Lincoln Red Imps",
@@ -501,6 +611,16 @@
    "odd": 19.5,
    "status": "green",
    "pl": 4.32
+  },
+  {
+   "data": "2026-08-13 15:21:06",
+   "tm": "15:21",
+   "match": "FC Sion x FC Noah",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-13 15:17:06",
@@ -695,28 +815,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 28,
-   "g": 22,
-   "r": 6,
-   "pl": -61.09,
-   "wr": 79,
+   "ent": 40,
+   "g": 33,
+   "r": 7,
+   "pl": -31.09,
+   "wr": 82,
    "label": "13/08"
   },
   "mes": {
-   "ent": 922,
-   "g": 650,
-   "r": 272,
-   "pl": 192.78,
-   "wr": 70,
+   "ent": 934,
+   "g": 661,
+   "r": 273,
+   "pl": 222.78,
+   "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": -61.09,
-   "ops": 28,
-   "g": 22,
-   "r": 6
+   "pl": -31.09,
+   "ops": 40,
+   "g": 33,
+   "r": 7
   },
   "2026-08-12": {
    "pl": 1.83,
