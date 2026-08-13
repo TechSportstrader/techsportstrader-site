@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T19:00",
+ "gerado_em": "2026-08-13T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -301,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 74,
-   "r": 55,
-   "pl": 4.72,
-   "roi": -0.2,
-   "wr": 57.4,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -353,6 +342,17 @@
    "pl": 4.11,
    "roi": 2.1,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 74,
+   "r": 56,
+   "pl": 2.72,
+   "roi": -0.2,
+   "wr": 56.9,
    "st": "val"
   },
   {
@@ -412,6 +412,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-13 19:52:40",
+   "tm": "19:52",
+   "match": "San Luis vs Deportes Temuco",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-13 17:42:38",
    "tm": "17:42",
@@ -815,28 +825,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 40,
+   "ent": 41,
    "g": 33,
-   "r": 7,
-   "pl": -31.09,
-   "wr": 82,
+   "r": 8,
+   "pl": -33.09,
+   "wr": 80,
    "label": "13/08"
   },
   "mes": {
-   "ent": 934,
+   "ent": 935,
    "g": 661,
-   "r": 273,
-   "pl": 222.78,
+   "r": 274,
+   "pl": 220.78,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": -31.09,
-   "ops": 40,
+   "pl": -33.09,
+   "ops": 41,
    "g": 33,
-   "r": 7
+   "r": 8
   },
   "2026-08-12": {
    "pl": 1.83,
