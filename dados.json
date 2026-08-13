@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T01:00",
+ "gerado_em": "2026-08-13T02:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 536,
+   "g": 537,
    "r": 5,
-   "pl": 403.41,
+   "pl": 404.89,
    "roi": 1.0,
    "wr": 99.1,
    "st": "ap"
@@ -40,9 +40,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 431,
+   "g": 432,
    "r": 131,
-   "pl": 9.63,
+   "pl": 10.05,
    "roi": 2.0,
    "wr": 76.7,
    "st": "ap"
@@ -92,6 +92,17 @@
    "st": "val"
   },
   {
+   "n": "INTERCEPTOR",
+   "s": "Lay Goleada Visitante · BotBet",
+   "plat": "BotBet",
+   "g": 70,
+   "r": 4,
+   "pl": 82.96,
+   "roi": 1.0,
+   "wr": 94.6,
+   "st": "val"
+  },
+  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -100,17 +111,6 @@
    "pl": 81.61,
    "roi": 0.0,
    "wr": 94.4,
-   "st": "val"
-  },
-  {
-   "n": "INTERCEPTOR",
-   "s": "Lay Goleada Visitante · BotBet",
-   "plat": "BotBet",
-   "g": 69,
-   "r": 4,
-   "pl": 81.26,
-   "roi": 1.0,
-   "wr": 94.5,
    "st": "val"
   },
   {
@@ -400,30 +400,57 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-13 00:56:04",
+   "tm": "00:56",
+   "match": "Seattle Sounders FC x CD Guadalajara",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 48.0,
+   "status": "green",
+   "pl": 1.7
+  },
+  {
+   "data": "2026-08-13 00:55:04",
+   "tm": "00:55",
+   "match": "Seattle Sounders FC x CD Guadalajara",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 2.12,
+   "wr": 100,
    "label": "13/08"
   },
   "mes": {
-   "ent": 821,
-   "g": 579,
+   "ent": 824,
+   "g": 582,
    "r": 242,
-   "pl": 253.68,
+   "pl": 257.28,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-13": {
+   "pl": 2.12,
+   "ops": 2,
+   "g": 2,
+   "r": 0
+  },
   "2026-08-12": {
-   "pl": 3.74,
-   "ops": 27,
-   "g": 21,
+   "pl": 5.22,
+   "ops": 28,
+   "g": 22,
    "r": 6
   },
   "2026-08-11": {
