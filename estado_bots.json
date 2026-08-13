@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T14:00",
+ "gerado_em": "2026-08-13T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 122,
-   "pl": 0.44,
+   "ent": 123,
+   "pl": 1.32,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 542,
-   "pl": 404.89,
+   "ent": 543,
+   "pl": 324.97,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 563,
-   "pl": 10.05,
+   "ent": 565,
+   "pl": 12.15,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "rep",
-   "ent": 246,
-   "pl": -0.85,
+   "ent": 249,
+   "pl": -0.71,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 112,
-   "pl": 106.87,
+   "ent": 113,
+   "pl": 104.87,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 87,
-   "pl": 0.15,
+   "ent": 89,
+   "pl": -2.41,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
