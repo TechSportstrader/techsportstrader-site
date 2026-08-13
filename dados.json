@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T14:00",
+ "gerado_em": "2026-08-13T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -8,10 +8,10 @@
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
    "g": 537,
-   "r": 5,
-   "pl": 404.89,
+   "r": 6,
+   "pl": 324.97,
    "roi": 1.0,
-   "wr": 99.1,
+   "wr": 98.9,
    "st": "ap"
   },
   {
@@ -40,11 +40,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 432,
+   "g": 434,
    "r": 131,
-   "pl": 10.05,
+   "pl": 12.15,
    "roi": 2.0,
-   "wr": 76.7,
+   "wr": 76.8,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 19,
-   "r": 93,
-   "pl": 106.87,
+   "r": 94,
+   "pl": 104.87,
    "roi": 3.7,
-   "wr": 17.0,
+   "wr": 16.8,
    "st": "val"
   },
   {
@@ -378,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 79,
+   "r": 44,
+   "pl": 1.32,
+   "roi": 1.0,
+   "wr": 64.2,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -387,20 +398,49 @@
    "roi": -5.0,
    "wr": 62.5,
    "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 78,
-   "r": 44,
-   "pl": 0.44,
-   "roi": 1.0,
-   "wr": 63.9,
-   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-13 14:56:08",
+   "tm": "14:56",
+   "match": "Flora vs Inter Club d'Escaldes",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-13 14:22:06",
+   "tm": "14:22",
+   "match": "Ilves x HNK Rijeka",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.7
+  },
+  {
+   "data": "2026-08-13 14:19:05",
+   "tm": "14:19",
+   "match": "Beşiktaş JK x FC Hradec Králové",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.88
+  },
+  {
+   "data": "2026-08-13 14:05:06",
+   "tm": "14:05",
+   "match": "Flora Tallinn x Inter Club d'Escaldes",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.4
+  },
   {
    "data": "2026-08-13 13:42:14",
    "tm": "13:42",
@@ -410,6 +450,16 @@
    "odd": 1.1,
    "status": "green",
    "pl": 2.0
+  },
+  {
+   "data": "2026-08-13 13:09:07",
+   "tm": "13:09",
+   "match": "Flora Tallinn x Inter Club d'Escaldes",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "red",
+   "pl": -79.92
   },
   {
    "data": "2026-08-13 00:56:04",
@@ -434,28 +484,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 3,
-   "r": 0,
-   "pl": 4.12,
-   "wr": 100,
+   "ent": 8,
+   "g": 6,
+   "r": 2,
+   "pl": -74.82,
+   "wr": 75,
    "label": "13/08"
   },
   "mes": {
-   "ent": 825,
-   "g": 583,
-   "r": 242,
-   "pl": 259.28,
+   "ent": 830,
+   "g": 586,
+   "r": 244,
+   "pl": 180.34,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": 4.12,
-   "ops": 3,
-   "g": 3,
-   "r": 0
+   "pl": -74.82,
+   "ops": 8,
+   "g": 6,
+   "r": 2
   },
   "2026-08-12": {
    "pl": 5.22,
