@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T16:00",
+ "gerado_em": "2026-08-13T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,22 +38,22 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 125,
-   "pl": 84.57,
+   "ent": 128,
+   "pl": 92.0,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 566,
-   "pl": 12.57,
+   "ent": 567,
+   "pl": 10.57,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 251,
-   "pl": 0.76,
+   "ent": 254,
+   "pl": 2.86,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,22 +276,22 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 211,
-   "pl": 67.67,
+   "ent": 212,
+   "pl": 65.79,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 436,
-   "pl": 63.57,
+   "ent": 437,
+   "pl": 64.79,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 227,
-   "pl": -33.44,
+   "ent": 228,
+   "pl": -34.52,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 128,
-   "pl": 6.72,
+   "ent": 129,
+   "pl": 4.72,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 194,
-   "pl": 20.64,
+   "ent": 195,
+   "pl": 22.49,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -390,13 +390,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
-   "ent": 22,
-   "pl": 8.8,
+   "ent": 23,
+   "pl": 9.94,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 89,
-   "pl": -2.41,
+   "ent": 90,
+   "pl": -1.08,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -405,8 +405,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 45,
-   "pl": 24.45,
+   "ent": 46,
+   "pl": 25.97,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
@@ -415,8 +415,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 23,
-   "pl": 21.52,
+   "ent": 24,
+   "pl": 17.71,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
