@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-12T21:00",
+ "gerado_em": "2026-08-12T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -224,17 +224,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 166,
-   "r": 27,
-   "pl": 28.4,
-   "roi": -0.3,
-   "wr": 86.0,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -254,6 +243,17 @@
    "pl": 19.85,
    "roi": -0.2,
    "wr": 72.5,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 166,
+   "r": 28,
+   "pl": 18.4,
+   "roi": -0.3,
+   "wr": 85.6,
    "st": "val"
   },
   {
@@ -390,6 +390,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-12 21:06:17",
+   "tm": "21:06",
+   "match": "Bragantino vs Atlético Mineiro",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "red",
+   "pl": -10.0
+  },
   {
    "data": "2026-08-12 18:06:07",
    "tm": "18:06",
@@ -573,28 +583,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 18,
+   "ent": 19,
    "g": 14,
-   "r": 4,
-   "pl": 10.27,
-   "wr": 78,
+   "r": 5,
+   "pl": 0.27,
+   "wr": 74,
    "label": "12/08"
   },
   "mes": {
-   "ent": 695,
+   "ent": 696,
    "g": 507,
-   "r": 188,
-   "pl": 207.81,
+   "r": 189,
+   "pl": 197.81,
    "wr": 73,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-12": {
-   "pl": 10.27,
-   "ops": 18,
+   "pl": 0.27,
+   "ops": 19,
    "g": 14,
-   "r": 4
+   "r": 5
   },
   "2026-08-11": {
    "pl": 38.28,
