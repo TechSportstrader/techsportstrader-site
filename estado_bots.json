@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-12T22:00",
+ "gerado_em": "2026-08-12T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 540,
-   "pl": 402.33,
+   "ent": 541,
+   "pl": 403.41,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 560,
-   "pl": 8.79,
+   "ent": 562,
+   "pl": 9.63,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -256,119 +256,119 @@
   "CITADEL": {
    "st": "val",
    "ent": 268,
-   "pl": 247.78,
+   "pl": 248.57,
    "roi": 38.0,
    "plat": "Bolsa"
   },
   "RAMPART": {
    "st": "val",
    "ent": 35,
-   "pl": 94.62,
+   "pl": 94.87,
    "roi": 6.4,
    "plat": "Bolsa"
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
    "ent": 112,
-   "pl": 105.55,
+   "pl": 106.87,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
    "ent": 211,
-   "pl": 65.51,
+   "pl": 67.67,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
-   "st": "val",
-   "ent": 192,
-   "pl": 31.87,
+   "st": "ap",
+   "ent": 436,
+   "pl": 63.57,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 148,
-   "pl": -1.7,
+   "ent": 226,
+   "pl": -34.3,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 99,
-   "pl": 49.94,
+   "ent": 101,
+   "pl": 53.64,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
    "ent": 44,
-   "pl": -14.93,
+   "pl": -14.62,
    "roi": 1.1,
    "plat": "Bolsa"
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "rep",
    "ent": 33,
-   "pl": -59.08,
+   "pl": -58.88,
    "roi": 4.2,
    "plat": "Bolsa"
   },
   "MURALHA CASA-22 (Bolsa)": {
-   "st": "rep",
-   "ent": 24,
-   "pl": -6.19,
+   "st": "val",
+   "ent": 40,
+   "pl": 2.87,
    "roi": 0.4,
    "plat": "Bolsa"
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
    "ent": 56,
-   "pl": -42.07,
+   "pl": -41.65,
    "roi": 0.3,
    "plat": "Bolsa"
   },
   "IGNIÇÃO 0.5 (Bolsa)": {
    "st": "rep",
    "ent": 165,
-   "pl": -24.11,
+   "pl": -23.52,
    "roi": 0.3,
    "plat": "Bolsa"
   },
   "SNIPER 1.5": {
    "st": "val",
    "ent": 2,
-   "pl": 4.05,
+   "pl": 4.11,
    "roi": 2.1,
    "plat": "Bolsa"
   },
   "VIGIA HT-C": {
    "st": "rep",
    "ent": 97,
-   "pl": -2.64,
+   "pl": -1.97,
    "roi": -0.0,
    "plat": "Bolsa"
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 80,
-   "pl": 19.85,
+   "ent": 158,
+   "pl": 63.7,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 127,
-   "pl": 4.58,
+   "ent": 128,
+   "pl": 6.72,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "val",
    "ent": 194,
-   "pl": 18.4,
+   "pl": 20.64,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -410,8 +410,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 29,
-   "pl": 15.49,
+   "ent": 59,
+   "pl": 31.43,
+   "plat": "Bolsa"
+  },
+  "Lab M3 - Lay Over 3.5 odd 3 a 4": {
+   "ent": 22,
+   "pl": 25.39,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
@@ -427,6 +432,11 @@
   "STRIKER — Back Over 1.5 FT": {
    "ent": 54,
    "pl": -12.61,
+   "plat": "Bolsa"
+  },
+  "Under Limit 3,5 - Martin - Bruto - Global": {
+   "ent": 24,
+   "pl": 1.1,
    "plat": "Bolsa"
   }
  }
