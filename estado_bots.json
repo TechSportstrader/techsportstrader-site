@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T18:00",
+ "gerado_em": "2026-08-14T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 440,
-   "pl": 63.24,
+   "ent": 441,
+   "pl": 64.45,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 45,
-   "pl": -13.15,
+   "ent": 46,
+   "pl": -17.98,
    "roi": 1.1,
    "plat": "Bolsa"
   },
