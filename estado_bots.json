@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T15:00",
+ "gerado_em": "2026-08-14T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 570,
-   "pl": 12.15,
+   "ent": 573,
+   "pl": 11.06,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 258,
-   "pl": 3.63,
+   "ent": 260,
+   "pl": 6.22,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 74,
-   "pl": 82.96,
+   "ent": 75,
+   "pl": 85.42,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 38,
-   "pl": 8.46,
+   "ent": 39,
+   "pl": 3.44,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 114,
-   "pl": 118.07,
+   "ent": 116,
+   "pl": 114.07,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -283,15 +283,15 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 439,
-   "pl": 67.2,
+   "ent": 440,
+   "pl": 63.24,
    "roi": 1.5,
    "plat": "Bolsa"
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 230,
-   "pl": -31.22,
+   "ent": 231,
+   "pl": -33.22,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 158,
-   "pl": 63.7,
+   "ent": 159,
+   "pl": 61.88,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 198,
-   "pl": 27.5,
+   "ent": 199,
+   "pl": 29.17,
    "roi": -0.3,
    "plat": "Bolsa"
   }
