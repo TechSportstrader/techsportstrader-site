@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T16:00",
+ "gerado_em": "2026-08-14T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 124,
-   "pl": 2.15,
+   "ent": 125,
+   "pl": 3.0,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -38,15 +38,15 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 129,
-   "pl": 96.15,
+   "ent": 130,
+   "pl": 76.12,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 573,
-   "pl": 11.06,
+   "ent": 574,
+   "pl": 11.5,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 373,
-   "pl": 96.6,
+   "ent": 376,
+   "pl": 104.0,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -136,15 +136,15 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 47,
-   "pl": 32.68,
+   "ent": 49,
+   "pl": 35.62,
    "roi": 9.0,
    "plat": "BotBet"
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 26,
-   "pl": 30.07,
+   "ent": 27,
+   "pl": 31.74,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 64,
-   "pl": 28.97,
+   "ent": 66,
+   "pl": 29.93,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 94,
-   "pl": 4.89,
+   "ent": 95,
+   "pl": 6.46,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
