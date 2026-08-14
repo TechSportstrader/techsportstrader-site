@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T23:00",
+ "gerado_em": "2026-08-14T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 542,
+   "g": 543,
    "r": 6,
-   "pl": 330.72,
+   "pl": 332.2,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -114,17 +114,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 81,
-   "r": 132,
-   "pl": 70.79,
-   "roi": 6.7,
-   "wr": 38.0,
-   "st": "val"
-  },
-  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -133,6 +122,17 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 81,
+   "r": 133,
+   "pl": 68.79,
+   "roi": 6.7,
+   "wr": 37.9,
    "st": "val"
   },
   {
@@ -238,11 +238,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 167,
+   "g": 168,
    "r": 28,
-   "pl": 22.49,
+   "pl": 24.16,
    "roi": -0.3,
-   "wr": 85.6,
+   "wr": 85.7,
    "st": "val"
   },
   {
@@ -400,512 +400,31 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-13 21:17:04",
-   "tm": "21:17",
-   "match": "Philadelphia Union x Santos Laguna",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.46
-  },
-  {
-   "data": "2026-08-13 21:02:46",
-   "tm": "21:02",
-   "match": "Philadelphia Union vs Santos Laguna",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.57
-  },
-  {
-   "data": "2026-08-13 21:00:05",
-   "tm": "21:00",
-   "match": "New York City FC x Club Necaxa",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 0.83
-  },
-  {
-   "data": "2026-08-13 20:58:04",
-   "tm": "20:58",
-   "match": "New York City FC x Club Necaxa",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 75.0,
-   "status": "green",
-   "pl": 1.08
-  },
-  {
-   "data": "2026-08-13 20:22:04",
-   "tm": "20:22",
-   "match": "Philadelphia Union x Santos Laguna",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-13 19:52:40",
-   "tm": "19:52",
-   "match": "San Luis vs Deportes Temuco",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 19:12:05",
-   "tm": "19:12",
-   "match": "Santos x Macará",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 70.0,
-   "status": "green",
-   "pl": 1.16
-  },
-  {
-   "data": "2026-08-13 19:08:20",
-   "tm": "19:08",
-   "match": "Santos x Macará",
-   "bot": "SENTINEL 0.1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 18.5,
-   "status": "green",
-   "pl": 2.86
-  },
-  {
-   "data": "2026-08-13 17:42:38",
-   "tm": "17:42",
-   "match": "Hajduk Split vs Žalgiris",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "green",
-   "pl": 1.3
-  },
-  {
-   "data": "2026-08-13 17:36:10",
-   "tm": "17:36",
-   "match": "Anderlecht vs PAOK",
-   "bot": "MURALHA CASA-22 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 23.0,
-   "status": "green",
-   "pl": 1.59
-  },
-  {
-   "data": "2026-08-13 17:36:10",
-   "tm": "17:36",
-   "match": "Rangers vs Jagiellonia Białystok",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 9.8,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-13 17:29:15",
-   "tm": "17:29",
-   "match": "HNK Hajduk Split x FK Žalgiris",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.45
-  },
-  {
-   "data": "2026-08-13 17:16:04",
-   "tm": "17:16",
-   "match": "Sion vs Noah",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.6,
-   "status": "green",
-   "pl": 13.2
-  },
-  {
-   "data": "2026-08-13 17:15:06",
-   "tm": "17:15",
-   "match": "HNK Hajduk Split x FK Žalgiris",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.64
-  },
-  {
-   "data": "2026-08-13 17:02:42",
-   "tm": "17:02",
-   "match": "Skendija 79 vs Hibernian",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 5.0
-  },
-  {
-   "data": "2026-08-13 16:56:08",
-   "tm": "16:56",
-   "match": "Skendija 79 vs Hibernian",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 6.4,
-   "status": "green",
-   "pl": 1.85
-  },
-  {
-   "data": "2026-08-13 16:55:15",
-   "tm": "16:55",
-   "match": "Rangers x Jagiellonia Białystok",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 16:42:43",
-   "tm": "16:42",
-   "match": "Dinamo City vs Auda",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 16:42:42",
-   "tm": "16:42",
-   "match": "Vestri vs ÍR",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.88
-  },
-  {
-   "data": "2026-08-13 16:42:06",
-   "tm": "16:42",
-   "match": "KAA Gent x IFK Göteborg",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 16.7,
-   "status": "green",
-   "pl": 4.15
-  },
-  {
-   "data": "2026-08-13 16:39:06",
-   "tm": "16:39",
-   "match": "ETO FC Győr x Riga FC",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.48
-  },
-  {
-   "data": "2026-08-13 16:28:05",
-   "tm": "16:28",
-   "match": "FC Sion x FC Noah",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.61
-  },
-  {
-   "data": "2026-08-13 16:23:17",
-   "tm": "16:23",
-   "match": "CSKA Sofia x Maccabi Tel Aviv",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.77
-  },
-  {
-   "data": "2026-08-13 16:02:44",
-   "tm": "16:02",
-   "match": "Beşiktaş vs Hradec Králové",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.4,
-   "status": "green",
-   "pl": 1.22
-  },
-  {
-   "data": "2026-08-13 15:49:07",
-   "tm": "15:49",
-   "match": "NSÍ Runavík x FC Lugano",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.73
-  },
-  {
-   "data": "2026-08-13 15:41:04",
-   "tm": "15:41",
-   "match": "NSÍ Runavík x FC Lugano",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.42
-  },
-  {
-   "data": "2026-08-13 15:36:06",
-   "tm": "15:36",
-   "match": "Motherwell x HJK",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 18.0,
-   "status": "green",
-   "pl": 1.27
-  },
-  {
-   "data": "2026-08-13 15:26:05",
-   "tm": "15:26",
-   "match": "Omonia Nicosia x Lincoln Red Imps",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 19.5,
-   "status": "green",
-   "pl": 4.32
-  },
-  {
-   "data": "2026-08-13 15:21:06",
-   "tm": "15:21",
-   "match": "FC Sion x FC Noah",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-13 15:17:06",
-   "tm": "15:17",
-   "match": "Tromsø IL x CFR 1907 Cluj",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 0.84
-  },
-  {
-   "data": "2026-08-13 15:17:06",
-   "tm": "15:17",
-   "match": "FC Midtjylland x Bohemian FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-13 15:10:11",
-   "tm": "15:10",
-   "match": "Górnik Zabrze x Ferencváros TC",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 46.0,
-   "status": "green",
-   "pl": 1.86
-  },
-  {
-   "data": "2026-08-13 15:10:06",
-   "tm": "15:10",
-   "match": "ML Vitebsk x FK Borac Banja Luka",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 15:09:05",
-   "tm": "15:09",
-   "match": "Hammarby IF x Raków Częstochowa",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-13 14:56:08",
-   "tm": "14:56",
-   "match": "Flora vs Inter Club d'Escaldes",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 14:28:06",
-   "tm": "14:28",
-   "match": "Ilves x HNK Rijeka",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-13 14:28:06",
-   "tm": "14:28",
-   "match": "Flora Tallinn x Inter Club d'Escaldes",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-08-13 14:26:13",
-   "tm": "14:26",
-   "match": "Abha x Al-Hazem",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-13 14:22:06",
-   "tm": "14:22",
-   "match": "Ilves x HNK Rijeka",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 1.7
-  },
-  {
-   "data": "2026-08-13 14:19:05",
-   "tm": "14:19",
-   "match": "Beşiktaş JK x FC Hradec Králové",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 0.88
-  },
-  {
-   "data": "2026-08-13 14:14:15",
-   "tm": "14:14",
-   "match": "Qarabağ FK x Dynamo Kyiv",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 28.0,
-   "status": "green",
-   "pl": 2.96
-  },
-  {
-   "data": "2026-08-13 14:05:06",
-   "tm": "14:05",
-   "match": "Flora Tallinn x Inter Club d'Escaldes",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.4
-  },
-  {
-   "data": "2026-08-13 13:42:14",
-   "tm": "13:42",
-   "match": "Ilves x HNK Rijeka",
-   "bot": "SNIPER HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 2.0
-  },
-  {
-   "data": "2026-08-13 13:19:05",
-   "tm": "13:19",
-   "match": "FC Tobol x FK Partizan",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-08-13 13:09:07",
-   "tm": "13:09",
-   "match": "Flora Tallinn x Inter Club d'Escaldes",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 55.0,
-   "status": "red",
-   "pl": -79.92
-  },
-  {
-   "data": "2026-08-13 13:07:15",
-   "tm": "13:07",
-   "match": "Qarabağ FK x Dynamo Kyiv",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 80.0,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-08-13 00:56:04",
-   "tm": "00:56",
-   "match": "Seattle Sounders FC x CD Guadalajara",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 48.0,
-   "status": "green",
-   "pl": 1.7
-  },
-  {
-   "data": "2026-08-13 00:55:04",
-   "tm": "00:55",
-   "match": "Seattle Sounders FC x CD Guadalajara",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.42
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 48,
-   "g": 40,
-   "r": 8,
-   "pl": -23.88,
-   "wr": 83,
-   "label": "13/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "14/08"
   },
   "mes": {
-   "ent": 935,
-   "g": 665,
-   "r": 270,
-   "pl": 228.49,
+   "ent": 938,
+   "g": 667,
+   "r": 271,
+   "pl": 229.64,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": -23.88,
-   "ops": 48,
-   "g": 40,
-   "r": 8
+   "pl": -22.73,
+   "ops": 51,
+   "g": 42,
+   "r": 9
   },
   "2026-08-12": {
    "pl": 3.83,
