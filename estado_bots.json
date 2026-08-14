@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T01:00",
+ "gerado_em": "2026-08-14T02:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 549,
-   "pl": 332.2,
+   "ent": 550,
+   "pl": 333.56,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 92,
-   "pl": 2.11,
+   "ent": 93,
+   "pl": 3.49,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
