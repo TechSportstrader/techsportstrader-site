@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T09:00",
+ "gerado_em": "2026-08-14T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -95,9 +95,9 @@
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 35,
+   "g": 36,
    "r": 0,
-   "pl": 94.87,
+   "pl": 95.98,
    "roi": 6.4,
    "wr": 100.0,
    "st": "val"
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-14 09:06:00",
+   "tm": "09:06",
+   "match": "Tokyo Verdy vs Kashiwa Reysol",
+   "bot": "RAMPART",
+   "mkt": "Lay Goleada Casa",
+   "odd": 28.0,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
    "data": "2026-08-14 08:15:19",
    "tm": "08:15",
    "match": "Tokyo Verdy x Kashiwa Reysol",
@@ -424,27 +434,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 2,
+   "ent": 3,
+   "g": 3,
    "r": 0,
-   "pl": 2.35,
+   "pl": 3.46,
    "wr": 100,
    "label": "14/08"
   },
   "mes": {
-   "ent": 941,
-   "g": 670,
+   "ent": 942,
+   "g": 671,
    "r": 271,
-   "pl": 233.35,
+   "pl": 234.46,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": 2.35,
-   "ops": 2,
-   "g": 2,
+   "pl": 3.46,
+   "ops": 3,
+   "g": 3,
    "r": 0
   },
   "2026-08-13": {
