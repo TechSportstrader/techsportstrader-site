@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T17:00",
+ "gerado_em": "2026-08-14T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 26,
-   "pl": -45.56,
+   "ent": 27,
+   "pl": -43.73,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -177,9 +177,9 @@
    "plat": "BotBet"
   },
   "DEADLOCK": {
-   "st": "val",
-   "ent": 39,
-   "pl": 3.44,
+   "st": "rep",
+   "ent": 40,
+   "pl": -1.55,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 217,
-   "pl": 68.44,
+   "ent": 218,
+   "pl": 66.44,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 102,
-   "pl": 55.31,
+   "ent": 103,
+   "pl": 56.56,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 199,
-   "pl": 29.17,
+   "ent": 201,
+   "pl": 20.84,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -415,8 +415,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 24,
-   "pl": 17.71,
+   "ent": 25,
+   "pl": 13.73,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
