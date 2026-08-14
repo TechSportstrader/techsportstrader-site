@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T10:00",
+ "gerado_em": "2026-08-14T11:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 258,
+   "g": 259,
    "r": 180,
-   "pl": 66.09,
+   "pl": 67.2,
    "roi": 1.5,
-   "wr": 58.9,
+   "wr": 59.0,
    "st": "ap"
   },
   {
@@ -238,11 +238,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 169,
+   "g": 170,
    "r": 28,
-   "pl": 25.83,
+   "pl": 27.5,
    "roi": -0.3,
-   "wr": 85.8,
+   "wr": 85.9,
    "st": "val"
   },
   {
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-14 10:56:05",
+   "tm": "10:56",
+   "match": "Qingdao West Coast vs Chongqing Tonglianglong FC",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-08-14 10:02:36",
+   "tm": "10:02",
+   "match": "Shaanxi Union FC vs Changchun Yatai",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "green",
+   "pl": 1.11
+  },
+  {
    "data": "2026-08-14 09:06:00",
    "tm": "09:06",
    "match": "Tokyo Verdy vs Kashiwa Reysol",
@@ -434,27 +454,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 3,
+   "ent": 5,
+   "g": 5,
    "r": 0,
-   "pl": 3.46,
+   "pl": 6.24,
    "wr": 100,
    "label": "14/08"
   },
   "mes": {
-   "ent": 942,
-   "g": 671,
+   "ent": 944,
+   "g": 673,
    "r": 271,
-   "pl": 234.46,
+   "pl": 237.24,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": 3.46,
-   "ops": 3,
-   "g": 3,
+   "pl": 6.24,
+   "ops": 5,
+   "g": 5,
    "r": 0
   },
   "2026-08-13": {
