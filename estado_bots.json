@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T09:00",
+ "gerado_em": "2026-08-14T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -262,8 +262,8 @@
   },
   "RAMPART": {
    "st": "val",
-   "ent": 35,
-   "pl": 94.87,
+   "ent": 36,
+   "pl": 95.98,
    "roi": 6.4,
    "plat": "Bolsa"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 229,
-   "pl": -32.14,
+   "ent": 230,
+   "pl": -31.22,
    "roi": 1.4,
    "plat": "Bolsa"
   },
