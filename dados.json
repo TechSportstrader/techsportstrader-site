@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T08:00",
+ "gerado_em": "2026-08-14T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -359,11 +359,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 174,
+   "g": 175,
    "r": 82,
-   "pl": 2.31,
+   "pl": 2.99,
    "roi": 2.0,
-   "wr": 68.0,
+   "wr": 68.1,
    "st": "val"
   },
   {
@@ -402,6 +402,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-14 08:15:19",
+   "tm": "08:15",
+   "match": "Tokyo Verdy x Kashiwa Reysol",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.68
+  },
+  {
    "data": "2026-08-14 00:16:03",
    "tm": "00:16",
    "match": "Cruz Azul vs Chicago Fire",
@@ -414,27 +424,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 1.67,
+   "pl": 2.35,
    "wr": 100,
    "label": "14/08"
   },
   "mes": {
-   "ent": 940,
-   "g": 669,
+   "ent": 941,
+   "g": 670,
    "r": 271,
-   "pl": 232.67,
+   "pl": 233.35,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": 1.67,
-   "ops": 1,
-   "g": 1,
+   "pl": 2.35,
+   "ops": 2,
+   "g": 2,
    "r": 0
   },
   "2026-08-13": {
