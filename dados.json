@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T00:00",
+ "gerado_em": "2026-08-14T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -238,11 +238,11 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 168,
+   "g": 169,
    "r": 28,
-   "pl": 24.16,
+   "pl": 25.83,
    "roi": -0.3,
-   "wr": 85.7,
+   "wr": 85.8,
    "st": "val"
   },
   {
@@ -400,26 +400,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-14 00:16:03",
+   "tm": "00:16",
+   "match": "Cruz Azul vs Chicago Fire",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 1.67
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 1.67,
+   "wr": 100,
    "label": "14/08"
   },
   "mes": {
-   "ent": 938,
-   "g": 667,
+   "ent": 939,
+   "g": 668,
    "r": 271,
-   "pl": 229.64,
+   "pl": 231.31,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-14": {
+   "pl": 1.67,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-13": {
    "pl": -22.73,
    "ops": 51,
