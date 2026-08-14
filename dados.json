@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T22:00",
+ "gerado_em": "2026-08-13T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 540,
+   "g": 542,
    "r": 6,
-   "pl": 328.39,
+   "pl": 330.72,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -430,6 +430,26 @@
    "odd": 1.7,
    "status": "green",
    "pl": 0.83
+  },
+  {
+   "data": "2026-08-13 20:58:04",
+   "tm": "20:58",
+   "match": "New York City FC x Club Necaxa",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
+   "data": "2026-08-13 20:22:04",
+   "tm": "20:22",
+   "match": "Philadelphia Union x Santos Laguna",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-13 19:52:40",
@@ -864,27 +884,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 46,
-   "g": 38,
+   "ent": 48,
+   "g": 40,
    "r": 8,
-   "pl": -26.21,
+   "pl": -23.88,
    "wr": 83,
    "label": "13/08"
   },
   "mes": {
-   "ent": 933,
-   "g": 663,
+   "ent": 935,
+   "g": 665,
    "r": 270,
-   "pl": 226.16,
+   "pl": 228.49,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-13": {
-   "pl": -26.21,
-   "ops": 46,
-   "g": 38,
+   "pl": -23.88,
+   "ops": 48,
+   "g": 40,
    "r": 8
   },
   "2026-08-12": {
