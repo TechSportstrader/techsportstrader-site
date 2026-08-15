@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T21:00",
+ "gerado_em": "2026-08-14T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 218,
-   "pl": 66.44,
+   "ent": 219,
+   "pl": 64.49,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 57,
-   "pl": -40.49,
+   "ent": 58,
+   "pl": -39.27,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 201,
-   "pl": 20.84,
+   "ent": 202,
+   "pl": 10.84,
    "roi": -0.3,
    "plat": "Bolsa"
   }
