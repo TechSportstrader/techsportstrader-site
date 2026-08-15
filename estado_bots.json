@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T19:00",
+ "gerado_em": "2026-08-15T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 560,
-   "pl": 345.63,
+   "ent": 561,
+   "pl": 347.11,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 138,
-   "pl": 0.59,
+   "ent": 139,
+   "pl": 2.21,
    "roi": -0.2,
    "plat": "Bolsa"
   },
