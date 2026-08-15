@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T20:00",
+ "gerado_em": "2026-08-14T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -293,11 +293,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 178,
+   "g": 179,
    "r": 82,
-   "pl": 6.22,
+   "pl": 7.1,
    "roi": 2.0,
-   "wr": 68.5,
+   "wr": 68.6,
    "st": "val"
   },
   {
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 76,
+   "r": 57,
+   "pl": 3.71,
+   "roi": -0.2,
+   "wr": 57.1,
+   "st": "val"
+  },
+  {
    "n": "MURALHA SCALP",
    "s": "Lay 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -353,17 +364,6 @@
    "pl": 3.0,
    "roi": 1.0,
    "wr": 64.8,
-   "st": "val"
-  },
-  {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 75,
-   "r": 57,
-   "pl": 2.29,
-   "roi": -0.2,
-   "wr": 56.8,
    "st": "val"
   },
   {
@@ -390,6 +390,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-14 20:22:39",
+   "tm": "20:22",
+   "match": "São Bernardo vs Botafogo SP",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
+   "data": "2026-08-14 19:47:14",
+   "tm": "19:47",
+   "match": "Recoleta FC x CS 2 de Mayo",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.88
+  },
   {
    "data": "2026-08-14 18:02:38",
    "tm": "18:02",
@@ -793,27 +813,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 40,
-   "g": 29,
+   "ent": 42,
+   "g": 31,
    "r": 11,
-   "pl": -8.52,
-   "wr": 72,
+   "pl": -6.22,
+   "wr": 74,
    "label": "14/08"
   },
   "mes": {
-   "ent": 963,
-   "g": 686,
+   "ent": 965,
+   "g": 688,
    "r": 277,
-   "pl": 231.85,
+   "pl": 234.15,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": -8.52,
-   "ops": 40,
-   "g": 29,
+   "pl": -6.22,
+   "ops": 42,
+   "g": 31,
    "r": 11
   },
   "2026-08-13": {
