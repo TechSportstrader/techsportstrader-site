@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T16:00",
+ "gerado_em": "2026-08-15T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 552,
+   "g": 553,
    "r": 6,
-   "pl": 344.28,
+   "pl": 345.29,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 261,
+   "g": 262,
    "r": 182,
-   "pl": 64.54,
+   "pl": 65.77,
    "roi": 1.5,
-   "wr": 58.9,
+   "wr": 59.0,
    "st": "ap"
   },
   {
@@ -206,21 +206,21 @@
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 44,
-   "r": 10,
-   "pl": 31.21,
+   "r": 11,
+   "pl": 30.15,
    "roi": 33.0,
-   "wr": 81.5,
+   "wr": 80.0,
    "st": "val"
   },
   {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 37,
+   "g": 38,
    "r": 4,
-   "pl": 23.53,
+   "pl": 25.2,
    "roi": 16.0,
-   "wr": 90.2,
+   "wr": 90.5,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 189,
+   "g": 190,
    "r": 83,
-   "pl": 14.17,
+   "pl": 14.88,
    "roi": 2.0,
-   "wr": 69.5,
+   "wr": 69.6,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 83,
+   "r": 44,
+   "pl": 5.02,
+   "roi": 1.0,
+   "wr": 65.4,
+   "st": "val"
+  },
+  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -320,17 +331,6 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 82,
-   "r": 44,
-   "pl": 4.13,
-   "roi": 1.0,
-   "wr": 65.1,
    "st": "val"
   },
   {
@@ -390,6 +390,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-15 16:32:52",
+   "tm": "16:32",
+   "match": "Inter vs Real Betis",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 1.23
+  },
+  {
+   "data": "2026-08-15 16:27:15",
+   "tm": "16:27",
+   "match": "Al-Nassr x Al-Fateh",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.7
+  },
+  {
+   "data": "2026-08-15 16:05:06",
+   "tm": "16:05",
+   "match": "Excelsior x PSV Eindhoven",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.06
+  },
+  {
+   "data": "2026-08-15 15:50:07",
+   "tm": "15:50",
+   "match": "1. FC Kaiserslautern x Karlsruher SC",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.89
+  },
   {
    "data": "2026-08-15 15:39:13",
    "tm": "15:39",
@@ -451,6 +491,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-15 14:37:07",
+   "tm": "14:37",
+   "match": "SK Sturm Graz x SCR Altach",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 80.0,
+   "status": "green",
+   "pl": 1.01
+  },
+  {
    "data": "2026-08-15 14:32:47",
    "tm": "14:32",
    "match": "Fatih Karagümrük vs Ümraniyespor",
@@ -459,6 +509,16 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 14:32:15",
+   "tm": "14:32",
+   "match": "Aldosivi x Tigre",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-08-15 14:32:06",
@@ -929,92 +989,32 @@
    "odd": 65.0,
    "status": "green",
    "pl": 1.25
-  },
-  {
-   "data": "2026-08-15 08:27:05",
-   "tm": "08:27",
-   "match": "Vissel Kobe x FC Tokyo",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.16
-  },
-  {
-   "data": "2026-08-15 08:22:38",
-   "tm": "08:22",
-   "match": "Shimizu S-Pulse vs Yokohama F. Marinos",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 08:21:06",
-   "tm": "08:21",
-   "match": "JEF United Chiba x Machida Zelvia",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.02
-  },
-  {
-   "data": "2026-08-15 08:21:06",
-   "tm": "08:21",
-   "match": "Kawasaki Frontale x Kyoto Sanga FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.58
-  },
-  {
-   "data": "2026-08-15 08:12:44",
-   "tm": "08:12",
-   "match": "Seoul vs Daejeon Citizen",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 08:08:50",
-   "tm": "08:08",
-   "match": "Kashima Antlers vs Nagoya Grampus",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 14.0,
-   "status": "green",
-   "pl": 1.15
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 66,
-   "g": 39,
-   "r": 27,
-   "pl": -18.99,
-   "wr": 59,
+   "ent": 72,
+   "g": 44,
+   "r": 28,
+   "pl": -14.54,
+   "wr": 61,
    "label": "15/08"
   },
   "mes": {
-   "ent": 978,
-   "g": 676,
-   "r": 302,
-   "pl": 224.86,
+   "ent": 984,
+   "g": 681,
+   "r": 303,
+   "pl": 229.3,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -18.99,
-   "ops": 66,
-   "g": 39,
-   "r": 27
+   "pl": -14.54,
+   "ops": 72,
+   "g": 44,
+   "r": 28
   },
   "2026-08-14": {
    "pl": -6.64,
