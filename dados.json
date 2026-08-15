@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T22:00",
+ "gerado_em": "2026-08-14T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 544,
+   "g": 545,
    "r": 6,
-   "pl": 333.56,
+   "pl": 335.04,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 20,
-   "r": 96,
-   "pl": 114.07,
+   "r": 98,
+   "pl": 110.07,
    "roi": 3.7,
-   "wr": 17.2,
+   "wr": 16.9,
    "st": "val"
   },
   {
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 82,
+   "g": 83,
    "r": 137,
-   "pl": 64.49,
+   "pl": 66.6,
    "roi": 6.7,
-   "wr": 37.4,
+   "wr": 37.7,
    "st": "val"
   },
   {
@@ -184,10 +184,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 30,
-   "pl": 47.26,
+   "r": 31,
+   "pl": 45.26,
    "roi": 131.0,
-   "wr": 18.9,
+   "wr": 18.4,
    "st": "val"
   },
   {
@@ -294,10 +294,10 @@
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 179,
-   "r": 82,
-   "pl": 7.1,
+   "r": 83,
+   "pl": 5.1,
    "roi": 2.0,
-   "wr": 68.6,
+   "wr": 68.3,
    "st": "val"
   },
   {
@@ -334,6 +334,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 82,
+   "r": 44,
+   "pl": 4.13,
+   "roi": 1.0,
+   "wr": 65.1,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -353,17 +364,6 @@
    "pl": 3.71,
    "roi": -0.2,
    "wr": 57.1,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 81,
-   "r": 44,
-   "pl": 3.0,
-   "roi": 1.0,
-   "wr": 64.8,
    "st": "val"
   },
   {
@@ -391,6 +391,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-14 22:32:42",
+   "tm": "22:32",
+   "match": "Atlético Rafaela vs Defensores de Belgrano",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 2.11
+  },
+  {
+   "data": "2026-08-14 22:30:05",
+   "tm": "22:30",
+   "match": "Vancouver FC x Pacific FC",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.13
+  },
+  {
+   "data": "2026-08-14 22:28:49",
+   "tm": "22:28",
+   "match": "Racing Club vs Banfield",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-14 22:08:47",
+   "tm": "22:08",
+   "match": "Univ. Concepción vs La Serena",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-14 21:28:47",
    "tm": "21:28",
    "match": "São Bernardo vs Botafogo SP",
@@ -399,6 +439,16 @@
    "odd": 6.8,
    "status": "red",
    "pl": -10.0
+  },
+  {
+   "data": "2026-08-14 21:22:06",
+   "tm": "21:22",
+   "match": "Universidad de Concepción x Deportes La Serena",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-14 21:02:42",
@@ -411,6 +461,16 @@
    "pl": -1.95
   },
   {
+   "data": "2026-08-14 20:31:15",
+   "tm": "20:31",
+   "match": "Universidad de Concepción x Deportes La Serena",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-14 20:22:39",
    "tm": "20:22",
    "match": "São Bernardo vs Botafogo SP",
@@ -419,6 +479,16 @@
    "odd": 1.7,
    "status": "green",
    "pl": 1.42
+  },
+  {
+   "data": "2026-08-14 20:06:04",
+   "tm": "20:06",
+   "match": "Universidad de Concepción x Deportes La Serena",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-14 19:47:14",
@@ -833,28 +903,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 44,
-   "g": 31,
-   "r": 13,
-   "pl": -18.17,
-   "wr": 70,
+   "ent": 51,
+   "g": 34,
+   "r": 17,
+   "pl": -21.44,
+   "wr": 67,
    "label": "14/08"
   },
   "mes": {
-   "ent": 967,
-   "g": 688,
-   "r": 279,
-   "pl": 222.2,
+   "ent": 974,
+   "g": 691,
+   "r": 283,
+   "pl": 218.93,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": -18.17,
-   "ops": 44,
-   "g": 31,
-   "r": 13
+   "pl": -21.44,
+   "ops": 51,
+   "g": 34,
+   "r": 17
   },
   "2026-08-13": {
    "pl": -21.37,
