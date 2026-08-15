@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T00:00",
+ "gerado_em": "2026-08-15T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 545,
+   "g": 546,
    "r": 6,
-   "pl": 335.04,
+   "pl": 336.12,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -40,11 +40,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 441,
+   "g": 442,
    "r": 133,
-   "pl": 11.5,
+   "pl": 11.9,
    "roi": 2.0,
-   "wr": 76.8,
+   "wr": 76.9,
    "st": "ap"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 83,
-   "r": 137,
-   "pl": 66.6,
+   "r": 138,
+   "pl": 64.6,
    "roi": 6.7,
-   "wr": 37.7,
+   "wr": 37.6,
    "st": "val"
   },
   {
@@ -389,30 +389,47 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-15 00:32:37",
+   "tm": "00:32",
+   "match": "San Carlos vs Herediano",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "15/08"
   },
   "mes": {
-   "ent": 974,
-   "g": 691,
-   "r": 283,
-   "pl": 218.93,
+   "ent": 977,
+   "g": 693,
+   "r": 284,
+   "pl": 218.41,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-15": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-08-14": {
-   "pl": -21.44,
-   "ops": 51,
-   "g": 34,
+   "pl": -19.96,
+   "ops": 53,
+   "g": 36,
    "r": 17
   },
   "2026-08-13": {
