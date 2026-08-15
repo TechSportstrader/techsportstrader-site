@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T21:00",
+ "gerado_em": "2026-08-14T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 82,
-   "r": 136,
-   "pl": 66.44,
+   "r": 137,
+   "pl": 64.49,
    "roi": 6.7,
-   "wr": 37.6,
+   "wr": 37.4,
    "st": "val"
   },
   {
@@ -246,17 +246,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 172,
-   "r": 29,
-   "pl": 20.84,
-   "roi": -0.3,
-   "wr": 85.6,
-   "st": "val"
-  },
-  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -287,6 +276,17 @@
    "pl": 15.55,
    "roi": 4.0,
    "wr": 91.2,
+   "st": "val"
+  },
+  {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 172,
+   "r": 30,
+   "pl": 10.84,
+   "roi": -0.3,
+   "wr": 85.1,
    "st": "val"
   },
   {
@@ -390,6 +390,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-14 21:28:47",
+   "tm": "21:28",
+   "match": "São Bernardo vs Botafogo SP",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "red",
+   "pl": -10.0
+  },
+  {
+   "data": "2026-08-14 21:02:42",
+   "tm": "21:02",
+   "match": "São Bernardo vs Botafogo SP",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.95
+  },
   {
    "data": "2026-08-14 20:22:39",
    "tm": "20:22",
@@ -813,28 +833,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 42,
+   "ent": 44,
    "g": 31,
-   "r": 11,
-   "pl": -6.22,
-   "wr": 74,
+   "r": 13,
+   "pl": -18.17,
+   "wr": 70,
    "label": "14/08"
   },
   "mes": {
-   "ent": 965,
+   "ent": 967,
    "g": 688,
-   "r": 277,
-   "pl": 234.15,
+   "r": 279,
+   "pl": 222.2,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-14": {
-   "pl": -6.22,
-   "ops": 42,
+   "pl": -18.17,
+   "ops": 44,
    "g": 31,
-   "r": 11
+   "r": 13
   },
   "2026-08-13": {
    "pl": -21.37,
