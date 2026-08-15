@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T09:00",
+ "gerado_em": "2026-08-15T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 553,
-   "pl": 337.48,
+   "ent": 554,
+   "pl": 338.96,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 27,
-   "pl": 31.74,
+   "ent": 28,
+   "pl": 32.83,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 27,
-   "pl": -43.73,
+   "ent": 28,
+   "pl": -59.57,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 40,
-   "pl": -1.55,
+   "ent": 41,
+   "pl": -6.55,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -297,15 +297,15 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 104,
-   "pl": 57.71,
+   "ent": 105,
+   "pl": 58.78,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 46,
-   "pl": -17.98,
+   "ent": 48,
+   "pl": -21.51,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -318,15 +318,15 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "val",
-   "ent": 41,
-   "pl": 4.46,
+   "ent": 42,
+   "pl": 6.05,
    "roi": 0.4,
    "plat": "Bolsa"
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 58,
-   "pl": -39.27,
+   "ent": 59,
+   "pl": -37.7,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -420,8 +420,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay under 1.5 Ht": {
-   "ent": 20,
-   "pl": 1.78,
+   "ent": 21,
+   "pl": 3.89,
    "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
