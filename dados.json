@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T08:00",
+ "gerado_em": "2026-08-15T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 546,
+   "g": 547,
    "r": 6,
-   "pl": 336.12,
+   "pl": 337.48,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 83,
-   "r": 139,
-   "pl": 62.6,
-   "roi": 6.7,
-   "wr": 37.4,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -147,12 +136,23 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 83,
+   "r": 141,
+   "pl": 58.6,
+   "roi": 6.7,
+   "wr": 37.1,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 97,
+   "g": 98,
    "r": 6,
-   "pl": 56.56,
+   "pl": 57.71,
    "roi": 1.3,
    "wr": 94.2,
    "st": "val"
@@ -282,22 +282,22 @@
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
-   "g": 172,
+   "g": 173,
    "r": 30,
-   "pl": 10.84,
+   "pl": 12.56,
    "roi": -0.3,
-   "wr": 85.1,
+   "wr": 85.2,
    "st": "val"
   },
   {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 179,
+   "g": 182,
    "r": 83,
-   "pl": 5.1,
+   "pl": 7.86,
    "roi": 2.0,
-   "wr": 68.3,
+   "wr": 68.7,
    "st": "val"
   },
   {
@@ -359,11 +359,11 @@
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 76,
-   "r": 57,
-   "pl": 3.71,
+   "g": 77,
+   "r": 58,
+   "pl": 3.17,
    "roi": -0.2,
-   "wr": 57.1,
+   "wr": 57.0,
    "st": "val"
   },
   {
@@ -391,6 +391,96 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-15 08:58:46",
+   "tm": "08:58",
+   "match": "Shonan Bellmare vs Montedio Yamagata",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.8,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-15 08:42:38",
+   "tm": "08:42",
+   "match": "Shonan Bellmare vs Montedio Yamagata",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 08:27:05",
+   "tm": "08:27",
+   "match": "Vissel Kobe x FC Tokyo",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.16
+  },
+  {
+   "data": "2026-08-15 08:22:38",
+   "tm": "08:22",
+   "match": "Shimizu S-Pulse vs Yokohama F. Marinos",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 08:21:06",
+   "tm": "08:21",
+   "match": "JEF United Chiba x Machida Zelvia",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.02
+  },
+  {
+   "data": "2026-08-15 08:21:06",
+   "tm": "08:21",
+   "match": "Kawasaki Frontale x Kyoto Sanga FC",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.58
+  },
+  {
+   "data": "2026-08-15 08:12:44",
+   "tm": "08:12",
+   "match": "Seoul vs Daejeon Citizen",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 08:08:50",
+   "tm": "08:08",
+   "match": "Kashima Antlers vs Nagoya Grampus",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.0,
+   "status": "green",
+   "pl": 1.15
+  },
+  {
+   "data": "2026-08-15 08:02:46",
+   "tm": "08:02",
+   "match": "Fagiano Okayama vs V-Varen Nagasaki",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.46
+  },
+  {
    "data": "2026-08-15 06:42:37",
    "tm": "06:42",
    "match": "Dalian Kewei vs Tai'an Tiankuang",
@@ -399,6 +489,16 @@
    "odd": 1.7,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 06:10:16",
+   "tm": "06:10",
+   "match": "Kashima Antlers x Nagoya Grampus",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
   },
   {
    "data": "2026-08-15 00:32:37",
@@ -413,28 +513,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 0,
-   "r": 2,
-   "pl": -4.0,
-   "wr": 0,
+   "ent": 12,
+   "g": 7,
+   "r": 5,
+   "pl": -1.55,
+   "wr": 58,
    "label": "15/08"
   },
   "mes": {
-   "ent": 978,
-   "g": 693,
-   "r": 285,
-   "pl": 216.41,
+   "ent": 988,
+   "g": 700,
+   "r": 288,
+   "pl": 218.86,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -4.0,
-   "ops": 2,
-   "g": 0,
-   "r": 2
+   "pl": -1.55,
+   "ops": 12,
+   "g": 7,
+   "r": 5
   },
   "2026-08-14": {
    "pl": -19.96,
