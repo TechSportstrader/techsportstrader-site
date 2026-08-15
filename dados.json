@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T17:00",
+ "gerado_em": "2026-08-15T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 553,
+   "g": 554,
    "r": 6,
-   "pl": 345.29,
+   "pl": 345.63,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -29,22 +29,22 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 262,
+   "g": 263,
    "r": 182,
-   "pl": 65.77,
+   "pl": 68.77,
    "roi": 1.5,
-   "wr": 59.0,
+   "wr": 59.1,
    "st": "ap"
   },
   {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 446,
+   "g": 447,
    "r": 133,
-   "pl": 13.95,
+   "pl": 15.14,
    "roi": 2.0,
-   "wr": 77.0,
+   "wr": 77.1,
    "st": "ap"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 85,
-   "r": 144,
-   "pl": 61.37,
+   "r": 145,
+   "pl": 59.37,
    "roi": 6.7,
-   "wr": 37.1,
+   "wr": 37.0,
    "st": "val"
   },
   {
@@ -227,11 +227,11 @@
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 48,
+   "g": 49,
    "r": 3,
-   "pl": 21.16,
+   "pl": 22.46,
    "roi": 9.0,
-   "wr": 94.1,
+   "wr": 94.2,
    "st": "val"
   },
   {
@@ -282,11 +282,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 190,
-   "r": 83,
-   "pl": 14.88,
+   "g": 191,
+   "r": 84,
+   "pl": 14.58,
    "roi": 2.0,
-   "wr": 69.6,
+   "wr": 69.5,
    "st": "val"
   },
   {
@@ -391,6 +391,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-15 17:42:37",
+   "tm": "17:42",
+   "match": "Kaiserslautern vs Karlsruher SC",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.7,
+   "status": "green",
+   "pl": 3.0
+  },
+  {
+   "data": "2026-08-15 17:32:06",
+   "tm": "17:32",
+   "match": "Ceará x Cuiabá",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.7
+  },
+  {
+   "data": "2026-08-15 17:20:07",
+   "tm": "17:20",
+   "match": "Atlético Goianiense x Vila Nova FC",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.19
+  },
+  {
+   "data": "2026-08-15 17:12:44",
+   "tm": "17:12",
+   "match": "Rapid Bucuresti vs Dinamo Bucureşti",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-15 16:32:52",
    "tm": "16:32",
    "match": "Inter vs Real Betis",
@@ -411,6 +451,16 @@
    "pl": 0.7
   },
   {
+   "data": "2026-08-15 16:14:18",
+   "tm": "16:14",
+   "match": "Al-Ittihad x Al-Kholood",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-15 16:05:06",
    "tm": "16:05",
    "match": "Excelsior x PSV Eindhoven",
@@ -429,6 +479,26 @@
    "odd": 1.8,
    "status": "green",
    "pl": 0.89
+  },
+  {
+   "data": "2026-08-15 15:49:20",
+   "tm": "15:49",
+   "match": "Al-Ittihad x Al-Kholood",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "green",
+   "pl": 1.3
+  },
+  {
+   "data": "2026-08-15 15:46:25",
+   "tm": "15:46",
+   "match": "1. FC Kaiserslautern x Karlsruher SC",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 0.34
   },
   {
    "data": "2026-08-15 15:39:13",
@@ -919,102 +989,32 @@
    "odd": 1.3,
    "status": "red",
    "pl": -1.96
-  },
-  {
-   "data": "2026-08-15 10:18:37",
-   "tm": "10:18",
-   "match": "Esbjerg FB x Hobro",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.66
-  },
-  {
-   "data": "2026-08-15 09:46:07",
-   "tm": "09:46",
-   "match": "Bolton Wanderers x Preston North End",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.94
-  },
-  {
-   "data": "2026-08-15 09:40:16",
-   "tm": "09:40",
-   "match": "Newport County x Rochdale",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-15 09:08:56",
-   "tm": "09:08",
-   "match": "Vissel Kobe vs FC Tokyo",
-   "bot": "MURALHA CASA-22 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 23.0,
-   "status": "green",
-   "pl": 1.59
-  },
-  {
-   "data": "2026-08-15 09:08:56",
-   "tm": "09:08",
-   "match": "Kawasaki Frontale vs Kyoto Sanga",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 1.07
-  },
-  {
-   "data": "2026-08-15 08:42:38",
-   "tm": "08:42",
-   "match": "Shonan Bellmare vs Montedio Yamagata",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 08:36:06",
-   "tm": "08:36",
-   "match": "Oxford United x Milton Keynes Dons",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 65.0,
-   "status": "green",
-   "pl": 1.25
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 72,
-   "g": 44,
-   "r": 28,
-   "pl": -14.54,
-   "wr": 61,
+   "ent": 79,
+   "g": 49,
+   "r": 30,
+   "pl": -11.01,
+   "wr": 62,
    "label": "15/08"
   },
   "mes": {
-   "ent": 984,
-   "g": 681,
-   "r": 303,
-   "pl": 229.3,
+   "ent": 991,
+   "g": 686,
+   "r": 305,
+   "pl": 232.84,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -14.54,
-   "ops": 72,
-   "g": 44,
-   "r": 28
+   "pl": -11.01,
+   "ops": 79,
+   "g": 49,
+   "r": 30
   },
   "2026-08-14": {
    "pl": -6.64,
