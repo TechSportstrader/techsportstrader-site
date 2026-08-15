@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T17:00",
+ "gerado_em": "2026-08-15T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,15 +24,15 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 559,
-   "pl": 345.29,
+   "ent": 560,
+   "pl": 345.63,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 102,
-   "pl": -8.18,
+   "ent": 103,
+   "pl": -9.27,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 579,
-   "pl": 13.95,
+   "ent": 580,
+   "pl": 15.14,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 273,
-   "pl": 14.88,
+   "ent": 275,
+   "pl": 14.58,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 51,
-   "pl": 21.16,
+   "ent": 52,
+   "pl": 22.46,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 43,
-   "pl": -10.0,
+   "ent": 44,
+   "pl": -8.44,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -276,15 +276,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 229,
-   "pl": 61.37,
+   "ent": 230,
+   "pl": 59.37,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 444,
-   "pl": 65.77,
+   "ent": 445,
+   "pl": 68.77,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 49,
-   "pl": -20.16,
+   "ent": 51,
+   "pl": -17.08,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 63,
-   "pl": -32.65,
+   "ent": 64,
+   "pl": -31.18,
    "roi": 0.3,
    "plat": "Bolsa"
   },
