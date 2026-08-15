@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T16:00",
+ "gerado_em": "2026-08-15T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,29 +10,29 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 126,
-   "pl": 4.13,
+   "ent": 127,
+   "pl": 5.02,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 54,
-   "pl": 31.21,
+   "ent": 55,
+   "pl": 30.15,
    "roi": 33.0,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 558,
-   "pl": 344.28,
+   "ent": 559,
+   "pl": 345.29,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 101,
-   "pl": -8.4,
+   "ent": 102,
+   "pl": -8.18,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 272,
-   "pl": 14.17,
+   "ent": 273,
+   "pl": 14.88,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 41,
-   "pl": 23.53,
+   "ent": 42,
+   "pl": 25.2,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 73,
-   "pl": -7.54,
+   "ent": 74,
+   "pl": -6.28,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 443,
-   "pl": 64.54,
+   "ent": 444,
+   "pl": 65.77,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 210,
-   "pl": -10.59,
+   "ent": 212,
+   "pl": -7.25,
    "roi": -0.3,
    "plat": "Bolsa"
   }
