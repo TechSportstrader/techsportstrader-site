@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T08:00",
+ "gerado_em": "2026-08-15T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 552,
-   "pl": 336.12,
+   "ent": 553,
+   "pl": 337.48,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 262,
-   "pl": 5.1,
+   "ent": 265,
+   "pl": 7.86,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 222,
-   "pl": 62.6,
+   "ent": 224,
+   "pl": 58.6,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 103,
-   "pl": 56.56,
+   "ent": 104,
+   "pl": 57.71,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 133,
-   "pl": 3.71,
+   "ent": 135,
+   "pl": 3.17,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "val",
-   "ent": 202,
-   "pl": 10.84,
+   "ent": 203,
+   "pl": 12.56,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "ent": 22,
-   "pl": 7.2,
+   "ent": 23,
+   "pl": 10.19,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
@@ -418,6 +418,11 @@
    "ent": 25,
    "pl": 13.73,
    "plat": "Bolsa"
+  },
+  "Lab M3 - Lay under 1.5 Ht": {
+   "ent": 20,
+   "pl": 1.78,
+   "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
    "ent": 21,
