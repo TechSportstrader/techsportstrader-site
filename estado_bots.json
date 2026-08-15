@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T10:00",
+ "gerado_em": "2026-08-15T11:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 554,
-   "pl": 338.96,
+   "ent": 555,
+   "pl": 340.21,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 265,
-   "pl": 7.86,
+   "ent": 268,
+   "pl": 10.09,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 41,
-   "pl": -6.55,
+   "ent": 42,
+   "pl": -11.43,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 118,
-   "pl": 110.07,
+   "ent": 120,
+   "pl": 106.07,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 224,
-   "pl": 58.6,
+   "ent": 225,
+   "pl": 56.64,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 59,
-   "pl": -37.7,
+   "ent": 60,
+   "pl": -36.37,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 159,
-   "pl": 61.88,
+   "ent": 160,
+   "pl": 59.95,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 97,
-   "pl": 4.02,
+   "ent": 98,
+   "pl": 5.65,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
