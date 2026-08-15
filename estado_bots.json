@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T00:00",
+ "gerado_em": "2026-08-15T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 551,
-   "pl": 335.04,
+   "ent": 552,
+   "pl": 336.12,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 574,
-   "pl": 11.5,
+   "ent": 575,
+   "pl": 11.9,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 220,
-   "pl": 66.6,
+   "ent": 221,
+   "pl": 64.6,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -311,8 +311,8 @@
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "rep",
-   "ent": 34,
-   "pl": -57.69,
+   "ent": 35,
+   "pl": -55.9,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 96,
-   "pl": 8.03,
+   "ent": 97,
+   "pl": 4.02,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 60,
-   "pl": 32.59,
+   "ent": 61,
+   "pl": 33.64,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
