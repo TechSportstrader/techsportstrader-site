@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T13:00",
+ "gerado_em": "2026-08-15T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,22 +17,22 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 53,
-   "pl": 33.11,
+   "ent": 54,
+   "pl": 31.21,
    "roi": 33.0,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 556,
-   "pl": 341.84,
+   "ent": 557,
+   "pl": 343.2,
    "roi": 1.0,
    "plat": "BotBet"
   },
   "IGNIÇÃO 0.5": {
    "st": "rep",
-   "ent": 99,
-   "pl": -9.07,
+   "ent": 100,
+   "pl": -8.63,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 270,
-   "pl": 12.06,
+   "ent": 271,
+   "pl": 13.09,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -114,9 +114,9 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO 80": {
-   "st": "rep",
-   "ent": 27,
-   "pl": -0.25,
+   "st": "val",
+   "ent": 28,
+   "pl": 1.92,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 49,
-   "pl": 35.62,
+   "ent": 50,
+   "pl": 36.69,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 42,
-   "pl": -11.43,
+   "ent": 43,
+   "pl": -10.0,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 124,
-   "pl": 116.07,
+   "ent": 125,
+   "pl": 114.07,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 225,
-   "pl": 56.64,
+   "ent": 226,
+   "pl": 60.49,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -304,15 +304,15 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 48,
-   "pl": -21.51,
+   "ent": 49,
+   "pl": -20.16,
    "roi": 1.1,
    "plat": "Bolsa"
   },
   "BLINDADO 3-1 (Bolsa)": {
    "st": "rep",
-   "ent": 36,
-   "pl": -54.51,
+   "ent": 37,
+   "pl": -53.26,
    "roi": 4.2,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 61,
-   "pl": -34.8,
+   "ent": 62,
+   "pl": -33.7,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 135,
-   "pl": 3.17,
+   "ent": 136,
+   "pl": 1.17,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
-   "st": "val",
-   "ent": 206,
-   "pl": 17.62,
+   "st": "rep",
+   "ent": 208,
+   "pl": -2.38,
    "roi": -0.3,
    "plat": "Bolsa"
   }
