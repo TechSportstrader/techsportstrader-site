@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T06:00",
+ "gerado_em": "2026-08-15T07:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 83,
-   "r": 138,
-   "pl": 64.6,
+   "r": 139,
+   "pl": 62.6,
    "roi": 6.7,
-   "wr": 37.6,
+   "wr": 37.4,
    "st": "val"
   },
   {
@@ -391,6 +391,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-15 06:42:37",
+   "tm": "06:42",
+   "match": "Dalian Kewei vs Tai'an Tiankuang",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-15 00:32:37",
    "tm": "00:32",
    "match": "San Carlos vs Herediano",
@@ -403,28 +413,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 0,
-   "r": 1,
-   "pl": -2.0,
+   "r": 2,
+   "pl": -4.0,
    "wr": 0,
    "label": "15/08"
   },
   "mes": {
-   "ent": 977,
+   "ent": 978,
    "g": 693,
-   "r": 284,
-   "pl": 218.41,
+   "r": 285,
+   "pl": 216.41,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -2.0,
-   "ops": 1,
+   "pl": -4.0,
+   "ops": 2,
    "g": 0,
-   "r": 1
+   "r": 2
   },
   "2026-08-14": {
    "pl": -19.96,
