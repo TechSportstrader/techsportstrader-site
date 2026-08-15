@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T14:00",
+ "gerado_em": "2026-08-15T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 444,
+   "g": 446,
    "r": 133,
-   "pl": 12.86,
+   "pl": 13.95,
    "roi": 2.0,
-   "wr": 76.9,
+   "wr": 77.0,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 104,
-   "pl": 114.07,
+   "r": 105,
+   "pl": 112.07,
    "roi": 3.7,
-   "wr": 16.8,
+   "wr": 16.7,
    "st": "val"
   },
   {
@@ -129,21 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 84,
-   "r": 142,
-   "pl": 60.49,
+   "r": 143,
+   "pl": 58.49,
    "roi": 6.7,
-   "wr": 37.2,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 100,
-   "r": 6,
-   "pl": 60.45,
-   "roi": 1.3,
-   "wr": 94.3,
+   "wr": 37.0,
    "st": "val"
   },
   {
@@ -180,6 +169,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 100,
+   "r": 7,
+   "pl": 45.45,
+   "roi": 1.3,
+   "wr": 93.5,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
@@ -188,17 +188,6 @@
    "pl": 45.26,
    "roi": 131.0,
    "wr": 18.4,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 48,
-   "r": 2,
-   "pl": 36.69,
-   "roi": 9.0,
-   "wr": 96.0,
    "st": "val"
   },
   {
@@ -224,17 +213,6 @@
    "st": "val"
   },
   {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 66,
-   "r": 1,
-   "pl": 30.68,
-   "roi": 3.0,
-   "wr": 98.5,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -243,6 +221,28 @@
    "pl": 23.53,
    "roi": 16.0,
    "wr": 90.2,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 48,
+   "r": 3,
+   "pl": 21.16,
+   "roi": 9.0,
+   "wr": 94.1,
+   "st": "val"
+  },
+  {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 66,
+   "r": 2,
+   "pl": 20.68,
+   "roi": 3.0,
+   "wr": 97.1,
    "st": "val"
   },
   {
@@ -282,11 +282,22 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 188,
+   "g": 189,
    "r": 83,
-   "pl": 13.09,
+   "pl": 14.17,
    "roi": 2.0,
-   "wr": 69.4,
+   "wr": 69.5,
+   "st": "val"
+  },
+  {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 6,
+   "r": 9,
+   "pl": 9.46,
+   "roi": -100.0,
+   "wr": 40.0,
    "st": "val"
   },
   {
@@ -298,17 +309,6 @@
    "pl": 6.05,
    "roi": 0.4,
    "wr": 78.6,
-   "st": "val"
-  },
-  {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 5,
-   "r": 9,
-   "pl": 4.7,
-   "roi": -100.0,
-   "wr": 35.7,
    "st": "val"
   },
   {
@@ -367,17 +367,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 77,
-   "r": 59,
-   "pl": 1.17,
-   "roi": -0.2,
-   "wr": 56.6,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -387,9 +376,110 @@
    "roi": -5.0,
    "wr": 62.5,
    "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 78,
+   "r": 60,
+   "pl": 0.59,
+   "roi": -0.2,
+   "wr": 56.5,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-15 14:52:41",
+   "tm": "14:52",
+   "match": "Cádiz vs Celta Fortuna",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
+   "data": "2026-08-15 14:42:42",
+   "tm": "14:42",
+   "match": "FC Utrecht vs AZ",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 14:38:52",
+   "tm": "14:38",
+   "match": "Piast Gliwice vs Wieczysta Kraków",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 14:32:47",
+   "tm": "14:32",
+   "match": "Fatih Karagümrük vs Ümraniyespor",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 14:32:06",
+   "tm": "14:32",
+   "match": "FC Utrecht x AZ Alkmaar",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "red",
+   "pl": -10.0
+  },
+  {
+   "data": "2026-08-15 14:28:46",
+   "tm": "14:28",
+   "match": "FC Andorra vs Ceuta",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "red",
+   "pl": -15.0
+  },
+  {
+   "data": "2026-08-15 14:25:14",
+   "tm": "14:25",
+   "match": "ŠK Slovan Bratislava x MFK Ružomberok",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.08
+  },
+  {
+   "data": "2026-08-15 14:07:13",
+   "tm": "14:07",
+   "match": "ŠK Slovan Bratislava x MFK Ružomberok",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
+   "data": "2026-08-15 14:05:07",
+   "tm": "14:05",
+   "match": "Kasımpaşa x Trabzonspor",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.67
+  },
   {
    "data": "2026-08-15 13:52:50",
    "tm": "13:52",
@@ -401,6 +491,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-15 13:41:09",
+   "tm": "13:41",
+   "match": "Kasımpaşa x Trabzonspor",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.4,
+   "status": "green",
+   "pl": 4.76
+  },
+  {
    "data": "2026-08-15 13:38:51",
    "tm": "13:38",
    "match": "Alverca vs Estrela Amadora",
@@ -409,6 +509,16 @@
    "odd": 10.0,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 13:07:15",
+   "tm": "13:07",
+   "match": "FC Andorra x AD Ceuta",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.5,
+   "status": "red",
+   "pl": -15.53
   },
   {
    "data": "2026-08-15 13:03:06",
@@ -883,28 +993,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 49,
-   "g": 31,
-   "r": 18,
-   "pl": 17.02,
-   "wr": 63,
+   "ent": 60,
+   "g": 36,
+   "r": 24,
+   "pl": -21.15,
+   "wr": 60,
    "label": "15/08"
   },
   "mes": {
-   "ent": 961,
-   "g": 668,
-   "r": 293,
-   "pl": 260.87,
-   "wr": 70,
+   "ent": 972,
+   "g": 673,
+   "r": 299,
+   "pl": 222.7,
+   "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": 17.02,
-   "ops": 49,
-   "g": 31,
-   "r": 18
+   "pl": -21.15,
+   "ops": 60,
+   "g": 36,
+   "r": 24
   },
   "2026-08-14": {
    "pl": -6.64,
