@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T19:00",
+ "gerado_em": "2026-08-15T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 554,
+   "g": 555,
    "r": 6,
-   "pl": 345.63,
+   "pl": 347.11,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -345,6 +345,17 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 79,
+   "r": 60,
+   "pl": 2.21,
+   "roi": -0.2,
+   "wr": 56.8,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -367,17 +378,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 78,
-   "r": 60,
-   "pl": 0.59,
-   "roi": -0.2,
-   "wr": 56.5,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -390,6 +390,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-15 19:22:41",
+   "tm": "19:22",
+   "match": "Athletico PR vs Bragantino",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.62
+  },
   {
    "data": "2026-08-15 18:42:30",
    "tm": "18:42",
@@ -539,6 +549,16 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 17:10:13",
+   "tm": "17:10",
+   "match": "Estudiantes de Mérida x Anzoátegui FC",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-15 17:08:07",
@@ -969,51 +989,31 @@
    "odd": 1.3,
    "status": "red",
    "pl": -1.86
-  },
-  {
-   "data": "2026-08-15 12:02:53",
-   "tm": "12:02",
-   "match": "Borussia Mönchengladbach vs Aston Villa",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -2.69
-  },
-  {
-   "data": "2026-08-15 11:58:59",
-   "tm": "11:58",
-   "match": "SalPa vs Jazz",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.4,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 93,
-   "g": 58,
+   "ent": 95,
+   "g": 60,
    "r": 35,
-   "pl": -33.87,
-   "wr": 62,
+   "pl": -30.77,
+   "wr": 63,
    "label": "15/08"
   },
   "mes": {
-   "ent": 1005,
-   "g": 695,
+   "ent": 1007,
+   "g": 697,
    "r": 310,
-   "pl": 209.98,
+   "pl": 213.08,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -33.87,
-   "ops": 93,
-   "g": 58,
+   "pl": -30.77,
+   "ops": 95,
+   "g": 60,
    "r": 35
   },
   "2026-08-14": {
