@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T18:00",
+ "gerado_em": "2026-08-15T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 353,
+   "g": 354,
    "r": 23,
-   "pl": 104.0,
+   "pl": 106.37,
    "roi": 1.0,
    "wr": 93.9,
    "st": "ap"
@@ -40,11 +40,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 447,
-   "r": 133,
-   "pl": 15.14,
+   "g": 448,
+   "r": 134,
+   "pl": 14.06,
    "roi": 2.0,
-   "wr": 77.1,
+   "wr": 77.0,
    "st": "ap"
   },
   {
@@ -74,19 +74,19 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 105,
-   "pl": 112.07,
+   "r": 106,
+   "pl": 110.07,
    "roi": 3.7,
-   "wr": 16.7,
+   "wr": 16.5,
    "st": "val"
   },
   {
    "n": "RAMPART",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 36,
+   "g": 37,
    "r": 0,
-   "pl": 95.98,
+   "pl": 99.25,
    "roi": 6.4,
    "wr": 100.0,
    "st": "val"
@@ -106,11 +106,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 122,
+   "g": 123,
    "r": 8,
-   "pl": 76.12,
+   "pl": 76.99,
    "roi": 0.0,
-   "wr": 93.8,
+   "wr": 93.9,
    "st": "val"
   },
   {
@@ -169,25 +169,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 100,
-   "r": 7,
-   "pl": 45.45,
-   "roi": 1.3,
-   "wr": 93.5,
-   "st": "val"
-  },
-  {
    "n": "CAÇADOR 2-1",
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 31,
-   "pl": 45.26,
+   "r": 32,
+   "pl": 43.26,
    "roi": 131.0,
-   "wr": 18.4,
+   "wr": 17.9,
    "st": "val"
   },
   {
@@ -199,6 +188,17 @@
    "pl": 32.83,
    "roi": 4.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 101,
+   "r": 8,
+   "pl": 31.81,
+   "roi": 1.3,
+   "wr": 92.7,
    "st": "val"
   },
   {
@@ -216,22 +216,11 @@
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 38,
+   "g": 39,
    "r": 4,
-   "pl": 25.2,
+   "pl": 26.87,
    "roi": 16.0,
-   "wr": 90.5,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 49,
-   "r": 3,
-   "pl": 22.46,
-   "roi": 9.0,
-   "wr": 94.2,
+   "wr": 90.7,
    "st": "val"
   },
   {
@@ -268,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 193,
+   "r": 84,
+   "pl": 16.19,
+   "roi": 2.0,
+   "wr": 69.7,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -279,14 +279,14 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 191,
-   "r": 84,
-   "pl": 14.58,
-   "roi": 2.0,
-   "wr": 69.5,
+   "g": 50,
+   "r": 4,
+   "pl": 8.53,
+   "roi": 9.0,
+   "wr": 92.6,
    "st": "val"
   },
   {
@@ -391,6 +391,76 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-15 18:42:30",
+   "tm": "18:42",
+   "match": "Estudiantes vs Gimnasia La Plata",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "red",
+   "pl": -15.0
+  },
+  {
+   "data": "2026-08-15 18:22:36",
+   "tm": "18:22",
+   "match": "Torino vs Carrarese",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-08-15 18:12:41",
+   "tm": "18:12",
+   "match": "Criciúma vs Goiás",
+   "bot": "RAMPART",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 3.27
+  },
+  {
+   "data": "2026-08-15 18:05:05",
+   "tm": "18:05",
+   "match": "Estudiantes de La Plata x Gimnasia y Esgrima",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.87
+  },
+  {
+   "data": "2026-08-15 18:02:40",
+   "tm": "18:02",
+   "match": "Atlético GO vs Vila Nova",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 17:54:16",
+   "tm": "17:54",
+   "match": "Rio Ave x FC Porto",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 0.92
+  },
+  {
+   "data": "2026-08-15 17:50:12",
+   "tm": "17:50",
+   "match": "Estudiantes de La Plata x Gimnasia y Esgrima",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "red",
+   "pl": -15.6
+  },
+  {
    "data": "2026-08-15 17:42:37",
    "tm": "17:42",
    "match": "Kaiserslautern vs Karlsruher SC",
@@ -399,6 +469,26 @@
    "odd": 2.7,
    "status": "green",
    "pl": 3.0
+  },
+  {
+   "data": "2026-08-15 17:41:06",
+   "tm": "17:41",
+   "match": "Fluminense x Palmeiras",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 0.87
+  },
+  {
+   "data": "2026-08-15 17:41:06",
+   "tm": "17:41",
+   "match": "Fluminense x Palmeiras",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.75
   },
   {
    "data": "2026-08-15 17:32:06",
@@ -411,6 +501,16 @@
    "pl": 1.7
   },
   {
+   "data": "2026-08-15 17:23:17",
+   "tm": "17:23",
+   "match": "Torino x Carrarese",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-08-15 17:20:07",
    "tm": "17:20",
    "match": "Atlético Goianiense x Vila Nova FC",
@@ -421,12 +521,32 @@
    "pl": 1.19
   },
   {
+   "data": "2026-08-15 17:14:07",
+   "tm": "17:14",
+   "match": "Criciúma x Goiás",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-15 17:12:44",
    "tm": "17:12",
    "match": "Rapid Bucuresti vs Dinamo Bucureşti",
    "bot": "OVERLORD-A",
    "mkt": "Lay Over 0.5 FT",
    "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-15 17:08:07",
+   "tm": "17:08",
+   "match": "Atlético Goianiense x Vila Nova FC",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.6,
    "status": "red",
    "pl": -2.0
   },
@@ -441,6 +561,16 @@
    "pl": 1.23
   },
   {
+   "data": "2026-08-15 16:28:07",
+   "tm": "16:28",
+   "match": "Ceará x Cuiabá",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
    "data": "2026-08-15 16:27:15",
    "tm": "16:27",
    "match": "Al-Nassr x Al-Fateh",
@@ -449,6 +579,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.7
+  },
+  {
+   "data": "2026-08-15 16:24:07",
+   "tm": "16:24",
+   "match": "Criciúma x Goiás",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 2.37
   },
   {
    "data": "2026-08-15 16:14:18",
@@ -849,172 +989,32 @@
    "odd": 8.4,
    "status": "red",
    "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 11:58:58",
-   "tm": "11:58",
-   "match": "Zagłębie Lubin vs Śląsk Wrocław",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.0,
-   "status": "green",
-   "pl": 16.0
-  },
-  {
-   "data": "2026-08-15 11:42:10",
-   "tm": "11:42",
-   "match": "FC Bayern München x RB Leipzig",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.43
-  },
-  {
-   "data": "2026-08-15 11:41:09",
-   "tm": "11:41",
-   "match": "Barnet x Salford City",
-   "bot": "MURALHA CASA-40",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 1.07
-  },
-  {
-   "data": "2026-08-15 11:27:09",
-   "tm": "11:27",
-   "match": "Burton Albion x Stevenage",
-   "bot": "SENTINELA 0x1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-15 11:21:10",
-   "tm": "11:21",
-   "match": "Barnsley x Bromley",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 60.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-08-15 11:20:09",
-   "tm": "11:20",
-   "match": "Middlesbrough x Lincoln City",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 50.0,
-   "status": "green",
-   "pl": 1.63
-  },
-  {
-   "data": "2026-08-15 11:08:48",
-   "tm": "11:08",
-   "match": "Yunnan Yukun vs Dalian Yingbo",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 11:02:44",
-   "tm": "11:02",
-   "match": "Fortuna Düsseldorf vs Hoffenheim II",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 0.83
-  },
-  {
-   "data": "2026-08-15 11:02:41",
-   "tm": "11:02",
-   "match": "Rot-Weiss Essen vs Havelse",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 2.78
-  },
-  {
-   "data": "2026-08-15 10:58:57",
-   "tm": "10:58",
-   "match": "Shanghai Shenhua vs Henan Songshan Longmen",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 10:58:57",
-   "tm": "10:58",
-   "match": "Fortuna Düsseldorf vs Hoffenheim II",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.6,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-15 10:52:38",
-   "tm": "10:52",
-   "match": "Yunnan Yukun vs Dalian Yingbo",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -1.93
-  },
-  {
-   "data": "2026-08-15 10:52:18",
-   "tm": "10:52",
-   "match": "Zagłębie Lubin x Śląsk Wrocław",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.52
-  },
-  {
-   "data": "2026-08-15 10:32:47",
-   "tm": "10:32",
-   "match": "Rot-Weiss Essen vs Havelse",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.96
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 79,
-   "g": 49,
-   "r": 30,
-   "pl": -11.01,
+   "ent": 93,
+   "g": 58,
+   "r": 35,
+   "pl": -33.87,
    "wr": 62,
    "label": "15/08"
   },
   "mes": {
-   "ent": 991,
-   "g": 686,
-   "r": 305,
-   "pl": 232.84,
+   "ent": 1005,
+   "g": 695,
+   "r": 310,
+   "pl": 209.98,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -11.01,
-   "ops": 79,
-   "g": 49,
-   "r": 30
+   "pl": -33.87,
+   "ops": 93,
+   "g": 58,
+   "r": 35
   },
   "2026-08-14": {
    "pl": -6.64,
