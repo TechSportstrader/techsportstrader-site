@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T21:00",
+ "gerado_em": "2026-08-15T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 43,
-   "pl": 26.87,
+   "ent": 44,
+   "pl": 28.54,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 45,
-   "pl": -13.46,
+   "ent": 46,
+   "pl": -11.85,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 26,
-   "pl": 2.01,
+   "ent": 27,
+   "pl": 2.06,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 53,
-   "pl": -20.73,
+   "ent": 54,
+   "pl": -19.17,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 214,
-   "pl": -3.81,
+   "ent": 215,
+   "pl": -1.73,
    "roi": -0.3,
    "plat": "Bolsa"
   }
