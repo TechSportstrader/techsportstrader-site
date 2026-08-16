@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T08:00",
+ "gerado_em": "2026-08-16T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 87,
-   "r": 145,
-   "pl": 64.95,
+   "r": 146,
+   "pl": 63.85,
    "roi": 6.7,
-   "wr": 37.5,
+   "wr": 37.3,
    "st": "val"
   },
   {
@@ -380,6 +380,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-16 08:52:35",
+   "tm": "08:52",
+   "match": "Daegu vs Chungnam Asan",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.1
+  },
+  {
    "data": "2026-08-16 06:42:38",
    "tm": "06:42",
    "match": "Yokohama vs Júbilo Iwata",
@@ -452,28 +462,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
+   "ent": 8,
    "g": 4,
-   "r": 3,
-   "pl": 3.06,
-   "wr": 57,
+   "r": 4,
+   "pl": 1.96,
+   "wr": 50,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1076,
+   "ent": 1077,
    "g": 749,
-   "r": 327,
-   "pl": 181.95,
+   "r": 328,
+   "pl": 180.85,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 3.06,
-   "ops": 7,
+   "pl": 1.96,
+   "ops": 8,
    "g": 4,
-   "r": 3
+   "r": 4
   },
   "2026-08-15": {
    "pl": -2.51,
