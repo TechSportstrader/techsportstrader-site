@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T15:00",
+ "gerado_em": "2026-08-16T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -173,10 +173,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 35,
-   "pl": 37.26,
+   "r": 36,
+   "pl": 35.26,
    "roi": 131.0,
-   "wr": 16.7,
+   "wr": 16.3,
    "st": "val"
   },
   {
@@ -238,9 +238,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 66,
+   "g": 67,
    "r": 2,
-   "pl": 20.68,
+   "pl": 21.34,
    "roi": 3.0,
    "wr": 97.1,
    "st": "val"
@@ -290,17 +290,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 85,
-   "r": 45,
-   "pl": 4.71,
-   "roi": 1.0,
-   "wr": 65.4,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -320,6 +309,17 @@
    "pl": 3.74,
    "roi": -0.3,
    "wr": 84.9,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 85,
+   "r": 46,
+   "pl": 2.71,
+   "roi": 1.0,
+   "wr": 64.9,
    "st": "val"
   },
   {
@@ -401,6 +401,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-16 15:51:08",
+   "tm": "15:51",
+   "match": "Beşiktaş JK x Eyüpspor",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 15:23:14",
+   "tm": "15:23",
+   "match": "Girona FC x Leganés",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 15:01:08",
+   "tm": "15:01",
+   "match": "Lommel SK x RC Sporting Charleroi",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.66
+  },
   {
    "data": "2026-08-16 14:07:17",
    "tm": "14:07",
@@ -914,28 +944,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 51,
-   "g": 36,
-   "r": 15,
-   "pl": 39.82,
-   "wr": 71,
+   "ent": 54,
+   "g": 37,
+   "r": 17,
+   "pl": 36.48,
+   "wr": 69,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1190,
-   "g": 842,
-   "r": 348,
-   "pl": 182.18,
+   "ent": 1193,
+   "g": 843,
+   "r": 350,
+   "pl": 178.83,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 39.82,
-   "ops": 51,
-   "g": 36,
-   "r": 15
+   "pl": 36.48,
+   "ops": 54,
+   "g": 37,
+   "r": 17
   },
   "2026-08-15": {
    "pl": -36.15,
