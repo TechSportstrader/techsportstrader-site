@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T16:00",
+ "gerado_em": "2026-08-16T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,9 +40,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 452,
-   "r": 138,
-   "pl": 8.17,
+   "g": 454,
+   "r": 139,
+   "pl": 7.07,
    "roi": 2.0,
    "wr": 76.6,
    "st": "ap"
@@ -402,6 +402,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-16 16:25:08",
+   "tm": "16:25",
+   "match": "Górnik Zabrze x Wisła Kraków",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
+   "data": "2026-08-16 16:05:09",
+   "tm": "16:05",
+   "match": "FC Slovan Liberec x SK Slavia Praha",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.48
+  },
+  {
    "data": "2026-08-16 15:51:08",
    "tm": "15:51",
    "match": "Beşiktaş JK x Eyüpspor",
@@ -418,6 +438,16 @@
    "bot": "CAÇADOR 2-1",
    "mkt": "Back Placar 2x1",
    "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 15:20:26",
+   "tm": "15:20",
+   "match": "Fredrikstad FK x Kristiansund BK",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
    "status": "red",
    "pl": -2.0
   },
@@ -944,28 +974,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 54,
-   "g": 37,
-   "r": 17,
-   "pl": 36.48,
-   "wr": 69,
+   "ent": 57,
+   "g": 39,
+   "r": 18,
+   "pl": 35.38,
+   "wr": 68,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1193,
-   "g": 843,
-   "r": 350,
-   "pl": 178.83,
+   "ent": 1196,
+   "g": 845,
+   "r": 351,
+   "pl": 177.73,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 36.48,
-   "ops": 54,
-   "g": 37,
-   "r": 17
+   "pl": 35.38,
+   "ops": 57,
+   "g": 39,
+   "r": 18
   },
   "2026-08-15": {
    "pl": -36.15,
