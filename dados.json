@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T20:00",
+ "gerado_em": "2026-08-15T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 555,
+   "g": 556,
    "r": 6,
-   "pl": 347.11,
+   "pl": 348.59,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -95,9 +95,9 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 71,
+   "g": 72,
    "r": 4,
-   "pl": 85.42,
+   "pl": 90.27,
    "roi": 1.0,
    "wr": 94.7,
    "st": "val"
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 85,
+   "g": 86,
    "r": 145,
-   "pl": 59.37,
+   "pl": 61.87,
    "roi": 6.7,
-   "wr": 37.0,
+   "wr": 37.2,
    "st": "val"
   },
   {
@@ -173,10 +173,10 @@
    "s": "Back Placar 2x1 · BotBet",
    "plat": "BotBet",
    "g": 7,
-   "r": 32,
-   "pl": 43.26,
+   "r": 33,
+   "pl": 41.26,
    "roi": 131.0,
-   "wr": 17.9,
+   "wr": 17.5,
    "st": "val"
   },
   {
@@ -260,11 +260,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 193,
+   "g": 195,
    "r": 84,
-   "pl": 16.19,
+   "pl": 17.44,
    "roi": 2.0,
-   "wr": 69.7,
+   "wr": 69.9,
    "st": "val"
   },
   {
@@ -348,11 +348,11 @@
    "n": "VIGIA HT-A",
    "s": "Under 0.5 HT · Bolsa",
    "plat": "Bolsa",
-   "g": 79,
+   "g": 80,
    "r": 60,
-   "pl": 2.21,
+   "pl": 3.71,
    "roi": -0.2,
-   "wr": 56.8,
+   "wr": 57.1,
    "st": "val"
   },
   {
@@ -391,6 +391,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-15 20:52:38",
+   "tm": "20:52",
+   "match": "Atlante vs Toluca",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-08-15 20:32:43",
+   "tm": "20:32",
+   "match": "Juventude vs Fortaleza",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 2.5
+  },
+  {
+   "data": "2026-08-15 19:50:05",
+   "tm": "19:50",
+   "match": "Deportes Limache x Universidad de Chile",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.65
+  },
+  {
+   "data": "2026-08-15 19:45:15",
+   "tm": "19:45",
+   "match": "Deportes Limache x Universidad de Chile",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 4.85
+  },
+  {
+   "data": "2026-08-15 19:28:05",
+   "tm": "19:28",
+   "match": "Guabirá x The Strongest",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.6
+  },
+  {
    "data": "2026-08-15 19:22:41",
    "tm": "19:22",
    "match": "Athletico PR vs Bragantino",
@@ -401,6 +451,16 @@
    "pl": 1.62
   },
   {
+   "data": "2026-08-15 19:21:11",
+   "tm": "19:21",
+   "match": "Universidad Central x Caracas F.C.",
+   "bot": "CAÇADOR 2-1",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-15 18:42:30",
    "tm": "18:42",
    "match": "Estudiantes vs Gimnasia La Plata",
@@ -409,6 +469,16 @@
    "odd": 11.5,
    "status": "red",
    "pl": -15.0
+  },
+  {
+   "data": "2026-08-15 18:37:22",
+   "tm": "18:37",
+   "match": "Universidad Central x Caracas F.C.",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-15 18:22:36",
@@ -919,102 +989,32 @@
    "odd": 1.7,
    "status": "red",
    "pl": -1.94
-  },
-  {
-   "data": "2026-08-15 12:28:52",
-   "tm": "12:28",
-   "match": "FC Bayern München vs RB Leipzig",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 10.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-15 12:24:10",
-   "tm": "12:24",
-   "match": "Charlton Athletic x Derby County",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.35
-  },
-  {
-   "data": "2026-08-15 12:22:10",
-   "tm": "12:22",
-   "match": "Middlesbrough x Lincoln City",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.03
-  },
-  {
-   "data": "2026-08-15 12:17:10",
-   "tm": "12:17",
-   "match": "Barnet x Salford City",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-15 12:16:11",
-   "tm": "12:16",
-   "match": "Hull City x Nice",
-   "bot": "LOWLINE",
-   "mkt": "Under 3.5 FT",
-   "odd": 1.0,
-   "status": "green",
-   "pl": 0.12
-  },
-  {
-   "data": "2026-08-15 12:15:10",
-   "tm": "12:15",
-   "match": "Willem II Tilburg x NEC Nijmegen",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.75
-  },
-  {
-   "data": "2026-08-15 12:03:00",
-   "tm": "12:03",
-   "match": "FC Bayern München vs RB Leipzig",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.86
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 95,
-   "g": 60,
-   "r": 35,
-   "pl": -30.77,
-   "wr": 63,
+   "ent": 102,
+   "g": 66,
+   "r": 36,
+   "pl": -21.19,
+   "wr": 65,
    "label": "15/08"
   },
   "mes": {
-   "ent": 1007,
-   "g": 697,
-   "r": 310,
-   "pl": 213.08,
+   "ent": 1014,
+   "g": 703,
+   "r": 311,
+   "pl": 222.66,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-15": {
-   "pl": -30.77,
-   "ops": 95,
-   "g": 60,
-   "r": 35
+   "pl": -21.19,
+   "ops": 102,
+   "g": 66,
+   "r": 36
   },
   "2026-08-14": {
    "pl": -6.64,
