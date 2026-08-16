@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T14:00",
+ "gerado_em": "2026-08-16T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 589,
-   "pl": 7.6,
+   "ent": 590,
+   "pl": 8.17,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -135,9 +135,9 @@
    "plat": "BotBet"
   },
   "MURALHA CASA-40": {
-   "st": "rep",
-   "ent": 59,
-   "pl": -0.29,
+   "st": "val",
+   "ent": 60,
+   "pl": 0.96,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -157,15 +157,15 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 29,
-   "pl": -57.07,
+   "ent": 30,
+   "pl": -55.04,
    "roi": 13.0,
    "plat": "BotBet"
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 41,
-   "pl": 39.26,
+   "ent": 42,
+   "pl": 37.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -395,13 +395,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 108,
-   "pl": 10.29,
+   "ent": 110,
+   "pl": 8.35,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
-   "ent": 29,
-   "pl": 25.37,
+   "ent": 30,
+   "pl": 26.73,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
@@ -420,8 +420,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay under 1.5 Ht": {
-   "ent": 23,
-   "pl": 3.97,
+   "ent": 24,
+   "pl": 6.24,
    "plat": "BotBet"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
