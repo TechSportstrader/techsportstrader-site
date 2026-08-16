@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T23:00",
+ "gerado_em": "2026-08-16T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 280,
-   "pl": 18.26,
+   "ent": 282,
+   "pl": 14.26,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -135,9 +135,9 @@
    "plat": "BotBet"
   },
   "MURALHA CASA-40": {
-   "st": "val",
-   "ent": 55,
-   "pl": 10.03,
+   "st": "rep",
+   "ent": 56,
+   "pl": -4.97,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 40,
-   "pl": 41.26,
+   "ent": 41,
+   "pl": 39.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 74,
-   "pl": -6.28,
+   "ent": 75,
+   "pl": -5.19,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 106,
-   "pl": 54.48,
+   "ent": 107,
+   "pl": 56.02,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 110,
-   "pl": 32.96,
+   "ent": 111,
+   "pl": 17.96,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -317,9 +317,9 @@
    "plat": "Bolsa"
   },
   "MURALHA CASA-22 (Bolsa)": {
-   "st": "val",
-   "ent": 42,
-   "pl": 6.05,
+   "st": "rep",
+   "ent": 43,
+   "pl": -28.95,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -395,8 +395,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 104,
-   "pl": 14.62,
+   "ent": 105,
+   "pl": 10.62,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
