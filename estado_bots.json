@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T22:00",
+ "gerado_em": "2026-08-15T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 562,
-   "pl": 348.59,
+   "ent": 563,
+   "pl": 349.6,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 582,
-   "pl": 14.06,
+   "ent": 583,
+   "pl": 14.52,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 279,
-   "pl": 17.44,
+   "ent": 280,
+   "pl": 18.26,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 377,
-   "pl": 106.37,
+   "ent": 378,
+   "pl": 107.72,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 84,
-   "pl": 20.34,
+   "ent": 86,
+   "pl": 25.37,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -108,8 +108,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 16,
-   "pl": 7.46,
+   "ent": 17,
+   "pl": 13.46,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 54,
-   "pl": 8.53,
+   "ent": 55,
+   "pl": 10.03,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 109,
-   "pl": 136.22,
+   "ent": 110,
+   "pl": 139.16,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 27,
-   "pl": 2.06,
+   "ent": 28,
+   "pl": 2.17,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 445,
-   "pl": 68.77,
+   "ent": 446,
+   "pl": 69.98,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 109,
-   "pl": 31.81,
+   "ent": 110,
+   "pl": 32.96,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 65,
-   "pl": -29.66,
+   "ent": 66,
+   "pl": -28.19,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 163,
-   "pl": 56.98,
+   "ent": 164,
+   "pl": 57.93,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 215,
-   "pl": -1.73,
+   "ent": 216,
+   "pl": -0.06,
    "roi": -0.3,
    "plat": "Bolsa"
   }
