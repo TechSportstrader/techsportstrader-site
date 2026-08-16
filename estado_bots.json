@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T09:00",
+ "gerado_em": "2026-08-16T10:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 127,
-   "pl": 5.02,
+   "ent": 129,
+   "pl": 3.94,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 233,
-   "pl": 63.85,
+   "ent": 234,
+   "pl": 66.79,
    "roi": 6.7,
    "plat": "Bolsa"
   },
