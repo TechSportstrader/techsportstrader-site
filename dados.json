@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T10:00",
+ "gerado_em": "2026-08-16T11:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 557,
+   "g": 559,
    "r": 6,
-   "pl": 349.6,
+   "pl": 352.21,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -29,22 +29,22 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 265,
+   "g": 266,
    "r": 182,
-   "pl": 71.21,
+   "pl": 72.41,
    "roi": 1.5,
-   "wr": 59.3,
+   "wr": 59.4,
    "st": "ap"
   },
   {
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 449,
-   "r": 134,
-   "pl": 14.52,
+   "g": 450,
+   "r": 135,
+   "pl": 13.08,
    "roi": 2.0,
-   "wr": 77.0,
+   "wr": 76.9,
    "st": "ap"
   },
   {
@@ -106,11 +106,22 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 124,
+   "g": 126,
    "r": 8,
-   "pl": 80.07,
+   "pl": 85.45,
    "roi": 0.0,
-   "wr": 93.9,
+   "wr": 94.0,
+   "st": "val"
+  },
+  {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 89,
+   "r": 146,
+   "pl": 70.07,
+   "roi": 6.7,
+   "wr": 37.9,
    "st": "val"
   },
   {
@@ -122,17 +133,6 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 88,
-   "r": 146,
-   "pl": 66.79,
-   "roi": 6.7,
-   "wr": 37.6,
    "st": "val"
   },
   {
@@ -257,6 +257,17 @@
    "st": "val"
   },
   {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 198,
+   "r": 86,
+   "pl": 15.83,
+   "roi": 2.0,
+   "wr": 69.7,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -265,17 +276,6 @@
    "pl": 15.55,
    "roi": 4.0,
    "wr": 91.2,
-   "st": "val"
-  },
-  {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 197,
-   "r": 86,
-   "pl": 15.04,
-   "roi": 2.0,
-   "wr": 69.6,
    "st": "val"
   },
   {
@@ -312,12 +312,23 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 1.5",
+   "s": "Lay Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 22,
+   "r": 12,
+   "pl": 2.78,
+   "roi": -5.0,
+   "wr": 64.7,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 28,
+   "g": 29,
    "r": 0,
-   "pl": 2.17,
+   "pl": 2.4,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -356,17 +367,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 1.5",
-   "s": "Lay Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 20,
-   "r": 12,
-   "pl": 0.93,
-   "roi": -5.0,
-   "wr": 62.5,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -379,6 +379,116 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-16 10:53:05",
+   "tm": "10:53",
+   "match": "Nordsjælland vs Silkeborg IF",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.2
+  },
+  {
+   "data": "2026-08-16 10:17:26",
+   "tm": "10:17",
+   "match": "IF Brommapojkarna x Örgryte IS",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.78
+  },
+  {
+   "data": "2026-08-16 10:13:26",
+   "tm": "10:13",
+   "match": "FC Nordsjælland x Silkeborg IF",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.23
+  },
+  {
+   "data": "2026-08-16 10:12:36",
+   "tm": "10:12",
+   "match": "Odense Boldklub x AC Horsens",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 26.0,
+   "status": "green",
+   "pl": 2.37
+  },
+  {
+   "data": "2026-08-16 10:11:26",
+   "tm": "10:11",
+   "match": "IF Brommapojkarna x Örgryte IS",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.56
+  },
+  {
+   "data": "2026-08-16 10:08:26",
+   "tm": "10:08",
+   "match": "FC Nordsjælland x Silkeborg IF",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 20.0,
+   "status": "green",
+   "pl": 3.01
+  },
+  {
+   "data": "2026-08-16 10:04:26",
+   "tm": "10:04",
+   "match": "FC Nordsjælland x Silkeborg IF",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.04
+  },
+  {
+   "data": "2026-08-16 10:02:33",
+   "tm": "10:02",
+   "match": "Suzhou Dongwu vs Nantong Zhiyun",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.28
+  },
+  {
+   "data": "2026-08-16 09:38:06",
+   "tm": "09:38",
+   "match": "Hannover 96 x VfL Wolfsburg",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.81
+  },
+  {
+   "data": "2026-08-16 09:38:06",
+   "tm": "09:38",
+   "match": "SG Dynamo Dresden x Darmstadt 98",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 09:09:25",
+   "tm": "09:09",
+   "match": "IF Brommapojkarna x Örgryte IS",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
+  },
   {
    "data": "2026-08-16 09:02:54",
    "tm": "09:02",
@@ -418,6 +528,16 @@
    "odd": 1.7,
    "status": "green",
    "pl": 0.92
+  },
+  {
+   "data": "2026-08-16 08:36:15",
+   "tm": "08:36",
+   "match": "Arminia Bielefeld x Energie Cottbus",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-16 06:42:38",
@@ -492,28 +612,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 11,
-   "g": 6,
-   "r": 5,
-   "pl": 3.82,
-   "wr": 55,
+   "ent": 23,
+   "g": 17,
+   "r": 6,
+   "pl": 17.71,
+   "wr": 74,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1080,
-   "g": 751,
-   "r": 329,
-   "pl": 182.7,
+   "ent": 1092,
+   "g": 762,
+   "r": 330,
+   "pl": 196.59,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 3.82,
-   "ops": 11,
-   "g": 6,
-   "r": 5
+   "pl": 17.71,
+   "ops": 23,
+   "g": 17,
+   "r": 6
   },
   "2026-08-15": {
    "pl": -2.51,
