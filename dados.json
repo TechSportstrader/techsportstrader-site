@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T11:00",
+ "gerado_em": "2026-08-16T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 266,
-   "r": 182,
-   "pl": 72.41,
+   "r": 183,
+   "pl": 70.62,
    "roi": 1.5,
-   "wr": 59.4,
+   "wr": 59.2,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 106,
-   "pl": 110.07,
+   "r": 107,
+   "pl": 108.07,
    "roi": 3.7,
-   "wr": 16.5,
+   "wr": 16.4,
    "st": "val"
   },
   {
@@ -114,17 +114,6 @@
    "st": "val"
   },
   {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 89,
-   "r": 146,
-   "pl": 70.07,
-   "roi": 6.7,
-   "wr": 37.9,
-   "st": "val"
-  },
-  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -136,14 +125,14 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 99,
-   "r": 65,
-   "pl": 57.93,
-   "roi": -0.2,
-   "wr": 60.4,
+   "g": 89,
+   "r": 147,
+   "pl": 68.07,
+   "roi": 6.7,
+   "wr": 37.7,
    "st": "val"
   },
   {
@@ -155,6 +144,17 @@
    "pl": 56.02,
    "roi": 4.0,
    "wr": 89.7,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 99,
+   "r": 66,
+   "pl": 56.0,
+   "roi": -0.2,
+   "wr": 60.0,
    "st": "val"
   },
   {
@@ -249,11 +249,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 102,
+   "g": 103,
    "r": 9,
-   "pl": 17.96,
+   "pl": 19.03,
    "roi": 1.3,
-   "wr": 91.9,
+   "wr": 92.0,
    "st": "val"
   },
   {
@@ -312,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "WARDEN-30",
+   "s": "Lay Placar 0x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 185,
+   "r": 33,
+   "pl": 3.74,
+   "roi": -0.3,
+   "wr": 84.9,
+   "st": "val"
+  },
+  {
    "n": "MURALHA 1.5",
    "s": "Lay Over 1.5 FT · BotBet",
    "plat": "BotBet",
@@ -356,17 +367,6 @@
    "st": "val"
   },
   {
-   "n": "WARDEN-30",
-   "s": "Lay Placar 0x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 184,
-   "r": 33,
-   "pl": 1.61,
-   "roi": -0.3,
-   "wr": 84.8,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -379,6 +379,66 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-16 11:52:59",
+   "tm": "11:52",
+   "match": "Stenhousemuir vs Motherwell",
+   "bot": "WARDEN-30",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.7,
+   "status": "green",
+   "pl": 2.13
+  },
+  {
+   "data": "2026-08-16 11:52:59",
+   "tm": "11:52",
+   "match": "Inter Turku II vs KPV",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 11:22:44",
+   "tm": "11:22",
+   "match": "Inter Turku II vs KPV",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.93
+  },
+  {
+   "data": "2026-08-16 11:22:44",
+   "tm": "11:22",
+   "match": "Chippa United vs Orlando Pirates",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 11:13:12",
+   "tm": "11:13",
+   "match": "Brommapojkarna vs Örgryte",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 15.0,
+   "status": "green",
+   "pl": 1.07
+  },
+  {
+   "data": "2026-08-16 11:03:01",
+   "tm": "11:03",
+   "match": "Feyenoord vs Go Ahead Eagles",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.79
+  },
   {
    "data": "2026-08-16 10:53:05",
    "tm": "10:53",
@@ -612,28 +672,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 17,
-   "r": 6,
-   "pl": 17.71,
-   "wr": 74,
+   "ent": 29,
+   "g": 19,
+   "r": 10,
+   "pl": 13.19,
+   "wr": 66,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1092,
-   "g": 762,
-   "r": 330,
-   "pl": 196.59,
+   "ent": 1098,
+   "g": 764,
+   "r": 334,
+   "pl": 192.07,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 17.71,
-   "ops": 23,
-   "g": 17,
-   "r": 6
+   "pl": 13.19,
+   "ops": 29,
+   "g": 19,
+   "r": 10
   },
   "2026-08-15": {
    "pl": -2.51,
