@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T17:00",
+ "gerado_em": "2026-08-16T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 559,
+   "g": 561,
    "r": 6,
-   "pl": 352.21,
+   "pl": 354.82,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -41,10 +41,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 454,
-   "r": 139,
-   "pl": 7.07,
+   "r": 141,
+   "pl": 3.07,
    "roi": 2.0,
-   "wr": 76.6,
+   "wr": 76.3,
    "st": "ap"
   },
   {
@@ -268,17 +268,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 199,
-   "r": 86,
-   "pl": 17.61,
-   "roi": 2.0,
-   "wr": 69.8,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -287,6 +276,17 @@
    "pl": 15.81,
    "roi": -100.0,
    "wr": 42.1,
+   "st": "val"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 199,
+   "r": 87,
+   "pl": 15.61,
+   "roi": 2.0,
+   "wr": 69.6,
    "st": "val"
   },
   {
@@ -326,9 +326,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 29,
+   "g": 30,
    "r": 0,
-   "pl": 2.4,
+   "pl": 2.51,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -402,6 +402,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-16 17:05:05",
+   "tm": "17:05",
+   "match": "RC Lens x Paris Saint-Germain",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 16:44:13",
+   "tm": "16:44",
+   "match": "Mardin 1969 Spor x Antalyaspor",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 16:41:08",
+   "tm": "16:41",
+   "match": "Beşiktaş JK x Eyüpspor",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-16 16:25:08",
    "tm": "16:25",
    "match": "Górnik Zabrze x Wisła Kraków",
@@ -410,6 +440,16 @@
    "odd": 1.2,
    "status": "green",
    "pl": 0.42
+  },
+  {
+   "data": "2026-08-16 16:14:19",
+   "tm": "16:14",
+   "match": "Pumas UNAM x Querétaro FC",
+   "bot": "LOWLINE",
+   "mkt": "Under 3.5 FT",
+   "odd": 1.0,
+   "status": "green",
+   "pl": 0.11
   },
   {
    "data": "2026-08-16 16:05:09",
@@ -432,6 +472,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-16 15:39:06",
+   "tm": "15:39",
+   "match": "Amed Sportif Faaliyetler x Erzurumspor FK",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
    "data": "2026-08-16 15:23:14",
    "tm": "15:23",
    "match": "Girona FC x Leganés",
@@ -450,6 +500,16 @@
    "odd": 1.3,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 15:06:09",
+   "tm": "15:06",
+   "match": "Pumas UNAM x Querétaro FC",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
   },
   {
    "data": "2026-08-16 15:01:08",
@@ -940,62 +1000,32 @@
    "odd": 2.3,
    "status": "green",
    "pl": 1.23
-  },
-  {
-   "data": "2026-08-16 00:42:30",
-   "tm": "00:42",
-   "match": "Real Salt Lake vs Minnesota United",
-   "bot": "WARDEN-30",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-16 00:22:34",
-   "tm": "00:22",
-   "match": "Alianza vs Cacahuatique",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 3.08
-  },
-  {
-   "data": "2026-08-16 00:15:21",
-   "tm": "00:15",
-   "match": "Oakland Roots SC x Monterey Bay FC",
-   "bot": "BASTION",
-   "mkt": "Lay Goleada Casa",
-   "odd": 27.0,
-   "status": "green",
-   "pl": 3.08
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 57,
-   "g": 39,
-   "r": 18,
-   "pl": 35.38,
-   "wr": 68,
+   "ent": 63,
+   "g": 42,
+   "r": 21,
+   "pl": 32.1,
+   "wr": 67,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1196,
-   "g": 845,
-   "r": 351,
-   "pl": 177.73,
+   "ent": 1202,
+   "g": 848,
+   "r": 354,
+   "pl": 174.45,
    "wr": 71,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 35.38,
-   "ops": 57,
-   "g": 39,
-   "r": 18
+   "pl": 32.1,
+   "ops": 63,
+   "g": 42,
+   "r": 21
   },
   "2026-08-15": {
    "pl": -36.15,
