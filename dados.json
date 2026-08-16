@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T09:00",
+ "gerado_em": "2026-08-16T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -128,11 +128,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 87,
+   "g": 88,
    "r": 146,
-   "pl": 63.85,
+   "pl": 66.79,
    "roi": 6.7,
-   "wr": 37.3,
+   "wr": 37.6,
    "st": "val"
   },
   {
@@ -290,17 +290,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 83,
-   "r": 44,
-   "pl": 5.02,
-   "roi": 1.0,
-   "wr": 65.4,
-   "st": "val"
-  },
-  {
    "n": "MUNDIAL BTTS",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -309,6 +298,17 @@
    "pl": 4.27,
    "roi": 18.0,
    "wr": 66.7,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 84,
+   "r": 45,
+   "pl": 3.94,
+   "roi": 1.0,
+   "wr": 65.1,
    "st": "val"
   },
   {
@@ -380,6 +380,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-16 09:02:54",
+   "tm": "09:02",
+   "match": "Tokushima Vortis vs Sagan Tosu",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 2.94
+  },
+  {
    "data": "2026-08-16 08:52:35",
    "tm": "08:52",
    "match": "Daegu vs Chungnam Asan",
@@ -388,6 +398,26 @@
    "odd": 1.4,
    "status": "red",
    "pl": -1.1
+  },
+  {
+   "data": "2026-08-16 08:52:11",
+   "tm": "08:52",
+   "match": "Arminia Bielefeld x Energie Cottbus",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 08:49:05",
+   "tm": "08:49",
+   "match": "Hannover 96 x VfL Wolfsburg",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.92
   },
   {
    "data": "2026-08-16 06:42:38",
@@ -462,28 +492,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
-   "g": 4,
-   "r": 4,
-   "pl": 1.96,
-   "wr": 50,
+   "ent": 11,
+   "g": 6,
+   "r": 5,
+   "pl": 3.82,
+   "wr": 55,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1077,
-   "g": 749,
-   "r": 328,
-   "pl": 180.85,
+   "ent": 1080,
+   "g": 751,
+   "r": 329,
+   "pl": 182.7,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 1.96,
-   "ops": 8,
-   "g": 4,
-   "r": 4
+   "pl": 3.82,
+   "ops": 11,
+   "g": 6,
+   "r": 5
   },
   "2026-08-15": {
    "pl": -2.51,
