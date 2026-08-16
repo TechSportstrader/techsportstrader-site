@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T12:00",
+ "gerado_em": "2026-08-16T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 355,
+   "g": 356,
    "r": 23,
-   "pl": 107.72,
+   "pl": 110.88,
    "roi": 1.0,
    "wr": 93.9,
    "st": "ap"
@@ -41,10 +41,10 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 450,
-   "r": 135,
-   "pl": 13.08,
+   "r": 137,
+   "pl": 9.08,
    "roi": 2.0,
-   "wr": 76.9,
+   "wr": 76.7,
    "st": "ap"
   },
   {
@@ -161,9 +161,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 34,
+   "g": 35,
    "r": 0,
-   "pl": 51.81,
+   "pl": 53.28,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 104,
+   "r": 9,
+   "pl": 20.53,
+   "roi": 1.3,
+   "wr": 92.0,
+   "st": "val"
+  },
+  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 19.19,
    "roi": 13.0,
    "wr": 94.1,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 103,
-   "r": 9,
-   "pl": 19.03,
-   "roi": 1.3,
-   "wr": 92.0,
    "st": "val"
   },
   {
@@ -268,6 +268,17 @@
    "st": "val"
   },
   {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 8,
+   "r": 11,
+   "pl": 15.81,
+   "roi": -100.0,
+   "wr": 42.1,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -279,14 +290,14 @@
    "st": "val"
   },
   {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 7,
-   "r": 11,
-   "pl": 11.46,
-   "roi": -100.0,
-   "wr": 38.9,
+   "g": 85,
+   "r": 45,
+   "pl": 4.71,
+   "roi": 1.0,
+   "wr": 65.4,
    "st": "val"
   },
   {
@@ -301,17 +312,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 84,
-   "r": 45,
-   "pl": 3.94,
-   "roi": 1.0,
-   "wr": 65.1,
-   "st": "val"
-  },
-  {
    "n": "WARDEN-30",
    "s": "Lay Placar 0x1 · Bolsa",
    "plat": "Bolsa",
@@ -320,17 +320,6 @@
    "pl": 3.74,
    "roi": -0.3,
    "wr": 84.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 1.5",
-   "s": "Lay Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 22,
-   "r": 12,
-   "pl": 2.78,
-   "roi": -5.0,
-   "wr": 64.7,
    "st": "val"
   },
   {
@@ -367,6 +356,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 1.5",
+   "s": "Lay Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 22,
+   "r": 13,
+   "pl": 0.66,
+   "roi": -5.0,
+   "wr": 62.9,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -379,6 +379,36 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-16 12:09:32",
+   "tm": "12:09",
+   "match": "Lyngby x FC Midtjylland",
+   "bot": "MURALHA 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.12
+  },
+  {
+   "data": "2026-08-16 12:04:27",
+   "tm": "12:04",
+   "match": "Lyngby x FC Midtjylland",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.2,
+   "status": "green",
+   "pl": 4.35
+  },
+  {
+   "data": "2026-08-16 12:03:05",
+   "tm": "12:03",
+   "match": "Cerro Porteño vs Sportivo San Lorenzo",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
   {
    "data": "2026-08-16 11:52:59",
    "tm": "11:52",
@@ -398,6 +428,16 @@
    "odd": 8.4,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 11:51:26",
+   "tm": "11:51",
+   "match": "GAIS x Malmö FF",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.77
   },
   {
    "data": "2026-08-16 11:22:44",
@@ -420,6 +460,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-16 11:14:17",
+   "tm": "11:14",
+   "match": "Baník Ostrava x SK Artis Brno",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-16 11:13:12",
    "tm": "11:13",
    "match": "Brommapojkarna vs Örgryte",
@@ -428,6 +478,16 @@
    "odd": 15.0,
    "status": "green",
    "pl": 1.07
+  },
+  {
+   "data": "2026-08-16 11:10:08",
+   "tm": "11:10",
+   "match": "Cerro Porteño x Sportivo San Lorenzo",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-16 11:03:01",
@@ -448,6 +508,16 @@
    "odd": 1.9,
    "status": "green",
    "pl": 1.2
+  },
+  {
+   "data": "2026-08-16 10:49:12",
+   "tm": "10:49",
+   "match": "Chippa United x Orlando Pirates",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 18.0,
+   "status": "green",
+   "pl": 1.47
   },
   {
    "data": "2026-08-16 10:17:26",
@@ -478,6 +548,16 @@
    "odd": 26.0,
    "status": "green",
    "pl": 2.37
+  },
+  {
+   "data": "2026-08-16 10:12:17",
+   "tm": "10:12",
+   "match": "Nottingham Forest x Stade Brestois",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 3.16
   },
   {
    "data": "2026-08-16 10:11:26",
@@ -672,28 +752,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 19,
-   "r": 10,
-   "pl": 13.19,
-   "wr": 66,
+   "ent": 37,
+   "g": 24,
+   "r": 13,
+   "pl": 18.32,
+   "wr": 65,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1098,
-   "g": 764,
-   "r": 334,
-   "pl": 192.07,
+   "ent": 1106,
+   "g": 769,
+   "r": 337,
+   "pl": 197.2,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 13.19,
-   "ops": 29,
-   "g": 19,
-   "r": 10
+   "pl": 18.32,
+   "ops": 37,
+   "g": 24,
+   "r": 13
   },
   "2026-08-15": {
    "pl": -2.51,
