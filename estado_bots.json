@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T13:00",
+ "gerado_em": "2026-08-16T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 587,
-   "pl": 9.08,
+   "ent": 589,
+   "pl": 7.6,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 284,
-   "pl": 15.83,
+   "ent": 285,
+   "pl": 17.61,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -80,15 +80,15 @@
   },
   "GLOBAL EDGE": {
    "st": "val",
-   "ent": 34,
-   "pl": 15.55,
+   "ent": 35,
+   "pl": 27.31,
    "roi": 4.0,
    "plat": "BotBet"
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 86,
-   "pl": 25.37,
+   "ent": 87,
+   "pl": 26.37,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -184,9 +184,9 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "rep",
-   "ent": 78,
-   "pl": -0.59,
+   "st": "val",
+   "ent": 79,
+   "pl": 0.81,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 107,
-   "pl": 56.02,
+   "ent": 108,
+   "pl": 57.23,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -390,13 +390,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
-   "ent": 23,
-   "pl": 9.94,
+   "ent": 24,
+   "pl": 11.16,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 107,
-   "pl": 14.12,
+   "ent": 108,
+   "pl": 10.29,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
