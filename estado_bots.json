@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T18:00",
+ "gerado_em": "2026-08-17T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 62,
-   "pl": 3.74,
+   "ent": 63,
+   "pl": 5.24,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -290,15 +290,15 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 242,
-   "pl": -37.81,
+   "ent": 243,
+   "pl": -38.64,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 116,
-   "pl": 25.06,
+   "ent": 117,
+   "pl": 26.63,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -420,8 +420,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 26,
-   "pl": 15.51,
+   "ent": 27,
+   "pl": 17.29,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay under 1.5 Ht": {
