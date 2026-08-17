@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T01:00",
+ "gerado_em": "2026-08-17T02:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 88,
-   "pl": 28.75,
+   "ent": 89,
+   "pl": 31.13,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -108,8 +108,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 20,
-   "pl": 13.81,
+   "ent": 21,
+   "pl": 11.81,
    "roi": -100.0,
    "plat": "BotBet"
   },
