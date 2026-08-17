@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T16:00",
+ "gerado_em": "2026-08-17T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -44,9 +44,9 @@
    "plat": "BotBet"
   },
   "STRIKER": {
-   "st": "ap",
-   "ent": 600,
-   "pl": 0.88,
+   "st": "rep",
+   "ent": 601,
+   "pl": -1.12,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -114,16 +114,16 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO 80": {
-   "st": "val",
-   "ent": 29,
-   "pl": 0.01,
+   "st": "rep",
+   "ent": 30,
+   "pl": -1.99,
    "roi": 27.0,
    "plat": "BotBet"
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 45,
-   "pl": 18.75,
+   "ent": 46,
+   "pl": 8.77,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 61,
-   "pl": 2.16,
+   "ent": 62,
+   "pl": 3.74,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 241,
-   "pl": -36.68,
+   "ent": 242,
+   "pl": -37.81,
    "roi": 1.4,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 225,
-   "pl": -6.92,
+   "ent": 227,
+   "pl": -3.53,
    "roi": -0.3,
    "plat": "Bolsa"
   }
