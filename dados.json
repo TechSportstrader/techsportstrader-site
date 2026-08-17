@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T00:00",
+ "gerado_em": "2026-08-17T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -95,11 +95,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 72,
+   "g": 73,
    "r": 4,
-   "pl": 90.27,
+   "pl": 91.28,
    "roi": 1.0,
-   "wr": 94.7,
+   "wr": 94.8,
    "st": "val"
   },
   {
@@ -326,9 +326,9 @@
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 31,
+   "g": 32,
    "r": 0,
-   "pl": 2.56,
+   "pl": 2.68,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -389,19 +389,19 @@
    "label": "17/08"
   },
   "mes": {
-   "ent": 1143,
-   "g": 794,
+   "ent": 1145,
+   "g": 796,
    "r": 349,
-   "pl": 202.24,
-   "wr": 69,
+   "pl": 203.37,
+   "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 21.13,
-   "ops": 96,
-   "g": 60,
+   "pl": 22.26,
+   "ops": 98,
+   "g": 62,
    "r": 36
   },
   "2026-08-15": {
