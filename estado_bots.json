@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T17:00",
+ "gerado_em": "2026-08-17T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 571,
-   "pl": 359.63,
+   "ent": 574,
+   "pl": 363.35,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 291,
-   "pl": 21.23,
+   "ent": 292,
+   "pl": 22.47,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 77,
-   "pl": 91.28,
+   "ent": 78,
+   "pl": 66.72,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 28,
-   "pl": 32.83,
+   "ent": 29,
+   "pl": 34.29,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 30,
-   "pl": -55.04,
+   "ent": 31,
+   "pl": -53.12,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "rep",
-   "ent": 48,
-   "pl": -8.99,
+   "ent": 49,
+   "pl": -7.67,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -262,15 +262,15 @@
   },
   "RAMPART": {
    "st": "val",
-   "ent": 37,
-   "pl": 99.25,
+   "ent": 38,
+   "pl": 102.23,
    "roi": 6.4,
    "plat": "Bolsa"
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 133,
-   "pl": 98.11,
+   "ent": 134,
+   "pl": 96.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 454,
-   "pl": 62.77,
+   "ent": 455,
+   "pl": 64.19,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -297,15 +297,15 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 115,
-   "pl": 23.7,
+   "ent": 116,
+   "pl": 25.06,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 58,
-   "pl": -19.94,
+   "ent": 59,
+   "pl": -18.62,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -318,8 +318,8 @@
   },
   "MURALHA CASA-22 (Bolsa)": {
    "st": "rep",
-   "ent": 43,
-   "pl": -28.95,
+   "ent": 44,
+   "pl": -27.36,
    "roi": 0.4,
    "plat": "Bolsa"
   },
@@ -389,24 +389,29 @@
    "pl": 8.19,
    "plat": "BotBet"
   },
+  "Lab M3 - LAy goleada Visitante - jogo em 1x1": {
+   "ent": 20,
+   "pl": -44.47,
+   "plat": "Bolsa"
+  },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
    "ent": 27,
    "pl": 14.85,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 113,
-   "pl": 7.27,
+   "ent": 114,
+   "pl": 8.87,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
-   "ent": 32,
-   "pl": 12.48,
+   "ent": 33,
+   "pl": -2.55,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 52,
-   "pl": 33.9,
+   "ent": 53,
+   "pl": 35.03,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
@@ -415,8 +420,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 25,
-   "pl": 13.73,
+   "ent": 26,
+   "pl": 15.51,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay under 1.5 Ht": {
