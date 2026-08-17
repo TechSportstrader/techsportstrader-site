@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T14:00",
+ "gerado_em": "2026-08-17T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 570,
-   "pl": 358.62,
+   "ent": 571,
+   "pl": 359.63,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 599,
-   "pl": 0.34,
+   "ent": 600,
+   "pl": 0.88,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 35,
-   "pl": 53.28,
+   "ent": 36,
+   "pl": 54.71,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -269,15 +269,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 132,
-   "pl": 100.11,
+   "ent": 133,
+   "pl": 98.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 238,
-   "pl": 64.09,
+   "ent": 239,
+   "pl": 63.74,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -290,15 +290,15 @@
   },
   "GATILHO DUPLO": {
    "st": "rep",
-   "ent": 240,
-   "pl": -34.68,
+   "ent": 241,
+   "pl": -36.68,
    "roi": 1.4,
    "plat": "Bolsa"
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 114,
-   "pl": 22.03,
+   "ent": 115,
+   "pl": 23.7,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 224,
-   "pl": -8.64,
+   "ent": 225,
+   "pl": -6.92,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
-   "ent": 26,
-   "pl": 13.59,
+   "ent": 27,
+   "pl": 14.85,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 68,
-   "pl": 42.63,
+   "ent": 69,
+   "pl": 43.62,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
