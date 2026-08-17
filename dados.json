@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T22:00",
+ "gerado_em": "2026-08-16T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 563,
+   "g": 564,
    "r": 6,
-   "pl": 357.14,
+   "pl": 358.62,
    "roi": 1.0,
    "wr": 98.9,
    "st": "ap"
@@ -62,9 +62,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 107,
+   "g": 108,
    "r": 4,
-   "pl": 142.86,
+   "pl": 146.71,
    "roi": 3.0,
    "wr": 96.4,
    "st": "val"
@@ -129,10 +129,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 89,
-   "r": 148,
-   "pl": 66.07,
+   "r": 149,
+   "pl": 64.09,
    "roi": 6.7,
-   "wr": 37.6,
+   "wr": 37.4,
    "st": "val"
   },
   {
@@ -202,14 +202,14 @@
    "st": "val"
   },
   {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
+   "n": "HIERARCHY",
+   "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 40,
-   "r": 4,
-   "pl": 28.54,
-   "roi": 16.0,
-   "wr": 90.9,
+   "g": 82,
+   "r": 6,
+   "pl": 28.75,
+   "roi": 4.0,
+   "wr": 93.2,
    "st": "val"
   },
   {
@@ -224,14 +224,14 @@
    "st": "val"
   },
   {
-   "n": "HIERARCHY",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 81,
-   "r": 6,
-   "pl": 26.37,
-   "roi": 4.0,
-   "wr": 93.1,
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 105,
+   "r": 9,
+   "pl": 22.03,
+   "roi": 1.3,
+   "wr": 92.1,
    "st": "val"
   },
   {
@@ -257,17 +257,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 104,
-   "r": 9,
-   "pl": 20.53,
-   "roi": 1.3,
-   "wr": 92.0,
-   "st": "val"
-  },
-  {
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -279,14 +268,25 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 40,
+   "r": 5,
+   "pl": 18.75,
+   "roi": 16.0,
+   "wr": 88.9,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
    "g": 8,
-   "r": 11,
-   "pl": 15.81,
+   "r": 12,
+   "pl": 13.81,
    "roi": -100.0,
-   "wr": 42.1,
+   "wr": 40.0,
    "st": "val"
   },
   {
@@ -380,12 +380,42 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-16 22:12:25",
+   "tm": "22:12",
+   "match": "Central Cordoba SdE vs Instituto",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -1.98
+  },
+  {
+   "data": "2026-08-16 22:02:25",
+   "tm": "22:02",
+   "match": "América vs Atlético San Luis",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
    "data": "2026-08-16 21:32:26",
    "tm": "21:32",
    "match": "Corinthians vs Cruzeiro",
    "bot": "CAÇADOR 2-1 (Bolsa)",
    "mkt": "Back Placar 2x1",
    "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-16 20:57:05",
+   "tm": "20:57",
+   "match": "Central Córdoba x Instituto De Córdoba",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.9,
    "status": "red",
    "pl": -2.0
   },
@@ -400,6 +430,16 @@
    "pl": 1.36
   },
   {
+   "data": "2026-08-16 20:46:06",
+   "tm": "20:46",
+   "match": "Central Córdoba x Instituto De Córdoba",
+   "bot": "HIERARCHY",
+   "mkt": "Lay Placar 1x0",
+   "odd": 9.4,
+   "status": "green",
+   "pl": 2.38
+  },
+  {
    "data": "2026-08-16 20:39:07",
    "tm": "20:39",
    "match": "Corinthians x Cruzeiro",
@@ -410,6 +450,26 @@
    "pl": 0.71
   },
   {
+   "data": "2026-08-16 20:38:16",
+   "tm": "20:38",
+   "match": "Central Córdoba x Instituto De Córdoba",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.2,
+   "status": "red",
+   "pl": -9.79
+  },
+  {
+   "data": "2026-08-16 20:37:06",
+   "tm": "20:37",
+   "match": "Cienciano x Deportivo Garcilaso",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 14.0,
+   "status": "green",
+   "pl": 3.85
+  },
+  {
    "data": "2026-08-16 20:15:07",
    "tm": "20:15",
    "match": "Colo-Colo vs O'Higgins",
@@ -418,6 +478,16 @@
    "odd": 2.5,
    "status": "red",
    "pl": -2.95
+  },
+  {
+   "data": "2026-08-16 20:07:17",
+   "tm": "20:07",
+   "match": "Club América x Atlético San Luis",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 55.0,
+   "status": "green",
+   "pl": 1.48
   },
   {
    "data": "2026-08-16 20:01:06",
@@ -908,102 +978,32 @@
    "odd": 1.8,
    "status": "green",
    "pl": 0.77
-  },
-  {
-   "data": "2026-08-16 11:46:36",
-   "tm": "11:46",
-   "match": "Kalmar FF x Hammarby IF",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 21.0,
-   "status": "green",
-   "pl": 1.0
-  },
-  {
-   "data": "2026-08-16 11:22:44",
-   "tm": "11:22",
-   "match": "Inter Turku II vs KPV",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.6,
-   "status": "red",
-   "pl": -1.93
-  },
-  {
-   "data": "2026-08-16 11:22:44",
-   "tm": "11:22",
-   "match": "Chippa United vs Orlando Pirates",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-16 11:14:17",
-   "tm": "11:14",
-   "match": "Baník Ostrava x SK Artis Brno",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-16 11:13:12",
-   "tm": "11:13",
-   "match": "Brommapojkarna vs Örgryte",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 1.07
-  },
-  {
-   "data": "2026-08-16 11:10:08",
-   "tm": "11:10",
-   "match": "Cerro Porteño x Sportivo San Lorenzo",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-16 11:03:01",
-   "tm": "11:03",
-   "match": "Feyenoord vs Go Ahead Eagles",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -1.79
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 86,
-   "g": 55,
-   "r": 31,
-   "pl": 28.19,
-   "wr": 64,
+   "ent": 93,
+   "g": 59,
+   "r": 34,
+   "pl": 23.63,
+   "wr": 63,
    "label": "16/08"
   },
   "mes": {
-   "ent": 1133,
-   "g": 789,
-   "r": 344,
-   "pl": 209.3,
+   "ent": 1140,
+   "g": 793,
+   "r": 347,
+   "pl": 204.74,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-16": {
-   "pl": 28.19,
-   "ops": 86,
-   "g": 55,
-   "r": 31
+   "pl": 23.63,
+   "ops": 93,
+   "g": 59,
+   "r": 34
   },
   "2026-08-15": {
    "pl": -25.25,
