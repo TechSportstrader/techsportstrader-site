@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-16T21:00",
+ "gerado_em": "2026-08-16T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 290,
-   "pl": 19.87,
+   "ent": 291,
+   "pl": 21.23,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 129,
-   "pl": 106.07,
+   "ent": 130,
+   "pl": 104.07,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
-   "ent": 30,
-   "pl": 26.73,
+   "ent": 31,
+   "pl": 10.98,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
