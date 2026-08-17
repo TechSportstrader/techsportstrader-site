@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T11:00",
+ "gerado_em": "2026-08-17T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 110,
-   "pl": 102.07,
+   "r": 111,
+   "pl": 100.11,
    "roi": 3.7,
-   "wr": 16.0,
+   "wr": 15.9,
    "st": "val"
   },
   {
@@ -150,11 +150,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 99,
+   "g": 100,
    "r": 66,
-   "pl": 56.0,
+   "pl": 56.97,
    "roi": -0.2,
-   "wr": 60.0,
+   "wr": 60.2,
    "st": "val"
   },
   {
@@ -380,6 +380,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-17 11:02:22",
+   "tm": "11:02",
+   "match": "Swansea City U21 vs Sheffield United U21",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.4,
+   "status": "red",
+   "pl": -1.96
+  },
+  {
+   "data": "2026-08-17 11:02:22",
+   "tm": "11:02",
+   "match": "Swansea City U21 vs Sheffield United U21",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.97
+  },
+  {
    "data": "2026-08-17 00:30:15",
    "tm": "00:30",
    "match": "Seattle Sounders FC x Vancouver Whitecaps",
@@ -402,28 +422,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 1,
-   "r": 1,
-   "pl": 0.38,
+   "ent": 4,
+   "g": 2,
+   "r": 2,
+   "pl": -0.61,
    "wr": 50,
    "label": "17/08"
   },
   "mes": {
-   "ent": 1147,
-   "g": 797,
-   "r": 350,
-   "pl": 203.75,
+   "ent": 1149,
+   "g": 798,
+   "r": 351,
+   "pl": 202.76,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-17": {
-   "pl": 0.38,
-   "ops": 2,
-   "g": 1,
-   "r": 1
+   "pl": -0.61,
+   "ops": 4,
+   "g": 2,
+   "r": 2
   },
   "2026-08-16": {
    "pl": 22.26,
