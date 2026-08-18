@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T19:00",
+ "gerado_em": "2026-08-18T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -238,9 +238,9 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 67,
+   "g": 68,
    "r": 2,
-   "pl": 21.34,
+   "pl": 21.89,
    "roi": 3.0,
    "wr": 97.1,
    "st": "val"
@@ -249,11 +249,11 @@
    "n": "SNIPER HT",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 16,
+   "g": 17,
    "r": 1,
-   "pl": 19.19,
+   "pl": 21.59,
    "roi": 13.0,
-   "wr": 94.1,
+   "wr": 94.4,
    "st": "val"
   },
   {
@@ -347,6 +347,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-18 19:44:05",
+   "tm": "19:44",
+   "match": "Independiente Rivadavia x Fluminense",
+   "bot": "SNIPER HT",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 2.4
+  },
+  {
+   "data": "2026-08-18 19:43:05",
+   "tm": "19:43",
+   "match": "Independiente Rivadavia x Fluminense",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.55
+  },
+  {
    "data": "2026-08-18 17:57:36",
    "tm": "17:57",
    "match": "Fenerbahçe vs Olympique Lyonnais",
@@ -389,27 +409,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 1,
+   "ent": 6,
+   "g": 3,
    "r": 3,
-   "pl": -4.14,
-   "wr": 25,
+   "pl": -1.19,
+   "wr": 50,
    "label": "18/08"
   },
   "mes": {
-   "ent": 995,
-   "g": 693,
+   "ent": 997,
+   "g": 695,
    "r": 302,
-   "pl": 190.02,
+   "pl": 192.97,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-18": {
-   "pl": -4.14,
-   "ops": 4,
-   "g": 1,
+   "pl": -1.19,
+   "ops": 6,
+   "g": 3,
    "r": 3
   },
   "2026-08-17": {
