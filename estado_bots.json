@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-17T22:00",
+ "gerado_em": "2026-08-17T23:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 63,
-   "pl": 5.24,
+   "ent": 64,
+   "pl": 6.74,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 456,
-   "pl": 60.62,
+   "ent": 457,
+   "pl": 57.17,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 117,
-   "pl": 26.63,
+   "ent": 119,
+   "pl": 29.57,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 143,
-   "pl": -2.29,
+   "ent": 145,
+   "pl": -6.29,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "ent": 24,
-   "pl": 8.19,
+   "ent": 25,
+   "pl": 6.27,
    "plat": "BotBet"
   },
   "Lab M3 - LAy goleada Visitante - jogo em 1x1": {
