@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T12:00",
+ "gerado_em": "2026-08-18T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 60,
-   "pl": -16.95,
+   "ent": 61,
+   "pl": -15.6,
    "roi": 1.1,
    "plat": "Bolsa"
   },
