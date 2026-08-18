@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T17:00",
+ "gerado_em": "2026-08-18T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 116,
-   "pl": 90.11,
+   "r": 117,
+   "pl": 88.11,
    "roi": 3.7,
-   "wr": 15.3,
+   "wr": 15.2,
    "st": "val"
   },
   {
@@ -271,11 +271,11 @@
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 40,
+   "g": 41,
    "r": 6,
-   "pl": 8.77,
+   "pl": 10.56,
    "roi": 16.0,
-   "wr": 87.0,
+   "wr": 87.2,
    "st": "val"
   },
   {
@@ -347,6 +347,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-18 17:57:36",
+   "tm": "17:57",
+   "match": "Fenerbahçe vs Olympique Lyonnais",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-18 16:18:04",
+   "tm": "16:18",
+   "match": "Levski Sofia x AEK Athens",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 6.6,
+   "status": "green",
+   "pl": 1.79
+  },
+  {
    "data": "2026-08-18 11:37:26",
    "tm": "11:37",
    "match": "Thailand vs Singapore",
@@ -369,28 +389,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 0,
-   "r": 2,
-   "pl": -3.93,
-   "wr": 0,
+   "ent": 4,
+   "g": 1,
+   "r": 3,
+   "pl": -4.14,
+   "wr": 25,
    "label": "18/08"
   },
   "mes": {
-   "ent": 993,
-   "g": 692,
-   "r": 301,
-   "pl": 190.23,
+   "ent": 995,
+   "g": 693,
+   "r": 302,
+   "pl": 190.02,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-18": {
-   "pl": -3.93,
-   "ops": 2,
-   "g": 0,
-   "r": 2
+   "pl": -4.14,
+   "ops": 4,
+   "g": 1,
+   "r": 3
   },
   "2026-08-17": {
    "pl": -23.74,
