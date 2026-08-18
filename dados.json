@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T00:00",
+ "gerado_em": "2026-08-18T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 115,
-   "pl": 92.11,
+   "r": 116,
+   "pl": 90.11,
    "roi": 3.7,
-   "wr": 15.4,
+   "wr": 15.3,
    "st": "val"
   },
   {
@@ -106,11 +106,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 73,
+   "g": 74,
    "r": 5,
-   "pl": 66.72,
+   "pl": 69.01,
    "roi": 1.0,
-   "wr": 93.6,
+   "wr": 93.7,
    "st": "val"
   },
   {
@@ -202,17 +202,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1",
-   "s": "Back Placar 2x1 · BotBet",
-   "plat": "BotBet",
-   "g": 7,
-   "r": 39,
-   "pl": 29.26,
-   "roi": 131.0,
-   "wr": 15.2,
-   "st": "val"
-  },
-  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -221,6 +210,17 @@
    "pl": 27.31,
    "roi": 4.0,
    "wr": 91.4,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1",
+   "s": "Back Placar 2x1 · BotBet",
+   "plat": "BotBet",
+   "g": 7,
+   "r": 40,
+   "pl": 27.26,
+   "roi": 131.0,
+   "wr": 14.9,
    "st": "val"
   },
   {
@@ -345,31 +345,48 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-18 00:07:28",
+   "tm": "00:07",
+   "match": "Necaxa vs León",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "18/08"
   },
   "mes": {
-   "ent": 989,
-   "g": 691,
-   "r": 298,
-   "pl": 193.87,
+   "ent": 992,
+   "g": 692,
+   "r": 300,
+   "pl": 192.16,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-18": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-08-17": {
-   "pl": -24.03,
-   "ops": 31,
-   "g": 20,
-   "r": 11
+   "pl": -23.74,
+   "ops": 33,
+   "g": 21,
+   "r": 12
   },
   "2026-08-16": {
    "pl": 38.44,
