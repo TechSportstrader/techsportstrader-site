@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T11:00",
+ "gerado_em": "2026-08-18T12:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -125,17 +125,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 101,
-   "r": 66,
-   "pl": 58.09,
-   "roi": -0.2,
-   "wr": 60.5,
-   "st": "val"
-  },
-  {
    "n": "VANGUARD",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -144,6 +133,17 @@
    "pl": 57.23,
    "roi": 4.0,
    "wr": 89.8,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 101,
+   "r": 67,
+   "pl": 56.16,
+   "roi": -0.2,
+   "wr": 60.1,
    "st": "val"
   },
   {
@@ -347,6 +347,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-18 11:37:26",
+   "tm": "11:37",
+   "match": "Thailand vs Singapore",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.93
+  },
+  {
    "data": "2026-08-18 00:07:28",
    "tm": "00:07",
    "match": "Necaxa vs León",
@@ -359,28 +369,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 0,
-   "r": 1,
-   "pl": -2.0,
+   "r": 2,
+   "pl": -3.93,
    "wr": 0,
    "label": "18/08"
   },
   "mes": {
-   "ent": 992,
+   "ent": 993,
    "g": 692,
-   "r": 300,
-   "pl": 192.16,
+   "r": 301,
+   "pl": 190.23,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-18": {
-   "pl": -2.0,
-   "ops": 1,
+   "pl": -3.93,
+   "ops": 2,
    "g": 0,
-   "r": 1
+   "r": 2
   },
   "2026-08-17": {
    "pl": -23.74,
