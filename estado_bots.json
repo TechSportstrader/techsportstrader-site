@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T21:00",
+ "gerado_em": "2026-08-18T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 36,
-   "pl": 54.71,
+   "ent": 37,
+   "pl": 56.14,
    "roi": 6.0,
    "plat": "BotBet"
   },
