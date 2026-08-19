@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T17:00",
+ "gerado_em": "2026-08-19T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -301,6 +301,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA SCALP",
+   "s": "Lay 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 86,
+   "r": 46,
+   "pl": 3.52,
+   "roi": 1.0,
+   "wr": 65.2,
+   "st": "val"
+  },
+  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -309,17 +320,6 @@
    "pl": 2.89,
    "roi": 27.0,
    "wr": 38.7,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA SCALP",
-   "s": "Lay 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 85,
-   "r": 46,
-   "pl": 2.71,
-   "roi": 1.0,
-   "wr": 64.9,
    "st": "val"
   },
   {
@@ -368,6 +368,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-19 16:27:11",
+   "tm": "16:27",
+   "match": "Atlético Madrid x Málaga CF",
+   "bot": "MURALHA SCALP",
+   "mkt": "Lay 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 0.81
+  },
   {
    "data": "2026-08-19 16:24:54",
    "tm": "16:24",
@@ -421,27 +431,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 4,
+   "ent": 6,
+   "g": 5,
    "r": 1,
-   "pl": 3.97,
-   "wr": 80,
+   "pl": 4.78,
+   "wr": 83,
    "label": "19/08"
   },
   "mes": {
-   "ent": 1118,
-   "g": 787,
+   "ent": 1119,
+   "g": 788,
    "r": 331,
-   "pl": 127.1,
+   "pl": 127.91,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-19": {
-   "pl": 3.97,
-   "ops": 5,
-   "g": 4,
+   "pl": 4.78,
+   "ops": 6,
+   "g": 5,
    "r": 1
   },
   "2026-08-18": {
