@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T18:00",
+ "gerado_em": "2026-08-19T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 457,
-   "pl": 57.17,
+   "ent": 458,
+   "pl": 59.17,
    "roi": 1.5,
    "plat": "Bolsa"
   },
