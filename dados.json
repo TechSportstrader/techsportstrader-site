@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T18:00",
+ "gerado_em": "2026-08-19T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 268,
+   "g": 269,
    "r": 189,
-   "pl": 57.17,
+   "pl": 59.17,
    "roi": 1.5,
-   "wr": 58.6,
+   "wr": 58.7,
    "st": "ap"
   },
   {
@@ -369,6 +369,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-19 18:15:10",
+   "tm": "18:15",
+   "match": "Atlético de Madrid vs Málaga",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
    "data": "2026-08-19 16:27:11",
    "tm": "16:27",
    "match": "Atlético Madrid x Málaga CF",
@@ -431,27 +441,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 5,
+   "ent": 7,
+   "g": 6,
    "r": 1,
-   "pl": 4.78,
-   "wr": 83,
+   "pl": 6.78,
+   "wr": 86,
    "label": "19/08"
   },
   "mes": {
-   "ent": 1119,
-   "g": 788,
+   "ent": 1120,
+   "g": 789,
    "r": 331,
-   "pl": 127.91,
+   "pl": 129.91,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-19": {
-   "pl": 4.78,
-   "ops": 6,
-   "g": 5,
+   "pl": 6.78,
+   "ops": 7,
+   "g": 6,
    "r": 1
   },
   "2026-08-18": {
