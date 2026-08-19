@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T19:00",
+ "gerado_em": "2026-08-19T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -107,10 +107,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 89,
-   "r": 150,
-   "pl": 63.74,
+   "r": 151,
+   "pl": 61.74,
    "roi": 6.7,
-   "wr": 37.2,
+   "wr": 37.1,
    "st": "val"
   },
   {
@@ -369,6 +369,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-19 19:04:50",
+   "tm": "19:04",
+   "match": "Monagas vs Mineros de Guayana",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-19 18:15:10",
    "tm": "18:15",
    "match": "Atlético de Madrid vs Málaga",
@@ -441,28 +451,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
+   "ent": 8,
    "g": 6,
-   "r": 1,
-   "pl": 6.78,
-   "wr": 86,
+   "r": 2,
+   "pl": 4.78,
+   "wr": 75,
    "label": "19/08"
   },
   "mes": {
-   "ent": 1120,
+   "ent": 1121,
    "g": 789,
-   "r": 331,
-   "pl": 129.91,
+   "r": 332,
+   "pl": 127.91,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-19": {
-   "pl": 6.78,
-   "ops": 7,
+   "pl": 4.78,
+   "ops": 8,
    "g": 6,
-   "r": 1
+   "r": 2
   },
   "2026-08-18": {
    "pl": -30.42,
