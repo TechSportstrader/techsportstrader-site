@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T17:00",
+ "gerado_em": "2026-08-19T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 131,
-   "pl": 2.71,
+   "ent": 132,
+   "pl": 3.52,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 146,
-   "pl": -8.29,
+   "ent": 148,
+   "pl": -8.65,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -390,8 +390,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - LAy goleada Visitante - jogo em 1x1": {
-   "ent": 20,
-   "pl": -44.47,
+   "ent": 21,
+   "pl": -43.26,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
