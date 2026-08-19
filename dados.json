@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T10:00",
+ "gerado_em": "2026-08-19T11:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -70,17 +70,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 21,
-   "r": 117,
-   "pl": 88.11,
-   "roi": 3.7,
-   "wr": 15.2,
-   "st": "val"
-  },
-  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -89,6 +78,17 @@
    "pl": 87.54,
    "roi": 0.0,
    "wr": 94.1,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 21,
+   "r": 118,
+   "pl": 86.11,
+   "roi": 3.7,
+   "wr": 15.1,
    "st": "val"
   },
   {
@@ -139,11 +139,11 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 101,
+   "g": 102,
    "r": 67,
-   "pl": 56.16,
+   "pl": 56.97,
    "roi": -0.2,
-   "wr": 60.1,
+   "wr": 60.4,
    "st": "val"
   },
   {
@@ -356,26 +356,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-19 10:44:52",
+   "tm": "10:44",
+   "match": "Shanghai Port vs Dalian Yingbo",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-19 10:44:52",
+   "tm": "10:44",
+   "match": "Shanghai Port vs Dalian Yingbo",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 0.81
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
-   "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "ent": 2,
+   "g": 1,
+   "r": 1,
+   "pl": -1.19,
+   "wr": 50,
    "label": "19/08"
   },
   "mes": {
-   "ent": 1015,
-   "g": 703,
-   "r": 312,
-   "pl": 159.03,
+   "ent": 1017,
+   "g": 704,
+   "r": 313,
+   "pl": 157.84,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-19": {
+   "pl": -1.19,
+   "ops": 2,
+   "g": 1,
+   "r": 1
+  },
   "2026-08-18": {
    "pl": -32.86,
    "ops": 13,
