@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-18T21:00",
+ "gerado_em": "2026-08-18T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -150,9 +150,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 36,
+   "g": 37,
    "r": 0,
-   "pl": 54.71,
+   "pl": 56.14,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -367,6 +367,16 @@
    "pl": 0.55
   },
   {
+   "data": "2026-08-18 19:21:19",
+   "tm": "19:21",
+   "match": "Recoleta FC x Boca Juniors",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 18.5,
+   "status": "green",
+   "pl": 1.43
+  },
+  {
    "data": "2026-08-18 17:57:36",
    "tm": "17:57",
    "match": "Fenerbahçe vs Olympique Lyonnais",
@@ -409,27 +419,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 3,
+   "ent": 7,
+   "g": 4,
    "r": 3,
-   "pl": -1.19,
-   "wr": 50,
+   "pl": 0.24,
+   "wr": 57,
    "label": "18/08"
   },
   "mes": {
-   "ent": 997,
-   "g": 695,
+   "ent": 998,
+   "g": 696,
    "r": 302,
-   "pl": 192.97,
+   "pl": 194.4,
    "wr": 70,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-18": {
-   "pl": -1.19,
-   "ops": 6,
-   "g": 3,
+   "pl": 0.24,
+   "ops": 7,
+   "g": 4,
    "r": 3
   },
   "2026-08-17": {
