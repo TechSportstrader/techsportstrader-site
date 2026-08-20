@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T17:00",
+ "gerado_em": "2026-08-20T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 570,
+   "g": 571,
    "r": 6,
-   "pl": 365.44,
+   "pl": 366.52,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 272,
+   "g": 273,
    "r": 190,
-   "pl": 60.36,
+   "pl": 62.38,
    "roi": 1.5,
-   "wr": 58.9,
+   "wr": 59.0,
    "st": "ap"
   },
   {
@@ -85,10 +85,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 21,
-   "r": 122,
-   "pl": 78.11,
+   "r": 123,
+   "pl": 76.11,
    "roi": 3.7,
-   "wr": 14.7,
+   "wr": 14.6,
    "st": "val"
   },
   {
@@ -106,11 +106,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 92,
+   "g": 93,
    "r": 155,
-   "pl": 66.06,
+   "pl": 69.19,
    "roi": 6.7,
-   "wr": 37.2,
+   "wr": 37.5,
    "st": "val"
   },
   {
@@ -158,6 +158,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 115,
+   "r": 9,
+   "pl": 36.79,
+   "roi": 1.3,
+   "wr": 92.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -166,17 +177,6 @@
    "pl": 35.53,
    "roi": 4.0,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 114,
-   "r": 9,
-   "pl": 35.43,
-   "roi": 1.3,
-   "wr": 92.7,
    "st": "val"
   },
   {
@@ -216,11 +216,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 209,
+   "g": 210,
    "r": 89,
-   "pl": 21.02,
+   "pl": 22.04,
    "roi": 2.0,
-   "wr": 70.1,
+   "wr": 70.2,
    "st": "val"
   },
   {
@@ -369,6 +369,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-20 17:24:54",
+   "tm": "17:24",
+   "match": "Gent vs Hibernian",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 3.13
+  },
+  {
+   "data": "2026-08-20 17:05:16",
+   "tm": "17:05",
+   "match": "FC Twente vs Qarabağ",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "green",
+   "pl": 2.02
+  },
+  {
+   "data": "2026-08-20 17:04:58",
+   "tm": "17:04",
+   "match": "FC Twente vs Qarabağ",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-20 17:04:57",
+   "tm": "17:04",
+   "match": "Crvena Zvezda vs Viktoria Plzeň",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 12.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
    "data": "2026-08-20 16:46:15",
    "tm": "16:46",
    "match": "Rayo Vallecano x Deportivo Alavés",
@@ -429,6 +469,16 @@
    "pl": 0.65
   },
   {
+   "data": "2026-08-20 16:12:05",
+   "tm": "16:12",
+   "match": "OFI Crete x CSKA Sofia",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 1.02
+  },
+  {
    "data": "2026-08-20 16:04:54",
    "tm": "16:04",
    "match": "Trabzonspor vs Ferencvárosi",
@@ -457,6 +507,16 @@
    "odd": 1.5,
    "status": "green",
    "pl": 4.0
+  },
+  {
+   "data": "2026-08-20 15:15:05",
+   "tm": "15:15",
+   "match": "Sint-Truidense VV x Omonia Nicosia",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 75.0,
+   "status": "green",
+   "pl": 1.08
   },
   {
    "data": "2026-08-20 15:12:05",
@@ -601,28 +661,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 23,
-   "g": 15,
-   "r": 8,
-   "pl": 7.48,
-   "wr": 65,
+   "ent": 29,
+   "g": 20,
+   "r": 9,
+   "pl": 14.09,
+   "wr": 69,
    "label": "20/08"
   },
   "mes": {
-   "ent": 1095,
-   "g": 757,
-   "r": 338,
-   "pl": 147.54,
+   "ent": 1101,
+   "g": 762,
+   "r": 339,
+   "pl": 154.15,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-20": {
-   "pl": 7.48,
-   "ops": 23,
-   "g": 15,
-   "r": 8
+   "pl": 14.09,
+   "ops": 29,
+   "g": 20,
+   "r": 9
   },
   "2026-08-19": {
    "pl": 1.75,
