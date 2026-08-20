@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T08:00",
+ "gerado_em": "2026-08-20T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 271,
+   "g": 272,
    "r": 189,
-   "pl": 63.32,
+   "pl": 64.73,
    "roi": 1.5,
-   "wr": 58.9,
+   "wr": 59.0,
    "st": "ap"
   },
   {
@@ -369,6 +369,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-20 08:25:06",
+   "tm": "08:25",
+   "match": "Elva vs Maardu",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.41
+  },
+  {
    "data": "2026-08-20 01:45:08",
    "tm": "01:45",
    "match": "Vancouver Whitecaps vs Houston Dynamo",
@@ -431,27 +441,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 4,
+   "ent": 7,
+   "g": 5,
    "r": 2,
-   "pl": 2.81,
-   "wr": 67,
+   "pl": 4.22,
+   "wr": 71,
    "label": "20/08"
   },
   "mes": {
-   "ent": 1078,
-   "g": 746,
+   "ent": 1079,
+   "g": 747,
    "r": 332,
-   "pl": 142.88,
+   "pl": 144.29,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-20": {
-   "pl": 2.81,
-   "ops": 6,
-   "g": 4,
+   "pl": 4.22,
+   "ops": 7,
+   "g": 5,
    "r": 2
   },
   "2026-08-19": {
