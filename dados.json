@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T22:00",
+ "gerado_em": "2026-08-19T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,11 +18,11 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 357,
+   "g": 360,
    "r": 23,
-   "pl": 113.28,
+   "pl": 118.98,
    "roi": 1.0,
-   "wr": 93.9,
+   "wr": 94.0,
    "st": "ap"
   },
   {
@@ -106,11 +106,11 @@
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 75,
+   "g": 76,
    "r": 6,
-   "pl": 59.97,
+   "pl": 60.98,
    "roi": 1.0,
-   "wr": 92.6,
+   "wr": 92.7,
    "st": "val"
   },
   {
@@ -118,10 +118,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 89,
-   "r": 152,
-   "pl": 59.74,
+   "r": 153,
+   "pl": 57.74,
    "roi": 6.7,
-   "wr": 36.9,
+   "wr": 36.8,
    "st": "val"
   },
   {
@@ -358,6 +358,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-19 22:14:57",
+   "tm": "22:14",
+   "match": "Cuiabá vs Operário PR",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-19 21:51:06",
+   "tm": "21:51",
+   "match": "Columbus Crew x CF Montréal",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 80.0,
+   "status": "green",
+   "pl": 1.01
+  },
+  {
    "data": "2026-08-19 21:14:51",
    "tm": "21:14",
    "match": "Avaí vs Sport Recife",
@@ -366,6 +386,36 @@
    "odd": 1.6,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-19 20:49:06",
+   "tm": "20:49",
+   "match": "DC United x New England Revolution",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 19.5,
+   "status": "green",
+   "pl": 1.25
+  },
+  {
+   "data": "2026-08-19 20:47:05",
+   "tm": "20:47",
+   "match": "Philadelphia Union x Inter Miami CF",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 3.16
+  },
+  {
+   "data": "2026-08-19 20:47:05",
+   "tm": "20:47",
+   "match": "New York Red Bulls x Nashville SC",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 18.5,
+   "status": "green",
+   "pl": 1.29
   },
   {
    "data": "2026-08-19 20:45:06",
@@ -480,28 +530,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 12,
-   "g": 8,
-   "r": 4,
-   "pl": 5.87,
-   "wr": 67,
+   "ent": 17,
+   "g": 12,
+   "r": 5,
+   "pl": 10.58,
+   "wr": 71,
    "label": "19/08"
   },
   "mes": {
-   "ent": 1027,
-   "g": 711,
-   "r": 316,
-   "pl": 164.9,
+   "ent": 1032,
+   "g": 715,
+   "r": 317,
+   "pl": 169.61,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-19": {
-   "pl": 5.87,
-   "ops": 12,
-   "g": 8,
-   "r": 4
+   "pl": 10.58,
+   "ops": 17,
+   "g": 12,
+   "r": 5
   },
   "2026-08-18": {
    "pl": -32.86,
