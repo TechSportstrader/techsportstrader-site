@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T18:00",
+ "gerado_em": "2026-08-20T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 273,
+   "g": 274,
    "r": 190,
-   "pl": 62.38,
+   "pl": 65.76,
    "roi": 1.5,
-   "wr": 59.0,
+   "wr": 59.1,
    "st": "ap"
   },
   {
@@ -161,11 +161,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 115,
+   "g": 116,
    "r": 9,
-   "pl": 36.79,
+   "pl": 38.46,
    "roi": 1.3,
-   "wr": 92.7,
+   "wr": 92.8,
    "st": "val"
   },
   {
@@ -368,6 +368,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-20 18:25:08",
+   "tm": "18:25",
+   "match": "Tacuary vs Libertad",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.38
+  },
+  {
+   "data": "2026-08-20 18:04:56",
+   "tm": "18:04",
+   "match": "Sporting Braga vs Austria Wien",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 1.67
+  },
   {
    "data": "2026-08-20 17:24:54",
    "tm": "17:24",
@@ -661,27 +681,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 29,
-   "g": 20,
+   "ent": 31,
+   "g": 22,
    "r": 9,
-   "pl": 14.09,
-   "wr": 69,
+   "pl": 19.14,
+   "wr": 71,
    "label": "20/08"
   },
   "mes": {
-   "ent": 1101,
-   "g": 762,
+   "ent": 1103,
+   "g": 764,
    "r": 339,
-   "pl": 154.15,
+   "pl": 159.2,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-20": {
-   "pl": 14.09,
-   "ops": 29,
-   "g": 20,
+   "pl": 19.14,
+   "ops": 31,
+   "g": 22,
    "r": 9
   },
   "2026-08-19": {
