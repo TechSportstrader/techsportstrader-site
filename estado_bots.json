@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T15:00",
+ "gerado_em": "2026-08-20T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 574,
-   "pl": 363.35,
+   "ent": 575,
+   "pl": 364.43,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "val",
-   "ent": 295,
-   "pl": 21.75,
+   "ent": 296,
+   "pl": 19.75,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 245,
-   "pl": 58.29,
+   "ent": 246,
+   "pl": 62.29,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 120,
-   "pl": 7.49,
+   "ent": 121,
+   "pl": 3.49,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
