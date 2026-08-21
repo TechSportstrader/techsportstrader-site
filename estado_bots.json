@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T13:00",
+ "gerado_em": "2026-08-21T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -51,9 +51,9 @@
    "plat": "BotBet"
   },
   "VELOCITY": {
-   "st": "val",
-   "ent": 300,
-   "pl": 22.72,
+   "st": "ap",
+   "ent": 301,
+   "pl": 23.34,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 68,
-   "pl": 12.56,
+   "ent": 69,
+   "pl": 14.14,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 248,
-   "pl": 69.19,
+   "ent": 249,
+   "pl": 71.29,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 128,
-   "pl": 26.63,
+   "ent": 130,
+   "pl": 29.56,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 235,
-   "pl": -11.71,
+   "ent": 236,
+   "pl": -10.04,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -385,8 +385,8 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "ent": 26,
-   "pl": 4.27,
+   "ent": 27,
+   "pl": 2.36,
    "plat": "BotBet"
   },
   "Lab M3 - LAy goleada Visitante - jogo em 1x1": {
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 122,
-   "pl": 5.03,
+   "ent": 123,
+   "pl": 6.43,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
