@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T20:00",
+ "gerado_em": "2026-08-20T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 70,
+   "r": 3,
+   "pl": 13.15,
+   "roi": 3.0,
+   "wr": 95.9,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 12.56,
    "roi": 9.0,
    "wr": 92.6,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 69,
-   "r": 3,
-   "pl": 12.55,
-   "roi": 3.0,
-   "wr": 95.8,
    "st": "val"
   },
   {
@@ -368,6 +368,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-20 19:44:17",
+   "tm": "19:44",
+   "match": "LDU x Mirassol",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.6
+  },
   {
    "data": "2026-08-20 18:25:08",
    "tm": "18:25",
@@ -681,27 +691,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 31,
-   "g": 22,
+   "ent": 32,
+   "g": 23,
    "r": 9,
-   "pl": 19.14,
-   "wr": 71,
+   "pl": 19.74,
+   "wr": 72,
    "label": "20/08"
   },
   "mes": {
-   "ent": 1103,
-   "g": 764,
+   "ent": 1104,
+   "g": 765,
    "r": 339,
-   "pl": 159.2,
+   "pl": 159.81,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-20": {
-   "pl": 19.14,
-   "ops": 31,
-   "g": 22,
+   "pl": 19.74,
+   "ops": 32,
+   "g": 23,
    "r": 9
   },
   "2026-08-19": {
