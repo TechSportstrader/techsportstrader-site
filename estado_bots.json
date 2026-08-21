@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T19:00",
+ "gerado_em": "2026-08-21T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 39,
-   "pl": 59.33,
+   "ent": 40,
+   "pl": 60.94,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 254,
-   "pl": 82.43,
+   "ent": 255,
+   "pl": 86.43,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 125,
-   "pl": 9.76,
+   "ent": 126,
+   "pl": 11.54,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
