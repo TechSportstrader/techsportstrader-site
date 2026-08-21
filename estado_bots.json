@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T00:00",
+ "gerado_em": "2026-08-21T01:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 144,
-   "pl": 76.11,
+   "ent": 145,
+   "pl": 74.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
