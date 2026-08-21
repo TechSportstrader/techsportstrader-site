@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T13:00",
+ "gerado_em": "2026-08-21T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -34,6 +34,17 @@
    "pl": 67.85,
    "roi": 1.5,
    "wr": 59.1,
+   "st": "ap"
+  },
+  {
+   "n": "VELOCITY",
+   "s": "Back Over 2.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 212,
+   "r": 89,
+   "pl": 23.34,
+   "roi": 2.0,
+   "wr": 70.4,
    "st": "ap"
   },
   {
@@ -92,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 94,
+   "r": 155,
+   "pl": 71.29,
+   "roi": 6.7,
+   "wr": 37.8,
+   "st": "val"
+  },
+  {
    "n": "OVERLORD",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -100,17 +122,6 @@
    "pl": 69.7,
    "roi": 18.9,
    "wr": 34.9,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 93,
-   "r": 155,
-   "pl": 69.19,
-   "roi": 6.7,
-   "wr": 37.5,
    "st": "val"
   },
   {
@@ -180,6 +191,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 120,
+   "r": 10,
+   "pl": 29.56,
+   "roi": 1.3,
+   "wr": 92.3,
+   "st": "val"
+  },
+  {
    "n": "GLOBAL EDGE",
    "s": "Lay Goleada Fora · BotBet",
    "plat": "BotBet",
@@ -188,17 +210,6 @@
    "pl": 27.31,
    "roi": 4.0,
    "wr": 91.4,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 118,
-   "r": 10,
-   "pl": 26.63,
-   "roi": 1.3,
-   "wr": 92.2,
    "st": "val"
   },
   {
@@ -213,17 +224,6 @@
    "st": "val"
   },
   {
-   "n": "VELOCITY",
-   "s": "Back Over 2.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 211,
-   "r": 89,
-   "pl": 22.72,
-   "roi": 2.0,
-   "wr": 70.3,
-   "st": "val"
-  },
-  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 64,
+   "r": 5,
+   "pl": 14.14,
+   "roi": 9.0,
+   "wr": 92.8,
+   "st": "val"
+  },
+  {
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 14.06,
    "roi": 3.0,
    "wr": 95.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 63,
-   "r": 5,
-   "pl": 12.56,
-   "roi": 9.0,
-   "wr": 92.6,
    "st": "val"
   },
   {
@@ -369,6 +369,56 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-21 13:54:53",
+   "tm": "13:54",
+   "match": "Auda vs Tukums",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-08-21 13:14:50",
+   "tm": "13:14",
+   "match": "Al Gharafa vs Al Shahaniya",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 1.43
+  },
+  {
+   "data": "2026-08-21 13:04:50",
+   "tm": "13:04",
+   "match": "Wadi Degla vs ZED FC",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 2.1
+  },
+  {
+   "data": "2026-08-21 12:34:23",
+   "tm": "12:34",
+   "match": "Al-Gharafa x Al-Shahaniya",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.62
+  },
+  {
+   "data": "2026-08-21 11:59:11",
+   "tm": "11:59",
+   "match": "Al-Gharafa x Al-Shahaniya",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "green",
+   "pl": 1.58
+  },
+  {
    "data": "2026-08-21 09:35:09",
    "tm": "09:35",
    "match": "FC Tokyo vs JEF United",
@@ -411,27 +461,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 2,
+   "ent": 9,
+   "g": 7,
    "r": 2,
-   "pl": -14.23,
-   "wr": 50,
+   "pl": -7.0,
+   "wr": 78,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1113,
-   "g": 771,
+   "ent": 1118,
+   "g": 776,
    "r": 342,
-   "pl": 148.58,
+   "pl": 155.81,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": -14.23,
-   "ops": 4,
-   "g": 2,
+   "pl": -7.0,
+   "ops": 9,
+   "g": 7,
    "r": 2
   },
   "2026-08-20": {
