@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T17:00",
+ "gerado_em": "2026-08-21T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 56,
-   "pl": 28.13,
+   "ent": 57,
+   "pl": 29.38,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "rep",
-   "ent": 609,
-   "pl": -4.5,
+   "ent": 612,
+   "pl": -2.9,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 305,
-   "pl": 27.94,
+   "ent": 308,
+   "pl": 27.18,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 90,
-   "pl": 11.15,
+   "ent": 91,
+   "pl": 12.58,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -135,9 +135,9 @@
    "plat": "BotBet"
   },
   "MURALHA CASA-40": {
-   "st": "val",
-   "ent": 69,
-   "pl": 14.14,
+   "st": "rep",
+   "ent": 70,
+   "pl": -0.86,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 76,
-   "pl": 15.66,
+   "ent": 77,
+   "pl": 5.66,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 85,
-   "pl": -3.74,
+   "ent": 86,
+   "pl": -2.6,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 112,
-   "pl": 146.71,
+   "ent": 113,
+   "pl": 150.28,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -269,22 +269,22 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 148,
-   "pl": 68.11,
+   "ent": 150,
+   "pl": 64.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 251,
-   "pl": 81.44,
+   "ent": 254,
+   "pl": 82.43,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 466,
-   "pl": 69.84,
+   "ent": 467,
+   "pl": 71.97,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -297,15 +297,15 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 132,
-   "pl": 32.42,
+   "ent": 133,
+   "pl": 17.42,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 66,
-   "pl": -8.58,
+   "ent": 67,
+   "pl": -7.19,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -353,8 +353,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 170,
-   "pl": 57.82,
+   "ent": 171,
+   "pl": 59.07,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 237,
-   "pl": -8.32,
+   "ent": 239,
+   "pl": -16.4,
    "roi": -0.3,
    "plat": "Bolsa"
   }
