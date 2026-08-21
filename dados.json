@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T08:00",
+ "gerado_em": "2026-08-21T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -216,11 +216,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 210,
+   "g": 211,
    "r": 89,
-   "pl": 22.04,
+   "pl": 22.72,
    "roi": 2.0,
-   "wr": 70.2,
+   "wr": 70.3,
    "st": "val"
   },
   {
@@ -369,6 +369,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-21 08:20:06",
+   "tm": "08:20",
+   "match": "Kashiwa Reysol x V-Varen Nagasaki",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.68
+  },
+  {
    "data": "2026-08-21 00:14:49",
    "tm": "00:14",
    "match": "Morelia vs Correcaminos UAT",
@@ -381,27 +391,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 0,
+   "ent": 2,
+   "g": 1,
    "r": 1,
-   "pl": -2.0,
-   "wr": 0,
+   "pl": -1.32,
+   "wr": 50,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1110,
-   "g": 769,
+   "ent": 1111,
+   "g": 770,
    "r": 341,
-   "pl": 160.81,
+   "pl": 161.49,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": -2.0,
-   "ops": 1,
-   "g": 0,
+   "pl": -1.32,
+   "ops": 2,
+   "g": 1,
    "r": 1
   },
   "2026-08-20": {
