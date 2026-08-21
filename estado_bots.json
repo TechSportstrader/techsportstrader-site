@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-08-21T15:00",
+ "gerado_em": "2026-08-21T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
-   "ent": 19,
-   "pl": 1.59,
+   "ent": 20,
+   "pl": 3.86,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -17,8 +17,8 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 55,
-   "pl": 30.15,
+   "ent": 56,
+   "pl": 28.13,
    "roi": 33.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 302,
-   "pl": 24.68,
+   "ent": 305,
+   "pl": 27.94,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 384,
-   "pl": 121.02,
+   "ent": 385,
+   "pl": 123.23,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 82,
-   "pl": 60.98,
+   "ent": 83,
+   "pl": 64.06,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -108,8 +108,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 24,
-   "pl": 19.91,
+   "ent": 25,
+   "pl": 17.91,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "INTERCEPTOR 7-10": {
    "st": "rep",
-   "ent": 31,
-   "pl": -53.12,
+   "ent": 32,
+   "pl": -50.85,
    "roi": 13.0,
    "plat": "BotBet"
   },
@@ -171,29 +171,29 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 74,
-   "pl": 14.06,
+   "ent": 75,
+   "pl": 14.96,
    "roi": 3.0,
    "plat": "BotBet"
   },
   "DEADLOCK": {
-   "st": "val",
-   "ent": 56,
-   "pl": 2.6,
+   "st": "rep",
+   "ent": 58,
+   "pl": -0.85,
    "roi": 27.0,
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "val",
-   "ent": 82,
-   "pl": 5.13,
+   "st": "rep",
+   "ent": 84,
+   "pl": -4.88,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 37,
-   "pl": 56.14,
+   "ent": 39,
+   "pl": 59.33,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 108,
-   "pl": 57.23,
+   "ent": 109,
+   "pl": 59.23,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 145,
-   "pl": 74.11,
+   "ent": 147,
+   "pl": 70.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -297,15 +297,15 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 130,
-   "pl": 29.56,
+   "ent": 132,
+   "pl": 32.42,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 65,
-   "pl": -10.14,
+   "ent": 66,
+   "pl": -8.58,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 123,
-   "pl": 6.43,
+   "ent": 125,
+   "pl": 9.76,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 55,
-   "pl": 37.64,
+   "ent": 56,
+   "pl": 39.23,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
