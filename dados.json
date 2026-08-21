@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T21:00",
+ "gerado_em": "2026-08-20T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -161,11 +161,11 @@
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
-   "g": 116,
+   "g": 117,
    "r": 9,
-   "pl": 38.46,
+   "pl": 39.96,
    "roi": 1.3,
-   "wr": 92.8,
+   "wr": 92.9,
    "st": "val"
   },
   {
@@ -312,17 +312,6 @@
    "st": "val"
   },
   {
-   "n": "QUEBRA-ZERO 80",
-   "s": "Lay Placar 0x0 · BotBet",
-   "plat": "BotBet",
-   "g": 12,
-   "r": 19,
-   "pl": 2.89,
-   "roi": 27.0,
-   "wr": 38.7,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -365,9 +354,40 @@
    "roi": 27.0,
    "wr": 78.2,
    "st": "val"
+  },
+  {
+   "n": "QUEBRA-ZERO 80",
+   "s": "Lay Placar 0x0 · BotBet",
+   "plat": "BotBet",
+   "g": 12,
+   "r": 20,
+   "pl": 0.97,
+   "roi": 27.0,
+   "wr": 37.5,
+   "st": "val"
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-20 21:44:50",
+   "tm": "21:44",
+   "match": "Real Cartagena vs Bogotá",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-08-20 20:41:08",
+   "tm": "20:41",
+   "match": "Macará x Santos",
+   "bot": "QUEBRA-ZERO 80",
+   "mkt": "Lay Placar 0x0",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.92
+  },
   {
    "data": "2026-08-20 19:44:17",
    "tm": "19:44",
@@ -691,28 +711,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 32,
-   "g": 23,
-   "r": 9,
-   "pl": 19.74,
-   "wr": 72,
+   "ent": 34,
+   "g": 24,
+   "r": 10,
+   "pl": 19.32,
+   "wr": 71,
    "label": "20/08"
   },
   "mes": {
-   "ent": 1104,
-   "g": 765,
-   "r": 339,
-   "pl": 159.81,
+   "ent": 1106,
+   "g": 766,
+   "r": 340,
+   "pl": 159.39,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-20": {
-   "pl": 19.74,
-   "ops": 32,
-   "g": 23,
-   "r": 9
+   "pl": 19.32,
+   "ops": 34,
+   "g": 24,
+   "r": 10
   },
   "2026-08-19": {
    "pl": 1.75,
