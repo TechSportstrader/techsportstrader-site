@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-20T21:00",
+ "gerado_em": "2026-08-20T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -115,8 +115,8 @@
   },
   "QUEBRA-ZERO 80": {
    "st": "val",
-   "ent": 31,
-   "pl": 2.89,
+   "ent": 32,
+   "pl": 0.97,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -297,15 +297,15 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 125,
-   "pl": 38.46,
+   "ent": 126,
+   "pl": 39.96,
    "roi": 1.3,
    "plat": "Bolsa"
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 64,
-   "pl": -11.49,
+   "ent": 65,
+   "pl": -10.14,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 72,
-   "pl": -19.79,
+   "ent": 73,
+   "pl": -18.37,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 234,
-   "pl": -13.71,
+   "ent": 235,
+   "pl": -11.71,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -410,8 +410,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 54,
-   "pl": 36.24,
+   "ent": 55,
+   "pl": 37.64,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
