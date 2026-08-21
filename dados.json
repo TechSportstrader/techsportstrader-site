@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T14:00",
+ "gerado_em": "2026-08-21T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 212,
+   "g": 213,
    "r": 89,
-   "pl": 23.34,
+   "pl": 24.68,
    "roi": 2.0,
-   "wr": 70.4,
+   "wr": 70.5,
    "st": "ap"
   },
   {
@@ -323,6 +323,17 @@
    "st": "val"
   },
   {
+   "n": "DEADLOCK",
+   "s": "Lay Placar 2x2 · BotBet",
+   "plat": "BotBet",
+   "g": 44,
+   "r": 12,
+   "pl": 2.6,
+   "roi": 27.0,
+   "wr": 78.6,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -345,17 +356,6 @@
    "st": "val"
   },
   {
-   "n": "DEADLOCK",
-   "s": "Lay Placar 2x2 · BotBet",
-   "plat": "BotBet",
-   "g": 43,
-   "r": 12,
-   "pl": 1.17,
-   "roi": 27.0,
-   "wr": 78.2,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -368,6 +368,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-21 14:33:10",
+   "tm": "14:33",
+   "match": "Preußen Münster x Karlsruher SC",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.34
+  },
+  {
+   "data": "2026-08-21 13:59:13",
+   "tm": "13:59",
+   "match": "NK Aluminij Kidričevo x Brinje Grosuplje",
+   "bot": "DEADLOCK",
+   "mkt": "Lay Placar 2x2",
+   "odd": 4.4,
+   "status": "green",
+   "pl": 1.43
+  },
   {
    "data": "2026-08-21 13:54:53",
    "tm": "13:54",
@@ -461,27 +481,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 7,
+   "ent": 11,
+   "g": 9,
    "r": 2,
-   "pl": -7.0,
-   "wr": 78,
+   "pl": -4.23,
+   "wr": 82,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1118,
-   "g": 776,
+   "ent": 1120,
+   "g": 778,
    "r": 342,
-   "pl": 155.81,
+   "pl": 158.58,
    "wr": 69,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": -7.0,
-   "ops": 9,
-   "g": 7,
+   "pl": -4.23,
+   "ops": 11,
+   "g": 9,
    "r": 2
   },
   "2026-08-20": {
