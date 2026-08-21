@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T19:00",
+ "gerado_em": "2026-08-21T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -95,11 +95,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 97,
+   "g": 98,
    "r": 157,
-   "pl": 82.43,
+   "pl": 86.43,
    "roi": 6.7,
-   "wr": 38.2,
+   "wr": 38.4,
    "st": "val"
   },
   {
@@ -139,9 +139,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 39,
+   "g": 40,
    "r": 0,
-   "pl": 59.33,
+   "pl": 60.94,
    "roi": 6.0,
    "wr": 100.0,
    "st": "val"
@@ -335,6 +335,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-21 19:04:50",
+   "tm": "19:04",
+   "match": "Academia Anzoátegui vs Trujillanos",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.0
+  },
+  {
+   "data": "2026-08-21 18:46:11",
+   "tm": "18:46",
+   "match": "Anzoátegui FC x Trujillanos FC",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 16.5,
+   "status": "green",
+   "pl": 1.61
+  },
   {
    "data": "2026-08-21 17:54:52",
    "tm": "17:54",
@@ -808,27 +828,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 47,
-   "g": 33,
+   "ent": 49,
+   "g": 35,
    "r": 14,
-   "pl": -1.4,
-   "wr": 70,
+   "pl": 4.21,
+   "wr": 71,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1036,
-   "g": 701,
+   "ent": 1038,
+   "g": 703,
    "r": 335,
-   "pl": 190.02,
+   "pl": 195.63,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": -1.4,
-   "ops": 47,
-   "g": 33,
+   "pl": 4.21,
+   "ops": 49,
+   "g": 35,
    "r": 14
   },
   "2026-08-20": {
