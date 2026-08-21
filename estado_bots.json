@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T16:00",
+ "gerado_em": "2026-08-21T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 132,
-   "pl": 3.52,
+   "ent": 133,
+   "pl": 4.56,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 577,
-   "pl": 366.52,
+   "ent": 578,
+   "pl": 367.88,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 75,
-   "pl": 14.96,
+   "ent": 76,
+   "pl": 15.66,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 84,
-   "pl": -4.88,
+   "ent": 85,
+   "pl": -3.74,
    "roi": 11.0,
    "plat": "BotBet"
   },
@@ -269,22 +269,22 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 147,
-   "pl": 70.11,
+   "ent": 148,
+   "pl": 68.11,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 249,
-   "pl": 71.29,
+   "ent": 251,
+   "pl": 81.44,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 465,
-   "pl": 67.85,
+   "ent": 466,
+   "pl": 69.84,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -325,8 +325,8 @@
   },
   "SISTEMA L-20 (Bolsa)": {
    "st": "rep",
-   "ent": 73,
-   "pl": -18.37,
+   "ent": 74,
+   "pl": -17.32,
    "roi": 0.3,
    "plat": "Bolsa"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 155,
-   "pl": -1.76,
+   "ent": 156,
+   "pl": -0.08,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 236,
-   "pl": -10.04,
+   "ent": 237,
+   "pl": -8.32,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -408,6 +408,11 @@
    "ent": 34,
    "pl": -1.05,
    "plat": "BotBet"
+  },
+  "Lab M3 - Lay 2x2 - odd 22 a 35": {
+   "ent": 20,
+   "pl": -6.47,
+   "plat": "Bolsa"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
    "ent": 56,
