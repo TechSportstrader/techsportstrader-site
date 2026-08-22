@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T10:00",
+ "gerado_em": "2026-08-22T11:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 135,
-   "pl": 87.54,
+   "ent": 136,
+   "pl": 89.24,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 315,
-   "pl": 29.03,
+   "ent": 317,
+   "pl": 27.83,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -114,9 +114,9 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO 80": {
-   "st": "val",
-   "ent": 32,
-   "pl": 0.97,
+   "st": "rep",
+   "ent": 33,
+   "pl": -1.03,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 48,
-   "pl": 25.26,
+   "ent": 49,
+   "pl": 23.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -269,22 +269,22 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 150,
-   "pl": 64.11,
+   "ent": 153,
+   "pl": 58.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 261,
-   "pl": 96.44,
+   "ent": 263,
+   "pl": 100.32,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 468,
-   "pl": 66.33,
+   "ent": 469,
+   "pl": 64.24,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 68,
-   "pl": -5.58,
+   "ent": 70,
+   "pl": -2.76,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 240,
-   "pl": -14.73,
+   "ent": 241,
+   "pl": -12.88,
    "roi": -0.3,
    "plat": "Bolsa"
   }
