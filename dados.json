@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T21:00",
+ "gerado_em": "2026-08-21T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -84,11 +84,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 99,
+   "g": 100,
    "r": 157,
-   "pl": 90.43,
+   "pl": 92.76,
    "roi": 6.7,
-   "wr": 38.7,
+   "wr": 38.9,
    "st": "val"
   },
   {
@@ -114,6 +114,17 @@
    "st": "val"
   },
   {
+   "n": "INTERCEPTOR",
+   "s": "Lay Goleada Visitante · BotBet",
+   "plat": "BotBet",
+   "g": 78,
+   "r": 6,
+   "pl": 66.48,
+   "roi": 1.0,
+   "wr": 92.9,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
@@ -122,17 +133,6 @@
    "pl": 64.11,
    "roi": 3.7,
    "wr": 14.0,
-   "st": "val"
-  },
-  {
-   "n": "INTERCEPTOR",
-   "s": "Lay Goleada Visitante · BotBet",
-   "plat": "BotBet",
-   "g": 77,
-   "r": 6,
-   "pl": 64.06,
-   "roi": 1.0,
-   "wr": 92.8,
    "st": "val"
   },
   {
@@ -235,6 +235,17 @@
    "st": "val"
   },
   {
+   "n": "SENTINELA 0x1",
+   "s": "Lay Placar 0x1 · BotBet",
+   "plat": "BotBet",
+   "g": 43,
+   "r": 6,
+   "pl": 14.4,
+   "roi": 16.0,
+   "wr": 87.8,
+   "st": "val"
+  },
+  {
    "n": "HIERARCHY",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
@@ -243,17 +254,6 @@
    "pl": 12.58,
    "roi": 4.0,
    "wr": 92.3,
-   "st": "val"
-  },
-  {
-   "n": "SENTINELA 0x1",
-   "s": "Lay Placar 0x1 · BotBet",
-   "plat": "BotBet",
-   "g": 41,
-   "r": 6,
-   "pl": 10.56,
-   "roi": 16.0,
-   "wr": 87.2,
    "st": "val"
   },
   {
@@ -336,6 +336,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-21 21:54:52",
+   "tm": "21:54",
+   "match": "Estudiantes de Río Cuarto vs San Lorenzo",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 2.33
+  },
+  {
+   "data": "2026-08-21 21:09:22",
+   "tm": "21:09",
+   "match": "Caracas F.C. x Carabobo FC",
+   "bot": "INTERCEPTOR",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 34.0,
+   "status": "green",
+   "pl": 2.42
+  },
+  {
+   "data": "2026-08-21 20:26:09",
+   "tm": "20:26",
+   "match": "Estudiantes de Río Cuarto x San Lorenzo",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 5.6,
+   "status": "green",
+   "pl": 2.17
+  },
+  {
    "data": "2026-08-21 20:24:50",
    "tm": "20:24",
    "match": "Rubio Ñú vs Sportivo Trinidense",
@@ -344,6 +374,16 @@
    "odd": 1.5,
    "status": "green",
    "pl": 4.0
+  },
+  {
+   "data": "2026-08-21 20:07:11",
+   "tm": "20:07",
+   "match": "Caracas F.C. x Carabobo FC",
+   "bot": "SENTINELA 0x1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 7.0,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-08-21 19:04:50",
@@ -838,27 +878,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 50,
-   "g": 36,
+   "ent": 54,
+   "g": 40,
    "r": 14,
-   "pl": 8.21,
-   "wr": 72,
+   "pl": 16.8,
+   "wr": 74,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1039,
-   "g": 704,
+   "ent": 1043,
+   "g": 708,
    "r": 335,
-   "pl": 199.63,
+   "pl": 208.22,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": 8.21,
-   "ops": 50,
-   "g": 36,
+   "pl": 16.8,
+   "ops": 54,
+   "g": 40,
    "r": 14
   },
   "2026-08-20": {
