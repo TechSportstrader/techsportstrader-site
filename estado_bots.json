@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T19:00",
+ "gerado_em": "2026-08-22T20:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 331,
-   "pl": 21.62,
+   "ent": 332,
+   "pl": 19.62,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -73,8 +73,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 386,
-   "pl": 125.19,
+   "ent": 387,
+   "pl": 95.12,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -178,8 +178,8 @@
   },
   "DEADLOCK": {
    "st": "val",
-   "ent": 59,
-   "pl": 0.62,
+   "ent": 60,
+   "pl": 2.18,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -360,15 +360,15 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 165,
-   "pl": -0.08,
+   "ent": 166,
+   "pl": -2.08,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 247,
-   "pl": -13.47,
+   "ent": 248,
+   "pl": -11.34,
    "roi": -0.3,
    "plat": "Bolsa"
   }
