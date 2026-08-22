@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T20:00",
+ "gerado_em": "2026-08-21T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -81,6 +81,17 @@
    "st": "val"
   },
   {
+   "n": "OVERLORD-A",
+   "s": "Lay Over 0.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 99,
+   "r": 157,
+   "pl": 90.43,
+   "roi": 6.7,
+   "wr": 38.7,
+   "st": "val"
+  },
+  {
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -89,17 +100,6 @@
    "pl": 87.54,
    "roi": 0.0,
    "wr": 94.1,
-   "st": "val"
-  },
-  {
-   "n": "OVERLORD-A",
-   "s": "Lay Over 0.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 98,
-   "r": 157,
-   "pl": 86.43,
-   "roi": 6.7,
-   "wr": 38.4,
    "st": "val"
   },
   {
@@ -335,6 +335,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-21 20:24:50",
+   "tm": "20:24",
+   "match": "Rubio Ñú vs Sportivo Trinidense",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 4.0
+  },
   {
    "data": "2026-08-21 19:04:50",
    "tm": "19:04",
@@ -828,27 +838,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 49,
-   "g": 35,
+   "ent": 50,
+   "g": 36,
    "r": 14,
-   "pl": 4.21,
-   "wr": 71,
+   "pl": 8.21,
+   "wr": 72,
    "label": "21/08"
   },
   "mes": {
-   "ent": 1038,
-   "g": 703,
+   "ent": 1039,
+   "g": 704,
    "r": 335,
-   "pl": 195.63,
+   "pl": 199.63,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": 4.21,
-   "ops": 49,
-   "g": 35,
+   "pl": 8.21,
+   "ops": 50,
+   "g": 36,
    "r": 14
   },
   "2026-08-20": {
