@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T13:00",
+ "gerado_em": "2026-08-22T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 133,
-   "pl": 4.56,
+   "ent": 134,
+   "pl": 5.44,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 582,
-   "pl": 373.01,
+   "ent": 585,
+   "pl": 376.66,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -38,29 +38,29 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 136,
-   "pl": 89.24,
+   "ent": 137,
+   "pl": 91.56,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
-   "st": "rep",
-   "ent": 617,
-   "pl": -0.24,
+   "st": "ap",
+   "ent": 620,
+   "pl": 1.41,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 319,
-   "pl": 26.79,
+   "ent": 323,
+   "pl": 21.44,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "MURALHA 1.5": {
    "st": "rep",
-   "ent": 36,
-   "pl": -1.38,
+   "ent": 37,
+   "pl": -0.23,
    "roi": -5.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 33,
-   "pl": 39.62,
+   "ent": 34,
+   "pl": 40.75,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 153,
-   "pl": 58.13,
+   "ent": 156,
+   "pl": 52.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -304,8 +304,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 70,
-   "pl": -2.76,
+   "ent": 71,
+   "pl": -7.76,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -359,16 +359,16 @@
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
-   "st": "val",
-   "ent": 164,
-   "pl": 1.92,
+   "st": "rep",
+   "ent": 165,
+   "pl": -0.08,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 243,
-   "pl": -20.75,
+   "ent": 245,
+   "pl": -17.24,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 129,
-   "pl": 5.07,
+   "ent": 130,
+   "pl": 6.52,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -415,8 +415,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 57,
-   "pl": 40.36,
+   "ent": 58,
+   "pl": 41.88,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
@@ -425,8 +425,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 33,
-   "pl": 27.51,
+   "ent": 34,
+   "pl": 29.05,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay under 1.5 Ht": {
