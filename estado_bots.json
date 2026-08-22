@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T21:00",
+ "gerado_em": "2026-08-21T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -94,8 +94,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 83,
-   "pl": 64.06,
+   "ent": 84,
+   "pl": 66.48,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "SENTINELA 0x1": {
    "st": "val",
-   "ent": 47,
-   "pl": 10.56,
+   "ent": 49,
+   "pl": 14.4,
    "roi": 16.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 256,
-   "pl": 90.43,
+   "ent": 257,
+   "pl": 92.76,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 126,
-   "pl": 11.54,
+   "ent": 127,
+   "pl": 7.62,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -420,8 +420,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 72,
-   "pl": 46.62,
+   "ent": 73,
+   "pl": 41.62,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
