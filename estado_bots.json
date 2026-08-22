@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T07:00",
+ "gerado_em": "2026-08-22T08:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 309,
-   "pl": 27.8,
+   "ent": 310,
+   "pl": 28.52,
    "roi": 2.0,
    "plat": "BotBet"
   },
