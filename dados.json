@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T07:00",
+ "gerado_em": "2026-08-22T08:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 219,
+   "g": 220,
    "r": 90,
-   "pl": 27.8,
+   "pl": 28.52,
    "roi": 2.0,
-   "wr": 70.9,
+   "wr": 71.0,
    "st": "ap"
   },
   {
@@ -345,26 +345,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-22 07:13:06",
+   "tm": "07:13",
+   "match": "Kashima Antlers x Avispa Fukuoka",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.72
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 1,
+   "g": 1,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 0.72,
+   "wr": 100,
    "label": "22/08"
   },
   "mes": {
-   "ent": 1116,
-   "g": 753,
+   "ent": 1117,
+   "g": 754,
    "r": 363,
-   "pl": 223.46,
-   "wr": 67,
+   "pl": 224.18,
+   "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-22": {
+   "pl": 0.72,
+   "ops": 1,
+   "g": 1,
+   "r": 0
+  },
   "2026-08-21": {
    "pl": 32.09,
    "ops": 65,
