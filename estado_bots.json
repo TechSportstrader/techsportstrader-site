@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T11:00",
+ "gerado_em": "2026-08-22T12:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 31,
-   "pl": 37.05,
+   "ent": 32,
+   "pl": 38.36,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -283,8 +283,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 469,
-   "pl": 64.24,
+   "ent": 470,
+   "pl": 66.27,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 161,
-   "pl": 4.52,
+   "ent": 164,
+   "pl": 1.92,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -400,8 +400,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 127,
-   "pl": 7.62,
+   "ent": 128,
+   "pl": 3.62,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
@@ -420,8 +420,8 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 73,
-   "pl": 41.62,
+   "ent": 74,
+   "pl": 43.09,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
