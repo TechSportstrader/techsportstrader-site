@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T18:00",
+ "gerado_em": "2026-08-22T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,8 +38,8 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 138,
-   "pl": 92.64,
+   "ent": 139,
+   "pl": 94.34,
    "roi": 0.0,
    "plat": "BotBet"
   },
@@ -52,8 +52,8 @@
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 330,
-   "pl": 20.45,
+   "ent": 331,
+   "pl": 21.62,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -135,9 +135,9 @@
    "plat": "BotBet"
   },
   "MURALHA CASA-40": {
-   "st": "rep",
-   "ent": 70,
-   "pl": -0.86,
+   "st": "val",
+   "ent": 71,
+   "pl": 0.7,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -185,15 +185,15 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 90,
-   "pl": 1.87,
+   "ent": 91,
+   "pl": 2.96,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 46,
-   "pl": 42.73,
+   "ent": 47,
+   "pl": 44.45,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -415,8 +415,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
-   "ent": 58,
-   "pl": 41.88,
+   "ent": 59,
+   "pl": 43.55,
    "plat": "BotBet"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
