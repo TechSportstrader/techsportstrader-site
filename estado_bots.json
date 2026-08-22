@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T23:00",
+ "gerado_em": "2026-08-22T00:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 578,
-   "pl": 367.88,
+   "ent": 579,
+   "pl": 368.89,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "rep",
-   "ent": 613,
-   "pl": -2.49,
+   "ent": 614,
+   "pl": -1.84,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 308,
-   "pl": 27.18,
+   "ent": 309,
+   "pl": 27.8,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -234,8 +234,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 32,
-   "pl": 2.68,
+   "ent": 33,
+   "pl": 2.77,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 257,
-   "pl": 92.76,
+   "ent": 260,
+   "pl": 98.44,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -360,8 +360,8 @@
   },
   "VIGIA HT-A": {
    "st": "val",
-   "ent": 157,
-   "pl": 1.5,
+   "ent": 158,
+   "pl": 3.38,
    "roi": -0.2,
    "plat": "Bolsa"
   },
