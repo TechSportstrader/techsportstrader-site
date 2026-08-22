@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T00:00",
+ "gerado_em": "2026-08-22T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 573,
+   "g": 574,
    "r": 6,
-   "pl": 368.89,
+   "pl": 370.05,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -356,19 +356,19 @@
    "label": "22/08"
   },
   "mes": {
-   "ent": 1115,
-   "g": 752,
+   "ent": 1116,
+   "g": 753,
    "r": 363,
-   "pl": 222.3,
+   "pl": 223.46,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": 30.93,
-   "ops": 64,
-   "g": 49,
+   "pl": 32.09,
+   "ops": 65,
+   "g": 50,
    "r": 15
   },
   "2026-08-20": {
