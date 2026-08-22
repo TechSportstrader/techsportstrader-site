@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T12:00",
+ "gerado_em": "2026-08-22T13:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 581,
-   "pl": 371.53,
+   "ent": 582,
+   "pl": 373.01,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "rep",
-   "ent": 615,
-   "pl": -1.38,
+   "ent": 617,
+   "pl": -0.24,
    "roi": 2.0,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 317,
-   "pl": 27.83,
+   "ent": 319,
+   "pl": 26.79,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -108,8 +108,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 25,
-   "pl": 17.91,
+   "ent": 26,
+   "pl": 22.41,
    "roi": -100.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 32,
-   "pl": 38.36,
+   "ent": 33,
+   "pl": 39.62,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 79,
-   "pl": 7.39,
+   "ent": 80,
+   "pl": 8.09,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -184,16 +184,16 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "rep",
-   "ent": 87,
-   "pl": -1.4,
+   "st": "val",
+   "ent": 90,
+   "pl": 1.87,
    "roi": 11.0,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 42,
-   "pl": 63.52,
+   "ent": 44,
+   "pl": 66.59,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 263,
-   "pl": 100.32,
+   "ent": 264,
+   "pl": 103.22,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -367,8 +367,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 241,
-   "pl": -12.88,
+   "ent": 243,
+   "pl": -20.75,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -395,13 +395,13 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22": {
-   "ent": 28,
-   "pl": 16.11,
+   "ent": 29,
+   "pl": 17.3,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 128,
-   "pl": 3.62,
+   "ent": 129,
+   "pl": 5.07,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
