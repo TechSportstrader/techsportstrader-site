@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T08:00",
+ "gerado_em": "2026-08-22T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 220,
+   "g": 222,
    "r": 90,
-   "pl": 28.52,
+   "pl": 29.8,
    "roi": 2.0,
-   "wr": 71.0,
+   "wr": 71.2,
    "st": "ap"
   },
   {
@@ -62,9 +62,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 109,
+   "g": 110,
    "r": 4,
-   "pl": 150.28,
+   "pl": 154.83,
    "roi": 3.0,
    "wr": 96.5,
    "st": "val"
@@ -85,10 +85,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 102,
-   "r": 158,
-   "pl": 98.44,
+   "r": 159,
+   "pl": 96.44,
    "roi": 6.7,
-   "wr": 39.2,
+   "wr": 39.1,
    "st": "val"
   },
   {
@@ -172,9 +172,9 @@
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 30,
+   "g": 31,
    "r": 0,
-   "pl": 35.53,
+   "pl": 37.05,
    "roi": 4.0,
    "wr": 100.0,
    "st": "val"
@@ -224,17 +224,6 @@
    "st": "val"
   },
   {
-   "n": "MURALHA CASA-40 (Bolsa)",
-   "s": "Lay Goleada Casa · Bolsa",
-   "plat": "Bolsa",
-   "g": 122,
-   "r": 11,
-   "pl": 17.42,
-   "roi": 1.3,
-   "wr": 91.7,
-   "st": "val"
-  },
-  {
    "n": "SENTINELA 0x1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
@@ -260,11 +249,22 @@
    "n": "HALF SNIPER",
    "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 73,
+   "g": 75,
    "r": 4,
-   "pl": 5.66,
+   "pl": 7.39,
    "roi": 3.0,
-   "wr": 94.8,
+   "wr": 94.9,
+   "st": "val"
+  },
+  {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 92,
+   "r": 68,
+   "pl": 6.52,
+   "roi": -0.2,
+   "wr": 57.5,
    "st": "val"
   },
   {
@@ -301,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 90,
-   "r": 68,
-   "pl": 3.38,
-   "roi": -0.2,
-   "wr": 57.0,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -320,6 +309,17 @@
    "pl": 2.77,
    "roi": 1.0,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40 (Bolsa)",
+   "s": "Lay Goleada Casa · Bolsa",
+   "plat": "Bolsa",
+   "g": 122,
+   "r": 12,
+   "pl": 2.42,
+   "roi": 1.3,
+   "wr": 91.0,
    "st": "val"
   },
   {
@@ -347,6 +347,86 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-22 08:54:57",
+   "tm": "08:54",
+   "match": "Wuhan Three Towns vs Tianjin Jinmen Tiger",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.5
+  },
+  {
+   "data": "2026-08-22 08:34:57",
+   "tm": "08:34",
+   "match": "Cerezo Osaka vs Shimizu S-Pulse",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-22 08:34:53",
+   "tm": "08:34",
+   "match": "Kataller Toyama vs Imabari",
+   "bot": "MURALHA CASA-40 (Bolsa)",
+   "mkt": "Lay Goleada Casa",
+   "odd": 10.5,
+   "status": "red",
+   "pl": -15.0
+  },
+  {
+   "data": "2026-08-22 08:24:49",
+   "tm": "08:24",
+   "match": "Jeonbuk Motors vs Ulsan HD",
+   "bot": "VIGIA HT-A",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.64
+  },
+  {
+   "data": "2026-08-22 08:17:06",
+   "tm": "08:17",
+   "match": "Kyoto Sanga FC x Mito Hollyhock",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.61
+  },
+  {
+   "data": "2026-08-22 08:16:16",
+   "tm": "08:16",
+   "match": "Nagoya Grampus x Gamba Osaka",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.67
+  },
+  {
+   "data": "2026-08-22 07:47:07",
+   "tm": "07:47",
+   "match": "Montedio Yamagata x Yokohama FC",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 1.32
+  },
+  {
+   "data": "2026-08-22 07:46:06",
+   "tm": "07:46",
+   "match": "Albirex Niigata x Fujieda MYFC",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.41
+  },
+  {
    "data": "2026-08-22 07:13:06",
    "tm": "07:13",
    "match": "Kashima Antlers x Avispa Fukuoka",
@@ -355,32 +435,52 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.72
+  },
+  {
+   "data": "2026-08-22 06:48:16",
+   "tm": "06:48",
+   "match": "Kashima Antlers x Avispa Fukuoka",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 25.0,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
+   "data": "2026-08-22 06:09:16",
+   "tm": "06:09",
+   "match": "Kashima Antlers x Avispa Fukuoka",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 12.5,
+   "status": "green",
+   "pl": 4.55
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
-   "g": 1,
-   "r": 0,
-   "pl": 0.72,
-   "wr": 100,
+   "ent": 11,
+   "g": 9,
+   "r": 2,
+   "pl": -4.08,
+   "wr": 82,
    "label": "22/08"
   },
   "mes": {
-   "ent": 1117,
-   "g": 754,
-   "r": 363,
-   "pl": 224.18,
+   "ent": 1127,
+   "g": 762,
+   "r": 365,
+   "pl": 219.38,
    "wr": 68,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-22": {
-   "pl": 0.72,
-   "ops": 1,
-   "g": 1,
-   "r": 0
+   "pl": -4.08,
+   "ops": 11,
+   "g": 9,
+   "r": 2
   },
   "2026-08-21": {
    "pl": 32.09,
