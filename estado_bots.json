@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T14:00",
+ "gerado_em": "2026-08-22T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,15 +17,15 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 58,
-   "pl": 27.45,
+   "ent": 59,
+   "pl": 28.34,
    "roi": 33.0,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 585,
-   "pl": 376.66,
+   "ent": 586,
+   "pl": 378.29,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -38,15 +38,15 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 137,
-   "pl": 91.56,
+   "ent": 138,
+   "pl": 92.64,
    "roi": 0.0,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "ap",
-   "ent": 620,
-   "pl": 1.41,
+   "ent": 622,
+   "pl": 2.3,
    "roi": 2.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 91,
-   "pl": 12.58,
+   "ent": 92,
+   "pl": 14.32,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -115,8 +115,8 @@
   },
   "QUEBRA-ZERO 80": {
    "st": "rep",
-   "ent": 33,
-   "pl": -1.03,
+   "ent": 34,
+   "pl": -3.03,
    "roi": 27.0,
    "plat": "BotBet"
   },
@@ -143,8 +143,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 34,
-   "pl": 40.75,
+   "ent": 35,
+   "pl": 42.34,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -164,8 +164,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 49,
-   "pl": 23.26,
+   "ent": 51,
+   "pl": 19.26,
    "roi": 131.0,
    "plat": "BotBet"
   },
@@ -192,8 +192,8 @@
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 44,
-   "pl": 66.59,
+   "ent": 45,
+   "pl": 67.78,
    "roi": 6.0,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 114,
-   "pl": 154.83,
+   "ent": 115,
+   "pl": 159.18,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -241,8 +241,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 109,
-   "pl": 59.23,
+   "ent": 110,
+   "pl": 60.97,
    "roi": 4.0,
    "plat": "BotBet"
   },
@@ -269,8 +269,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 156,
-   "pl": 52.13,
+   "ent": 158,
+   "pl": 48.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -297,8 +297,8 @@
   },
   "MURALHA CASA-40 (Bolsa)": {
    "st": "val",
-   "ent": 134,
-   "pl": 2.42,
+   "ent": 135,
+   "pl": 3.62,
    "roi": 1.3,
    "plat": "Bolsa"
   },
@@ -400,13 +400,13 @@
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
-   "ent": 130,
-   "pl": 6.52,
+   "ent": 131,
+   "pl": 8.38,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
-   "ent": 34,
-   "pl": -1.05,
+   "ent": 35,
+   "pl": 0.45,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 2x2 - odd 22 a 35": {
