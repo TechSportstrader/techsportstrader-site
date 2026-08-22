@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-21T23:00",
+ "gerado_em": "2026-08-22T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 572,
+   "g": 573,
    "r": 6,
-   "pl": 367.88,
+   "pl": 368.89,
    "roi": 1.0,
    "wr": 99.0,
    "st": "ap"
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 218,
+   "g": 219,
    "r": 90,
-   "pl": 27.18,
+   "pl": 27.8,
    "roi": 2.0,
-   "wr": 70.8,
+   "wr": 70.9,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 100,
-   "r": 157,
-   "pl": 92.76,
+   "g": 102,
+   "r": 158,
+   "pl": 98.44,
    "roi": 6.7,
-   "wr": 38.9,
+   "wr": 39.2,
    "st": "val"
   },
   {
@@ -301,12 +301,23 @@
    "st": "val"
   },
   {
+   "n": "VIGIA HT-A",
+   "s": "Under 0.5 HT · Bolsa",
+   "plat": "Bolsa",
+   "g": 90,
+   "r": 68,
+   "pl": 3.38,
+   "roi": -0.2,
+   "wr": 57.0,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 32,
+   "g": 33,
    "r": 0,
-   "pl": 2.68,
+   "pl": 2.77,
    "roi": 1.0,
    "wr": 100.0,
    "st": "val"
@@ -323,17 +334,6 @@
    "st": "val"
   },
   {
-   "n": "VIGIA HT-A",
-   "s": "Under 0.5 HT · Bolsa",
-   "plat": "Bolsa",
-   "g": 89,
-   "r": 68,
-   "pl": 1.5,
-   "roi": -0.2,
-   "wr": 56.7,
-   "st": "val"
-  },
-  {
    "n": "QUEBRA-ZERO 80",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
@@ -345,602 +345,31 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-21 22:24:53",
-   "tm": "22:24",
-   "match": "Audax Italiano vs Unión La Calera",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.58
-  },
-  {
-   "data": "2026-08-21 21:54:52",
-   "tm": "21:54",
-   "match": "Estudiantes de Río Cuarto vs San Lorenzo",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 2.33
-  },
-  {
-   "data": "2026-08-21 21:09:22",
-   "tm": "21:09",
-   "match": "Caracas F.C. x Carabobo FC",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 34.0,
-   "status": "green",
-   "pl": 2.42
-  },
-  {
-   "data": "2026-08-21 20:26:09",
-   "tm": "20:26",
-   "match": "Estudiantes de Río Cuarto x San Lorenzo",
-   "bot": "SENTINELA 0x1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 5.6,
-   "status": "green",
-   "pl": 2.17
-  },
-  {
-   "data": "2026-08-21 20:24:50",
-   "tm": "20:24",
-   "match": "Rubio Ñú vs Sportivo Trinidense",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 4.0
-  },
-  {
-   "data": "2026-08-21 20:07:11",
-   "tm": "20:07",
-   "match": "Caracas F.C. x Carabobo FC",
-   "bot": "SENTINELA 0x1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 7.0,
-   "status": "green",
-   "pl": 1.67
-  },
-  {
-   "data": "2026-08-21 19:04:50",
-   "tm": "19:04",
-   "match": "Academia Anzoátegui vs Trujillanos",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 4.0
-  },
-  {
-   "data": "2026-08-21 18:46:11",
-   "tm": "18:46",
-   "match": "Anzoátegui FC x Trujillanos FC",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 16.5,
-   "status": "green",
-   "pl": 1.61
-  },
-  {
-   "data": "2026-08-21 17:54:52",
-   "tm": "17:54",
-   "match": "Sligo Rovers vs Waterford United",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 4.96
-  },
-  {
-   "data": "2026-08-21 17:44:58",
-   "tm": "17:44",
-   "match": "Olympique Marseille vs Strasbourg",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 13.5,
-   "status": "red",
-   "pl": -15.0
-  },
-  {
-   "data": "2026-08-21 17:44:57",
-   "tm": "17:44",
-   "match": "Dundalk vs Galway United",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 17:44:57",
-   "tm": "17:44",
-   "match": "Bohemians vs Derry City",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 17:42:16",
-   "tm": "17:42",
-   "match": "Alianza Atlético de Sullana x Club Sporting Cristal",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -10.0
-  },
-  {
-   "data": "2026-08-21 17:18:12",
-   "tm": "17:18",
-   "match": "Córdoba x Girona FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-21 17:14:52",
-   "tm": "17:14",
-   "match": "Standard Liège vs La Louvière",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 17:11:07",
-   "tm": "17:11",
-   "match": "FC Hansa Rostock x VfB Stuttgart",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-21 17:05:15",
-   "tm": "17:05",
-   "match": "Al-Qadsiah vs Al Ittihad",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 2.13
-  },
-  {
-   "data": "2026-08-21 17:04:57",
-   "tm": "17:04",
-   "match": "Admira vs First Vienna",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -1.97
-  },
-  {
-   "data": "2026-08-21 17:04:55",
-   "tm": "17:04",
-   "match": "Al-Qadsiah vs Al Ittihad",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-21 16:44:51",
-   "tm": "16:44",
-   "match": "Standard Liège vs La Louvière",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.68
-  },
-  {
-   "data": "2026-08-21 16:35:15",
-   "tm": "16:35",
-   "match": "FC Emmen vs Jong AZ",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.0,
-   "status": "green",
-   "pl": 1.99
-  },
-  {
-   "data": "2026-08-21 16:31:07",
-   "tm": "16:31",
-   "match": "Standard Liège x RAAL La Louvière",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.7
-  },
-  {
-   "data": "2026-08-21 16:18:14",
-   "tm": "16:18",
-   "match": "Al-Qadsiah x Al-Ittihad",
-   "bot": "MURALHA 2.5",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.25
-  },
-  {
-   "data": "2026-08-21 16:12:08",
-   "tm": "16:12",
-   "match": "US Boulogne Côte-d'Opale x Red Star FC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 16:05:16",
-   "tm": "16:05",
-   "match": "Olympique de Marseille x RC Strasbourg",
-   "bot": "MURALHA SCALP",
-   "mkt": "Lay 0.5 HT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.04
-  },
-  {
-   "data": "2026-08-21 16:04:55",
-   "tm": "16:04",
-   "match": "Fredericia vs Aarhus Fremad",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 5.71
-  },
-  {
-   "data": "2026-08-21 16:04:55",
-   "tm": "16:04",
-   "match": "Zamalek vs Al Ittihad",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 4.44
-  },
-  {
-   "data": "2026-08-21 16:04:54",
-   "tm": "16:04",
-   "match": "Benfica II vs Portimonense SAD",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 16:01:14",
-   "tm": "16:01",
-   "match": "Drogheda United x St. Patrick's Athletic",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 15.0,
-   "status": "green",
-   "pl": 1.43
-  },
-  {
-   "data": "2026-08-21 15:54:09",
-   "tm": "15:54",
-   "match": "Standard Liège x RAAL La Louvière",
-   "bot": "SENTINEL 0.1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 14.5,
-   "status": "green",
-   "pl": 3.57
-  },
-  {
-   "data": "2026-08-21 15:47:10",
-   "tm": "15:47",
-   "match": "Aldosivi x Club Atlético Unión de Santa Fe",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.24
-  },
-  {
-   "data": "2026-08-21 15:43:10",
-   "tm": "15:43",
-   "match": "Pau FC x Nancy",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 0.9
-  },
-  {
-   "data": "2026-08-21 15:42:09",
-   "tm": "15:42",
-   "match": "Pau FC x Nancy",
-   "bot": "SNIPER HT",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 2.27
-  },
-  {
-   "data": "2026-08-21 15:25:28",
-   "tm": "15:25",
-   "match": "IK Sirius x BK Häcken",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 0.98
-  },
-  {
-   "data": "2026-08-21 15:24:56",
-   "tm": "15:24",
-   "match": "Liefering vs Austria Wien II",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 1.43
-  },
-  {
-   "data": "2026-08-21 15:24:55",
-   "tm": "15:24",
-   "match": "Austria Salzburg vs Kapfenberger SV",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 15:16:11",
-   "tm": "15:16",
-   "match": "USL Dunkerque x Montpellier",
-   "bot": "APEX SHIELD",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 60.0,
-   "status": "green",
-   "pl": 1.36
-  },
-  {
-   "data": "2026-08-21 15:05:26",
-   "tm": "15:05",
-   "match": "IK Sirius x BK Häcken",
-   "bot": "MURALHA 2.5",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.02
-  },
-  {
-   "data": "2026-08-21 15:04:56",
-   "tm": "15:04",
-   "match": "SJK vs Lahti",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 1.43
-  },
-  {
-   "data": "2026-08-21 15:04:56",
-   "tm": "15:04",
-   "match": "Vysočina Jihlava vs Táborsko",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 15:00:13",
-   "tm": "15:00",
-   "match": "Al-Arabi SC x Al Shamal SC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.04
-  },
-  {
-   "data": "2026-08-21 14:56:05",
-   "tm": "14:56",
-   "match": "SV Waldhof Mannheim x 1. FC Kaiserslautern",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 18.0,
-   "status": "green",
-   "pl": 1.47
-  },
-  {
-   "data": "2026-08-21 14:34:56",
-   "tm": "14:34",
-   "match": "Al Nasr vs Al Wahda",
-   "bot": "VIGIA HT-A",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.8,
-   "status": "green",
-   "pl": 1.58
-  },
-  {
-   "data": "2026-08-21 14:33:10",
-   "tm": "14:33",
-   "match": "Preußen Münster x Karlsruher SC",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.34
-  },
-  {
-   "data": "2026-08-21 14:31:14",
-   "tm": "14:31",
-   "match": "Al-Hazem x Al Diriyah",
-   "bot": "INTERCEPTOR",
-   "mkt": "Lay Goleada Visitante",
-   "odd": 27.0,
-   "status": "green",
-   "pl": 3.08
-  },
-  {
-   "data": "2026-08-21 14:25:26",
-   "tm": "14:25",
-   "match": "IK Sirius x BK Häcken",
-   "bot": "VANGUARD",
-   "mkt": "Lay Placar 1x0",
-   "odd": 10.5,
-   "status": "green",
-   "pl": 2.0
-  },
-  {
-   "data": "2026-08-21 14:18:26",
-   "tm": "14:18",
-   "match": "FC Fredericia x Aarhus Fremad",
-   "bot": "FORTRESS LAY",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 2.21
-  },
-  {
-   "data": "2026-08-21 14:12:07",
-   "tm": "14:12",
-   "match": "SV Waldhof Mannheim x 1. FC Kaiserslautern",
-   "bot": "BTTS LAB",
-   "mkt": "Ambas Marcam",
-   "odd": 3.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-21 13:54:53",
-   "tm": "13:54",
-   "match": "Auda vs Tukums",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.0,
-   "status": "green",
-   "pl": 1.5
-  },
-  {
-   "data": "2026-08-21 13:21:06",
-   "tm": "13:21",
-   "match": "Preußen Münster x Karlsruher SC",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 15.5,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-08-21 13:14:50",
-   "tm": "13:14",
-   "match": "Al Gharafa vs Al Shahaniya",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 1.43
-  },
-  {
-   "data": "2026-08-21 13:04:50",
-   "tm": "13:04",
-   "match": "Wadi Degla vs ZED FC",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.9,
-   "status": "green",
-   "pl": 2.1
-  },
-  {
-   "data": "2026-08-21 12:34:23",
-   "tm": "12:34",
-   "match": "Al-Gharafa x Al-Shahaniya",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.62
-  },
-  {
-   "data": "2026-08-21 09:35:09",
-   "tm": "09:35",
-   "match": "FC Tokyo vs JEF United",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.6,
-   "status": "green",
-   "pl": 2.09
-  },
-  {
-   "data": "2026-08-21 09:14:49",
-   "tm": "09:14",
-   "match": "Kashiwa Reysol vs V-Varen Nagasaki",
-   "bot": "MURALHA CASA-40 (Bolsa)",
-   "mkt": "Lay Goleada Casa",
-   "odd": 11.5,
-   "status": "red",
-   "pl": -15.0
-  },
-  {
-   "data": "2026-08-21 08:20:06",
-   "tm": "08:20",
-   "match": "Kashiwa Reysol x V-Varen Nagasaki",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.68
-  },
-  {
-   "data": "2026-08-21 00:14:49",
-   "tm": "00:14",
-   "match": "Morelia vs Correcaminos UAT",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.8,
-   "status": "red",
-   "pl": -2.0
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 57,
-   "g": 43,
-   "r": 14,
-   "pl": 21.64,
-   "wr": 75,
-   "label": "21/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "22/08"
   },
   "mes": {
-   "ent": 1108,
-   "g": 746,
-   "r": 362,
-   "pl": 213.01,
+   "ent": 1115,
+   "g": 752,
+   "r": 363,
+   "pl": 222.3,
    "wr": 67,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-21": {
-   "pl": 21.64,
-   "ops": 57,
-   "g": 43,
-   "r": 14
+   "pl": 30.93,
+   "ops": 64,
+   "g": 49,
+   "r": 15
   },
   "2026-08-20": {
    "pl": 28.76,
