@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T08:00",
+ "gerado_em": "2026-08-23T09:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,8 +45,8 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 629,
-   "pl": 17.68,
+   "ent": 630,
+   "pl": 18.48,
    "roi": 1.2,
    "plat": "BotBet"
   },
@@ -402,8 +402,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 473,
-   "pl": 68.13,
+   "ent": 474,
+   "pl": 62.64,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -479,8 +479,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 167,
-   "pl": -4.08,
+   "ent": 168,
+   "pl": -6.08,
    "roi": -0.2,
    "plat": "Bolsa"
   },
