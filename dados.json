@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T19:00",
+ "gerado_em": "2026-08-23T20:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -18,9 +18,9 @@
    "n": "FORTRESS LAY",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 363,
+   "g": 364,
    "r": 25,
-   "pl": 94.64,
+   "pl": 96.02,
    "roi": 1.0,
    "wr": 93.6,
    "st": "ap"
@@ -41,10 +41,10 @@
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 244,
-   "r": 102,
-   "pl": 31.35,
+   "r": 103,
+   "pl": 29.35,
    "roi": 3.0,
-   "wr": 70.5,
+   "wr": 70.3,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 113,
-   "r": 168,
-   "pl": 121.78,
+   "r": 170,
+   "pl": 117.79,
    "roi": 6.7,
-   "wr": 40.2,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -129,10 +129,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 145,
-   "pl": 72.13,
+   "r": 146,
+   "pl": 70.13,
    "roi": 3.7,
-   "wr": 14.2,
+   "wr": 14.1,
    "st": "val"
   },
   {
@@ -260,22 +260,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 490,
+   "g": 491,
    "r": 152,
-   "pl": 12.59,
+   "pl": 13.14,
    "roi": 1.2,
-   "wr": 76.3,
-   "st": "val"
-  },
-  {
-   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 101,
-   "r": 36,
-   "pl": 11.85,
-   "roi": 1.9,
-   "wr": 73.7,
+   "wr": 76.4,
    "st": "val"
   },
   {
@@ -320,6 +309,17 @@
    "pl": 10.41,
    "roi": 43.1,
    "wr": 34.4,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 101,
+   "r": 37,
+   "pl": 7.84,
+   "roi": 1.9,
+   "wr": 73.2,
    "st": "val"
   },
   {
@@ -458,11 +458,11 @@
    "n": "QUEBRA-ZERO",
    "s": "Lay Placar 0x0 · BotBet",
    "plat": "BotBet",
-   "g": 88,
+   "g": 89,
    "r": 10,
-   "pl": 0.33,
+   "pl": 1.79,
    "roi": -0.7,
-   "wr": 89.8,
+   "wr": 89.9,
    "st": "val"
   },
   {
@@ -490,6 +490,46 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 19:51:44",
+   "tm": "19:51",
+   "match": "Inter San Carlos vs Deportivo Saprissa",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 19:30:16",
+   "tm": "19:30",
+   "match": "Guabirá x Blooming",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.56
+  },
+  {
+   "data": "2026-08-23 19:11:48",
+   "tm": "19:11",
+   "match": "Delfin vs Aucas",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -1.99
+  },
+  {
+   "data": "2026-08-23 19:01:46",
+   "tm": "19:01",
+   "match": "Belgrano vs Defensa y Justicia",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-23 18:33:59",
    "tm": "18:33",
    "match": "Porto vs Arouca",
@@ -498,6 +538,26 @@
    "odd": 2.5,
    "status": "green",
    "pl": 2.0
+  },
+  {
+   "data": "2026-08-23 18:32:11",
+   "tm": "18:32",
+   "match": "Inter Toronto x FC Supra Du Quebec",
+   "bot": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "mkt": "",
+   "odd": 3.2,
+   "status": "red",
+   "pl": -4.01
+  },
+  {
+   "data": "2026-08-23 18:32:06",
+   "tm": "18:32",
+   "match": "Inter Toronto x FC Supra Du Quebec",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-23 18:18:16",
@@ -520,6 +580,16 @@
    "pl": 1.74
   },
   {
+   "data": "2026-08-23 18:10:06",
+   "tm": "18:10",
+   "match": "New England Revolution x New York City FC",
+   "bot": "QUEBRA-ZERO",
+   "mkt": "Lay Placar 0x0",
+   "odd": 9.2,
+   "status": "green",
+   "pl": 1.46
+  },
+  {
    "data": "2026-08-23 18:09:06",
    "tm": "18:09",
    "match": "Club Atlético Belgrano x Defensa y Justicia",
@@ -538,6 +608,16 @@
    "odd": 2.8,
    "status": "green",
    "pl": 2.22
+  },
+  {
+   "data": "2026-08-23 17:47:09",
+   "tm": "17:47",
+   "match": "New England Revolution x New York City FC",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.5,
+   "status": "green",
+   "pl": 1.38
   },
   {
    "data": "2026-08-23 17:22:13",
@@ -1008,112 +1088,32 @@
    "odd": 1.0,
    "status": "green",
    "pl": 0.09
-  },
-  {
-   "data": "2026-08-23 14:08:09",
-   "tm": "14:08",
-   "match": "Fortuna Düsseldorf x SC Freiburg",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.42
-  },
-  {
-   "data": "2026-08-23 14:04:45",
-   "tm": "14:04",
-   "match": "TPS vs Inter Turku",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 4.88
-  },
-  {
-   "data": "2026-08-23 14:04:45",
-   "tm": "14:04",
-   "match": "Sūduva vs Panevėžys",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -1.94
-  },
-  {
-   "data": "2026-08-23 13:54:45",
-   "tm": "13:54",
-   "match": "Newcastle United vs Liverpool",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -1.95
-  },
-  {
-   "data": "2026-08-23 13:44:08",
-   "tm": "13:44",
-   "match": "Eyüpspor x Gaziantep FK",
-   "bot": "HALF SNIPER",
-   "mkt": "Under 0.5 HT",
-   "odd": 1.1,
-   "status": "green",
-   "pl": 1.05
-  },
-  {
-   "data": "2026-08-23 13:42:08",
-   "tm": "13:42",
-   "match": "Eyüpspor x Gaziantep FK",
-   "bot": "BTTS LAB",
-   "mkt": "Ambas Marcam",
-   "odd": 3.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-23 13:38:08",
-   "tm": "13:38",
-   "match": "Universitatea Craiova x FC Voluntari",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.43
-  },
-  {
-   "data": "2026-08-23 13:38:06",
-   "tm": "13:38",
-   "match": "Club Brugge KV x Cercle Brugge",
-   "bot": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
-   "mkt": "",
-   "odd": 4.1,
-   "status": "green",
-   "pl": 1.2
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 107,
-   "g": 72,
-   "r": 35,
-   "pl": -56.37,
-   "wr": 67,
+   "ent": 115,
+   "g": 75,
+   "r": 40,
+   "pl": -64.97,
+   "wr": 65,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1838,
-   "g": 1329,
-   "r": 509,
-   "pl": 227.84,
+   "ent": 1846,
+   "g": 1332,
+   "r": 514,
+   "pl": 219.24,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -56.37,
-   "ops": 107,
-   "g": 72,
-   "r": 35
+   "pl": -64.97,
+   "ops": 115,
+   "g": 75,
+   "r": 40
   },
   "2026-08-22": {
    "pl": 47.57,
