@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T16:00",
+ "gerado_em": "2026-08-23T17:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 638,
-   "pl": 18.17,
+   "ent": 639,
+   "pl": 16.17,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 342,
-   "pl": 26.07,
+   "ent": 343,
+   "pl": 27.86,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -122,15 +122,15 @@
   },
   "Lab M3 - Back 1x0 - após o minuto 80": {
    "st": "rep",
-   "ent": 13,
-   "pl": -14.8,
+   "ent": 14,
+   "pl": -16.8,
    "roi": -53.3,
    "plat": "BotBet"
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 28,
-   "pl": 18.41,
+   "ent": 29,
+   "pl": 16.41,
    "roi": 43.1,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "st": "val",
-   "ent": 136,
-   "pl": 10.42,
+   "ent": 137,
+   "pl": 11.85,
    "roi": 1.9,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "Lab M3 - Lay 2-3 - Odd 7-10": {
    "st": "val",
-   "ent": 11,
-   "pl": 2.76,
+   "ent": 12,
+   "pl": 4.04,
    "roi": 0.2,
    "plat": "BotBet"
   },
@@ -199,8 +199,8 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 117,
-   "pl": 21.29,
+   "ent": 119,
+   "pl": 0.66,
    "roi": 1.7,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 72,
-   "pl": 2.38,
+   "ent": 73,
+   "pl": 3.53,
    "roi": 0.1,
    "plat": "BotBet"
   },
@@ -268,16 +268,16 @@
    "plat": "BotBet"
   },
   "Lab M3 Lay empate após min 30-40": {
-   "st": "rep",
-   "ent": 17,
-   "pl": -2.12,
+   "st": "val",
+   "ent": 19,
+   "pl": 0.66,
    "roi": -3.1,
    "plat": "BotBet"
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 81,
-   "pl": 10.07,
+   "ent": 82,
+   "pl": 10.63,
    "roi": 1.1,
    "plat": "BotBet"
   },
@@ -395,8 +395,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 280,
-   "pl": 118.01,
+   "ent": 281,
+   "pl": 121.78,
    "roi": 6.7,
    "plat": "Bolsa"
   },
