@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T14:00",
+ "gerado_em": "2026-08-23T15:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -24,8 +24,8 @@
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 593,
-   "pl": 420.66,
+   "ent": 594,
+   "pl": 421.91,
    "roi": 0.7,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 635,
-   "pl": 19.05,
+   "ent": 637,
+   "pl": 17.47,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 339,
-   "pl": 22.99,
+   "ent": 341,
+   "pl": 25.1,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 387,
-   "pl": 124.64,
+   "ent": 388,
+   "pl": 94.64,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "QUEBRA-ZERO 80": {
    "st": "rep",
-   "ent": 35,
-   "pl": -4.68,
+   "ent": 36,
+   "pl": -6.64,
    "roi": -4.0,
    "plat": "BotBet"
   },
@@ -199,8 +199,8 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 115,
-   "pl": 42.39,
+   "ent": 117,
+   "pl": 21.29,
    "roi": 1.7,
    "plat": "BotBet"
   },
@@ -227,8 +227,8 @@
   },
   "Lab M3 - Lay under 1.5 Ht": {
    "st": "val",
-   "ent": 27,
-   "pl": 8.43,
+   "ent": 28,
+   "pl": 6.52,
    "roi": 15.7,
    "plat": "BotBet"
   },
@@ -290,15 +290,15 @@
   },
   "QUEBRA-ZERO": {
    "st": "rep",
-   "ent": 94,
-   "pl": -5.02,
+   "ent": 97,
+   "pl": -1.0,
    "roi": -0.7,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 48,
-   "pl": 46.52,
+   "ent": 49,
+   "pl": 48.04,
    "roi": 3.8,
    "plat": "BotBet"
   },
@@ -325,8 +325,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 116,
-   "pl": 176.42,
+   "ent": 117,
+   "pl": 179.05,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -360,8 +360,8 @@
   },
   "VANGUARD": {
    "st": "val",
-   "ent": 111,
-   "pl": 72.0,
+   "ent": 112,
+   "pl": 74.22,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -395,15 +395,15 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 276,
-   "pl": 111.19,
+   "ent": 280,
+   "pl": 118.01,
    "roi": 6.7,
    "plat": "Bolsa"
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 474,
-   "pl": 62.64,
+   "ent": 475,
+   "pl": 59.33,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -479,8 +479,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 171,
-   "pl": -1.27,
+   "ent": 172,
+   "pl": -3.27,
    "roi": -0.2,
    "plat": "Bolsa"
   },
