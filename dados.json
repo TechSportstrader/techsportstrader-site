@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T08:00",
+ "gerado_em": "2026-08-23T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 280,
-   "r": 193,
-   "pl": 68.13,
+   "r": 194,
+   "pl": 62.64,
    "roi": 1.5,
-   "wr": 59.2,
+   "wr": 59.1,
    "st": "ap"
   },
   {
@@ -293,11 +293,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 482,
+   "g": 483,
    "r": 147,
-   "pl": 17.68,
+   "pl": 18.48,
    "roi": 1.2,
-   "wr": 76.6,
+   "wr": 76.7,
    "st": "val"
   },
   {
@@ -523,6 +523,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 08:54:35",
+   "tm": "08:54",
+   "match": "Go Ahead Eagles vs ADO Den Haag",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.1,
+   "status": "red",
+   "pl": -5.49
+  },
+  {
+   "data": "2026-08-23 08:37:06",
+   "tm": "08:37",
+   "match": "Go Ahead Eagles x ADO Den Haag",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 0.8
+  },
+  {
    "data": "2026-08-23 07:21:35",
    "tm": "07:21",
    "match": "Sønderjyske Fodbold x FC Nordsjælland",
@@ -575,28 +595,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 1,
-   "r": 4,
-   "pl": -6.78,
-   "wr": 20,
+   "ent": 7,
+   "g": 2,
+   "r": 5,
+   "pl": -11.47,
+   "wr": 29,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1780,
-   "g": 1280,
-   "r": 500,
-   "pl": 328.95,
+   "ent": 1782,
+   "g": 1281,
+   "r": 501,
+   "pl": 324.26,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -6.78,
-   "ops": 5,
-   "g": 1,
-   "r": 4
+   "pl": -11.47,
+   "ops": 7,
+   "g": 2,
+   "r": 5
   },
   "2026-08-22": {
    "pl": 69.36,
