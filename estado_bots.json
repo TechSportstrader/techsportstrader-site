@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T13:00",
+ "gerado_em": "2026-08-23T14:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -17,15 +17,15 @@
   },
   "MURALHA 2.5": {
    "st": "val",
-   "ent": 61,
-   "pl": 29.61,
+   "ent": 62,
+   "pl": 27.62,
    "roi": 25.3,
    "plat": "BotBet"
   },
   "APEX SHIELD": {
    "st": "ap",
-   "ent": 591,
-   "pl": 418.29,
+   "ent": 593,
+   "pl": 420.66,
    "roi": 0.7,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 633,
-   "pl": 20.61,
+   "ent": 635,
+   "pl": 19.05,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 338,
-   "pl": 24.99,
+   "ent": 339,
+   "pl": 22.99,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 26,
-   "pl": 22.41,
+   "ent": 27,
+   "pl": 20.41,
    "roi": 43.1,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "st": "val",
-   "ent": 134,
-   "pl": 7.73,
+   "ent": 135,
+   "pl": 9.06,
    "roi": 1.9,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 71,
-   "pl": 0.88,
+   "ent": 72,
+   "pl": 2.38,
    "roi": 0.1,
    "plat": "BotBet"
   },
@@ -233,9 +233,9 @@
    "plat": "BotBet"
   },
   "LAb M3 - Lay under 2.5 ht": {
-   "st": "val",
-   "ent": 28,
-   "pl": 0.41,
+   "st": "rep",
+   "ent": 29,
+   "pl": -1.37,
    "roi": 0.7,
    "plat": "BotBet"
   },
@@ -276,8 +276,8 @@
   },
   "HALF SNIPER": {
    "st": "val",
-   "ent": 80,
-   "pl": 9.02,
+   "ent": 81,
+   "pl": 10.07,
    "roi": 1.1,
    "plat": "BotBet"
   },
@@ -339,8 +339,8 @@
   },
   "Teste Lay 1x0 - Com projeção de goleada do time da casa": {
    "st": "val",
-   "ent": 9,
-   "pl": 2.97,
+   "ent": 10,
+   "pl": 5.83,
    "roi": 13.2,
    "plat": "BotBet"
   },
@@ -395,8 +395,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 274,
-   "pl": 115.08,
+   "ent": 276,
+   "pl": 111.19,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -472,15 +472,15 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 172,
-   "pl": 57.13,
+   "ent": 173,
+   "pl": 55.18,
    "roi": -0.2,
    "plat": "Bolsa"
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 170,
-   "pl": -2.79,
+   "ent": 171,
+   "pl": -1.27,
    "roi": -0.2,
    "plat": "Bolsa"
   },
