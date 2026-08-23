@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T09:00",
+ "gerado_em": "2026-08-23T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 235,
+   "g": 236,
    "r": 101,
-   "pl": 23.2,
+   "pl": 24.36,
    "roi": 3.0,
-   "wr": 69.9,
+   "wr": 70.0,
    "st": "ap"
   },
   {
@@ -183,9 +183,9 @@
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 35,
+   "g": 36,
    "r": 0,
-   "pl": 42.58,
+   "pl": 44.17,
    "roi": 3.4,
    "wr": 100.0,
    "st": "val"
@@ -293,11 +293,22 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 483,
+   "g": 484,
    "r": 147,
-   "pl": 18.48,
+   "pl": 19.14,
    "roi": 1.2,
    "wr": 76.7,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 98,
+   "r": 35,
+   "pl": 11.41,
+   "roi": 1.9,
+   "wr": 73.7,
    "st": "val"
   },
   {
@@ -309,17 +320,6 @@
    "pl": 11.11,
    "roi": 6.2,
    "wr": 94.4,
-   "st": "val"
-  },
-  {
-   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 97,
-   "r": 35,
-   "pl": 9.74,
-   "roi": 1.9,
-   "wr": 73.5,
    "st": "val"
   },
   {
@@ -523,6 +523,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 09:26:08",
+   "tm": "09:26",
+   "match": "SpVgg Greuther Fürth x VfL Bochum 1848",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 1.16
+  },
+  {
+   "data": "2026-08-23 09:15:06",
+   "tm": "09:15",
+   "match": "SpVgg Greuther Fürth x VfL Bochum 1848",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.66
+  },
+  {
    "data": "2026-08-23 08:54:35",
    "tm": "08:54",
    "match": "Go Ahead Eagles vs ADO Den Haag",
@@ -533,6 +553,16 @@
    "pl": -5.49
   },
   {
+   "data": "2026-08-23 08:43:11",
+   "tm": "08:43",
+   "match": "Machida Zelvia x Urawa Red Diamonds",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 23.0,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
    "data": "2026-08-23 08:37:06",
    "tm": "08:37",
    "match": "Go Ahead Eagles x ADO Den Haag",
@@ -541,6 +571,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.8
+  },
+  {
+   "data": "2026-08-23 08:18:11",
+   "tm": "08:18",
+   "match": "Chaves x AVS - Futebol SAD",
+   "bot": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "mkt": "",
+   "odd": 3.4,
+   "status": "green",
+   "pl": 1.67
   },
   {
    "data": "2026-08-23 07:21:35",
@@ -595,27 +635,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 2,
+   "ent": 11,
+   "g": 6,
    "r": 5,
-   "pl": -11.47,
-   "wr": 29,
+   "pl": -6.39,
+   "wr": 55,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1782,
-   "g": 1281,
+   "ent": 1786,
+   "g": 1285,
    "r": 501,
-   "pl": 324.26,
+   "pl": 329.34,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -11.47,
-   "ops": 7,
-   "g": 2,
+   "pl": -6.39,
+   "ops": 11,
+   "g": 6,
    "r": 5
   },
   "2026-08-22": {
