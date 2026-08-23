@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T12:00",
+ "gerado_em": "2026-08-23T13:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -103,6 +103,17 @@
    "st": "val"
   },
   {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 24,
+   "r": 143,
+   "pl": 76.13,
+   "roi": 3.7,
+   "wr": 14.4,
+   "st": "val"
+  },
+  {
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -136,17 +147,6 @@
    "st": "val"
   },
   {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 23,
-   "r": 143,
-   "pl": 63.33,
-   "roi": 3.7,
-   "wr": 13.9,
-   "st": "val"
-  },
-  {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -161,9 +161,9 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 46,
+   "g": 47,
    "r": 1,
-   "pl": 44.73,
+   "pl": 46.52,
    "roi": 3.8,
    "wr": 97.9,
    "st": "val"
@@ -216,11 +216,11 @@
    "n": "MURALHA 2.5",
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 46,
+   "g": 47,
    "r": 14,
-   "pl": 28.6,
+   "pl": 29.61,
    "roi": 25.3,
-   "wr": 76.7,
+   "wr": 77.0,
    "st": "val"
   },
   {
@@ -301,17 +301,6 @@
    "st": "val"
   },
   {
-   "n": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 16,
-   "r": 2,
-   "pl": 9.26,
-   "roi": 9.0,
-   "wr": 88.9,
-   "st": "val"
-  },
-  {
    "n": "MURALHA SCALP",
    "s": "Lay 0.5 HT · BotBet",
    "plat": "BotBet",
@@ -389,6 +378,17 @@
    "st": "val"
   },
   {
+   "n": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 16,
+   "r": 3,
+   "pl": 4.24,
+   "roi": 9.0,
+   "wr": 84.2,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -400,6 +400,17 @@
    "st": "val"
   },
   {
+   "n": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 8,
+   "r": 1,
+   "pl": 2.97,
+   "roi": 13.2,
+   "wr": 88.9,
+   "st": "val"
+  },
+  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -408,6 +419,17 @@
    "pl": 2.87,
    "roi": 1.7,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 10,
+   "r": 1,
+   "pl": 2.76,
+   "roi": 0.2,
+   "wr": 90.9,
    "st": "val"
   },
   {
@@ -430,17 +452,6 @@
    "pl": 1.93,
    "roi": 21.5,
    "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 9,
-   "r": 1,
-   "pl": 1.6,
-   "roi": 0.2,
-   "wr": 90.0,
    "st": "val"
   },
   {
@@ -490,6 +501,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 12:04:54",
+   "tm": "12:04",
+   "match": "Manchester City vs AFC Bournemouth",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.4,
+   "status": "green",
+   "pl": 12.8
+  },
+  {
+   "data": "2026-08-23 11:45:06",
+   "tm": "11:45",
+   "match": "FC Carl Zeiss Jena x Darmstadt 98",
+   "bot": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "mkt": "",
+   "odd": 9.6,
+   "status": "green",
+   "pl": 1.16
+  },
+  {
    "data": "2026-08-23 11:41:18",
    "tm": "11:41",
    "match": "Eintracht Braunschweig x 1. FC Union Berlin",
@@ -498,6 +529,16 @@
    "odd": 1.3,
    "status": "green",
    "pl": 0.62
+  },
+  {
+   "data": "2026-08-23 11:32:09",
+   "tm": "11:32",
+   "match": "Lommel SK x KVC Westerlo",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 14.0,
+   "status": "green",
+   "pl": 1.79
   },
   {
    "data": "2026-08-23 11:17:07",
@@ -520,6 +561,26 @@
    "pl": -3.68
   },
   {
+   "data": "2026-08-23 11:08:24",
+   "tm": "11:08",
+   "match": "Paide Linnameeskond x FC Nõmme United",
+   "bot": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
+   "mkt": "",
+   "odd": 4.8,
+   "status": "red",
+   "pl": -5.02
+  },
+  {
+   "data": "2026-08-23 11:08:18",
+   "tm": "11:08",
+   "match": "Manchester City x Bournemouth",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.01
+  },
+  {
    "data": "2026-08-23 10:21:24",
    "tm": "10:21",
    "match": "IFK Göteborg x IF Elfsborg",
@@ -530,6 +591,16 @@
    "pl": 1.04
   },
   {
+   "data": "2026-08-23 10:19:07",
+   "tm": "10:19",
+   "match": "Manchester City x Bournemouth",
+   "bot": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
+   "mkt": "",
+   "odd": 9.0,
+   "status": "green",
+   "pl": 3.66
+  },
+  {
    "data": "2026-08-23 09:26:08",
    "tm": "09:26",
    "match": "SpVgg Greuther Fürth x VfL Bochum 1848",
@@ -538,6 +609,16 @@
    "odd": 1.6,
    "status": "green",
    "pl": 1.16
+  },
+  {
+   "data": "2026-08-23 09:21:25",
+   "tm": "09:21",
+   "match": "FC Midtjylland x Randers FC",
+   "bot": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
+   "mkt": "",
+   "odd": 10.0,
+   "status": "red",
+   "pl": -28.44
   },
   {
    "data": "2026-08-23 09:16:25",
@@ -682,39 +763,39 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 19,
-   "g": 13,
-   "r": 6,
-   "pl": -0.13,
-   "wr": 68,
+   "ent": 26,
+   "g": 18,
+   "r": 8,
+   "pl": -13.17,
+   "wr": 69,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1716,
-   "g": 1228,
-   "r": 488,
-   "pl": 313.71,
+   "ent": 1731,
+   "g": 1241,
+   "r": 490,
+   "pl": 332.71,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -0.13,
-   "ops": 19,
-   "g": 13,
-   "r": 6
+   "pl": -13.17,
+   "ops": 26,
+   "g": 18,
+   "r": 8
   },
   "2026-08-22": {
-   "pl": 50.63,
-   "ops": 163,
-   "g": 118,
+   "pl": 63.04,
+   "ops": 167,
+   "g": 122,
    "r": 45
   },
   "2026-08-21": {
-   "pl": 19.05,
-   "ops": 80,
-   "g": 61,
+   "pl": 23.75,
+   "ops": 81,
+   "g": 62,
    "r": 19
   },
   "2026-08-20": {
@@ -724,9 +805,9 @@
    "r": 12
   },
   "2026-08-19": {
-   "pl": -2.22,
-   "ops": 31,
-   "g": 21,
+   "pl": 8.31,
+   "ops": 33,
+   "g": 23,
    "r": 10
   },
   "2026-08-18": {
@@ -736,9 +817,9 @@
    "r": 8
   },
   "2026-08-17": {
-   "pl": -15.27,
-   "ops": 48,
-   "g": 33,
+   "pl": -10.86,
+   "ops": 49,
+   "g": 34,
    "r": 15
   },
   "2026-08-16": {
