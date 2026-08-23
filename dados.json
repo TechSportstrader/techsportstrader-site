@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T00:00",
+ "gerado_em": "2026-08-23T01:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -140,10 +140,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 23,
-   "r": 140,
-   "pl": 69.33,
+   "r": 141,
+   "pl": 67.33,
    "roi": 3.7,
-   "wr": 14.1,
+   "wr": 14.0,
    "st": "val"
   },
   {
@@ -521,26 +521,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-23 00:24:43",
+   "tm": "00:24",
+   "match": "Independiente Medellín vs Cúcuta Deportivo",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.0,
+   "status": "red",
+   "pl": -2.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -2.0,
    "wr": 0,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1771,
+   "ent": 1772,
    "g": 1275,
-   "r": 496,
-   "pl": 328.27,
+   "r": 497,
+   "pl": 326.27,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-23": {
+   "pl": -2.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-08-22": {
    "pl": 61.89,
    "ops": 172,
