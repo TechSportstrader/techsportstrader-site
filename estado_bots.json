@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T17:00",
+ "gerado_em": "2026-08-23T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 136,
-   "pl": 10.1,
+   "ent": 137,
+   "pl": 11.08,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 639,
-   "pl": 16.17,
+   "ent": 640,
+   "pl": 14.17,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 343,
-   "pl": 27.86,
+   "ent": 345,
+   "pl": 30.71,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -108,8 +108,8 @@
   },
   "INTERCEPTOR": {
    "st": "val",
-   "ent": 84,
-   "pl": 72.31,
+   "ent": 85,
+   "pl": 73.56,
    "roi": 0.9,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 29,
-   "pl": 16.41,
+   "ent": 31,
+   "pl": 12.41,
    "roi": 43.1,
    "plat": "BotBet"
   },
@@ -213,8 +213,8 @@
   },
   "MURALHA CASA-40": {
    "st": "val",
-   "ent": 73,
-   "pl": 3.53,
+   "ent": 74,
+   "pl": 5.11,
    "roi": 0.1,
    "plat": "BotBet"
   },
@@ -268,9 +268,9 @@
    "plat": "BotBet"
   },
   "Lab M3 Lay empate após min 30-40": {
-   "st": "val",
-   "ent": 19,
-   "pl": 0.66,
+   "st": "rep",
+   "ent": 20,
+   "pl": -3.42,
    "roi": -3.1,
    "plat": "BotBet"
   },
@@ -289,16 +289,16 @@
    "plat": "BotBet"
   },
   "QUEBRA-ZERO": {
-   "st": "rep",
-   "ent": 97,
-   "pl": -1.0,
+   "st": "val",
+   "ent": 98,
+   "pl": 0.33,
    "roi": -0.7,
    "plat": "BotBet"
   },
   "SKIRMISH": {
    "st": "val",
-   "ent": 49,
-   "pl": 48.04,
+   "ent": 51,
+   "pl": 22.44,
    "roi": 3.8,
    "plat": "BotBet"
   },
@@ -353,8 +353,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 35,
-   "pl": 2.96,
+   "ent": 36,
+   "pl": 3.06,
    "roi": 1.7,
    "plat": "BotBet"
   },
@@ -388,8 +388,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 168,
-   "pl": 74.13,
+   "ent": 169,
+   "pl": 72.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -479,8 +479,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 172,
-   "pl": -3.27,
+   "ent": 174,
+   "pl": -0.29,
    "roi": -0.2,
    "plat": "Bolsa"
   },
