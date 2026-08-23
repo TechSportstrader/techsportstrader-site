@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T15:00",
+ "gerado_em": "2026-08-23T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -10,8 +10,8 @@
   },
   "MURALHA SCALP": {
    "st": "val",
-   "ent": 135,
-   "pl": 9.08,
+   "ent": 136,
+   "pl": 10.1,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 637,
-   "pl": 17.47,
+   "ent": 638,
+   "pl": 18.17,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 341,
-   "pl": 25.1,
+   "ent": 342,
+   "pl": 26.07,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -80,8 +80,8 @@
   },
   "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5": {
    "st": "val",
-   "ent": 19,
-   "pl": 4.24,
+   "ent": 20,
+   "pl": 5.44,
    "roi": 9.0,
    "plat": "BotBet"
   },
@@ -129,8 +129,8 @@
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 27,
-   "pl": 20.41,
+   "ent": 28,
+   "pl": 18.41,
    "roi": 43.1,
    "plat": "BotBet"
   },
@@ -157,8 +157,8 @@
   },
   "Lab M3 - Lay 1.5 FT": {
    "st": "val",
-   "ent": 10,
-   "pl": 1.93,
+   "ent": 11,
+   "pl": 4.46,
    "roi": 21.5,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "st": "val",
-   "ent": 135,
-   "pl": 9.06,
+   "ent": 136,
+   "pl": 10.42,
    "roi": 1.9,
    "plat": "BotBet"
   },
@@ -206,8 +206,8 @@
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
    "st": "val",
-   "ent": 60,
-   "pl": 44.68,
+   "ent": 61,
+   "pl": 46.2,
    "roi": 2.1,
    "plat": "BotBet"
   },
@@ -262,8 +262,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 56,
-   "pl": 25.42,
+   "ent": 58,
+   "pl": 21.42,
    "roi": 24.9,
    "plat": "BotBet"
   },
@@ -338,9 +338,9 @@
    "plat": "BotBet"
   },
   "Teste Lay 1x0 - Com projeção de goleada do time da casa": {
-   "st": "val",
-   "ent": 10,
-   "pl": 5.83,
+   "st": "rep",
+   "ent": 12,
+   "pl": -16.73,
    "roi": 13.2,
    "plat": "BotBet"
   },
@@ -353,8 +353,8 @@
   },
   "LOWLINE": {
    "st": "val",
-   "ent": 34,
-   "pl": 2.87,
+   "ent": 35,
+   "pl": 2.96,
    "roi": 1.7,
    "plat": "BotBet"
   },
@@ -388,8 +388,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 167,
-   "pl": 76.13,
+   "ent": 168,
+   "pl": 74.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -402,8 +402,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 475,
-   "pl": 59.33,
+   "ent": 477,
+   "pl": 63.36,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -509,8 +509,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 76,
-   "pl": 39.15,
+   "ent": 77,
+   "pl": 40.54,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
