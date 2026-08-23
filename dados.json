@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T03:00",
+ "gerado_em": "2026-08-23T04:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -293,9 +293,9 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 481,
+   "g": 482,
    "r": 147,
-   "pl": 16.96,
+   "pl": 17.68,
    "roi": 1.2,
    "wr": 76.6,
    "st": "val"
@@ -573,10 +573,10 @@
    "label": "23/08"
   },
   "mes": {
-   "ent": 1775,
-   "g": 1275,
+   "ent": 1779,
+   "g": 1279,
    "r": 500,
-   "pl": 320.27,
+   "pl": 327.73,
    "wr": 72,
    "label": "mês"
   }
@@ -589,9 +589,9 @@
    "r": 4
   },
   "2026-08-22": {
-   "pl": 61.89,
-   "ops": 172,
-   "g": 126,
+   "pl": 69.36,
+   "ops": 176,
+   "g": 130,
    "r": 46
   },
   "2026-08-21": {
