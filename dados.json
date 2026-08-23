@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T14:00",
+ "gerado_em": "2026-08-23T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 587,
+   "g": 588,
    "r": 6,
-   "pl": 420.66,
+   "pl": 421.91,
    "roi": 0.7,
    "wr": 99.0,
    "st": "ap"
@@ -19,10 +19,10 @@
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
    "g": 363,
-   "r": 24,
-   "pl": 124.64,
+   "r": 25,
+   "pl": 94.64,
    "roi": 1.0,
-   "wr": 93.8,
+   "wr": 93.6,
    "st": "ap"
   },
   {
@@ -30,21 +30,21 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 280,
-   "r": 194,
-   "pl": 62.64,
+   "r": 195,
+   "pl": 59.33,
    "roi": 1.5,
-   "wr": 59.1,
+   "wr": 58.9,
    "st": "ap"
   },
   {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 237,
+   "g": 239,
    "r": 102,
-   "pl": 22.99,
+   "pl": 25.1,
    "roi": 3.0,
-   "wr": 69.9,
+   "wr": 70.1,
    "st": "ap"
   },
   {
@@ -62,9 +62,9 @@
    "n": "SENTINEL 0.1",
    "s": "Lay Placar 0x1 · BotBet",
    "plat": "BotBet",
-   "g": 112,
+   "g": 113,
    "r": 4,
-   "pl": 176.42,
+   "pl": 179.05,
    "roi": 3.0,
    "wr": 96.6,
    "st": "val"
@@ -73,11 +73,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 110,
-   "r": 166,
-   "pl": 111.19,
+   "g": 112,
+   "r": 168,
+   "pl": 118.01,
    "roi": 6.7,
-   "wr": 39.9,
+   "wr": 40.0,
    "st": "val"
   },
   {
@@ -114,6 +114,17 @@
    "st": "val"
   },
   {
+   "n": "VANGUARD",
+   "s": "Lay Placar 1x0 · BotBet",
+   "plat": "BotBet",
+   "g": 101,
+   "r": 11,
+   "pl": 74.22,
+   "roi": 3.0,
+   "wr": 90.2,
+   "st": "val"
+  },
+  {
    "n": "INTERCEPTOR",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
@@ -122,17 +133,6 @@
    "pl": 72.31,
    "roi": 0.9,
    "wr": 92.9,
-   "st": "val"
-  },
-  {
-   "n": "VANGUARD",
-   "s": "Lay Placar 1x0 · BotBet",
-   "plat": "BotBet",
-   "g": 100,
-   "r": 11,
-   "pl": 72.0,
-   "roi": 3.0,
-   "wr": 90.1,
    "st": "val"
   },
   {
@@ -161,11 +161,11 @@
    "n": "SKIRMISH",
    "s": "Lay Placar 1x0 · BotBet",
    "plat": "BotBet",
-   "g": 47,
+   "g": 48,
    "r": 1,
-   "pl": 46.52,
+   "pl": 48.04,
    "roi": 3.8,
-   "wr": 97.9,
+   "wr": 98.0,
    "st": "val"
   },
   {
@@ -188,17 +188,6 @@
    "pl": 44.17,
    "roi": 3.4,
    "wr": 100.0,
-   "st": "val"
-  },
-  {
-   "n": "BLINDADO 3-1",
-   "s": "Lay Placar 3x1 · BotBet",
-   "plat": "BotBet",
-   "g": 111,
-   "r": 4,
-   "pl": 42.39,
-   "roi": 1.7,
-   "wr": 96.5,
    "st": "val"
   },
   {
@@ -257,6 +246,17 @@
    "st": "val"
   },
   {
+   "n": "BLINDADO 3-1",
+   "s": "Lay Placar 3x1 · BotBet",
+   "plat": "BotBet",
+   "g": 112,
+   "r": 5,
+   "pl": 21.29,
+   "roi": 1.7,
+   "wr": 95.7,
+   "st": "val"
+  },
+  {
    "n": "BTTS LAB",
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
@@ -282,11 +282,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 487,
-   "r": 148,
-   "pl": 19.05,
+   "g": 488,
+   "r": 149,
+   "pl": 17.47,
    "roi": 1.2,
-   "wr": 76.7,
+   "wr": 76.6,
    "st": "val"
   },
   {
@@ -334,17 +334,6 @@
    "st": "val"
   },
   {
-   "n": "Lab M3 - Lay under 1.5 Ht",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 15,
-   "r": 12,
-   "pl": 8.43,
-   "roi": 15.7,
-   "wr": 55.6,
-   "st": "val"
-  },
-  {
    "n": "SENTINEL 0.2",
    "s": "Lay Placar 0x2 · BotBet",
    "plat": "BotBet",
@@ -353,6 +342,17 @@
    "pl": 7.74,
    "roi": 1.0,
    "wr": 95.7,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay under 1.5 Ht",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 15,
+   "r": 13,
+   "pl": 6.52,
+   "roi": 15.7,
+   "wr": 53.6,
    "st": "val"
   },
   {
@@ -490,6 +490,96 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 14:54:49",
+   "tm": "14:54",
+   "match": "Žalgiris vs Džiugas Telšiai",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 14:34:44",
+   "tm": "14:34",
+   "match": "Várda SE vs Debrecen",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 5.88
+  },
+  {
+   "data": "2026-08-23 14:31:16",
+   "tm": "14:31",
+   "match": "Fortuna Düsseldorf x SC Freiburg",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.47
+  },
+  {
+   "data": "2026-08-23 14:20:14",
+   "tm": "14:20",
+   "match": "Sporting Gijón x Burgos Club de Fútbol",
+   "bot": "Lab M3 - Lay under 1.5 Ht",
+   "mkt": "",
+   "odd": 1.9,
+   "status": "red",
+   "pl": -1.91
+  },
+  {
+   "data": "2026-08-23 14:18:06",
+   "tm": "14:18",
+   "match": "Deportes La Serena x Cobresal",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.64
+  },
+  {
+   "data": "2026-08-23 14:14:54",
+   "tm": "14:14",
+   "match": "Universitatea Craiova vs Voluntari",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -3.31
+  },
+  {
+   "data": "2026-08-23 14:08:09",
+   "tm": "14:08",
+   "match": "Fortuna Düsseldorf x SC Freiburg",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
+   "data": "2026-08-23 14:04:45",
+   "tm": "14:04",
+   "match": "TPS vs Inter Turku",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 4.88
+  },
+  {
+   "data": "2026-08-23 14:04:45",
+   "tm": "14:04",
+   "match": "Sūduva vs Panevėžys",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
    "data": "2026-08-23 13:54:45",
    "tm": "13:54",
    "match": "Newcastle United vs Liverpool",
@@ -540,6 +630,16 @@
    "pl": -1.89
   },
   {
+   "data": "2026-08-23 13:23:08",
+   "tm": "13:23",
+   "match": "Le Havre x AS Monaco",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-23 13:14:40",
    "tm": "13:14",
    "match": "Brommapojkarna vs Degerfors",
@@ -550,6 +650,26 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-23 12:53:08",
+   "tm": "12:53",
+   "match": "Newcastle United x Liverpool FC",
+   "bot": "SKIRMISH",
+   "mkt": "Lay Placar 1x0",
+   "odd": 17.0,
+   "status": "green",
+   "pl": 1.52
+  },
+  {
+   "data": "2026-08-23 12:48:20",
+   "tm": "12:48",
+   "match": "ETO FC Győr x Zalaegerszegi TE",
+   "bot": "VANGUARD",
+   "mkt": "Lay Placar 1x0",
+   "odd": 10.0,
+   "status": "green",
+   "pl": 2.22
+  },
+  {
    "data": "2026-08-23 12:45:27",
    "tm": "12:45",
    "match": "Hammarby IF x GAIS",
@@ -558,6 +678,16 @@
    "odd": 1.3,
    "status": "red",
    "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 12:42:08",
+   "tm": "12:42",
+   "match": "Universitatea Craiova x FC Voluntari",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 16.5,
+   "status": "red",
+   "pl": -22.01
   },
   {
    "data": "2026-08-23 12:41:14",
@@ -580,6 +710,16 @@
    "pl": -2.0
   },
   {
+   "data": "2026-08-23 12:38:08",
+   "tm": "12:38",
+   "match": "GKS Katowice x Wisła Płock",
+   "bot": "FORTRESS LAY",
+   "mkt": "Lay Goleada Casa",
+   "odd": 13.0,
+   "status": "red",
+   "pl": -30.0
+  },
+  {
    "data": "2026-08-23 12:20:27",
    "tm": "12:20",
    "match": "AC Horsens x Lyngby",
@@ -598,6 +738,36 @@
    "odd": 11.0,
    "status": "green",
    "pl": 1.5
+  },
+  {
+   "data": "2026-08-23 12:15:24",
+   "tm": "12:15",
+   "match": "Atlético Madrid x Villarreal",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 19.0,
+   "status": "green",
+   "pl": 0.91
+  },
+  {
+   "data": "2026-08-23 12:08:13",
+   "tm": "12:08",
+   "match": "Atlético Madrid x Villarreal",
+   "bot": "SENTINEL 0.1",
+   "mkt": "Lay Placar 0x1",
+   "odd": 21.0,
+   "status": "green",
+   "pl": 2.63
+  },
+  {
+   "data": "2026-08-23 12:07:08",
+   "tm": "12:07",
+   "match": "FK Teplice x FC Zbrojovka Brno",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 65.0,
+   "status": "green",
+   "pl": 1.25
   },
   {
    "data": "2026-08-23 12:04:54",
@@ -892,28 +1062,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 40,
-   "g": 25,
-   "r": 15,
-   "pl": -17.45,
-   "wr": 62,
+   "ent": 57,
+   "g": 35,
+   "r": 22,
+   "pl": -58.79,
+   "wr": 61,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1723,
-   "g": 1241,
-   "r": 482,
-   "pl": 316.36,
+   "ent": 1740,
+   "g": 1251,
+   "r": 489,
+   "pl": 275.01,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -17.45,
-   "ops": 40,
-   "g": 25,
-   "r": 15
+   "pl": -58.79,
+   "ops": 57,
+   "g": 35,
+   "r": 22
   },
   "2026-08-22": {
    "pl": 64.99,
