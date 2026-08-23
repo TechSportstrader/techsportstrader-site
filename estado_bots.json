@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T18:00",
+ "gerado_em": "2026-08-23T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -38,22 +38,22 @@
   },
   "BASTION": {
    "st": "val",
-   "ent": 139,
-   "pl": 103.49,
+   "ent": 140,
+   "pl": 104.34,
    "roi": 0.8,
    "plat": "BotBet"
   },
   "STRIKER": {
    "st": "val",
-   "ent": 640,
-   "pl": 14.17,
+   "ent": 642,
+   "pl": 12.59,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 345,
-   "pl": 30.71,
+   "ent": 346,
+   "pl": 31.35,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -122,15 +122,15 @@
   },
   "Lab M3 - Back 1x0 - após o minuto 80": {
    "st": "rep",
-   "ent": 14,
-   "pl": -16.8,
+   "ent": 15,
+   "pl": -8.2,
    "roi": -53.3,
    "plat": "BotBet"
   },
   "BTTS LAB": {
    "st": "val",
-   "ent": 31,
-   "pl": 12.41,
+   "ent": 32,
+   "pl": 10.41,
    "roi": 43.1,
    "plat": "BotBet"
   },
@@ -185,8 +185,8 @@
   },
   "Lab M3 - Lay 2-3 - Odd 7-10": {
    "st": "val",
-   "ent": 12,
-   "pl": 4.04,
+   "ent": 13,
+   "pl": 5.32,
    "roi": 0.2,
    "plat": "BotBet"
   },
@@ -199,15 +199,15 @@
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 119,
-   "pl": 0.66,
+   "ent": 120,
+   "pl": 1.84,
    "roi": 1.7,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
    "st": "val",
-   "ent": 61,
-   "pl": 46.2,
+   "ent": 62,
+   "pl": 47.87,
    "roi": 2.1,
    "plat": "BotBet"
   },
@@ -220,8 +220,8 @@
   },
   "MURALHA CASA-22": {
    "st": "val",
-   "ent": 36,
-   "pl": 44.17,
+   "ent": 37,
+   "pl": 45.76,
    "roi": 3.4,
    "plat": "BotBet"
   },
@@ -402,8 +402,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 477,
-   "pl": 63.36,
+   "ent": 479,
+   "pl": 67.58,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -423,8 +423,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 74,
-   "pl": -16.51,
+   "ent": 75,
+   "pl": -15.19,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -472,8 +472,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 173,
-   "pl": 55.18,
+   "ent": 174,
+   "pl": 56.92,
    "roi": -0.2,
    "plat": "Bolsa"
   },
@@ -502,6 +502,11 @@
    "ent": 35,
    "pl": -24.99,
    "plat": "BotBet"
+  },
+  "Lab M3 - Back 1x0 - após min 80": {
+   "ent": 20,
+   "pl": -16.0,
+   "plat": "Bolsa"
   },
   "Lab M3 - LAy goleada Visitante - jogo em 1x1": {
    "ent": 21,
