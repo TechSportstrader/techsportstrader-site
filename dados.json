@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T18:00",
+ "gerado_em": "2026-08-23T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,22 +29,22 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 282,
+   "g": 284,
    "r": 195,
-   "pl": 63.36,
+   "pl": 67.58,
    "roi": 1.5,
-   "wr": 59.1,
+   "wr": 59.3,
    "st": "ap"
   },
   {
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 243,
+   "g": 244,
    "r": 102,
-   "pl": 30.71,
+   "pl": 31.35,
    "roi": 3.0,
-   "wr": 70.4,
+   "wr": 70.5,
    "st": "ap"
   },
   {
@@ -84,11 +84,11 @@
    "n": "BASTION",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 131,
+   "g": 132,
    "r": 8,
-   "pl": 103.49,
+   "pl": 104.34,
    "roi": 0.8,
-   "wr": 94.2,
+   "wr": 94.3,
    "st": "val"
   },
   {
@@ -150,20 +150,20 @@
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 104,
+   "g": 105,
    "r": 69,
-   "pl": 55.18,
+   "pl": 56.92,
    "roi": -0.2,
-   "wr": 60.1,
+   "wr": 60.3,
    "st": "val"
   },
   {
    "n": "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35",
    "s": " · BotBet",
    "plat": "BotBet",
-   "g": 60,
+   "g": 61,
    "r": 1,
-   "pl": 46.2,
+   "pl": 47.87,
    "roi": 2.1,
    "wr": 98.4,
    "st": "val"
@@ -172,9 +172,9 @@
    "n": "MURALHA CASA-22",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
-   "g": 36,
+   "g": 37,
    "r": 0,
-   "pl": 44.17,
+   "pl": 45.76,
    "roi": 3.4,
    "wr": 100.0,
    "st": "val"
@@ -260,22 +260,11 @@
    "n": "STRIKER",
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 489,
-   "r": 151,
-   "pl": 14.17,
+   "g": 490,
+   "r": 152,
+   "pl": 12.59,
    "roi": 1.2,
-   "wr": 76.4,
-   "st": "val"
-  },
-  {
-   "n": "BTTS LAB",
-   "s": "Ambas Marcam · BotBet",
-   "plat": "BotBet",
-   "g": 11,
-   "r": 20,
-   "pl": 12.41,
-   "roi": 43.1,
-   "wr": 35.5,
+   "wr": 76.3,
    "st": "val"
   },
   {
@@ -323,6 +312,17 @@
    "st": "val"
   },
   {
+   "n": "BTTS LAB",
+   "s": "Ambas Marcam · BotBet",
+   "plat": "BotBet",
+   "g": 11,
+   "r": 21,
+   "pl": 10.41,
+   "roi": 43.1,
+   "wr": 34.4,
+   "st": "val"
+  },
+  {
    "n": "SENTINEL 0.2",
    "s": "Lay Placar 0x2 · BotBet",
    "plat": "BotBet",
@@ -353,6 +353,17 @@
    "pl": 5.44,
    "roi": 9.0,
    "wr": 85.0,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 12,
+   "r": 1,
+   "pl": 5.32,
+   "roi": 0.2,
+   "wr": 92.3,
    "st": "val"
   },
   {
@@ -400,17 +411,6 @@
    "st": "val"
   },
   {
-   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 11,
-   "r": 1,
-   "pl": 4.04,
-   "roi": 0.2,
-   "wr": 91.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -447,9 +447,9 @@
    "n": "BLINDADO 3-1",
    "s": "Lay Placar 3x1 · BotBet",
    "plat": "BotBet",
-   "g": 113,
+   "g": 114,
    "r": 6,
-   "pl": 0.66,
+   "pl": 1.84,
    "roi": 1.7,
    "wr": 95.0,
    "st": "val"
@@ -490,6 +490,66 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-23 18:33:59",
+   "tm": "18:33",
+   "match": "Porto vs Arouca",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.5,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
+   "data": "2026-08-23 18:18:16",
+   "tm": "18:18",
+   "match": "Inter Toronto x FC Supra Du Quebec",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.42
+  },
+  {
+   "data": "2026-08-23 18:13:57",
+   "tm": "18:13",
+   "match": "Víkingur Reykjavík vs Valur",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "green",
+   "pl": 1.74
+  },
+  {
+   "data": "2026-08-23 18:09:06",
+   "tm": "18:09",
+   "match": "Club Atlético Belgrano x Defensa y Justicia",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "green",
+   "pl": 0.64
+  },
+  {
+   "data": "2026-08-23 18:04:08",
+   "tm": "18:04",
+   "match": "Bragantino vs Grêmio",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.8,
+   "status": "green",
+   "pl": 2.22
+  },
+  {
+   "data": "2026-08-23 17:22:13",
+   "tm": "17:22",
+   "match": "Universidad de Chile x Colo-Colo",
+   "bot": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "mkt": "",
+   "odd": 8.8,
+   "status": "green",
+   "pl": 1.28
+  },
+  {
    "data": "2026-08-23 17:21:59",
    "tm": "17:21",
    "match": "Maribor vs Bravo",
@@ -508,6 +568,36 @@
    "odd": 2.1,
    "status": "green",
    "pl": 2.13
+  },
+  {
+   "data": "2026-08-23 17:14:07",
+   "tm": "17:14",
+   "match": "Red Bull Bragantino x Grêmio",
+   "bot": "BASTION",
+   "mkt": "Lay Goleada Casa",
+   "odd": 70.0,
+   "status": "green",
+   "pl": 0.85
+  },
+  {
+   "data": "2026-08-23 17:11:18",
+   "tm": "17:11",
+   "match": "Red Bull Bragantino x Grêmio",
+   "bot": "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35",
+   "mkt": "",
+   "odd": 22.0,
+   "status": "green",
+   "pl": 1.67
+  },
+  {
+   "data": "2026-08-23 17:07:07",
+   "tm": "17:07",
+   "match": "Palermo x Juve Stabia",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-23 16:58:11",
@@ -530,6 +620,16 @@
    "pl": 0.1
   },
   {
+   "data": "2026-08-23 16:52:14",
+   "tm": "16:52",
+   "match": "Universidad de Chile x Colo-Colo",
+   "bot": "MURALHA CASA-22",
+   "mkt": "Lay Goleada Casa",
+   "odd": 23.0,
+   "status": "green",
+   "pl": 1.59
+  },
+  {
    "data": "2026-08-23 16:51:09",
    "tm": "16:51",
    "match": "FC Porto x FC Arouca",
@@ -546,6 +646,26 @@
    "bot": "STRIKER",
    "mkt": "Back Over 1.5 FT",
    "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 16:43:06",
+   "tm": "16:43",
+   "match": "FC Porto x FC Arouca",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 16.0,
+   "status": "green",
+   "pl": 1.18
+  },
+  {
+   "data": "2026-08-23 16:42:09",
+   "tm": "16:42",
+   "match": "Vitória x Bahia",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.1,
    "status": "red",
    "pl": -2.0
   },
@@ -968,152 +1088,32 @@
    "odd": 4.1,
    "status": "green",
    "pl": 1.2
-  },
-  {
-   "data": "2026-08-23 13:36:08",
-   "tm": "13:36",
-   "match": "Newcastle United x Liverpool FC",
-   "bot": "MURALHA 2.5",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -1.99
-  },
-  {
-   "data": "2026-08-23 13:35:09",
-   "tm": "13:35",
-   "match": "Deportes Concepción x Coquimbo Unido",
-   "bot": "CAÇADOR 2-1",
-   "mkt": "Back Placar 2x1",
-   "odd": 10.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-23 13:34:45",
-   "tm": "13:34",
-   "match": "SD Eibar vs Real Valladolid",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -1.89
-  },
-  {
-   "data": "2026-08-23 13:23:08",
-   "tm": "13:23",
-   "match": "Le Havre x AS Monaco",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-23 13:14:40",
-   "tm": "13:14",
-   "match": "Brommapojkarna vs Degerfors",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-23 13:06:09",
-   "tm": "13:06",
-   "match": "Universitatea Craiova x FC Voluntari",
-   "bot": "QUEBRA-ZERO",
-   "mkt": "Lay Placar 0x0",
-   "odd": 10.5,
-   "status": "green",
-   "pl": 1.26
-  },
-  {
-   "data": "2026-08-23 12:56:09",
-   "tm": "12:56",
-   "match": "ETO FC Győr x Zalaegerszegi TE",
-   "bot": "QUEBRA-ZERO",
-   "mkt": "Lay Placar 0x0",
-   "odd": 12.0,
-   "status": "green",
-   "pl": 1.09
-  },
-  {
-   "data": "2026-08-23 12:53:08",
-   "tm": "12:53",
-   "match": "Newcastle United x Liverpool FC",
-   "bot": "SKIRMISH",
-   "mkt": "Lay Placar 1x0",
-   "odd": 17.0,
-   "status": "green",
-   "pl": 1.52
-  },
-  {
-   "data": "2026-08-23 12:48:20",
-   "tm": "12:48",
-   "match": "ETO FC Győr x Zalaegerszegi TE",
-   "bot": "VANGUARD",
-   "mkt": "Lay Placar 1x0",
-   "odd": 10.0,
-   "status": "green",
-   "pl": 2.22
-  },
-  {
-   "data": "2026-08-23 12:45:27",
-   "tm": "12:45",
-   "match": "Hammarby IF x GAIS",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.3,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-23 12:42:08",
-   "tm": "12:42",
-   "match": "Universitatea Craiova x FC Voluntari",
-   "bot": "BLINDADO 3-1",
-   "mkt": "Lay Placar 3x1",
-   "odd": 16.5,
-   "status": "red",
-   "pl": -22.01
-  },
-  {
-   "data": "2026-08-23 12:41:14",
-   "tm": "12:41",
-   "match": "Eibar x Real Valladolid",
-   "bot": "BTTS LAB",
-   "mkt": "Ambas Marcam",
-   "odd": 3.1,
-   "status": "red",
-   "pl": -2.0
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 95,
-   "g": 62,
-   "r": 33,
-   "pl": -65.96,
-   "wr": 65,
+   "ent": 107,
+   "g": 72,
+   "r": 35,
+   "pl": -56.37,
+   "wr": 67,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1826,
-   "g": 1319,
-   "r": 507,
-   "pl": 218.25,
+   "ent": 1838,
+   "g": 1329,
+   "r": 509,
+   "pl": 227.84,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -65.96,
-   "ops": 95,
-   "g": 62,
-   "r": 33
+   "pl": -56.37,
+   "ops": 107,
+   "g": 72,
+   "r": 35
   },
   "2026-08-22": {
    "pl": 47.57,
