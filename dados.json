@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-22T21:00",
+ "gerado_em": "2026-08-22T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 109,
-   "r": 163,
-   "pl": 114.99,
+   "r": 164,
+   "pl": 113.06,
    "roi": 6.7,
-   "wr": 40.1,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -522,6 +522,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-22 21:34:45",
+   "tm": "21:34",
+   "match": "Confiança vs Anápolis",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.93
+  },
   {
    "data": "2026-08-22 20:34:50",
    "tm": "20:34",
@@ -1111,42 +1121,32 @@
    "odd": 75.0,
    "status": "green",
    "pl": 1.08
-  },
-  {
-   "data": "2026-08-22 14:06:09",
-   "tm": "14:06",
-   "match": "Çaykur Rizespor x Samsunspor",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.44
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 151,
+   "ent": 152,
    "g": 111,
-   "r": 40,
-   "pl": 41.14,
-   "wr": 74,
+   "r": 41,
+   "pl": 39.21,
+   "wr": 73,
    "label": "22/08"
   },
   "mes": {
-   "ent": 1750,
+   "ent": 1751,
    "g": 1260,
-   "r": 490,
-   "pl": 307.52,
+   "r": 491,
+   "pl": 305.59,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-22": {
-   "pl": 41.14,
-   "ops": 151,
+   "pl": 39.21,
+   "ops": 152,
    "g": 111,
-   "r": 40
+   "r": 41
   },
   "2026-08-21": {
    "pl": 21.72,
