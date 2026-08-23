@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T16:00",
+ "gerado_em": "2026-08-23T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -40,11 +40,11 @@
    "n": "VELOCITY",
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
-   "g": 240,
+   "g": 241,
    "r": 102,
-   "pl": 26.07,
+   "pl": 27.86,
    "roi": 3.0,
-   "wr": 70.2,
+   "wr": 70.3,
    "st": "ap"
   },
   {
@@ -73,11 +73,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 112,
+   "g": 113,
    "r": 168,
-   "pl": 118.01,
+   "pl": 121.78,
    "roi": 6.7,
-   "wr": 40.0,
+   "wr": 40.2,
    "st": "val"
   },
   {
@@ -246,17 +246,6 @@
    "st": "val"
   },
   {
-   "n": "BLINDADO 3-1",
-   "s": "Lay Placar 3x1 · BotBet",
-   "plat": "BotBet",
-   "g": 112,
-   "r": 5,
-   "pl": 21.29,
-   "roi": 1.7,
-   "wr": 95.7,
-   "st": "val"
-  },
-  {
    "n": "Lab M3 - Lay 1x0 -  entre o minuto 20 e 30 - odd 15 a 22",
    "s": " · BotBet",
    "plat": "BotBet",
@@ -272,10 +261,10 @@
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
    "g": 11,
-   "r": 17,
-   "pl": 18.41,
+   "r": 18,
+   "pl": 16.41,
    "roi": 43.1,
-   "wr": 39.3,
+   "wr": 37.9,
    "st": "val"
   },
   {
@@ -283,10 +272,21 @@
    "s": "Back Over 1.5 FT · BotBet",
    "plat": "BotBet",
    "g": 489,
-   "r": 149,
-   "pl": 18.17,
+   "r": 150,
+   "pl": 16.17,
    "roi": 1.2,
-   "wr": 76.6,
+   "wr": 76.5,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 101,
+   "r": 36,
+   "pl": 11.85,
+   "roi": 1.9,
+   "wr": 73.7,
    "st": "val"
   },
   {
@@ -301,14 +301,14 @@
    "st": "val"
   },
   {
-   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
-   "s": " · BotBet",
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
    "plat": "BotBet",
-   "g": 100,
-   "r": 36,
-   "pl": 10.42,
-   "roi": 1.9,
-   "wr": 73.5,
+   "g": 78,
+   "r": 4,
+   "pl": 10.63,
+   "roi": 1.1,
+   "wr": 95.1,
    "st": "val"
   },
   {
@@ -320,17 +320,6 @@
    "pl": 10.1,
    "roi": 3.0,
    "wr": 66.2,
-   "st": "val"
-  },
-  {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
-   "plat": "BotBet",
-   "g": 77,
-   "r": 4,
-   "pl": 10.07,
-   "roi": 1.1,
-   "wr": 95.1,
    "st": "val"
   },
   {
@@ -400,6 +389,17 @@
    "st": "val"
   },
   {
+   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 11,
+   "r": 1,
+   "pl": 4.04,
+   "roi": 0.2,
+   "wr": 91.7,
+   "st": "val"
+  },
+  {
    "n": "MURALHA CASA-40 (Bolsa)",
    "s": "Lay Goleada Casa · Bolsa",
    "plat": "Bolsa",
@@ -408,6 +408,17 @@
    "pl": 3.62,
    "roi": 1.3,
    "wr": 91.1,
+   "st": "val"
+  },
+  {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 67,
+   "r": 6,
+   "pl": 3.53,
+   "roi": 0.1,
+   "wr": 91.8,
    "st": "val"
   },
   {
@@ -422,28 +433,6 @@
    "st": "val"
   },
   {
-   "n": "Lab M3 - Lay 2-3 - Odd 7-10",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 10,
-   "r": 1,
-   "pl": 2.76,
-   "roi": 0.2,
-   "wr": 90.9,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 66,
-   "r": 6,
-   "pl": 2.38,
-   "roi": 0.1,
-   "wr": 91.7,
-   "st": "val"
-  },
-  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -452,6 +441,28 @@
    "pl": 2.11,
    "roi": 2.1,
    "wr": 66.7,
+   "st": "val"
+  },
+  {
+   "n": "BLINDADO 3-1",
+   "s": "Lay Placar 3x1 · BotBet",
+   "plat": "BotBet",
+   "g": 113,
+   "r": 6,
+   "pl": 0.66,
+   "roi": 1.7,
+   "wr": 95.0,
+   "st": "val"
+  },
+  {
+   "n": "Lab M3 Lay empate após min 30-40",
+   "s": " · BotBet",
+   "plat": "BotBet",
+   "g": 14,
+   "r": 5,
+   "pl": 0.66,
+   "roi": -3.1,
+   "wr": 73.7,
    "st": "val"
   },
   {
@@ -478,6 +489,46 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-23 16:15:07",
+   "tm": "16:15",
+   "match": "Alanyaspor x Beşiktaş JK",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 0.56
+  },
+  {
+   "data": "2026-08-23 16:09:19",
+   "tm": "16:09",
+   "match": "Barracas Central x Club Atlético Platense",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.9,
+   "status": "green",
+   "pl": 1.79
+  },
+  {
+   "data": "2026-08-23 16:04:48",
+   "tm": "16:04",
+   "match": "Castellón vs Sabadell",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 3.77
+  },
+  {
+   "data": "2026-08-23 15:41:06",
+   "tm": "15:41",
+   "match": "SK Sigma Olomouc x FK Pardubice",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 14.0,
+   "status": "green",
+   "pl": 1.15
+  },
   {
    "data": "2026-08-23 15:34:46",
    "tm": "15:34",
@@ -509,6 +560,36 @@
    "pl": 2.0
   },
   {
+   "data": "2026-08-23 15:33:20",
+   "tm": "15:33",
+   "match": "Hapoel Jerusalem x Maccabi Tel Aviv",
+   "bot": "Lab M3 - Lay 2-3 - Odd 7-10",
+   "mkt": "",
+   "odd": 9.0,
+   "status": "green",
+   "pl": 1.28
+  },
+  {
+   "data": "2026-08-23 15:25:14",
+   "tm": "15:25",
+   "match": "Pisa x Padova",
+   "bot": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "mkt": "",
+   "odd": 3.9,
+   "status": "green",
+   "pl": 1.43
+  },
+  {
+   "data": "2026-08-23 15:24:07",
+   "tm": "15:24",
+   "match": "Pisa x Padova",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.6,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-23 15:20:14",
    "tm": "15:20",
    "match": "PAOK x APO Levadiakos",
@@ -529,6 +610,46 @@
    "pl": 0.98
   },
   {
+   "data": "2026-08-23 15:18:08",
+   "tm": "15:18",
+   "match": "Barracas Central x Club Atlético Platense",
+   "bot": "Lab M3 Lay empate após min 30-40",
+   "mkt": "",
+   "odd": 4.0,
+   "status": "green",
+   "pl": 1.33
+  },
+  {
+   "data": "2026-08-23 15:16:07",
+   "tm": "15:16",
+   "match": "Sarmiento x Estudiantes de La Plata",
+   "bot": "Lab M3 Lay empate após min 30-40",
+   "mkt": "",
+   "odd": 3.8,
+   "status": "green",
+   "pl": 1.45
+  },
+  {
+   "data": "2026-08-23 15:12:08",
+   "tm": "15:12",
+   "match": "SK Sigma Olomouc x FK Pardubice",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 22.0,
+   "status": "red",
+   "pl": -22.05
+  },
+  {
+   "data": "2026-08-23 15:12:06",
+   "tm": "15:12",
+   "match": "PAOK x APO Levadiakos",
+   "bot": "BLINDADO 3-1",
+   "mkt": "Lay Placar 3x1",
+   "odd": 16.5,
+   "status": "green",
+   "pl": 1.42
+  },
+  {
    "data": "2026-08-23 15:10:16",
    "tm": "15:10",
    "match": "Frosinone x Juventus",
@@ -547,6 +668,16 @@
    "odd": 1.4,
    "status": "green",
    "pl": 0.7
+  },
+  {
+   "data": "2026-08-23 15:06:17",
+   "tm": "15:06",
+   "match": "Pisa x Padova",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 4.0,
+   "status": "red",
+   "pl": -2.0
   },
   {
    "data": "2026-08-23 14:54:49",
@@ -957,152 +1088,32 @@
    "odd": 60.0,
    "status": "green",
    "pl": 1.36
-  },
-  {
-   "data": "2026-08-23 11:17:07",
-   "tm": "11:17",
-   "match": "Manchester City x Bournemouth",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.2,
-   "status": "green",
-   "pl": 0.43
-  },
-  {
-   "data": "2026-08-23 11:16:07",
-   "tm": "11:16",
-   "match": "Sepsi OSK Sfântu Gheorghe x FCV Farul Constanța",
-   "bot": "Lab M3 - Lay 1x1 - Odd  3 a 4",
-   "mkt": "",
-   "odd": 2.8,
-   "status": "red",
-   "pl": -3.68
-  },
-  {
-   "data": "2026-08-23 11:08:24",
-   "tm": "11:08",
-   "match": "Paide Linnameeskond x FC Nõmme United",
-   "bot": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
-   "mkt": "",
-   "odd": 4.8,
-   "status": "red",
-   "pl": -5.02
-  },
-  {
-   "data": "2026-08-23 11:08:18",
-   "tm": "11:08",
-   "match": "Manchester City x Bournemouth",
-   "bot": "MURALHA 2.5",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.01
-  },
-  {
-   "data": "2026-08-23 10:21:24",
-   "tm": "10:21",
-   "match": "IFK Göteborg x IF Elfsborg",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 1.04
-  },
-  {
-   "data": "2026-08-23 09:26:08",
-   "tm": "09:26",
-   "match": "SpVgg Greuther Fürth x VfL Bochum 1848",
-   "bot": "VELOCITY",
-   "mkt": "Back Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 1.16
-  },
-  {
-   "data": "2026-08-23 09:16:25",
-   "tm": "09:16",
-   "match": "IFK Göteborg x IF Elfsborg",
-   "bot": "HIERARCHY",
-   "mkt": "Lay Placar 1x0",
-   "odd": 11.5,
-   "status": "green",
-   "pl": 1.9
-  },
-  {
-   "data": "2026-08-23 09:15:06",
-   "tm": "09:15",
-   "match": "SpVgg Greuther Fürth x VfL Bochum 1848",
-   "bot": "STRIKER",
-   "mkt": "Back Over 1.5 FT",
-   "odd": 1.3,
-   "status": "green",
-   "pl": 0.66
-  },
-  {
-   "data": "2026-08-23 09:11:25",
-   "tm": "09:11",
-   "match": "AGF x Odense Boldklub",
-   "bot": "BLINDADO 3-1",
-   "mkt": "Lay Placar 3x1",
-   "odd": 22.0,
-   "status": "green",
-   "pl": 1.05
-  },
-  {
-   "data": "2026-08-23 09:10:25",
-   "tm": "09:10",
-   "match": "AGF x Odense Boldklub",
-   "bot": "SENTINEL 0.1",
-   "mkt": "Lay Placar 0x1",
-   "odd": 16.0,
-   "status": "green",
-   "pl": 3.33
-  },
-  {
-   "data": "2026-08-23 08:54:35",
-   "tm": "08:54",
-   "match": "Go Ahead Eagles vs ADO Den Haag",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -5.49
-  },
-  {
-   "data": "2026-08-23 08:48:22",
-   "tm": "08:48",
-   "match": "Shanghai Port x Qingdao Hainiu",
-   "bot": "Cópia de Lab M3 - Lay goleada casa - odd 4 a 5",
-   "mkt": "",
-   "odd": 4.2,
-   "status": "green",
-   "pl": 1.56
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 68,
-   "g": 43,
-   "r": 25,
-   "pl": -31.44,
-   "wr": 63,
+   "ent": 80,
+   "g": 52,
+   "r": 28,
+   "pl": -43.32,
+   "wr": 65,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1743,
-   "g": 1251,
-   "r": 492,
-   "pl": 270.33,
+   "ent": 1765,
+   "g": 1268,
+   "r": 497,
+   "pl": 262.19,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -31.44,
-   "ops": 68,
-   "g": 43,
-   "r": 25
+   "pl": -43.32,
+   "ops": 80,
+   "g": 52,
+   "r": 28
   },
   "2026-08-22": {
    "pl": 52.58,
@@ -1141,9 +1152,9 @@
    "r": 14
   },
   "2026-08-16": {
-   "pl": 34.1,
-   "ops": 124,
-   "g": 83,
+   "pl": 38.61,
+   "ops": 127,
+   "g": 86,
    "r": 41
   },
   "2026-08-15": {
@@ -1159,10 +1170,10 @@
    "r": 15
   },
   "2026-08-13": {
-   "pl": -39.81,
-   "ops": 64,
+   "pl": -43.88,
+   "ops": 65,
    "g": 52,
-   "r": 12
+   "r": 13
   },
   "2026-08-12": {
    "pl": 4.42,
@@ -1177,16 +1188,16 @@
    "r": 13
   },
   "2026-08-10": {
-   "pl": 5.16,
-   "ops": 33,
-   "g": 25,
+   "pl": 6.67,
+   "ops": 34,
+   "g": 26,
    "r": 8
   },
   "2026-08-09": {
-   "pl": -3.24,
-   "ops": 149,
-   "g": 114,
-   "r": 35
+   "pl": -5.76,
+   "ops": 151,
+   "g": 115,
+   "r": 36
   },
   "2026-08-08": {
    "pl": 2.49,
@@ -1225,27 +1236,27 @@
    "r": 12
   },
   "2026-08-02": {
-   "pl": 16.31,
-   "ops": 135,
-   "g": 97,
+   "pl": 17.67,
+   "ops": 136,
+   "g": 98,
    "r": 38
   },
   "2026-08-01": {
-   "pl": 67.07,
-   "ops": 101,
-   "g": 72,
+   "pl": 70.01,
+   "ops": 103,
+   "g": 74,
    "r": 29
   },
   "2026-07-31": {
-   "pl": -114.38,
-   "ops": 50,
+   "pl": -118.31,
+   "ops": 51,
    "g": 31,
-   "r": 19
+   "r": 20
   },
   "2026-07-30": {
-   "pl": -9.03,
-   "ops": 64,
-   "g": 38,
+   "pl": -7.55,
+   "ops": 65,
+   "g": 39,
    "r": 26
   },
   "2026-07-29": {
@@ -1267,9 +1278,9 @@
    "r": 12
   },
   "2026-07-26": {
-   "pl": 102.57,
-   "ops": 117,
-   "g": 86,
+   "pl": 103.9,
+   "ops": 118,
+   "g": 87,
    "r": 31
   },
   "2026-07-25": {
@@ -1285,10 +1296,10 @@
    "r": 22
   },
   "2026-07-23": {
-   "pl": 39.23,
-   "ops": 59,
-   "g": 38,
-   "r": 21
+   "pl": 36.83,
+   "ops": 61,
+   "g": 39,
+   "r": 22
   },
   "2026-07-22": {
    "pl": 4.88,
@@ -1309,9 +1320,9 @@
    "r": 8
   },
   "2026-07-19": {
-   "pl": 22.03,
-   "ops": 49,
-   "g": 30,
+   "pl": 23.77,
+   "ops": 50,
+   "g": 31,
    "r": 19
   },
   "2026-07-18": {
@@ -1321,10 +1332,10 @@
    "r": 27
   },
   "2026-07-17": {
-   "pl": 14.88,
-   "ops": 45,
+   "pl": 10.81,
+   "ops": 46,
    "g": 30,
-   "r": 15
+   "r": 16
   },
   "2026-07-16": {
    "pl": 18.22,
