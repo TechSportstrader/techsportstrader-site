@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T11:00",
+ "gerado_em": "2026-08-23T12:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 632,
-   "pl": 20.18,
+   "ent": 633,
+   "pl": 20.61,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 337,
-   "pl": 24.36,
+   "ent": 338,
+   "pl": 24.99,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -101,8 +101,8 @@
   },
   "HIERARCHY": {
    "st": "val",
-   "ent": 93,
-   "pl": 21.05,
+   "ent": 94,
+   "pl": 22.95,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -122,8 +122,8 @@
   },
   "Lab M3 - Back 1x0 - após o minuto 80": {
    "st": "rep",
-   "ent": 12,
-   "pl": -12.8,
+   "ent": 13,
+   "pl": -14.8,
    "roi": -53.3,
    "plat": "BotBet"
   },
@@ -136,8 +136,8 @@
   },
   "QUEBRA-ZERO 80": {
    "st": "rep",
-   "ent": 34,
-   "pl": -2.68,
+   "ent": 35,
+   "pl": -4.68,
    "roi": -4.0,
    "plat": "BotBet"
   },
@@ -171,8 +171,8 @@
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "st": "val",
-   "ent": 133,
-   "pl": 11.41,
+   "ent": 134,
+   "pl": 7.73,
    "roi": 1.9,
    "plat": "BotBet"
   },
@@ -191,16 +191,16 @@
    "plat": "BotBet"
   },
   "DEADLOCK": {
-   "st": "val",
-   "ent": 63,
-   "pl": 0.12,
+   "st": "rep",
+   "ent": 64,
+   "pl": -4.74,
    "roi": 0.8,
    "plat": "BotBet"
   },
   "BLINDADO 3-1": {
    "st": "val",
-   "ent": 114,
-   "pl": 41.34,
+   "ent": 115,
+   "pl": 42.39,
    "roi": 1.7,
    "plat": "BotBet"
   },
@@ -325,8 +325,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 115,
-   "pl": 173.09,
+   "ent": 116,
+   "pl": 176.42,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -338,9 +338,9 @@
    "plat": "BotBet"
   },
   "Teste Lay 1x0 - Com projeção de goleada do time da casa": {
-   "st": "val",
-   "ent": 7,
-   "pl": 27.75,
+   "st": "rep",
+   "ent": 8,
+   "pl": -0.69,
    "roi": 13.2,
    "plat": "BotBet"
   },
@@ -423,8 +423,8 @@
   },
   "BLINDADO 2-2": {
    "st": "rep",
-   "ent": 73,
-   "pl": -11.51,
+   "ent": 74,
+   "pl": -16.51,
    "roi": 1.1,
    "plat": "Bolsa"
   },
@@ -486,8 +486,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 251,
-   "pl": -6.35,
+   "ent": 252,
+   "pl": -16.35,
    "roi": -0.3,
    "plat": "Bolsa"
   }
