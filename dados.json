@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T13:00",
+ "gerado_em": "2026-08-23T14:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -7,9 +7,9 @@
    "n": "APEX SHIELD",
    "s": "Lay Goleada Visitante · BotBet",
    "plat": "BotBet",
-   "g": 585,
+   "g": 587,
    "r": 6,
-   "pl": 418.29,
+   "pl": 420.66,
    "roi": 0.7,
    "wr": 99.0,
    "st": "ap"
@@ -41,10 +41,10 @@
    "s": "Back Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 237,
-   "r": 101,
-   "pl": 24.99,
+   "r": 102,
+   "pl": 22.99,
    "roi": 3.0,
-   "wr": 70.1,
+   "wr": 69.9,
    "st": "ap"
   },
   {
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 110,
-   "r": 164,
-   "pl": 115.08,
+   "r": 166,
+   "pl": 111.19,
    "roi": 6.7,
-   "wr": 40.1,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -151,10 +151,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 104,
-   "r": 68,
-   "pl": 57.13,
+   "r": 69,
+   "pl": 55.18,
    "roi": -0.2,
-   "wr": 60.5,
+   "wr": 60.1,
    "st": "val"
   },
   {
@@ -217,10 +217,10 @@
    "s": "Lay Over 2.5 FT · BotBet",
    "plat": "BotBet",
    "g": 47,
-   "r": 14,
-   "pl": 29.61,
+   "r": 15,
+   "pl": 27.62,
    "roi": 25.3,
-   "wr": 77.0,
+   "wr": 75.8,
    "st": "val"
   },
   {
@@ -261,21 +261,10 @@
    "s": "Ambas Marcam · BotBet",
    "plat": "BotBet",
    "g": 11,
-   "r": 15,
-   "pl": 22.41,
+   "r": 16,
+   "pl": 20.41,
    "roi": 43.1,
-   "wr": 42.3,
-   "st": "val"
-  },
-  {
-   "n": "STRIKER",
-   "s": "Back Over 1.5 FT · BotBet",
-   "plat": "BotBet",
-   "g": 486,
-   "r": 147,
-   "pl": 20.61,
-   "roi": 1.2,
-   "wr": 76.8,
+   "wr": 40.7,
    "st": "val"
   },
   {
@@ -290,6 +279,17 @@
    "st": "val"
   },
   {
+   "n": "STRIKER",
+   "s": "Back Over 1.5 FT · BotBet",
+   "plat": "BotBet",
+   "g": 487,
+   "r": 148,
+   "pl": 19.05,
+   "roi": 1.2,
+   "wr": 76.7,
+   "st": "val"
+  },
+  {
    "n": "Lab M3 - Lay 0x2 - odd 7 a 10 - gols sofridos",
    "s": " · BotBet",
    "plat": "BotBet",
@@ -298,6 +298,17 @@
    "pl": 11.11,
    "roi": 6.2,
    "wr": 94.4,
+   "st": "val"
+  },
+  {
+   "n": "HALF SNIPER",
+   "s": "Under 0.5 HT · BotBet",
+   "plat": "BotBet",
+   "g": 77,
+   "r": 4,
+   "pl": 10.07,
+   "roi": 1.1,
+   "wr": 95.1,
    "st": "val"
   },
   {
@@ -312,14 +323,14 @@
    "st": "val"
   },
   {
-   "n": "HALF SNIPER",
-   "s": "Under 0.5 HT · BotBet",
+   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "s": " · BotBet",
    "plat": "BotBet",
-   "g": 76,
-   "r": 4,
-   "pl": 9.02,
-   "roi": 1.1,
-   "wr": 95.0,
+   "g": 99,
+   "r": 36,
+   "pl": 9.06,
+   "roi": 1.9,
+   "wr": 73.3,
    "st": "val"
   },
   {
@@ -345,14 +356,14 @@
    "st": "val"
   },
   {
-   "n": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "n": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
    "s": " · BotBet",
    "plat": "BotBet",
-   "g": 98,
-   "r": 36,
-   "pl": 7.73,
-   "roi": 1.9,
-   "wr": 73.1,
+   "g": 9,
+   "r": 1,
+   "pl": 5.83,
+   "roi": 13.2,
+   "wr": 90.0,
    "st": "val"
   },
   {
@@ -400,17 +411,6 @@
    "st": "val"
   },
   {
-   "n": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 8,
-   "r": 1,
-   "pl": 2.97,
-   "roi": 13.2,
-   "wr": 88.9,
-   "st": "val"
-  },
-  {
    "n": "LOWLINE",
    "s": "Under 3.5 FT · BotBet",
    "plat": "BotBet",
@@ -433,6 +433,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA CASA-40",
+   "s": "Lay Goleada Casa · BotBet",
+   "plat": "BotBet",
+   "g": 66,
+   "r": 6,
+   "pl": 2.38,
+   "roi": 0.1,
+   "wr": 91.7,
+   "st": "val"
+  },
+  {
    "n": "SNIPER 1.5",
    "s": "Lay Over 1.5 FT · Bolsa",
    "plat": "Bolsa",
@@ -452,28 +463,6 @@
    "pl": 1.93,
    "roi": 21.5,
    "wr": 50.0,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA CASA-40",
-   "s": "Lay Goleada Casa · BotBet",
-   "plat": "BotBet",
-   "g": 65,
-   "r": 6,
-   "pl": 0.88,
-   "roi": 0.1,
-   "wr": 91.5,
-   "st": "val"
-  },
-  {
-   "n": "LAb M3 - Lay under 2.5 ht",
-   "s": " · BotBet",
-   "plat": "BotBet",
-   "g": 7,
-   "r": 21,
-   "pl": 0.41,
-   "roi": 0.7,
-   "wr": 25.0,
    "st": "val"
   },
   {
@@ -500,6 +489,116 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-23 13:54:45",
+   "tm": "13:54",
+   "match": "Newcastle United vs Liverpool",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -1.95
+  },
+  {
+   "data": "2026-08-23 13:44:08",
+   "tm": "13:44",
+   "match": "Eyüpspor x Gaziantep FK",
+   "bot": "HALF SNIPER",
+   "mkt": "Under 0.5 HT",
+   "odd": 1.1,
+   "status": "green",
+   "pl": 1.05
+  },
+  {
+   "data": "2026-08-23 13:38:08",
+   "tm": "13:38",
+   "match": "Universitatea Craiova x FC Voluntari",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.2,
+   "status": "green",
+   "pl": 0.43
+  },
+  {
+   "data": "2026-08-23 13:36:08",
+   "tm": "13:36",
+   "match": "Newcastle United x Liverpool FC",
+   "bot": "MURALHA 2.5",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.99
+  },
+  {
+   "data": "2026-08-23 13:34:45",
+   "tm": "13:34",
+   "match": "SD Eibar vs Real Valladolid",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -1.89
+  },
+  {
+   "data": "2026-08-23 13:14:40",
+   "tm": "13:14",
+   "match": "Brommapojkarna vs Degerfors",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 12:45:27",
+   "tm": "12:45",
+   "match": "Hammarby IF x GAIS",
+   "bot": "VELOCITY",
+   "mkt": "Back Over 2.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 12:41:14",
+   "tm": "12:41",
+   "match": "Eibar x Real Valladolid",
+   "bot": "BTTS LAB",
+   "mkt": "Ambas Marcam",
+   "odd": 3.1,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 12:41:09",
+   "tm": "12:41",
+   "match": "Vitória SC x CD Nacional",
+   "bot": "STRIKER",
+   "mkt": "Back Over 1.5 FT",
+   "odd": 1.3,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
+   "data": "2026-08-23 12:20:27",
+   "tm": "12:20",
+   "match": "AC Horsens x Lyngby",
+   "bot": "Lab M3 - Lay 1x1 - Odd  3 a 4",
+   "mkt": "",
+   "odd": 4.0,
+   "status": "green",
+   "pl": 1.33
+  },
+  {
+   "data": "2026-08-23 12:19:14",
+   "tm": "12:19",
+   "match": "Vitória SC x CD Nacional",
+   "bot": "MURALHA CASA-40",
+   "mkt": "Lay Goleada Casa",
+   "odd": 11.0,
+   "status": "green",
+   "pl": 1.5
+  },
   {
    "data": "2026-08-23 12:04:54",
    "tm": "12:04",
@@ -531,6 +630,16 @@
    "pl": 0.62
   },
   {
+   "data": "2026-08-23 11:37:26",
+   "tm": "11:37",
+   "match": "IF Brommapojkarna x Degerfors IF",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 80.0,
+   "status": "green",
+   "pl": 1.01
+  },
+  {
    "data": "2026-08-23 11:32:09",
    "tm": "11:32",
    "match": "Lommel SK x KVC Westerlo",
@@ -539,6 +648,26 @@
    "odd": 14.0,
    "status": "green",
    "pl": 1.79
+  },
+  {
+   "data": "2026-08-23 11:23:12",
+   "tm": "11:23",
+   "match": "VJS x FC Jazz",
+   "bot": "APEX SHIELD",
+   "mkt": "Lay Goleada Visitante",
+   "odd": 60.0,
+   "status": "green",
+   "pl": 1.36
+  },
+  {
+   "data": "2026-08-23 11:18:19",
+   "tm": "11:18",
+   "match": "VJS x FC Jazz",
+   "bot": "Teste Lay 1x0 - Com projeção de goleada do time da casa",
+   "mkt": "",
+   "odd": 11.5,
+   "status": "green",
+   "pl": 2.86
   },
   {
    "data": "2026-08-23 11:17:07",
@@ -763,40 +892,40 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 26,
-   "g": 18,
-   "r": 8,
-   "pl": -13.17,
-   "wr": 69,
+   "ent": 40,
+   "g": 25,
+   "r": 15,
+   "pl": -17.45,
+   "wr": 62,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1731,
+   "ent": 1723,
    "g": 1241,
-   "r": 490,
-   "pl": 332.71,
+   "r": 482,
+   "pl": 316.36,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -13.17,
-   "ops": 26,
-   "g": 18,
-   "r": 8
+   "pl": -17.45,
+   "ops": 40,
+   "g": 25,
+   "r": 15
   },
   "2026-08-22": {
-   "pl": 63.04,
-   "ops": 167,
+   "pl": 64.99,
+   "ops": 166,
    "g": 122,
-   "r": 45
+   "r": 44
   },
   "2026-08-21": {
-   "pl": 23.75,
-   "ops": 81,
+   "pl": 27.66,
+   "ops": 79,
    "g": 62,
-   "r": 19
+   "r": 17
   },
   "2026-08-20": {
    "pl": 28.54,
@@ -817,21 +946,21 @@
    "r": 8
   },
   "2026-08-17": {
-   "pl": -10.86,
-   "ops": 49,
+   "pl": -8.95,
+   "ops": 48,
    "g": 34,
-   "r": 15
+   "r": 14
   },
   "2026-08-16": {
-   "pl": 32.1,
-   "ops": 125,
+   "pl": 34.1,
+   "ops": 124,
    "g": 83,
-   "r": 42
+   "r": 41
   },
   "2026-08-15": {
-   "pl": -7.64,
-   "ops": 133,
-   "g": 95,
+   "pl": -10.63,
+   "ops": 132,
+   "g": 94,
    "r": 38
   },
   "2026-08-14": {
@@ -865,21 +994,21 @@
    "r": 8
   },
   "2026-08-09": {
-   "pl": -9.18,
-   "ops": 152,
+   "pl": -3.24,
+   "ops": 149,
    "g": 114,
-   "r": 38
+   "r": 35
   },
   "2026-08-08": {
-   "pl": 13.03,
-   "ops": 146,
-   "g": 98,
-   "r": 48
+   "pl": 2.49,
+   "ops": 142,
+   "g": 96,
+   "r": 46
   },
   "2026-08-07": {
-   "pl": 35.65,
-   "ops": 62,
-   "g": 43,
+   "pl": 24.34,
+   "ops": 60,
+   "g": 41,
    "r": 19
   },
   "2026-08-06": {
@@ -907,22 +1036,22 @@
    "r": 12
   },
   "2026-08-02": {
-   "pl": 12.35,
-   "ops": 137,
+   "pl": 16.31,
+   "ops": 135,
    "g": 97,
-   "r": 40
+   "r": 38
   },
   "2026-08-01": {
-   "pl": 73.99,
-   "ops": 106,
-   "g": 74,
-   "r": 32
+   "pl": 67.07,
+   "ops": 101,
+   "g": 72,
+   "r": 29
   },
   "2026-07-31": {
-   "pl": -116.41,
-   "ops": 51,
+   "pl": -114.38,
+   "ops": 50,
    "g": 31,
-   "r": 20
+   "r": 19
   },
   "2026-07-30": {
    "pl": -9.03,
@@ -955,16 +1084,16 @@
    "r": 31
   },
   "2026-07-25": {
-   "pl": 43.11,
-   "ops": 140,
+   "pl": 46.89,
+   "ops": 138,
    "g": 98,
-   "r": 42
+   "r": 40
   },
   "2026-07-24": {
-   "pl": -11.51,
-   "ops": 65,
+   "pl": -7.61,
+   "ops": 63,
    "g": 41,
-   "r": 24
+   "r": 22
   },
   "2026-07-23": {
    "pl": 39.23,
@@ -979,10 +1108,10 @@
    "r": 12
   },
   "2026-07-21": {
-   "pl": 15.2,
-   "ops": 49,
+   "pl": 17.15,
+   "ops": 48,
    "g": 35,
-   "r": 14
+   "r": 13
   },
   "2026-07-20": {
    "pl": -17.17,
