@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T17:00",
+ "gerado_em": "2026-08-24T18:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -140,8 +140,8 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 147,
-   "pl": 68.13,
+   "r": 148,
+   "pl": 66.13,
    "roi": 3.7,
    "wr": 14.0,
    "st": "val"
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 17:41:50",
+   "tm": "17:41",
+   "match": "Reims vs Annecy",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 8.4,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-24 16:51:46",
    "tm": "16:51",
    "match": "Lokomotiv Plovdiv vs Arda",
@@ -575,28 +585,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
+   "ent": 6,
    "g": 1,
-   "r": 4,
-   "pl": -9.94,
-   "wr": 20,
+   "r": 5,
+   "pl": -11.94,
+   "wr": 17,
    "label": "24/08"
   },
   "mes": {
-   "ent": 545,
+   "ent": 546,
    "g": 271,
-   "r": 274,
-   "pl": 54.36,
+   "r": 275,
+   "pl": 52.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": -9.94,
-   "ops": 5,
+   "pl": -11.94,
+   "ops": 6,
    "g": 1,
-   "r": 4
+   "r": 5
   },
   "2026-08-23": {
    "pl": -0.17,
