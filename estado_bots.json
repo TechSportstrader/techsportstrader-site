@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T20:00",
+ "gerado_em": "2026-08-23T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -45,15 +45,15 @@
   },
   "STRIKER": {
    "st": "val",
-   "ent": 643,
-   "pl": 13.14,
+   "ent": 646,
+   "pl": 12.81,
    "roi": 1.2,
    "plat": "BotBet"
   },
   "VELOCITY": {
    "st": "ap",
-   "ent": 347,
-   "pl": 29.35,
+   "ent": 348,
+   "pl": 27.35,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -87,8 +87,8 @@
   },
   "FORTRESS LAY": {
    "st": "ap",
-   "ent": 389,
-   "pl": 96.02,
+   "ent": 390,
+   "pl": 97.52,
    "roi": 1.0,
    "plat": "BotBet"
   },
@@ -171,15 +171,15 @@
   },
   "Lab M3 - Lay 1x1 - Odd  3 a 4": {
    "st": "val",
-   "ent": 138,
-   "pl": 7.84,
+   "ent": 139,
+   "pl": 9.2,
    "roi": 1.9,
    "plat": "BotBet"
   },
   "Lab M3 - Lay 1x2 - odd 10 a 15": {
    "st": "rep",
-   "ent": 42,
-   "pl": -5.81,
+   "ent": 44,
+   "pl": -3.09,
    "roi": 1.3,
    "plat": "BotBet"
   },
@@ -206,8 +206,8 @@
   },
   "Lab M3 - Lay 3x0  - Entre minuto 40 e 50 - odd  22 a 35": {
    "st": "val",
-   "ent": 62,
-   "pl": 47.87,
+   "ent": 63,
+   "pl": 49.46,
    "roi": 2.1,
    "plat": "BotBet"
   },
@@ -262,8 +262,8 @@
   },
   "CAÇADOR 2-1": {
    "st": "val",
-   "ent": 58,
-   "pl": 21.42,
+   "ent": 59,
+   "pl": 19.42,
    "roi": 24.9,
    "plat": "BotBet"
   },
@@ -290,8 +290,8 @@
   },
   "QUEBRA-ZERO": {
    "st": "val",
-   "ent": 99,
-   "pl": 1.79,
+   "ent": 100,
+   "pl": 2.99,
    "roi": -0.7,
    "plat": "BotBet"
   },
@@ -325,8 +325,8 @@
   },
   "SENTINEL 0.1": {
    "st": "val",
-   "ent": 117,
-   "pl": 179.05,
+   "ent": 118,
+   "pl": 181.99,
    "roi": 3.0,
    "plat": "BotBet"
   },
@@ -388,15 +388,15 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 170,
-   "pl": 70.13,
+   "ent": 171,
+   "pl": 68.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 283,
-   "pl": 117.79,
+   "ent": 285,
+   "pl": 118.87,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -486,8 +486,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 253,
-   "pl": -26.35,
+   "ent": 254,
+   "pl": -24.68,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -519,8 +519,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 34,
-   "pl": 29.05,
+   "ent": 35,
+   "pl": 30.36,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
