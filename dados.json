@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T15:00",
+ "gerado_em": "2026-08-24T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -30,10 +30,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 285,
-   "r": 195,
-   "pl": 69.7,
+   "r": 197,
+   "pl": 61.58,
    "roi": 1.5,
-   "wr": 59.4,
+   "wr": 59.1,
    "st": "ap"
   },
   {
@@ -151,10 +151,10 @@
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 105,
-   "r": 69,
-   "pl": 56.92,
+   "r": 70,
+   "pl": 54.98,
    "roi": -0.2,
-   "wr": 60.3,
+   "wr": 60.0,
    "st": "val"
   },
   {
@@ -523,6 +523,36 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 15:43:56",
+   "tm": "15:43",
+   "match": "Malmö FF vs Djurgården",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "red",
+   "pl": -4.23
+  },
+  {
+   "data": "2026-08-24 15:23:57",
+   "tm": "15:23",
+   "match": "Brøndby IF vs Silkeborg IF",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -1.94
+  },
+  {
+   "data": "2026-08-24 15:23:56",
+   "tm": "15:23",
+   "match": "Brøndby IF vs Silkeborg IF",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.2,
+   "status": "red",
+   "pl": -3.89
+  },
+  {
    "data": "2026-08-24 14:43:55",
    "tm": "14:43",
    "match": "TransINVEST Vilnius vs FA Šiauliai",
@@ -535,28 +565,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 4,
    "g": 1,
-   "r": 0,
-   "pl": 2.12,
-   "wr": 100,
+   "r": 3,
+   "pl": -7.94,
+   "wr": 25,
    "label": "24/08"
   },
   "mes": {
-   "ent": 541,
+   "ent": 544,
    "g": 271,
-   "r": 270,
-   "pl": 66.42,
+   "r": 273,
+   "pl": 56.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": 2.12,
-   "ops": 1,
+   "pl": -7.94,
+   "ops": 4,
    "g": 1,
-   "r": 0
+   "r": 3
   },
   "2026-08-23": {
    "pl": -0.17,
