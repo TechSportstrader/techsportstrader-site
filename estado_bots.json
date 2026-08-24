@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T21:00",
+ "gerado_em": "2026-08-23T22:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -395,8 +395,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 285,
-   "pl": 118.87,
+   "ent": 286,
+   "pl": 116.87,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -479,8 +479,8 @@
   },
   "VIGIA HT-A": {
    "st": "rep",
-   "ent": 176,
-   "pl": -4.29,
+   "ent": 178,
+   "pl": -4.83,
    "roi": -0.2,
    "plat": "Bolsa"
   },
