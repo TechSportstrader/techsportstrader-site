@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T17:00",
+ "gerado_em": "2026-08-24T18:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -388,8 +388,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 171,
-   "pl": 68.13,
+   "ent": 172,
+   "pl": 66.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -486,8 +486,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 257,
-   "pl": -31.22,
+   "ent": 258,
+   "pl": -29.37,
    "roi": -0.3,
    "plat": "Bolsa"
   }
@@ -514,8 +514,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
-   "ent": 35,
-   "pl": 30.36,
+   "ent": 36,
+   "pl": 26.36,
    "plat": "Bolsa"
   },
   "Lab M3 - Over 3.5 odd 3 a 4": {
