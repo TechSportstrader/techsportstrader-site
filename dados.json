@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T21:00",
+ "gerado_em": "2026-08-23T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 114,
-   "r": 171,
-   "pl": 118.87,
+   "r": 172,
+   "pl": 116.87,
    "roi": 6.7,
-   "wr": 40.0,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -489,6 +489,16 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-23 21:31:45",
+   "tm": "21:31",
+   "match": "Deportes Quindío vs Envigado",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 2.0,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-23 20:41:52",
    "tm": "20:41",
@@ -1078,42 +1088,32 @@
    "odd": 22.0,
    "status": "red",
    "pl": -22.05
-  },
-  {
-   "data": "2026-08-23 15:12:06",
-   "tm": "15:12",
-   "match": "PAOK x APO Levadiakos",
-   "bot": "BLINDADO 3-1",
-   "mkt": "Lay Placar 3x1",
-   "odd": 16.5,
-   "status": "green",
-   "pl": 1.42
   }
  ],
  "resumo": {
   "dia": {
-   "ent": 128,
+   "ent": 129,
    "g": 83,
-   "r": 45,
-   "pl": -61.64,
-   "wr": 65,
+   "r": 46,
+   "pl": -63.64,
+   "wr": 64,
    "label": "23/08"
   },
   "mes": {
-   "ent": 1859,
+   "ent": 1860,
    "g": 1340,
-   "r": 519,
-   "pl": 222.57,
+   "r": 520,
+   "pl": 220.57,
    "wr": 72,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-23": {
-   "pl": -61.64,
-   "ops": 128,
+   "pl": -63.64,
+   "ops": 129,
    "g": 83,
-   "r": 45
+   "r": 46
   },
   "2026-08-22": {
    "pl": 47.57,
