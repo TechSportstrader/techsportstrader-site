@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T18:00",
+ "gerado_em": "2026-08-24T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -140,10 +140,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 148,
-   "pl": 66.13,
+   "r": 149,
+   "pl": 64.13,
    "roi": 3.7,
-   "wr": 14.0,
+   "wr": 13.9,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 18:31:47",
+   "tm": "18:31",
+   "match": "Málaga vs Deportivo A Coruña",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.8,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-24 17:41:50",
    "tm": "17:41",
    "match": "Reims vs Annecy",
@@ -585,28 +595,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 6,
+   "ent": 7,
    "g": 1,
-   "r": 5,
-   "pl": -11.94,
-   "wr": 17,
+   "r": 6,
+   "pl": -13.94,
+   "wr": 14,
    "label": "24/08"
   },
   "mes": {
-   "ent": 546,
+   "ent": 547,
    "g": 271,
-   "r": 275,
-   "pl": 52.36,
+   "r": 276,
+   "pl": 50.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": -11.94,
-   "ops": 6,
+   "pl": -13.94,
+   "ops": 7,
    "g": 1,
-   "r": 5
+   "r": 6
   },
   "2026-08-23": {
    "pl": -0.17,
