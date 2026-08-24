@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T16:00",
+ "gerado_em": "2026-08-24T17:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 114,
-   "r": 172,
-   "pl": 116.87,
+   "r": 173,
+   "pl": 114.87,
    "roi": 6.7,
-   "wr": 39.9,
+   "wr": 39.7,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 16:51:46",
+   "tm": "16:51",
+   "match": "Lokomotiv Plovdiv vs Arda",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.7,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-24 15:43:56",
    "tm": "15:43",
    "match": "Malmö FF vs Djurgården",
@@ -565,28 +575,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
+   "ent": 5,
    "g": 1,
-   "r": 3,
-   "pl": -7.94,
-   "wr": 25,
+   "r": 4,
+   "pl": -9.94,
+   "wr": 20,
    "label": "24/08"
   },
   "mes": {
-   "ent": 544,
+   "ent": 545,
    "g": 271,
-   "r": 273,
-   "pl": 56.36,
+   "r": 274,
+   "pl": 54.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": -7.94,
-   "ops": 4,
+   "pl": -9.94,
+   "ops": 5,
    "g": 1,
-   "r": 3
+   "r": 4
   },
   "2026-08-23": {
    "pl": -0.17,
