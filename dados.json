@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T18:00",
+ "gerado_em": "2026-08-25T19:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -140,21 +140,21 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 151,
-   "pl": 60.13,
+   "r": 152,
+   "pl": 58.13,
    "roi": 3.7,
-   "wr": 13.7,
+   "wr": 13.6,
    "st": "val"
   },
   {
    "n": "MURALHA 2.5 (Bolsa)",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 105,
+   "g": 106,
    "r": 70,
-   "pl": 54.98,
+   "pl": 57.21,
    "roi": -0.2,
-   "wr": 60.0,
+   "wr": 60.2,
    "st": "val"
   },
   {
@@ -523,6 +523,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-25 18:13:58",
+   "tm": "18:13",
+   "match": "Afturelding vs Grótta",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.6,
+   "status": "green",
+   "pl": 2.23
+  },
+  {
+   "data": "2026-08-25 18:02:13",
+   "tm": "18:02",
+   "match": "LASK Linz vs Celtic",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 11.0,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-25 15:54:03",
    "tm": "15:54",
    "match": "Al Shabab vs Al Riyadh",
@@ -555,28 +575,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 3,
-   "g": 0,
-   "r": 3,
-   "pl": -16.18,
-   "wr": 0,
+   "ent": 5,
+   "g": 1,
+   "r": 4,
+   "pl": -15.95,
+   "wr": 20,
    "label": "25/08"
   },
   "mes": {
-   "ent": 552,
-   "g": 272,
-   "r": 280,
-   "pl": 34.18,
+   "ent": 554,
+   "g": 273,
+   "r": 281,
+   "pl": 34.41,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-25": {
-   "pl": -16.18,
-   "ops": 3,
-   "g": 0,
-   "r": 3
+   "pl": -15.95,
+   "ops": 5,
+   "g": 1,
+   "r": 4
   },
   "2026-08-24": {
    "pl": -13.94,
