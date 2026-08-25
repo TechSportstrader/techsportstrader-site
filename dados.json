@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T23:00",
+ "gerado_em": "2026-08-25T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -521,106 +521,15 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-24 22:32:10",
-   "tm": "22:32",
-   "match": "San Luis vs Santiago Wanderers",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 7.2,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-24 20:23:55",
-   "tm": "20:23",
-   "match": "Libertad vs Sportivo San Lorenzo",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.6,
-   "status": "green",
-   "pl": 2.0
-  },
-  {
-   "data": "2026-08-24 18:31:47",
-   "tm": "18:31",
-   "match": "Málaga vs Deportivo A Coruña",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-24 17:41:50",
-   "tm": "17:41",
-   "match": "Reims vs Annecy",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 8.4,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-24 16:51:46",
-   "tm": "16:51",
-   "match": "Lokomotiv Plovdiv vs Arda",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-24 15:43:56",
-   "tm": "15:43",
-   "match": "Malmö FF vs Djurgården",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.6,
-   "status": "red",
-   "pl": -4.23
-  },
-  {
-   "data": "2026-08-24 15:23:57",
-   "tm": "15:23",
-   "match": "Brøndby IF vs Silkeborg IF",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "red",
-   "pl": -1.94
-  },
-  {
-   "data": "2026-08-24 15:23:56",
-   "tm": "15:23",
-   "match": "Brøndby IF vs Silkeborg IF",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "red",
-   "pl": -3.89
-  },
-  {
-   "data": "2026-08-24 14:43:55",
-   "tm": "14:43",
-   "match": "TransINVEST Vilnius vs FA Šiauliai",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.2,
-   "status": "green",
-   "pl": 2.12
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 2,
-   "r": 7,
-   "pl": -13.94,
-   "wr": 22,
-   "label": "24/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "25/08"
   },
   "mes": {
    "ent": 549,
