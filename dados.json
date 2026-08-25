@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T14:00",
+ "gerado_em": "2026-08-25T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 114,
-   "r": 173,
-   "pl": 114.87,
+   "r": 174,
+   "pl": 110.87,
    "roi": 6.7,
-   "wr": 39.7,
+   "wr": 39.6,
    "st": "val"
   },
   {
@@ -521,26 +521,43 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-25 14:42:11",
+   "tm": "14:42",
+   "match": "Auda vs Liepāja",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "red",
+   "pl": -4.0
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
+   "ent": 1,
    "g": 0,
-   "r": 0,
-   "pl": 0,
+   "r": 1,
+   "pl": -4.0,
    "wr": 0,
    "label": "25/08"
   },
   "mes": {
-   "ent": 549,
+   "ent": 550,
    "g": 272,
-   "r": 277,
-   "pl": 50.36,
-   "wr": 50,
+   "r": 278,
+   "pl": 46.36,
+   "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-25": {
+   "pl": -4.0,
+   "ops": 1,
+   "g": 0,
+   "r": 1
+  },
   "2026-08-24": {
    "pl": -13.94,
    "ops": 9,
