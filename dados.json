@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T20:00",
+ "gerado_em": "2026-08-24T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 285,
+   "g": 286,
    "r": 197,
-   "pl": 61.58,
+   "pl": 63.58,
    "roi": 1.5,
-   "wr": 59.1,
+   "wr": 59.2,
    "st": "ap"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 20:23:55",
+   "tm": "20:23",
+   "match": "Libertad vs Sportivo San Lorenzo",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.6,
+   "status": "green",
+   "pl": 2.0
+  },
+  {
    "data": "2026-08-24 18:31:47",
    "tm": "18:31",
    "match": "Málaga vs Deportivo A Coruña",
@@ -595,27 +605,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 7,
-   "g": 1,
+   "ent": 8,
+   "g": 2,
    "r": 6,
-   "pl": -13.94,
-   "wr": 14,
+   "pl": -11.94,
+   "wr": 25,
    "label": "24/08"
   },
   "mes": {
-   "ent": 547,
-   "g": 271,
+   "ent": 548,
+   "g": 272,
    "r": 276,
-   "pl": 50.36,
+   "pl": 52.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": -13.94,
-   "ops": 7,
-   "g": 1,
+   "pl": -11.94,
+   "ops": 8,
+   "g": 2,
    "r": 6
   },
   "2026-08-23": {
