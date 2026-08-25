@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-24T22:00",
+ "gerado_em": "2026-08-24T23:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -140,10 +140,10 @@
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
    "g": 24,
-   "r": 149,
-   "pl": 64.13,
+   "r": 150,
+   "pl": 62.13,
    "roi": 3.7,
-   "wr": 13.9,
+   "wr": 13.8,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-24 22:32:10",
+   "tm": "22:32",
+   "match": "San Luis vs Santiago Wanderers",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 7.2,
+   "status": "red",
+   "pl": -2.0
+  },
+  {
    "data": "2026-08-24 20:23:55",
    "tm": "20:23",
    "match": "Libertad vs Sportivo San Lorenzo",
@@ -605,28 +615,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
+   "ent": 9,
    "g": 2,
-   "r": 6,
-   "pl": -11.94,
-   "wr": 25,
+   "r": 7,
+   "pl": -13.94,
+   "wr": 22,
    "label": "24/08"
   },
   "mes": {
-   "ent": 548,
+   "ent": 549,
    "g": 272,
-   "r": 276,
-   "pl": 52.36,
+   "r": 277,
+   "pl": 50.36,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-24": {
-   "pl": -11.94,
-   "ops": 8,
+   "pl": -13.94,
+   "ops": 9,
    "g": 2,
-   "r": 6
+   "r": 7
   },
   "2026-08-23": {
    "pl": -0.17,
