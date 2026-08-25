@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T18:00",
+ "gerado_em": "2026-08-25T19:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -388,8 +388,8 @@
   },
   "CAÇADOR 2-1 (Bolsa)": {
    "st": "val",
-   "ent": 175,
-   "pl": 60.13,
+   "ent": 176,
+   "pl": 58.13,
    "roi": 3.7,
    "plat": "Bolsa"
   },
@@ -472,8 +472,8 @@
   },
   "MURALHA 2.5 (Bolsa)": {
    "st": "val",
-   "ent": 175,
-   "pl": 54.98,
+   "ent": 176,
+   "pl": 57.21,
    "roi": -0.2,
    "plat": "Bolsa"
   },
