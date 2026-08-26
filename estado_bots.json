@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T20:00",
+ "gerado_em": "2026-08-25T21:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -395,8 +395,8 @@
   },
   "OVERLORD-A": {
    "st": "val",
-   "ent": 288,
-   "pl": 110.87,
+   "ent": 289,
+   "pl": 119.2,
    "roi": 6.7,
    "plat": "Bolsa"
   },
@@ -486,8 +486,8 @@
   },
   "WARDEN-30": {
    "st": "rep",
-   "ent": 258,
-   "pl": -29.37,
+   "ent": 259,
+   "pl": -27.1,
    "roi": -0.3,
    "plat": "Bolsa"
   }
