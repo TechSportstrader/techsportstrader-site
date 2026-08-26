@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T23:00",
+ "gerado_em": "2026-08-26T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 115,
-   "r": 174,
-   "pl": 119.2,
+   "r": 175,
+   "pl": 115.44,
    "roi": 6.7,
-   "wr": 39.8,
+   "wr": 39.7,
    "st": "val"
   },
   {
@@ -521,92 +521,31 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-25 20:22:12",
-   "tm": "20:22",
-   "match": "Defensor Sporting vs Rentistas",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "green",
-   "pl": 8.33
-  },
-  {
-   "data": "2026-08-25 18:13:58",
-   "tm": "18:13",
-   "match": "Afturelding vs Grótta",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 2.23
-  },
-  {
-   "data": "2026-08-25 18:02:13",
-   "tm": "18:02",
-   "match": "LASK Linz vs Celtic",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 11.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-25 15:54:03",
-   "tm": "15:54",
-   "match": "Al Shabab vs Al Riyadh",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.3,
-   "status": "red",
-   "pl": -10.18
-  },
-  {
-   "data": "2026-08-25 15:52:13",
-   "tm": "15:52",
-   "match": "Sabah vs Hapoel Be'er Sheva",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.0,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-25 14:42:11",
-   "tm": "14:42",
-   "match": "Auda vs Liepāja",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "red",
-   "pl": -4.0
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 6,
-   "g": 2,
-   "r": 4,
-   "pl": -7.62,
-   "wr": 33,
-   "label": "25/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "26/08"
   },
   "mes": {
-   "ent": 555,
+   "ent": 556,
    "g": 274,
-   "r": 281,
-   "pl": 42.74,
+   "r": 282,
+   "pl": 38.98,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-25": {
-   "pl": -7.62,
-   "ops": 6,
+   "pl": -11.38,
+   "ops": 7,
    "g": 2,
-   "r": 4
+   "r": 5
   },
   "2026-08-24": {
    "pl": -13.94,
@@ -1153,12 +1092,6 @@
    "ops": 2,
    "g": 1,
    "r": 1
-  },
-  "2026-05-22": {
-   "pl": 4.46,
-   "ops": 2,
-   "g": 2,
-   "r": 0
   }
  }
 }
