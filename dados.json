@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T20:00",
+ "gerado_em": "2026-08-25T21:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -73,11 +73,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 114,
+   "g": 115,
    "r": 174,
-   "pl": 110.87,
+   "pl": 119.2,
    "roi": 6.7,
-   "wr": 39.6,
+   "wr": 39.8,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-25 20:22:12",
+   "tm": "20:22",
+   "match": "Defensor Sporting vs Rentistas",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "green",
+   "pl": 8.33
+  },
+  {
    "data": "2026-08-25 18:13:58",
    "tm": "18:13",
    "match": "Afturelding vs Grótta",
@@ -575,27 +585,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 5,
-   "g": 1,
+   "ent": 6,
+   "g": 2,
    "r": 4,
-   "pl": -15.95,
-   "wr": 20,
+   "pl": -7.62,
+   "wr": 33,
    "label": "25/08"
   },
   "mes": {
-   "ent": 554,
-   "g": 273,
+   "ent": 555,
+   "g": 274,
    "r": 281,
-   "pl": 34.41,
+   "pl": 42.74,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-25": {
-   "pl": -15.95,
-   "ops": 5,
-   "g": 1,
+   "pl": -7.62,
+   "ops": 6,
+   "g": 2,
    "r": 4
   },
   "2026-08-24": {
