@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T08:00",
+ "gerado_em": "2026-08-26T09:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 286,
+   "g": 287,
    "r": 198,
-   "pl": 53.4,
+   "pl": 57.82,
    "roi": 1.5,
-   "wr": 59.1,
+   "wr": 59.2,
    "st": "ap"
   },
   {
@@ -136,6 +136,17 @@
    "st": "val"
   },
   {
+   "n": "MURALHA 2.5 (Bolsa)",
+   "s": "Lay Over 2.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 107,
+   "r": 70,
+   "pl": 59.12,
+   "roi": -0.2,
+   "wr": 60.5,
+   "st": "val"
+  },
+  {
    "n": "CAÇADOR 2-1 (Bolsa)",
    "s": "Back Placar 2x1 · Bolsa",
    "plat": "Bolsa",
@@ -144,17 +155,6 @@
    "pl": 58.13,
    "roi": 3.7,
    "wr": 13.6,
-   "st": "val"
-  },
-  {
-   "n": "MURALHA 2.5 (Bolsa)",
-   "s": "Lay Over 2.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 106,
-   "r": 70,
-   "pl": 57.21,
-   "roi": -0.2,
-   "wr": 60.2,
    "st": "val"
   },
   {
@@ -521,26 +521,53 @@
    "st": "val"
   }
  ],
- "operacoes": [],
+ "operacoes": [
+  {
+   "data": "2026-08-26 08:56:21",
+   "tm": "08:56",
+   "match": "Kashima Antlers vs Atletico",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 4.42
+  },
+  {
+   "data": "2026-08-26 08:56:21",
+   "tm": "08:56",
+   "match": "Kashima Antlers vs Atletico",
+   "bot": "MURALHA 2.5 (Bolsa)",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.91
+  }
+ ],
  "resumo": {
   "dia": {
-   "ent": 0,
-   "g": 0,
+   "ent": 2,
+   "g": 2,
    "r": 0,
-   "pl": 0,
-   "wr": 0,
+   "pl": 6.33,
+   "wr": 100,
    "label": "26/08"
   },
   "mes": {
-   "ent": 556,
-   "g": 274,
+   "ent": 558,
+   "g": 276,
    "r": 282,
-   "pl": 38.98,
+   "pl": 45.31,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
+  "2026-08-26": {
+   "pl": 6.33,
+   "ops": 2,
+   "g": 2,
+   "r": 0
+  },
   "2026-08-25": {
    "pl": -11.38,
    "ops": 7,
