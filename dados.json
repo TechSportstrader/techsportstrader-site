@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T09:00",
+ "gerado_em": "2026-08-26T10:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -73,11 +73,11 @@
    "n": "OVERLORD-A",
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 115,
+   "g": 116,
    "r": 175,
-   "pl": 115.44,
+   "pl": 124.32,
    "roi": 6.7,
-   "wr": 39.7,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -100,6 +100,17 @@
    "pl": 102.23,
    "roi": 6.4,
    "wr": 100.0,
+   "st": "val"
+  },
+  {
+   "n": "CAÇADOR 2-1 (Bolsa)",
+   "s": "Back Placar 2x1 · Bolsa",
+   "plat": "Bolsa",
+   "g": 25,
+   "r": 152,
+   "pl": 74.13,
+   "roi": 3.7,
+   "wr": 14.1,
    "st": "val"
   },
   {
@@ -144,17 +155,6 @@
    "pl": 59.12,
    "roi": -0.2,
    "wr": 60.5,
-   "st": "val"
-  },
-  {
-   "n": "CAÇADOR 2-1 (Bolsa)",
-   "s": "Back Placar 2x1 · Bolsa",
-   "plat": "Bolsa",
-   "g": 24,
-   "r": 152,
-   "pl": 58.13,
-   "roi": 3.7,
-   "wr": 13.6,
    "st": "val"
   },
   {
@@ -523,6 +523,26 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-26 09:36:23",
+   "tm": "09:36",
+   "match": "Daejeon Citizen vs Ulsan HD",
+   "bot": "CAÇADOR 2-1 (Bolsa)",
+   "mkt": "Back Placar 2x1",
+   "odd": 9.0,
+   "status": "green",
+   "pl": 16.0
+  },
+  {
+   "data": "2026-08-26 09:06:20",
+   "tm": "09:06",
+   "match": "Júbilo Iwata vs Tegevajaro Miyazaki",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.4,
+   "status": "green",
+   "pl": 8.88
+  },
+  {
    "data": "2026-08-26 08:56:21",
    "tm": "08:56",
    "match": "Kashima Antlers vs Atletico",
@@ -545,27 +565,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 2,
+   "ent": 4,
+   "g": 4,
    "r": 0,
-   "pl": 6.33,
+   "pl": 31.21,
    "wr": 100,
    "label": "26/08"
   },
   "mes": {
-   "ent": 558,
-   "g": 276,
+   "ent": 560,
+   "g": 278,
    "r": 282,
-   "pl": 45.31,
-   "wr": 49,
+   "pl": 70.19,
+   "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-26": {
-   "pl": 6.33,
-   "ops": 2,
-   "g": 2,
+   "pl": 31.21,
+   "ops": 4,
+   "g": 4,
    "r": 0
   },
   "2026-08-25": {
