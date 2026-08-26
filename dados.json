@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T15:00",
+ "gerado_em": "2026-08-26T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 287,
+   "g": 288,
    "r": 198,
-   "pl": 57.82,
+   "pl": 59.54,
    "roi": 1.5,
-   "wr": 59.2,
+   "wr": 59.3,
    "st": "ap"
   },
   {
@@ -455,17 +455,6 @@
    "st": "val"
   },
   {
-   "n": "SNIPER 1.5",
-   "s": "Lay Over 1.5 FT · Bolsa",
-   "plat": "Bolsa",
-   "g": 2,
-   "r": 1,
-   "pl": 2.11,
-   "roi": 2.1,
-   "wr": 66.7,
-   "st": "val"
-  },
-  {
    "n": "MURALHA CASA-40",
    "s": "Lay Goleada Casa · BotBet",
    "plat": "BotBet",
@@ -510,6 +499,17 @@
    "st": "val"
   },
   {
+   "n": "SNIPER 1.5",
+   "s": "Lay Over 1.5 FT · Bolsa",
+   "plat": "Bolsa",
+   "g": 2,
+   "r": 2,
+   "pl": 0.11,
+   "roi": 2.1,
+   "wr": 50.0,
+   "st": "val"
+  },
+  {
    "n": "Lay 1x0 - Visitante forte",
    "s": " · BotBet",
    "plat": "BotBet",
@@ -522,6 +522,26 @@
   }
  ],
  "operacoes": [
+  {
+   "data": "2026-08-26 15:56:53",
+   "tm": "15:56",
+   "match": "Strømsgodset vs Hødd",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 1.7,
+   "status": "green",
+   "pl": 1.72
+  },
+  {
+   "data": "2026-08-26 15:36:50",
+   "tm": "15:36",
+   "match": "Strømsgodset vs Hødd",
+   "bot": "SNIPER 1.5",
+   "mkt": "Lay Over 1.5 FT",
+   "odd": 1.8,
+   "status": "red",
+   "pl": -2.0
+  },
   {
    "data": "2026-08-26 09:36:23",
    "tm": "09:36",
@@ -565,28 +585,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 4,
-   "g": 4,
-   "r": 0,
-   "pl": 31.21,
-   "wr": 100,
+   "ent": 6,
+   "g": 5,
+   "r": 1,
+   "pl": 30.93,
+   "wr": 83,
    "label": "26/08"
   },
   "mes": {
-   "ent": 560,
-   "g": 278,
-   "r": 282,
-   "pl": 70.19,
+   "ent": 562,
+   "g": 279,
+   "r": 283,
+   "pl": 69.91,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-26": {
-   "pl": 31.21,
-   "ops": 4,
-   "g": 4,
-   "r": 0
+   "pl": 30.93,
+   "ops": 6,
+   "g": 5,
+   "r": 1
   },
   "2026-08-25": {
    "pl": -11.38,
