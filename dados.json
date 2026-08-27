@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T21:00",
+ "gerado_em": "2026-08-26T22:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 117,
-   "r": 175,
-   "pl": 130.77,
+   "r": 176,
+   "pl": 126.77,
    "roi": 6.7,
-   "wr": 40.1,
+   "wr": 39.9,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-26 21:58:21",
+   "tm": "21:58",
+   "match": "Peñarol vs Montevideo City Torque",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -4.0
+  },
+  {
    "data": "2026-08-26 19:58:27",
    "tm": "19:58",
    "match": "Boyacá Chicó vs Fortaleza CEIF",
@@ -605,28 +615,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 8,
+   "ent": 9,
    "g": 6,
-   "r": 2,
-   "pl": 28.97,
-   "wr": 75,
+   "r": 3,
+   "pl": 24.97,
+   "wr": 67,
    "label": "26/08"
   },
   "mes": {
-   "ent": 564,
+   "ent": 565,
    "g": 280,
-   "r": 284,
-   "pl": 67.95,
+   "r": 285,
+   "pl": 63.95,
    "wr": 50,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-26": {
-   "pl": 28.97,
-   "ops": 8,
+   "pl": 24.97,
+   "ops": 9,
    "g": 6,
-   "r": 2
+   "r": 3
   },
   "2026-08-25": {
    "pl": -11.38,
