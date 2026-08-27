@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-27T15:00",
+ "gerado_em": "2026-08-27T16:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -29,11 +29,11 @@
    "n": "MURALHA",
    "s": "Lay Over 2.5 FT · Bolsa",
    "plat": "Bolsa",
-   "g": 288,
+   "g": 289,
    "r": 199,
-   "pl": 51.13,
+   "pl": 55.04,
    "roi": 1.5,
-   "wr": 59.1,
+   "wr": 59.2,
    "st": "ap"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-27 15:45:54",
+   "tm": "15:45",
+   "match": "Salzburg vs Mjällby",
+   "bot": "MURALHA",
+   "mkt": "Lay Over 2.5 FT",
+   "odd": 2.0,
+   "status": "green",
+   "pl": 3.91
+  },
+  {
    "data": "2026-08-27 14:38:23",
    "tm": "14:38",
    "match": "Jablonec vs Rangers",
@@ -545,27 +555,27 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 2,
-   "g": 0,
+   "ent": 3,
+   "g": 1,
    "r": 2,
-   "pl": -7.73,
-   "wr": 0,
+   "pl": -3.82,
+   "wr": 33,
    "label": "27/08"
   },
   "mes": {
-   "ent": 567,
-   "g": 280,
+   "ent": 568,
+   "g": 281,
    "r": 287,
-   "pl": 56.22,
+   "pl": 60.13,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-27": {
-   "pl": -7.73,
-   "ops": 2,
-   "g": 0,
+   "pl": -3.82,
+   "ops": 3,
+   "g": 1,
    "r": 2
   },
   "2026-08-26": {
