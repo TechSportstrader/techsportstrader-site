@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T23:00",
+ "gerado_em": "2026-08-27T00:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -521,106 +521,15 @@
    "st": "val"
   }
  ],
- "operacoes": [
-  {
-   "data": "2026-08-26 21:58:21",
-   "tm": "21:58",
-   "match": "Peñarol vs Montevideo City Torque",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.5,
-   "status": "red",
-   "pl": -4.0
-  },
-  {
-   "data": "2026-08-26 19:58:27",
-   "tm": "19:58",
-   "match": "Boyacá Chicó vs Fortaleza CEIF",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.6,
-   "status": "green",
-   "pl": 6.45
-  },
-  {
-   "data": "2026-08-26 17:28:20",
-   "tm": "17:28",
-   "match": "Tottenham Hotspur vs Charlton Athletic",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 2.1,
-   "status": "red",
-   "pl": -8.41
-  },
-  {
-   "data": "2026-08-26 15:56:53",
-   "tm": "15:56",
-   "match": "Strømsgodset vs Hødd",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.72
-  },
-  {
-   "data": "2026-08-26 15:36:50",
-   "tm": "15:36",
-   "match": "Strømsgodset vs Hødd",
-   "bot": "SNIPER 1.5",
-   "mkt": "Lay Over 1.5 FT",
-   "odd": 1.8,
-   "status": "red",
-   "pl": -2.0
-  },
-  {
-   "data": "2026-08-26 09:36:23",
-   "tm": "09:36",
-   "match": "Daejeon Citizen vs Ulsan HD",
-   "bot": "CAÇADOR 2-1 (Bolsa)",
-   "mkt": "Back Placar 2x1",
-   "odd": 9.0,
-   "status": "green",
-   "pl": 16.0
-  },
-  {
-   "data": "2026-08-26 09:06:20",
-   "tm": "09:06",
-   "match": "Júbilo Iwata vs Tegevajaro Miyazaki",
-   "bot": "OVERLORD-A",
-   "mkt": "Lay Over 0.5 FT",
-   "odd": 1.4,
-   "status": "green",
-   "pl": 8.88
-  },
-  {
-   "data": "2026-08-26 08:56:21",
-   "tm": "08:56",
-   "match": "Kashima Antlers vs Atletico",
-   "bot": "MURALHA",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 4.42
-  },
-  {
-   "data": "2026-08-26 08:56:21",
-   "tm": "08:56",
-   "match": "Kashima Antlers vs Atletico",
-   "bot": "MURALHA 2.5 (Bolsa)",
-   "mkt": "Lay Over 2.5 FT",
-   "odd": 1.7,
-   "status": "green",
-   "pl": 1.91
-  }
- ],
+ "operacoes": [],
  "resumo": {
   "dia": {
-   "ent": 9,
-   "g": 6,
-   "r": 3,
-   "pl": 24.97,
-   "wr": 67,
-   "label": "26/08"
+   "ent": 0,
+   "g": 0,
+   "r": 0,
+   "pl": 0,
+   "wr": 0,
+   "label": "27/08"
   },
   "mes": {
    "ent": 565,
