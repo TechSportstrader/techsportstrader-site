@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-27T15:00",
+ "gerado_em": "2026-08-27T16:00",
  "bots": {
   "SNIPER HT": {
    "st": "val",
@@ -402,8 +402,8 @@
   },
   "MURALHA": {
    "st": "ap",
-   "ent": 487,
-   "pl": 51.13,
+   "ent": 488,
+   "pl": 55.04,
    "roi": 1.5,
    "plat": "Bolsa"
   },
@@ -509,8 +509,8 @@
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Goleada casa - odd 4 a 5": {
-   "ent": 79,
-   "pl": 36.93,
+   "ent": 80,
+   "pl": 38.01,
    "plat": "Bolsa"
   },
   "Lab M3 - Lay Over 3.5 odd 3 a 4": {
