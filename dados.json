@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-27T14:00",
+ "gerado_em": "2026-08-27T15:00",
  "fonte": "baseline plataformas + delta banco",
  "criterio": ">300 entradas + P/L+ + ROI+ (por plataforma)",
  "bots": [
@@ -74,10 +74,10 @@
    "s": "Lay Over 0.5 FT · Bolsa",
    "plat": "Bolsa",
    "g": 117,
-   "r": 177,
-   "pl": 122.94,
+   "r": 178,
+   "pl": 119.04,
    "roi": 6.7,
-   "wr": 39.8,
+   "wr": 39.7,
    "st": "val"
   },
   {
@@ -523,6 +523,16 @@
  ],
  "operacoes": [
   {
+   "data": "2026-08-27 14:38:23",
+   "tm": "14:38",
+   "match": "Jablonec vs Rangers",
+   "bot": "OVERLORD-A",
+   "mkt": "Lay Over 0.5 FT",
+   "odd": 1.5,
+   "status": "red",
+   "pl": -3.9
+  },
+  {
    "data": "2026-08-27 13:38:21",
    "tm": "13:38",
    "match": "KuPS vs Shamrock Rovers",
@@ -535,28 +545,28 @@
  ],
  "resumo": {
   "dia": {
-   "ent": 1,
+   "ent": 2,
    "g": 0,
-   "r": 1,
-   "pl": -3.83,
+   "r": 2,
+   "pl": -7.73,
    "wr": 0,
    "label": "27/08"
   },
   "mes": {
-   "ent": 566,
+   "ent": 567,
    "g": 280,
-   "r": 286,
-   "pl": 60.12,
+   "r": 287,
+   "pl": 56.22,
    "wr": 49,
    "label": "mês"
   }
  },
  "calendario": {
   "2026-08-27": {
-   "pl": -3.83,
-   "ops": 1,
+   "pl": -7.73,
+   "ops": 2,
    "g": 0,
-   "r": 1
+   "r": 2
   },
   "2026-08-26": {
    "pl": 24.97,
